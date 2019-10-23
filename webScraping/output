@@ -1,18 +1,18 @@
-scpId
-SCP-071-KO
-SCP-074-KO
-SCP-079-KO
-SCP-086-KO
-SCP-113-KO
-SCP-153-KO
-SCP-154-KO
-SCP-169-KO
-SCP-185-KO
-SCP-222-KO
-SCP-310-KO
-SCP-380-KO
-SCP-505-KO
-SCP-521-KO
-SCP-709-KO
-SCP-750-KO
-SCP-779-KO
+scpId,href,name
+SCP-071-KO,/scp-071-ko,Streetlight
+SCP-074-KO,/security-clearance-recheck,You are not me.
+SCP-079-KO,/scp-079-ko,Containment-longing Shuttles
+SCP-086-KO,/scp-086-ko,Knives for Vegans
+SCP-113-KO,/scp-113-ko,Eternal Thursday
+SCP-153-KO,/scp-153-ko,Read me before read below
+SCP-154-KO,/scp-154-ko,Read me before read above
+SCP-169-KO,/scp-169-ko,The Volition Wins The Day
+SCP-185-KO,/scp-185-ko,Visual Novel
+SCP-222-KO,/scp-222-ko,A Train in Flames
+SCP-310-KO,/scp-310-ko,Foods From That Far Place
+SCP-380-KO,/scp-380-ko,Now the test begins.
+SCP-505-KO,/scp-505-ko,The Schoolbag
+SCP-521-KO,/scp-521-ko,What is Seeing?
+SCP-709-KO,/scp-709-ko,Dismembered Eternity
+SCP-750-KO,/scp-750-ko,Revenant Soldier
+SCP-779-KO,/scp-779-ko,On the Resultant
