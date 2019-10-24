@@ -1,0 +1,98 @@
+
+                        
+
+rating: 0+–x
+Item #: SCP-079-KO
+Object Class: Safe - Euclid while Protocol A3 is in progress
+Special Containment Procedures: SCP-079-KO consists of three types of objects that require different containment procedures; each procedure is to be followed for the appropriate objects.
+SCP-079-KO-1 are to be kept in a standard safe-class storage locker. One individual should stay within 10 meters of this locker for monitoring purposes; this individual is authorized to transport the objects if necessary. Clearance Level 2 or higher is required to interact with SCP-079-KO-1.
+Letting a researcher deal with it saves me from wandering around the site myself. - Site Director
+SCP-079-KO-2 is parked in lot F1-G12 of Site-██. An agent is to monitor the object from the nearby office. It is recommended that only the agent in charge be allowed to comes close to SCP-079-KO-2.
+The orbit of SCP-079-KO-3 is to be controlled by the Foundation. Opportunities for the object to be found by or make a contact with civilians are to be prevented in advance with the cooperation of national aerospace agencies. A spaceship manned by Foundation personnel is to keep SCP-079-KO-3 in its present orbit. To ensure that the object is aware that it is contained, experiments testing its properties are ongoing. In the case of a containment breach, Protocol A3 is to begin immediately to return SCP-079-KO-3 to its designated orbit.
+Clearance Level 4 is required for interaction with SCP-079-KO-2 and SCP-079-KO-3.
+Description: SCP-079-KO consists of three related anomalies, all composed of objects commonly called "shuttle" in English. Since their properties are seemingly unrelated, they were originally classified as SCP-███, SCP-███, and SCP-████, respectively. After they demonstrated an apparent desire to be contained by the Foundation, and it was noted that each object was marked with the Foundation's official seal, they were collectively redesignated as SCP-079-KO. Attempts to contain these objects in an unmanned site demonstrated that they react to the presence of Foundation personnel.
+SCP-079-KO-1 are five badminton shuttlecocks, with the Foundation seal printed on their case. They are identical in form to non-anomalous shuttlecocks, but will attempt to return to the nearest Foundation site or Foundation personnel if removed from Foundation custody. SCP-079-KO-1 was first discovered in a civilian house in Gyeonggi Province, Republic of Korea, when they repeatedly rolled into a Foundation employee who was in the process of relocating a front company's offices. In all recorded tests, they have successfully returned to a Foundation site or a member of Foundation personnel. Since SCP-079-KO-1 instances are small and easy to handle, they are to be given priority for experiments involving the properties of SCP-079-KO. See Test Logs for experimental data.
+SCP-079-KO-2 was a shuttle bus used by █████ Elementary School before 198█, when it crashed into Site-██, causing significant harm to Foundation facilities and personnel; it was contained shortly, and measures were taken with the school. SCP-079-KO-2 has shown no other unusual properties since then, but it will not leave Site-██ without Foundation personnel onboard. The driver who was operating the bus at the time of the crash reported that he had noticed a strange mark on the rear bumper of the bus on the day of the accident; this mark was the Foundation seal, printed on the rear bumper.
+SCP-079-KO-3 is a space shuttle, marked with the Foundation seal, of the same general type as the Space Shuttle ████████. Like the other SCP-079-KO instances, SCP-079-KO 3 seems to have indicated that it wants to be contained by the Foundation. Unlike other instances, this has been verified by intermittent radio communication with the spacecraft; these requests have been the only communication possible with SCP-079-KO-3. It is presumed that this instance is unmanned.
+SCP-079-KO-3's desire for containment is a significant danger due to its position and mass. When the Foundation has failed to contain SCP-079-KO-3 to its satisfaction, it deviates from its orbit and tries to enter the atmosphere. After its first such attempt, a proposal was made to reclassify the anomaly to Euclid. All recorded reentry attempts have been successfully interrupted; Foundation personnel have been stationed in its orbit to prevent a deviation. As SCP-079-KO-3 has been contained in this manner for ██ years, the cost of maintaining a manned spacecraft in its orbit now amounts to [DATA EXPUNGED]. A plan to land the object has been suggested; see Addendum 079-93 for the result. Due to the results of this attempt, another proposal to launch a space station which is suitable for extended stays is being pushed.
+- Addendum 079KO-01
+
+The following log consists of the results of experiments regarding the homing capability of SCP-079-KO-1. "Item" below refers to SCP-079-KO-1.
+Experiment 5
+
+In Charge: Researcher Kim, ███
+Purpose: To contain the item in an unmanned safe-class containment site
+Procedure: The item is put into a standard safe-class container, contained in Locker 791 of the unmanned site, and was left alone.
+Result: When Kim left the site and reached a distance of one hundred meters from the item, it instantaneously accelerated up to [REDACTED] km/h to breach the containment. Shortly thereafter, the item crashed into Researcher Kim, who sustained significant injuries requiring three days of recovery. It seems that the item reacts to not the Foundation itself or its facilities, but primarily to its personnel.
+Note: It was acknowledged right after this experiment that SCP-███, SCP-███, SCP-████ share common features; the item was reclassified as SCP-079-KO-1.
+I didn't sustain great too much damage thanks to its light mass, but it could have ended with more than a just injury if we had tried the same thing with SCP-079-KO-2. Monitoring staff should be stationed within 50 meters from each item. - Researcher Kim
+
+Experiment 6
+
+In Charge: Researcher Kim, ███
+Purpose: To identify if the item reacts only with regular Foundation personnel.
+Procedure: D-194 was instructed to hold one of the item and move outside Site-██ to put it down.
+Result: D-194 went twenty steps apart from researcher Kim before the item strongly "shook" his hand off and flew lightly to the researcher.
+
+Experiment 7
+
+In Charge: Researcher Kim, ███
+Purpose: To identify if the item reacts only with the regular Foundation personnel.
+Procedure: D-194, temporarily formally recruited by the Foundation, repeated Experiment 6.
+Result: D-194 successfully left the site with the item. D-194 immediately discarded it and ran away, but the item ran into him at a speed of 175.4 km/h, causing a fracture. D-194 was caught on site and terminated.
+It seems that it's all good as long as the personnel in question are Foundation employees. - Researcher Kim
+
+[REDACTED]
+Experiment 31
+
+In Charge: Agent Jeong, ██████
+Purpose: To remove the containment of the item.
+Procedure: All items are put in a standard safe-class container which is mounted into a bedrock in ██████ County, Korea and solidly fixated.
+Result: As soon as the agent in charge increased the distance from the item, an earthquake occurred on a considerable scale. At the point of the magnitude of 3.0 on the Richter scale, experiment ceased and the container is recovered.
+
+Experiment 32
+
+In Charge: Agent Jeong, ██████
+Purpose: To remove the containment of the item
+Procedure: All items are put in a standard safe-class container which attached a 200kg weight and dropped in the sky over the Pacific.
+Result: During the drop, the weight was detached from the container due to resistance from the item. The container rode an air current to fly in front of the Agent Son, ██████, who was out fishing during their vacation in a Hawaiian beach. The agent recovered the item and immediately returned to give it back to the Site-██.
+I was the nearest — of all people — from the item, so I had to spend three days just returning and containing it during my paid vacation. I request an extension for my break, or additional allowance. - Agent Son
+Denied. The containment procedure allows one to carry the item off-site if necessary. You could just have held it in your hand and enjoyed your vacation. - Researcher Kim
+
+
+- Addendum 079KO-93
+
+Considering the difficulties in containing SCP-079-KO-3 in orbit, a plan to bring the spaceship planetside is made. It was decided that Shuttle #3, returning from orbit, lead the item while returning and make it splash down in the Pacific, and that Shuttle #4 stand by on the other side of the orbit for caution’s sake. D-day was set to be 8/24/20██. All recorded dates and timestamps follow those of the headquarters in San Francisco; daylight-saving time not applied.
+
+- Communications log between captain of Shuttle #3, Agent ████, and HQ
+8/24/██ 19:51:53 Agent ████: Balancing completed. Programs normal. Request to begin the entry sequence.
+8/24/██ 19:52:10 HQ: Affirmative. Item is cruising 1350 meters behind normally. Same there?
+8/24/██ 19:52:17 Agent ████: Same as usual. All good. Initiating sequence in thirty seconds.
+8/24/██ 19:52:21 HQ: Roger.
+8/24/██ 19:54:01 HQ: The item accelerated. …It's too fast. Collision possible in one hundred eight-five seconds. Can you speed up?
+8/24/██ 19:54:09 Agent ████: Accelerating 0.2km/s.
+8/24/██ 19:54:26 HQ: Crap, it accelerated again. The brakes aren't responding. Safe entry unavailable.
+8/24/██ 19:55:09 Agent ████: Abandoning entry plan! Returning to the orbit! Get ready for #4!
+8/24/██ 19:55:13 HQ: Acknowledged, #4, decelerate! Get inside its area of effect within fifty seconds!
+8/24/██ 19:55:21 Agent ███: (captain of #4) Roger. Decelerating.
+8/24/██ 19:55:27 Agent ████: …Damn, I'm unable to return. The item is blocking the path. Still accelerating.
+8/24/██ 19:55:32 HQ: Can't help. #3, leave it to #4 and enter!
+8/24/██ 19:55:49 Agent ████: Roger. #4 is visible! Estimating loss of communications in eighty-four seconds.
+8/24/██ 19:56:11 Agent ███: It keeps following #3!
+8/24/██ 19:56:15 HQ: The hell is its problem!
+8/24/██ 19:56:18 Agent ███: #3 contains one more personnel than us!
+8/24/██ 19:56:22 HQ: It counts the number of people?!
+8/24/██ 19:56:59 Agent ████: (sound of explosion) Fuck, I’m hit!
+8/24/██ 19:57:02 HQ: The item smashed into #3! #3, damage report!
+8/24/██ 19:57:08 Agent ████: Vertical fin lost. Main engine exploded! Majority of TPS tiles lost! Entry unavail-(communication lost)
+8/24/██ 19:57:14 HQ: ████!!
+8/24/██ 19:57:20 Agent ███: #3 completely exploded! …The item changed its course! Heading towards to us!
+8/24/██ 19:57:27 HQ: The item is too fast. Speed up to 7km/s!
+8/24/██ 19:59:52 Agent ███: It's slowly decelerating. Cruising at 5km/s for now.
+8/24/██ 20:00:01 HQ: Verified. …Implement preexisting containment procedures. #4, maintain the current orbit in accordance with the item's area of effect.
+
+Result: Loss of Shuttle #3 and five crew members. Any attempt to make the item deviate from its orbit is prohibited. To prevent any further incidents, all spaceships mobilized for the containment procedure should contain at least five personnel. Four is considered insufficient to draw its attention.
+#4 was a four-seater, whereas #3 was a five-seater. Since the item ignored #4 before all personnel in #3 was expired, it seems that SCP-079-KO can sense life signs, and that it prefers the bigger group. If #4 wasn't there, the item could have brought down #3 and flown directly into the Foundation facilities. Site-19, the most crowded facility, was among the possible paths; an unprecedented containment breach could have occurred if this experiment had gone wrong. From now on, the total number of crew members will by equalized to eliminate any variables save the distance. - Researcher █████
+
+
+                    

@@ -3,8 +3,9 @@ from scrapy import Request
 
 class KoreanSpider(Spider):
     name = 'koreanSpider'
-    allowed_domains = ['scp-int.wikidot.com', 'ko.scp-wiki.net']
+    allowed_domains = ['scp-int.wikidot.com', 'ko.scp-wiki.net'] # don't forget to update this
     start_urls = [ "http://scp-int.wikidot.com/ko-hub" ]
+    
     englishDocumentsFolder = "englishFromKorean/"
     koreanDocumentsFolder = "koreanOriginals/"
     englishBaseUrl = "http://scp-int.wikidot.com"
@@ -16,7 +17,7 @@ class KoreanSpider(Spider):
 
     def parse(self, response):
         rows = response.xpath("//div[@class='content-panel standalone series'][1]/ul[2]/li")
-        rows = rows[3:5] # limit rows when testing to save time
+        #rows = rows[3:5] # limit rows when testing to save time
         items = []
         for row in rows:
             # the data to save
