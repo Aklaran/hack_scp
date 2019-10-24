@@ -6,6 +6,7 @@ class KoreanSpider(Spider):
     allowed_domains = ['scp-int.wikidot.com', 'ko.scp-wiki.net']
     start_urls = [ "http://scp-int.wikidot.com/ko-hub" ]
     englishDocumentsFolder = "englishFromKorean/"
+    koreanDocumentsFolder = "koreanOriginals/"
     englishBaseUrl = "http://scp-int.wikidot.com"
     koreanBaseUrl = "http://ko.scp-wiki.net"
     
@@ -26,44 +27,55 @@ class KoreanSpider(Spider):
             item['href'] = row.xpath("./a/@href").extract()[0]
             item['name'] = row.xpath("./text()").extract()[0][3:] # list slice drops the preceding " - "
             
-            # parse stuff on the linked page
-            request = Request(self.englishBaseUrl + item['href'], callback=self.parseEnglish) # get linked page and parse it with helper
+            # parse stuff on the linked pages
+            request = Request(self.englishBaseUrl + item['href'], callback=self.parseNextPages) # get linked page and parse it with helper
             request.meta['data'] = item # spooky stuff for communicating between this and helper
-            item = request.meta['data'] # update item with request data
-            
-            # parse stuff on the korean version
-            request = Request(self.koreanBaseUrl + item['href'], callback=self.parseKorean)
-            request.meta['data'] = item
             
             # save the data returned from helper (which includes the original scraped data)
             items.append(request)
             
         return items
     
-    def parseEnglish(self, response):
+    def parseNextPages(self, response):
         item = response.meta['data'] # tricky line does wierd stuff to let you communicate with parse
         
         # same sort of thing as before
         item['englishRating'] = response.xpath("//span[@class='rate-points']/span/text()").extract()
         
-        # write the text of the english version to a file - this is hacky!!!
-        f = open(self.englishDocumentsFolder + item["scpId"] + ".html", "w") # a for append
-        f.write(response.text) # making the choice to save the whole document - we can extract text later but better to have more than less
+        # save the english version to a file - maybe a bit hacky
+        f = open(self.englishDocumentsFolder + item["scpId"] + ".html", "w") # w for write - overwrites all file content
+        f.write(response.text)
         f.close()
         
+        # and save just the text for simplicity
+        f = open(self.englishDocumentsFolder + item["scpId"] + ".txt", "w")
+        for paragraph in response.xpath("//div[@id='page-content']//text()"):
+            f.write(paragraph.extract())
+        f.close
+        
+        # now get the Korean
+        # I don't know why this has to be done from this function, but it called a "hackathon" for a reason, right?
+        request = Request(self.koreanBaseUrl + item['href'], callback=self.parseFinalPage)
+        request.meta['data'] = item
+        
         # we did it :)
-        return item
+        return request
     
-    def parseKorean(self, response):
+    def parseFinalPage(self, response):
         item = response.meta['data']
         
-        # same sort of thing as before
         item['koreanRating'] = response.xpath("//span[@class='rate-points']/span/text()").extract()
         
-        # write the text of the english version to a file - this is hacky!!!
-#         f = open(self.englishDocumentsFolder + item["scpId"] + ".html", "w") # a for append
-#         f.write(response.text) # making the choice to save the whole document - we can extract text later but better to have more than less
-#         f.close()
+        # html
+        f = open(self.koreanDocumentsFolder + item["scpId"] + ".html", "w")
+        f.write(response.text)
+        f.close()
+        
+        # txt
+        f = open(self.koreanDocumentsFolder + item["scpId"] + ".txt", "w")
+        for paragraph in response.xpath("//div[@id='page-content']//text()"):
+            f.write(paragraph.extract())
+        f.close
         
         # we did it :)
         return item
