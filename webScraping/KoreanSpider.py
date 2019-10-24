@@ -3,10 +3,11 @@ from scrapy import Request
 
 class KoreanSpider(Spider):
     name = 'koreanSpider'
-    allowed_domains = ['scp-int.wikidot.com']
+    allowed_domains = ['scp-int.wikidot.com', 'ko.scp-wiki.net']
     start_urls = [ "http://scp-int.wikidot.com/ko-hub" ]
     englishDocumentsFolder = "englishFromKorean/"
-    #englishBaseUrl = "http://scp-int.wikidot.com"
+    englishBaseUrl = "http://scp-int.wikidot.com"
+    koreanBaseUrl = "http://ko.scp-wiki.net"
     
     # vvv this is very important because we are scraping multiple pages and don't want to get in trouble
     custom_settings = { 'DOWNLOAD_DELAY' : 0.5 }
@@ -26,8 +27,13 @@ class KoreanSpider(Spider):
             item['name'] = row.xpath("./text()").extract()[0][3:] # list slice drops the preceding " - "
             
             # parse stuff on the linked page
-            request = Request("http://scp-int.wikidot.com" + item['href'], callback=self.parseEnglish) # get linked page and parse it with helper
+            request = Request(self.englishBaseUrl + item['href'], callback=self.parseEnglish) # get linked page and parse it with helper
             request.meta['data'] = item # spooky stuff for communicating between this and helper
+            item = request.meta['data'] # update item with request data
+            
+            # parse stuff on the korean version
+            request = Request(self.koreanBaseUrl + item['href'], callback=self.parseKorean)
+            request.meta['data'] = item
             
             # save the data returned from helper (which includes the original scraped data)
             items.append(request)
@@ -44,6 +50,20 @@ class KoreanSpider(Spider):
         f = open(self.englishDocumentsFolder + item["scpId"] + ".html", "w") # a for append
         f.write(response.text) # making the choice to save the whole document - we can extract text later but better to have more than less
         f.close()
+        
+        # we did it :)
+        return item
+    
+    def parseKorean(self, response):
+        item = response.meta['data']
+        
+        # same sort of thing as before
+        item['koreanRating'] = response.xpath("//span[@class='rate-points']/span/text()").extract()
+        
+        # write the text of the english version to a file - this is hacky!!!
+#         f = open(self.englishDocumentsFolder + item["scpId"] + ".html", "w") # a for append
+#         f.write(response.text) # making the choice to save the whole document - we can extract text later but better to have more than less
+#         f.close()
         
         # we did it :)
         return item
