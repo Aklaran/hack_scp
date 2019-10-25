@@ -1,5 +1,7 @@
 from scrapy.spiders import Spider
-from scrapy import Request
+from scrapy import Request, FormRequest, Selector
+import re
+import json
 
 class KoreanSpider(Spider):
     name = 'koreanSpider'
@@ -17,7 +19,7 @@ class KoreanSpider(Spider):
 
     def parse(self, response):
         rows = response.xpath("//div[@class='content-panel standalone series'][1]/ul[2]/li")
-        #rows = rows[3:5] # limit rows when testing to save time
+        rows = rows[3:5] # limit rows when testing to save time
         items = []
         for row in rows:
             # the data to save
@@ -42,7 +44,7 @@ class KoreanSpider(Spider):
         
         # same sort of thing as before
         item['englishRating'] = response.xpath("//span[@class='rate-points']/span/text()").extract()
-        
+
         # save the english version to a file - maybe a bit hacky
         f = open(self.englishDocumentsFolder + item["scpId"] + ".html", "w") # w for write - overwrites all file content
         f.write(response.text)
@@ -53,6 +55,27 @@ class KoreanSpider(Spider):
         for paragraph in response.xpath("//div[@id='page-content']//text()"):
             f.write(paragraph.extract())
         f.close
+
+        pageScript = response.xpath("/html/head/script").extract()
+
+        pageId = ''
+        for script in pageScript:
+            pageId_search = re.search('WIKIREQUEST\.info\.pageId = (.*);', script)
+            if pageId_search:
+                pageId = pageId_search.group(1)
+        
+        self.logger.info('pageId: %s', pageId)
+
+
+        # follow the link for post history to get the date
+        request = FormRequest('http://scp-int.wikidot.com/ajax-module-connector.php', 
+                               callback=self.parseAuthorAndDate,
+                               method='POST', 
+                               formdata={'page_id': pageId, 'moduleName': 'history/PageRevisionListModule', 'wikidot_token7': '610da9ba2f8fa1ca5ef14c7488cdfc16', 'page': '1', 'perpage': '20'},
+                               cookies={"wikidot_token7": '610da9ba2f8fa1ca5ef14c7488cdfc16'})
+        request.meta['data'] = item
+
+        yield request
         
         # now get the Korean
         # I don't know why this has to be done from this function, but it called a "hackathon" for a reason, right?
@@ -81,3 +104,14 @@ class KoreanSpider(Spider):
         # we did it :)
         return item
         
+    def parseAuthorAndDate(self, response):
+        item = response.meta['data']
+
+        data = json.loads(response.body)
+        selector = Selector(text=data['body'], type='html')
+        initialRevision = selector.xpath('//table[@class="page-history"]/tr[last()]')
+
+        item['englishAuthor'] = initialRevision.xpath('td[5]/span/a[2]/text()').extract_first()
+        item['englishDate'] = initialRevision.xpath('td[6]/span/text()').extract_first()
+
+        return item

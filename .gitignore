@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# GOSH DARN YOU APPLEEEE
+.DS_Store
