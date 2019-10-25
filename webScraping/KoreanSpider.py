@@ -21,7 +21,7 @@ class KoreanSpider(Spider):
 
     def parse(self, response):
         rows = response.xpath("//div[@class='content-panel standalone series'][1]/ul[2]/li")
-        rows = rows[3:5] # limit rows when testing to save time
+        #rows = rows[3:5] # limit rows when testing to save time
         items = []
         for row in rows:
             # the data to save
@@ -33,7 +33,7 @@ class KoreanSpider(Spider):
             item['name'] = row.xpath("./text()").extract()[0][3:] # list slice drops the preceding " - "
             
             # parse stuff on the linked pages
-            request = Request(self.englishBaseUrl + item['href'], callback=self.parseNextPages) # get linked page and parse it with helper
+            request = Request(self.englishBaseUrl + item['href'], callback=self.parseEnglishPage) # get linked page and parse it with helper
             request.meta['data'] = item # spooky stuff for communicating between this and helper
             
             # save the data returned from helper (which includes the original scraped data)
@@ -41,7 +41,7 @@ class KoreanSpider(Spider):
             
         return items
     
-    def parseNextPages(self, response):
+    def parseEnglishPage(self, response):
         item = response.meta['data'] # tricky line does wierd stuff to let you communicate with parse
         
         # same sort of thing as before
@@ -76,8 +76,30 @@ class KoreanSpider(Spider):
         request.meta['data'] = item
 
         return request
+
+    def parseEnglishAuthorAndDate(self, response):
+        item = response.meta['data']
+
+        # parse JSON because this was called with a AJAX request
+        data = json.loads(response.body)
+
+        # make a selector from the inner html so we can run xpaths on it
+        selector = Selector(text=data['body'], type='html')
+
+        # select the oldest item in the revision table
+        initialRevision = selector.xpath('//table[@class="page-history"]/tr[last()]')
+
+        item['englishAuthor'] = initialRevision.xpath('td[5]/span/a[2]/text()').extract_first()
+        item['englishDate'] = initialRevision.xpath('td[6]/span/text()').extract_first()
+
+        # now get the Korean
+        # I don't know why this has to be done from this function, but it called a "hackathon" for a reason, right?
+        request = Request(self.koreanBaseUrl + item['href'], callback=self.parseKoreanPage)
+        request.meta['data'] = item
+
+        return request
     
-    def parseFinalPage(self, response):
+    def parseKoreanPage(self, response):
         item = response.meta['data']
         
         item['koreanRating'] = response.xpath("//span[@class='rate-points']/span/text()").extract()
@@ -113,28 +135,6 @@ class KoreanSpider(Spider):
         request.meta['data'] = item
 
         return request
-        
-    def parseEnglishAuthorAndDate(self, response):
-        item = response.meta['data']
-
-        # parse JSON because this was called with a AJAX request
-        data = json.loads(response.body)
-
-        # make a selector from the inner html so we can run xpaths on it
-        selector = Selector(text=data['body'], type='html')
-
-        # select the oldest item in the revision table
-        initialRevision = selector.xpath('//table[@class="page-history"]/tr[last()]')
-
-        item['englishAuthor'] = initialRevision.xpath('td[5]/span/a[2]/text()').extract_first()
-        item['englishDate'] = initialRevision.xpath('td[6]/span/text()').extract_first()
-
-        # now get the Korean
-        # I don't know why this has to be done from this function, but it called a "hackathon" for a reason, right?
-        request = Request(self.koreanBaseUrl + item['href'], callback=self.parseFinalPage)
-        request.meta['data'] = item
-
-        return request
     
     def parseKoreanAuthorAndDate(self, response):
         item = response.meta['data']
@@ -151,4 +151,5 @@ class KoreanSpider(Spider):
         item['koreanAuthor'] = initialRevision.xpath('td[5]/span/a[2]/text()').extract_first()
         item['koreanDate'] = initialRevision.xpath('td[6]/span/text()').extract_first()
 
+        # thats all folks
         return item
