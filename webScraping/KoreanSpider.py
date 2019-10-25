@@ -68,6 +68,7 @@ class KoreanSpider(Spider):
                 pageId = pageId_search.group(1)
 
         # open revision history tab and get the initial author + date
+        # important that you have wikidot_token7 in both the formdata and the cookie!
         request = FormRequest(self.englishBaseUrl + '/ajax-module-connector.php', 
                                 callback=self.parseEnglishAuthorAndDate,
                                 method='POST', 
@@ -142,6 +143,7 @@ class KoreanSpider(Spider):
         self.logger.info('pageId: %s', pageId)
 
         # open revision history tab and get the initial author + date
+        # important that you have wikidot_token7 in both the formdata and the cookie!
         request = FormRequest(self.koreanBaseUrl + '/ajax-module-connector.php', 
                                 callback=self.parseKoreanAuthorAndDate,
                                 method='POST', 
