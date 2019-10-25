@@ -23,7 +23,7 @@
         WIKIREQUEST.info.categoryId = 11445422;
         WIKIREQUEST.info.themeId = 1;
         WIKIREQUEST.info.requestPageName = "scp-310-ko";
-        OZONE.request.timestamp = 1572021730;
+        OZONE.request.timestamp = 1572045592;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'en';
                 WIKIREQUEST.info.pageUnixName = "scp-310-ko";
@@ -491,8 +491,6 @@ nads.createAd('wad-tier3-below-content', {
   "refreshLimit": 10,
   "refreshTime": 83,
   "sizes": [ [ 300, 250 ] ],
-  "renderVisibleOnly": true,
-  "refreshVisibleOnly": true,
   "report": {
     "enabled": true,
     "wording": "Report Ad",
@@ -516,10 +514,13 @@ $j( function(){
 
         var res = function(){
             $o = $j('#wad-tier3-mobile-anchor');
-            if($o.length > 0){
+            if($o.length > 1){
+                $o.show();
                 var $w = $j(window);
                 var scale = $w.width() / 320;
                 $o.css('transform', 'scale('+scale+')');
+            } else {
+                $o.hide();
             }
         }
 
@@ -527,12 +528,10 @@ $j( function(){
         setInterval(res, 1000);
 
         nads.createAd('wad-tier3-mobile-anchor', {
-          "refreshLimit": 10,
+          "refreshLimit": 1,
           "refreshTime": 90,
           "format": "display",
           "sizes": [ [ 320, 50 ] ],
-          "renderVisibleOnly": true,
-          "refreshVisibleOnly": true,
           "report": {
             "enabled": true,
             "wording": "Report Ad",

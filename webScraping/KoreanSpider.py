@@ -5,7 +5,7 @@ import json
 
 class KoreanSpider(Spider):
     name = 'koreanSpider'
-    allowed_domains = ['scp-int.wikidot.com', 'ko.scp-wiki.net'] # don't forget to update this
+    allowed_domains = ['scp-int.wikidot.com', 'ko.scp-wiki.net', 'www.wikidot.com'] # don't forget to update this
     start_urls = [ "http://scp-int.wikidot.com/ko-hub" ]
     
     englishDocumentsFolder = "englishFromKorean/"
@@ -21,7 +21,7 @@ class KoreanSpider(Spider):
 
     def parse(self, response):
         rows = response.xpath("//div[@class='content-panel standalone series'][1]/ul[2]/li")
-        #rows = rows[3:5] # limit rows when testing to save time
+        rows = rows[3:5] # limit rows when testing to save time
         items = []
         for row in rows:
             # the data to save
@@ -83,14 +83,29 @@ class KoreanSpider(Spider):
         # parse JSON because this was called with a AJAX request
         data = json.loads(response.body)
 
+        self.logger.info("parsing english author and date")
+
         # make a selector from the inner html so we can run xpaths on it
         selector = Selector(text=data['body'], type='html')
 
         # select the oldest item in the revision table
         initialRevision = selector.xpath('//table[@class="page-history"]/tr[last()]')
 
-        item['englishAuthor'] = initialRevision.xpath('td[5]/span/a[2]/text()').extract_first()
         item['englishDate'] = initialRevision.xpath('td[6]/span/text()').extract_first()
+        item['englishAuthor'] = initialRevision.xpath('td[5]/span/a[2]/text()').extract_first()
+
+        # now move to the english author page to get their karma
+        authorUrl = initialRevision.xpath('td[5]/span/a[2]/@href').extract_first()
+        request = Request(authorUrl, callback=self.parseEnglishAuthorPage)
+        request.meta['data'] = item
+
+        return request
+    
+    def parseEnglishAuthorPage(self, response):
+        item = response.meta['data']
+
+        # [0] gets the string and strip gets rid of whitespace
+        item['englishAuthorKarma'] = response.xpath('//*[@id="user-info-area"]/div/dl/dd[3]/text()[1]').extract()[0].strip()
 
         # now get the Korean
         # I don't know why this has to be done from this function, but it called a "hackathon" for a reason, right?
@@ -148,8 +163,21 @@ class KoreanSpider(Spider):
         # select the oldest item in the revision table
         initialRevision = selector.xpath('//table[@class="page-history"]/tr[last()]')
 
-        item['koreanAuthor'] = initialRevision.xpath('td[5]/span/a[2]/text()').extract_first()
         item['koreanDate'] = initialRevision.xpath('td[6]/span/text()').extract_first()
+        item['koreanAuthor'] = initialRevision.xpath('td[5]/span/a[2]/text()').extract_first()
 
-        # thats all folks
+        # now move to the korean author page to get their karma
+        authorUrl = initialRevision.xpath('td[5]/span/a[2]/@href').extract_first()
+        request = Request(authorUrl, callback=self.parseKoreanAuthorPage)
+        request.meta['data'] = item
+
+        return request
+
+    def parseKoreanAuthorPage(self, response):
+        item = response.meta['data']
+
+        # [0] gets the string and strip gets rid of whitespace
+        item['koreanAuthorKarma'] = response.xpath('//*[@id="user-info-area"]/div/dl/dd[3]/text()[1]').extract()[0].strip()
+
+        # that's all folks
         return item

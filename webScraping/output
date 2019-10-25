@@ -1,3 +1,3 @@
-scpId,href,name,englishRating,englishAuthor,englishDate,koreanRating,koreanAuthor,koreanDate
-SCP-113-KO,/scp-113-ko,Eternal Thursday,+1,tasteisgone,27 Jul 2017 13:17,+30,thursday113,29 Jun 2017 09:06
-SCP-086-KO,/scp-086-ko,Knives for Vegans,+1,DannyuNDos,12 Jul 2018 02:18,+18,Anzi,21 Oct 2017 03:24
+scpId,href,name,englishRating,englishDate,englishAuthor,englishAuthorKarma,koreanRating,koreanDate,koreanAuthor,koreanAuthorKarma
+SCP-113-KO,/scp-113-ko,Eternal Thursday,+1,27 Jul 2017 13:17,tasteisgone,medium,+30,29 Jun 2017 09:06,thursday113,medium
+SCP-086-KO,/scp-086-ko,Knives for Vegans,+1,12 Jul 2018 02:18,DannyuNDos,medium,+18,21 Oct 2017 03:24,Anzi,medium
