@@ -12,6 +12,8 @@ class KoreanSpider(Spider):
     koreanDocumentsFolder = "koreanOriginals/"
     englishBaseUrl = "http://scp-int.wikidot.com"
     koreanBaseUrl = "http://ko.scp-wiki.net"
+    englishToken = '610da9ba2f8fa1ca5ef14c7488cdfc16'
+    koreanToken = 'd6be53a2948f8f5eb10d764ecc24c198'
     
     # vvv this is very important because we are scraping multiple pages and don't want to get in trouble
     custom_settings = { 'DOWNLOAD_DELAY' : 0.5 }
@@ -56,33 +58,23 @@ class KoreanSpider(Spider):
             f.write(paragraph.extract())
         f.close
 
-        pageScript = response.xpath("/html/head/script").extract()
-
+        # grab the pageId from a script tag
+        # we'll need this to open the revision history tab
+        pageScripts = response.xpath("/html/head/script").extract()
         pageId = ''
-        for script in pageScript:
+        for script in pageScripts:
             pageId_search = re.search('WIKIREQUEST\.info\.pageId = (.*);', script)
             if pageId_search:
                 pageId = pageId_search.group(1)
-        
-        self.logger.info('pageId: %s', pageId)
 
-
-        # follow the link for post history to get the date
-        request = FormRequest('http://scp-int.wikidot.com/ajax-module-connector.php', 
-                               callback=self.parseAuthorAndDate,
-                               method='POST', 
-                               formdata={'page_id': pageId, 'moduleName': 'history/PageRevisionListModule', 'wikidot_token7': '610da9ba2f8fa1ca5ef14c7488cdfc16', 'page': '1', 'perpage': '20'},
-                               cookies={"wikidot_token7": '610da9ba2f8fa1ca5ef14c7488cdfc16'})
+        # open revision history tab and get the initial author + date
+        request = FormRequest(self.englishBaseUrl + '/ajax-module-connector.php', 
+                                callback=self.parseEnglishAuthorAndDate,
+                                method='POST', 
+                                formdata={'page_id': pageId, 'moduleName': 'history/PageRevisionListModule', 'wikidot_token7': self.englishToken, 'page': '1', 'perpage': '20'},
+                                cookies={"wikidot_token7": self.englishToken})
         request.meta['data'] = item
 
-        yield request
-        
-        # now get the Korean
-        # I don't know why this has to be done from this function, but it called a "hackathon" for a reason, right?
-        request = Request(self.koreanBaseUrl + item['href'], callback=self.parseFinalPage)
-        request.meta['data'] = item
-        
-        # we did it :)
         return request
     
     def parseFinalPage(self, response):
@@ -100,18 +92,63 @@ class KoreanSpider(Spider):
         for paragraph in response.xpath("//div[@id='page-content']//text()"):
             f.write(paragraph.extract())
         f.close
+
+        # grab the pageId from a script tag
+        # we'll need this to open the revision history tab
+        pageScripts = response.xpath("/html/head/script").extract()
+        pageId = ''
+        for script in pageScripts:
+            pageId_search = re.search('WIKIREQUEST\.info\.pageId = (.*);', script)
+            if pageId_search:
+                pageId = pageId_search.group(1)
+
+        self.logger.info('pageId: %s', pageId)
+
+        # open revision history tab and get the initial author + date
+        request = FormRequest(self.koreanBaseUrl + '/ajax-module-connector.php', 
+                                callback=self.parseKoreanAuthorAndDate,
+                                method='POST', 
+                                formdata={'page_id': pageId, 'moduleName': 'history/PageRevisionListModule', 'wikidot_token7': self.koreanToken, 'page': '1', 'perpage': '20'},
+                                cookies={"wikidot_token7": self.koreanToken})
+        request.meta['data'] = item
+
+        return request
         
-        # we did it :)
-        return item
-        
-    def parseAuthorAndDate(self, response):
+    def parseEnglishAuthorAndDate(self, response):
         item = response.meta['data']
 
+        # parse JSON because this was called with a AJAX request
         data = json.loads(response.body)
+
+        # make a selector from the inner html so we can run xpaths on it
         selector = Selector(text=data['body'], type='html')
+
+        # select the oldest item in the revision table
         initialRevision = selector.xpath('//table[@class="page-history"]/tr[last()]')
 
         item['englishAuthor'] = initialRevision.xpath('td[5]/span/a[2]/text()').extract_first()
         item['englishDate'] = initialRevision.xpath('td[6]/span/text()').extract_first()
+
+        # now get the Korean
+        # I don't know why this has to be done from this function, but it called a "hackathon" for a reason, right?
+        request = Request(self.koreanBaseUrl + item['href'], callback=self.parseFinalPage)
+        request.meta['data'] = item
+
+        return request
+    
+    def parseKoreanAuthorAndDate(self, response):
+        item = response.meta['data']
+
+        # parse JSON because this was called with a AJAX request
+        data = json.loads(response.body)
+
+        # make a selector from the inner html so we can run xpaths on it
+        selector = Selector(text=data['body'], type='html')
+
+        # select the oldest item in the revision table
+        initialRevision = selector.xpath('//table[@class="page-history"]/tr[last()]')
+
+        item['koreanAuthor'] = initialRevision.xpath('td[5]/span/a[2]/text()').extract_first()
+        item['koreanDate'] = initialRevision.xpath('td[6]/span/text()').extract_first()
 
         return item
