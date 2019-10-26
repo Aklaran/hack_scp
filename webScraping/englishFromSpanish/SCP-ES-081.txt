@@ -1,0 +1,48 @@
+
+                        
+
+rating: +4+–x
+Item #: SCP-ES-081
+Object Class: Euclid
+Special Containment Procedures: SCP-ES-081 is to be held in a standard holding cell re-purposed as a corral for high value anomalous animals. SCP-ES-081 will be provided with a constant frugivorous diet.
+The room environment will be kept at a constant 20° C and with a humidity of 5%. Air regulation of the chamber must be carried out by an insulated ventilation system to prevent the spread of pathogens from SCP-ES-081. Staff members interacting with SCP-ES-081 must wear Class-A hazardous materials suits.
+Description: SCP-ES-081 is a male specimen of Sus scrofa domestica (Common Pig). SCP-ES-081 appears to have an epidermis, musculature and bone structure completely formed by a metal identified as pure gold, which is capable of acting as an organometallic compound. Subsequent analyses have shown that all internal organs and other tissues of SCP-ES-081 are made of the same material. It has proven to be extremely resilient, capable of withstanding point-blank gunfire and blunt force trauma. SCP-ES-081 is 87 centimetres tall and weighs between 2550 kilograms and 3500 kilograms, depending on how much food the specimen has ingested.
+When SCP-ES-081 moves, noises corresponding to the collision and rubbing of metals against each other are produced. No body fluids of any kind have been observed, except for a liquid similar to saliva of unknown origin. This liquid appears to be generated around SCP-ES-081 without any discernible source. SCP-ES-081 does not appear to present physiological problems caused by its condition. Locomotion is normal, corresponding to other non- anomalous specimens. An unusual behavior of SCP-ES-081 is that it will stare at the walls of the observation cell for large intervals of time, as well as the personnel who come in to clean it. The purpose of this is unknown, if there is any.
+SCP-ES-081 has been diagnosed with a case of hyperphagia, which does not appear to affect or interrupt its normal behavior. SCP-ES-081 has a diet based on the consumption of any kind of fruit, especially apples. It is also able to ingest several times its own body mass without altering its physical structure at all. Although the amount of matter consumed by SCP-ES-081 is high, no droppings have been observed in the corral, or any other biological waste.
+Addendum ES-081.1: Recuperation Log
+
++ Access fileserv:/S:/ES-081:/files:/recuperation.log
+
+- Close Archive
+
+SCP-ES-081 was recovered by the South-american Association for Extranormal Affairs (SAEA) during a raid on a communal market in the city of [CENSORED], where SCP-ES-081 was found. The following document was added by operative Pedro Gutierrez:
+
+According to witness statements, the artifact was found wandering outside the market building. Some affirm that it was guided by an elderly human subject until it was deliberately abandoned by the subject himself. When it was brought to their power, it was hidden to avoid mass hysteria because of the alleged economic value of the object rather than being reported to local authorities.
+A HAUNT Team1 was dispatched to investigate a number of anthropophagy-related incidents at the site, as well as the disappearance of several police officers. The data was secured and the merchants involved were detained and put in our custody for interrogation.
+The artifact was placed on a pedestal in a place dedicated to the purchase and sale of luxury goods. Human subjects were found around him, feeding on excrement, unidentified fluids and several of them trying to feed on the object itself. Due to the qualities presented by its biology, this task was impossible. Several of them lost their jaws trying, even when the HAUNT team entered the room.
+The object was animated and fed on a large pile of fruit inside the enclosure. The artifact seemed to ignore or not care about attempts to break its physical structure. The subjects were sterilized, terminated and incinerated. The object was then brought to us.
+
+Following the agreements established between SAEA and the Foundation, SCP-ES-081 was transferred to the Foundation's custody and transferred to Site-55.
+
+
+
+Addendum ES-081.1: Incident ES-081/DSH
+
++ Access fileserv:/S:/ES-081:/files:/incident_exp.log
+
+- Close Archive
+
+During routine maintenance at the SCP-ES-081 corral, junior researcher Ricardo Santana suffered from a spontaneous cephalea that forced him to retire from service that day. When the investigator attended the medical service, he was found to be infected with an unknown biological agent. Afterwards, he was placed in quarantine for safety. After repeated analysis, it was determined that it was an unknown but harmless bacillus. He was given antibiotics that neutralized the infection, after which he was released.
+The researcher Santana acted normally until 06/12/2005, when he was discovered in the kitchen of the dining room of Site-55, eating large quantities of unprocessed coffee beans. He was arrested and sent to the medical bay for a full examination. It was observed that the microorganism previously found had mutated. This microbial agent caused severe mental disturbances in the Santana researcher, including a serious case of hyperphagia, autocanibalism, dementia, and behavior similar to SCP-ES-081. The appearance of pyrite in various parts of his body that had not been documented before could be identified. This "transmutation" appears to be due to a side effect of the pathogen.
+He was detained and sent to the medical bay for a full examination.
+A further investigation revealed that the origin of this pathogen was SCP-ES-081. How the bacteria select their hosts is unknown. This agent is capable of modifying the mind of infected subjects to match the needs of SCP-ES-081.
+Agents dispatched to the scene discovered a body in the Site's refrigeration zone. The body displayed bite marks, consistent with anthropophagous practice. Although the investigator Santana was considered the main suspect, when he was apprehended, no traces of blood or any other human body fluid were found. The skull was opened abruptly with hands and the brain was used as a fluid for writing by the attacker, on a nearby wall he wrote: "Are you really that hungry?".
+
+
+
+
+Footnotes
+1. In SAEA terminology, the HAUNTs teams are "Hazardous Activity Units
+
+
+                    

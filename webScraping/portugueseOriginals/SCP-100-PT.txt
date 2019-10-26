@@ -1,0 +1,53 @@
+
+                        
+
+avaliação: +13+–x
+
+
+SCP-100-PT-1.
+
+
+Item nº: SCP-100-PT
+Classe do Objeto: Seguro
+Procedimentos Especiais de Contenção: SCP-100-PT atualmente encontra-se em posse do Agente ████████. Dependendo de missões e expedições para reconhecimento, contenção, neutralização ou combate a objetos e ocorrências anômalas, SCP-100-PT pode ser requerido por qualquer Agente Nível 4 ou Nível 5 que faça parte de uma Força-Tarefa ou equipe de pesquisa, mediante aprovação de O5-█ e do agente portador do objeto. Um Agente Nível 3 que solicitar o objeto precisa de aprovação adicional de 3 operativos Nível 4 e do Diretor do Sítio a que está designado.
+Três (3) guardas devem fazer o monitoramento e reconhecimento do local onde SCP-100-PT foi resgatado, com revezamento de 3 em 3 horas, cada um a ficar posicionado entre trinta (30) e setenta (70) metros de distância do ponto zero. 8 câmeras devem estar posicionadas no perímetro do local da descoberta a um raio de cinco (5) metros, a serem monitoradas por dois (2) funcionários Nível 2.
+Qualquer pessoa, animal ou aparelho eletrônico que se aproximar dos escombros e destroços do local de descoberta do objeto - denominado SCP-100-PT-6 - recolher peças ou alimentar-se na região devem ser contidos e investigados. Civis e militares devem ser interrogados e administrados amnésticos Classe C antes de serem liberados. Suspeitos e PoIs devem ser contidos.
+Usuários de SCP-100-PT que ativarem o efeito SCP-100-PT-4 ou -5 em locais onde outros funcionários, agentes, pesquisadores ou quaisquer colaboradores da Fundação possam ser afetados devem ser incapacitados, questionados e exterminados, seguindo o exemplo do Incidente 100-A.
+Descrição: SCP-100-PT é um dispositivo de 2 x 2 x 7,5 cm feito de plástico e com uma haste de alumínio ajustável em um de seus lados. Em uma das extremidades de SCP-100-PT há uma lente côncava com 1,5 cm de diâmetro, cujo interior não é visível por sua propriedade de reflexão. Na outra extremidade há um arco supostamente feito para que SCP-100-PT possa ser pendurado em um cordão ou chaveiro. Na face oposta à face com a haste de alumínio, há um pequeno botão para ativar e desativar os efeitos de SCP-100-PT e uma inscrição estilizada de uma marca desconhecida chamada Menezes █████.
+
+
+SCP-100-PT-2: Filmadora (botão pressionado) e câmera (pressionar e soltar).
+
+
+SCP-100-PT-1: Quando a haste de SCP-100-PT está colada à peça principal do objeto, a lente de SCP-100-PT possui a função de uma fortíssima lanterna que ilumina com potência de 200 W, em todas as direções da lente. A cor da iluminação é esbranquiçada e forte o suficiente para causar danos na visão daqueles que observam a emissão da lanterna diretamente a partir de pequenas distâncias. Além do uso recorrente para o reconhecimento de cavernas e túneis abandonados, esta configuração do objeto também já foi usada ocasionalmente para tortura de dissidentes e PoIs da Fundação.
+SCP-100-PT-2: Usando a haste de SCP-100-PT totalmente aberta em curvatura de 90º, com a mesma apontada para baixo, SCP-100-PT assume a função de câmera capaz de gravar em visão periférica assim como se dá na visão humana, com todos os ângulos de visão em perfeita qualidade no vídeo gerado, que pode ser extraído de SCP-100-PT-2 ligando a conexão wireless ou bluetooth de qualquer computador ou dispositivo móvel com armazenamento disponível. O dispositivo que aparece disponível na rede contendo os dados é denominado ███████, com a senha atual ███████████, definida pelo Agente ████████.
+
+
+SCP-100-PT-3, a configuração projetora, em repouso.
+
+
+SCP-100-PT-3: Quando a haste de SCP-100-PT forma por volta de 30º em relação ao objeto com a lente apontada para cima, o objeto passa a ser um projetor em 180º, iluminando com nitidez e qualidade qualquer tipo de superfície em qualquer horário do dia, em lugares fechados ou externos. Cada vez que o botão de SCP-100-PT é apertado, a projeção pula para o vídeo seguinte.
+SCP-100-PT-4: Quando a haste de alumínio de SCP-100-PT é segurada em exatos 180º com o corpo principal, o dispositivo começa a emitir de 3.000 a ████ rad de radiação, rapidamente nociva para todos que se encontram a até cinco (5) metros de SCP-100-PT, exceto pela pessoa que está segurando o obeto. Estudos indicam que a radiação provém do decaimento de urânio, embora traços de outros elementos radioativos tenham sido detectados ocasionalmente.
+
+
+SCP-100-PT em sua configuração de emissão radioativa, -PT-4
+
+
+SCP-100-PT-5: Se dá quando a haste está totalmente dobrada em 90º e é segurada para cima, como em forma de canhão. Nesta posição é lançado através da lente um raio █████ com emissões █████ e █████ de até ██████ rad e atingindo temperaturas entre 1.500 ºC e █████ ºC toda vez que o botão é pressionado, e o raio continua sendo emitido na direção apontada até que o botão seja solto. Pressionar levemente a haste para trás aumenta a potência das emissões observadas.
+A fonte de energia utilizada para as funções de SCP-100-PT é desconhecida, visto que todas as formas de desmontar o objeto parecem ter o potencial de inutilizá-lo. Sendo assim, definiu-se que tentativas de desmontagem não serão aprovadas por conta da utilidade do objeto para oficiais da Fundação.
+Descoberta: SCP-100-PT foi encontrado em uma gaveta de um laboratório temporário abandonado na posição 5°34'13.8"S 59°38'27.5"W da Floresta Amazônica em 07/03/199█. Além do objeto, várias outras ferramentas desconhecidas e adaptadas foram encontradas em armários, cofres e sobre as mesas, próximos a objetos convencionais como microscópios, pranchetas, material de escritório e parafernália de pesquisa.
+
+
+Configuração-canhão: SCP-100-PT-5.
+
+
+O laboratório possuía ██ jaulas de 60 x 60 x 60 cm empilhadas em █ fileiras em uma das paredes. █ jaulas possuíam animais em seus interiores, sendo os mesmos das espécies Mico nigriceps, Mico mauesi e Mico ████████. Todos os animais encontravam-se mortos, com sinais de desnutrição e desidratação, mas sem cortes, furos ou sinais de violência.
+Após a contenção de materiais anômalos, avaliação da utilidade de diversos utensílios e registro de todo o interior do laboratório, o mesmo foi incinerado por funcionários da Fundação, dando início ao atual procedimento de monitoramento e contenção de SCP-100-PT-6.
+Após extensivas pesquisas sobre as propriedades e capacidades de SCP-100-PT, o objeto foi considerado Seguro pela equipe primária, designação confirmada pela equipe secundária. Em seguida, SCP-100-PT foi requerido como utilitário padrão de uso pelo Agente ████████. O contrato 5BP2-100-PT-1X5 regularizou o procedimento legal de uso de SCP-100-PT por agentes Nível 4 e, em casos especiais, Nïvel 3, em missões e pesquisas onde o objeto possa ser útil a partir de 01/01/2008.
+
+
+« SCP-099-PT | SCP-100-PT | SCP-101-PT »
+
+
+
+                    

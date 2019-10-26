@@ -1,0 +1,55 @@
+
+                        
+
+
+
+
+Puntuación: +15+–x
+Ítem #: SCP-ES-081
+Clasificación del Objeto: Euclid
+Procedimientos Especiales de Contención: SCP-ES-081 deberá ser retenido en una celda estándar acondicionada como un corral para animales anómalos de alto valor. SCP-ES-081 será provisto de una dieta frugívora de forma constante.
+El ambiente de la sala será mantenido constantemente a 20° C y con una humedad del 5%. La regulación de la cámara se realizará mediante un sistema de ventilación, que debe estar aislado para prevenir la diseminación de patógenos provenientes desde SCP-ES-081. Los miembros del personal que interactúen con SCP-ES-081 deberán utilizar trajes para materiales peligrosos de Clase-A.
+Descripción: SCP-ES-081 es un ejemplar macho de Sus scrofa domestica (Cerdo Común). SCP-ES-081 presenta una epidermis, musculatura y estructura ósea completamente formados por un metal identificado como oro en estado puro, el cual es capaz de actuar como un compuesto organometálico. Análisis posteriores han demostrado que la totalidad de los órganos internos y demás tejidos de SCP-ES-081 están formados por el mismo material. Ha resultado resistente en extremo, siendo capaz de soportar disparos a quemarropa y golpes contundentes. SCP-ES-081 mide 87 centímetros de altura y su peso oscila entre los 2550 kilogramos y los 3500 kilogramos, dependiendo de cuanta alimentación le sea provista.
+Cuando SCP-ES-081 se desplaza, pueden oírse ruidos correspondientes al choque y roce de metales entre sí. No han sido avistados fluidos corporales de ninguna clase, exceptuando un líquido similar a la saliva de origen desconocido. Este líquido parece generarse alrededor de SCP-ES-081 sin ninguna fuente discernible. SCP-ES-081 no parece presentar problemas fisiológicos acarreados por su forma, la locomoción es normal, correspondiente a otros ejemplares no anómalos. Un comportamiento inusual de SCP-ES-081 es el de observar fijamente las paredes de su celda en intervalos de tiempo, así como al personal que entra para asearla. Se desconoce el propósito de esto, si es que hay alguno.
+SCP-ES-081 presenta un cuadro de hiperfagia, lo que no parece afectar o interrumpir su comportamiento normal. SCP-ES-081 tiene una dieta basada en la ingesta de frutas de cualquier tipo, especialmente manzanas. También es capaz de ingerir varias veces su propia masa corporal sin alterar su estructura física en absoluto. Aunque la cantidad de materia que consume SCP-ES-081 es elevado, no ha sido observado ningún excremento en su corral, ni ningún otro desecho biológico.
+Anexo ES-081.1: Registro de Adquisición
+
++ Acceder fileserv:/S:/ES-081:/files:/recuperacion.log
+
+- Cerrar Archivo
+
+SCP-ES-081 fue recuperado por la Asociación Sudamericana para Asuntos Extranormales (ASAE) durante una redada a un mercado comunal en la ciudad de [CENSURADO], donde SCP-ES-081 fue encontrado. El siguiente documento fue añadido por el operativo Pedro Gutierrez:
+
+Según las declaraciones de los testigos, el artefacto fue encontrado vagando a las afueras de las instalaciones del mercado. Algunos afirman que fue guiado por un sujeto humano de avanzada edad hasta que fue abandonado deliberadamente por él mismo. Cuando llegó a su poder, fue escondido para evitar la histeria colectiva, debido al supuesto valor económico que representaría el objeto en lugar de ser reportado a las autoridades locales.
+Un equipo UNPAR1 fue despachado para investigar una serie de incidentes relacionados con antropofagía en el sitio, así como la desaparición de un par de agentes policiacos. Los datos fueron asegurados y los comerciantes involucrados fueron detenidos y puestos bajo nuestra custodia para ser interrogados.
+El artefacto fue ubicado en un pedestal, dentro de un local dedicado a la compra-venta de artículos de lujo. Sujetos humanos fueron encontrados alrededor de él, alimentándose de excrementos, fluidos no determinados y varios de ellos intentando alimentarse del propio objeto. Debido a las cualidades presentadas por su biología, ésta tarea fue imposible. Varios de ellos perdieron sus mandíbulas intentándolo, incluso cuando el equipo UNPAR entró en la sala.
+El objeto está animado y se alimentaba de una gran pila de fruta que había dentro del recinto. El artefacto parecía ignorar o no importarle los intentos por romper su estructura física. Los sujetos fueron esterilizados, terminados e incinerados. El objeto fue traído a nosotros.
+
+Siguiendo los acuerdos establecidos entre la ASAE y la Fundación, SCP-ES-081 pasó a custodia de la Fundación y trasladado al Sitio-55.
+
+
+
+Anexo ES-081.2: Incidente ES-081/DSH
+
++ Acceder fileserv:/S:/ES-081:/files:/incidente_exp.log
+
+- Cerrar Archivo
+
+Durante un mantenimiento de rutina al corral de SCP-ES-081, el investigador junior Ricardo Santana sufrió de una cefalea espontánea, que le obligó a retirarse del servicio ese día. Cuando el investigador asistió al servicio médico, se descubrió que estaba infectado con un agente biológico desconocido, fue puesto en cuarentena por seguridad. Luego de repetidos análisis se determinó que se trataba de un bacilo desconocido pero inofensivo. Le fueron suministrados antibióticos que neutralizaron la infección, luego de esto, fue liberado.
+El investigador Santana actúo normalmente hasta el 12/06/2015, cuando se le descubrió en la cocina del comedor del Sitio-55 ingiriendo grandes cantidades de granos de café directamente sin procesar. Fue detenido y enviado a la bahía médica para un examen completo. Se observó que el microorganismo encontrado anteriormente había mutado. Este agente microbiano causó perturbaciones mentales severas en el investigador Santana, incluyendo un cuadro grave de hiperfagia, autocanibalismo, demencia, y un comportamiento similar a SCP-ES-081. Pudo identificarse la aparición de pirita en varias partes de su cuerpo que no había sido documentada antes. Ésta "transmutación" parece deberse a un efecto secundario del patógeno.
+Una investigación posterior reveló que el origen de este patógeno era SCP-ES-081. El cómo la bacteria selecciona a sus huéspedes es desconocido. Este agente es capaz de modificar la mente de los sujetos infectados, a fin de que coincidan con las necesidades de SCP-ES-081.
+Agentes despachados a la escena descubrieron un cadáver en la zona de refrigeración del sitio. Presentó marcas de mordidas, acordes a una práctica antropófaga. Aunque el investigador Santana fue considerado como el principal sospechoso, al ser aprehendido, no se encontraron rastros de sangre o algún otro fluido corporal humano. El cráneo fue abierto bruscamente con las manos y el cerebro fue utilizado como fluido de escritura por el atacante, en un muro cercano escribió: "¿De verdad tienes tanta hambre?".
+
+
+
+
+
+« SCP-ES-080 | SCP-ES-081| SCP-ES-082 »
+
+
+
+Notas al pie
+1. En la terminología de la ASAE, los equipos UNPAR son "Unidades Para Actividades Riesgosas"
+
+
+                    

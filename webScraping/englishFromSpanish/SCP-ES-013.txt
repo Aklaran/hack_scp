@@ -1,0 +1,32 @@
+
+                        
+
+rating: +1+–x
+Item #: SCP-ES-013
+Object Class: Safe
+Special Containment Procedures: The object in question is not dangerous, so it can be safely stored in a standard container properly identified in accordance with the current regulations. The container must be constructed with an insulating material that maintains the object in the correct environmental conditions outlined; the storage temperature shall never be less than 41ºF or more than 104ºF. Given the attractiveness of the main effect of SCP-ES-013, we recommend that its accessibility be limited to the minimum necessary personnel.
+Description: SCP-ES-013 is, in appearance, a blue ink pen from the popular brand ███. It has the shape of a hexagonal prism, with a conical cap and a circular stopper, all in perfect condition. Its dimensions are 148 mm high x 8 mm wide x 8 mm deep. Nothing indicates that it has left the ███ factory or that there are other similar objects, nor is there any evidence that those responsible for its manufacture are aware of its capabilities.
+SCP-ES-013 was discovered by Dr. ████████ when he went to buy a flat. The housing developer signed a statement indicating that the installations were in perfect condition, and his hand began to acquire a greenish hue without him seeming to notice what was happening. Dr. ████████ took the pen to subject it to various tests, although at the time there was not enough evidence to point to SCP-ES-013 as being responsible for the skin color change.
+The early experiments that were run on the object indicated that it does not react to lies, but to the neural activity of the user. This hypothesis was confirmed when Dr. ████████, who had just finished an investigation on SCP-ES-007, wrote "The Foundation has no relation with extraterrestrial organisms"- instead of turning green, the doctor's hand became a reddish hue. Again, the writer showed no sign of being aware of the change in coloring, which disappeared ten minutes after separating from the object.
+In other testing, partially out of surprise in finding the object without any damages or marks of use, tests were carried out on the ballpoint pen with the cap attached. The testing found that SCP-ES-013 appears to have a slight regeneration capacity that helps it to repair scratches and bite marks, among other damages. Also, the ink has not shown signs of running out either, continually refilling its reservoir to factory condition.
+Addendum #1: After testing the capabilities of SCP-ES-013, several experiments were carried out. A group of Class-D subjects who had previously been subjected to different psychological stimuli were selected to arrive in a specific state of mind that activated different neurological areas. The subjects were forced to write the same text, taken from the book ███████████████████████████████████████- the text was considered neutral enough not to interfere with their mood while the subjects' mental patterns were analyzed with a brain scanner. Certain subjects that manifested some form of neural change while writing suffered more than one change in skin-tone. Once again, the subject doing the writing did not seem to be aware of the changes in their skin. Finally, the following relationship was established after careful observation under Foundation neurologists:
+
+Colorless, no apparent changes: Calm
+White: Insanity
+Black: Joy
+Yellow: Fear
+Orange: Stress
+Red: Nervousness
+Green: Lies
+Violet: Wrath
+Blue: Love
+Brown: Hate
+Gray: Frustration
+
+
+
+« SCP-ES-012 | SCP-ES-013 | SCP-ES-014 »
+
+
+
+                    

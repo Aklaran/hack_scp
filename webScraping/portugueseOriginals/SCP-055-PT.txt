@@ -1,0 +1,357 @@
+
+                        
+
+
+
+
+
+
+avaliação: +19+–x
+
+
+
+
+
+
+avaliação: +19+–x
+
+
+
+
+
+
+
+
+
+
+Créditos
+
+Artigo: SCP-055-PT
+Autor: slashannemoo
+Imagem: Robert Space Industries, Render sob CC0. Editada.
+More information
+
+
+
+avaliação: +19+–x
+
+avaliação: +19+–x
+
+
+
+
+
+
+
+
+Mais Informações:
+
+Demorou mas finalmente está aqui!
+Agora a Lusófona possui sua própria Power Armour baseada em taumaturgia (magia) e psiônicos (poderes legais da mente).
+Aos autores: sintam-se livres para utiliza-la e expandir todos os conceitos presentes neste artigo.
+Aos colaboradores: muito obrigada à todos que me ajudaram, especialmente Silvacrest que auxiliou lendo os drafts e modelos e ao Vintner que começou a explanar o conceito comigo.
+Special thanks to SCP-150-DE. <3
+
+
+
+
+
+
+
+avaliação: +19+–x
+
+avaliação: +19+–x
+
+
+
+
+
+
+AVISO: ACESSO RESTRITO POR ORDEM DO CONSELHO LUSÓFONO DE DIRETORES
+O documento que você está prestes a acessar requer o Nível de Acesso de Segurança 4/055-PT.
+Seu acesso a este arquivo será notado, arquivado e monitorado. No evento de um acesso não-autorizado, seu terminal tornar-se-irá inoperável. Oficiais da equipe de segurança serão enviados para apreendê-lo e escoltá-lo à cela de detenção para interrogação. Tentativas de acessar este documento de um computador não conectado a intranet da Fundação resultará em terminação imediata não-obstante ao seu nível de permissão de acesso.
+
+
+
+
+
+
+
+
+
+_
+
+
++ Acessar arquivos.- Acesso permitido.
+
+
+Item nº: SCP-055-PT
+Classe de Objeto: Thaumiel
+Nível de Ameaça: Branco ●
+Procedimentos Especiais de Contenção: As elementaridades da engenharia de SCP-055-PT devem ser mantidas sob confidencialidade enquanto conteúdo relevante para a continuação do Projeto ATACA (Armadura Táctica Adaptativa de Contenção e Assalto) e seus protocolos. As relações dos sistemas complexos do objeto com projetos subjacentes e associados devem ser dissimuladas por meio de protocolos internos de desinformação.
+Unidades e Operadores de SCP-055-PT estão atualmente contidas no Sítio PT4, nos setores de máxima segurança do Departamento de Taumaturgia, subsecções de Oficinas Taumatúrgicas e Aposentos Especializados, respectivamente, sob escrutínio e proteção do Protocolo Prometheus enforçado pela Força-Tarefa Estacionária PT1-ψ. Quaisquer exceções de operações devem ser protocoladas por um membro administrativo responsável da equipe relevante para excepcionar a efetuação das diretrizes de proteção do Protocolo Prometheus.
+Unidades de SCP-055-PT devem ser produzidas apenas por ordenações oficiais do Conselho Lusófono de Diretores. Unidades existentes de SCP-055-PT devem ser mantidas inertes, completamente montadas, nos Cofres de Estâse enquanto alienadas das operações programadas conforme os cronogramas e/ou exceções protocoladas ou emergenciais relevantes. Componentes adicionais associados à manutenção, estocagem e estudo dos sistemas devem ser mantidos sob escrutinio de inventário e armazenados conforme as diretrizes do Protocolo Prometheus.
+Os documentos do sub-projeto ATACA — Operativo Psiôn estabelecem diretrizes de treinamento (e suas cargas horárias) à eligibilidade de Operadores, especificando qualificações significantes associadas ao caráter, perfil psicológico, lealdade, experiências, qualidades psicofísicas e acuídade/habilidade excepcional em campos de operação taumaturgica-psiônica. Operativos estão sujeitos à avaliações psicofísicas semanais, e em caso de incompatíbilidade, a efetuação de ações de condicionamento conforme as diretrizes documentadas.
+
+
+
+Modelo Paladina, parte frontal.
+
+
+Descrição: SCP-055-PT é um sistema projetado como uma matriz na forma de uma armadura pessoal altamente adaptativa designada à aperfeiçoar a perfomance psicofísica de seu usuário essencialmente pela aplicação de engenharia psiônica-taumatúrgica.
+Os componentes de SCP-055-PT são baseados primáriamente na tecnologia desenvolvida pelo Projeto Onírico e singularizados num sistema energizado completamente por um núcleo taumatúrgico-nuclear. Tecido Onírico1 é manipulado e programado em componentes sensíveis à receptação e operação psiônica-taumatúrgica, e então integrados numa rede codificada ao Operativo e Unidade de SCP-055-PT específicos.
+Estes componentes são pré-programados com resiliências padronizadas à estímulos de agentes biológicos, químicos, nucleares, taumatúrgicos, psiônicos, meméticos, ontocinéticos e físicos, que são complementadas pela capacidade autônoma de adaptação do Tecido Onírico por reação à estresse.
+Unidades de SCP-055-PT são equipadas com um Módulo Individual de Inteligência Artificial de suporte baseados nos avanços realizados durante o Projeto Mel e o Projeto Camomila. Estes módulos compreendem constructos artificiais que emulam, sinestesicamente, a inteligência humana e de uma unidade computacional avançada.
+A inteligência artificial integrada opera como uma extensão do Operador, suportando atividades por meio da micro e macro manutenção de sistemas. IAs são armazenadas bipartidariamente entre o módulo da unidade e a Rede Psiônica do Operador; a bipartição permite ao Operador acesso à IA mesmo enquanto alheio à armadura. Esta integração promove contacto pessoal entre Operador e IA, permitindo a premeditação e comunicação de ações.
+Cada unidade de SCP-055-PT está conectada à uma Rede Psiônica codificada a seu Operador respectivo. Redes Psiônicas são networks complexas que coordenam, armazenam e transmitem informação psiônica baseadas num sistema individual similar à uma intranet.
+
+
+
+
+
+
+
+_
+
+
++ Excerto: Estudo Básico de Psiônicos.- Excerto: Estudo Básico de Psiônicos.
+
+
+
+Característicamente, energia psiônica é uma substância volátil com aplicações taumaturgicas fundamental para o psiocinetismo. O sistema nervoso de Psiôns (indivíduos que possuem habilidade psiônica) é intrinsicamente capaz de gerar energia psiônica através da cognição e estímulos relevantes, formando uma Rede Psiônica. Esta energia é naturalmente produzida através de Psiôns mas pode ser reproduzida e manipulada artificalmente por meio de aparatos que emulem o funcionamento de uma Rede Psiônica.
+Devido a adaptabilidade natural do psiocinetismo, a operação de psiônicos abrange diversos campos, similar à taumaturgia tradicional. Como manifestações manipulatórias (manipulação das características físicas e qualidades de energia psiônica), manipulações remotas, manipulações ontocinéticas (a manifestação de energia psiônica para "dobrar" a realidade imediata através da materialização ou transmutação de substâncias).
+Além disto, percepções extrassensoriais, exemplarmente a clarisentiência (a habilidade de processar informação factual específica na forma de experiências experimentais ou de Qualia2 podem ser alcançadas através do uso de Psiônicos.
+Telepatia é um campo de complexa caracterização. É, usualmente, associada à capacidade de comunicação através de meios cognitivos anômalos dentro de um ambiente sistêmico. Deste modo, interpreto que Telepatia é uma espécie de engenharia que gerencia e administra informação psiônica.
+
+— Professora Cinthia Rosabela, Departamento de Aplicação e Pesquisa de Taumaturgia Teorética e Associados.
+
+
+
+
+- Esconder bloco.
+
+
+
+
+
+Armadura Corporal: Conjunto segmentado compreendido por multíplos níveis de placas e ligas elásticas de nanofibras híbridas sobre um exoesqueleto. As camadas são mantidas sob compressão para aperfeiçoar a resistência destas contra penetradores cinéticos.
+Este invólucro impermeia os componentes subjacentes do sistema de SCP-055-PT. Adicionalmente, finas camadas de grafite são utilizadas para a absorção de energia cinética gerada por impacto e vibração. Enquanto equipada, a armadura será mantida herméticamente selada por selos pressurizados, e filtrada por sub-sistemas especializados.
+Capacete: Permite integração neurológica completa ao Módulo Individual de uma unidade, possibilitando acesso total para a organização e gerenciamento de sistemas de controle, de interface, informações, sensoriais e de comunicação.
+
+
+Modelo Paladina, parte traseira.
+
+
+Reator de Fusão Taumaturgica: Inerte na espinha dorsal da armadura corporal. Protegida por um encâse especial, estes reatores geram e armazenam energia psiônica-taumatúrgica para suprir os sistemas da Unidade com energia.
+Traje Interno: Traje elástico compreendido de Tecido Onírico que emula nanofibras ópticas. Utilizado para o transporte eficiente de energia dentro do macro Unidade-Operativo, especialmente para aprimorar a operação de sistemas sensoriais e habilidades psiônicas-taumatúrgicas, virtualmente integrando ambas as partes da macro sinápticamente e cognitivamente.
+Este aprimoramento ocorre por meio da interação com os Amplificadores Psiônicos segmentados por sua superfície, amplificando o input e output de energia, aprimorando as capacidades psicofísicas num fator de cinco.
+Amplificadores Psiônicos: Baseados na tecnologia desenvolvida com as descobertas do Projeto Hexenherz, este complexo de micro-núcleos cristalinos sao integrados diretamente ao Traje Interno, superconduzindo a energia imputada pelas nanofibras.
+Âncora de Hécate: Baseado na Âncora de Realidade de Scranton, este componente experimental diminuto isola SCP-055-PT em um campo taumatúrgico que estabiliza a realidade num espaço imediato em caso de estresse ontocinético.
+Escudo de Estase: Um sistema compacto que gera um Cofre de Estâse3 integral para garantir a sobrevivência da Unidade e Operativo em caso de falhas catastróficas que comprometam a integridade de SCP-055-PT. Durante a ativação, toda a energia utilizada pelo Reator será destinada à manutenção do Cofre.
+Psi-Armamentos de Disrupção: Estes artefactos incorporam paratecnologia na forma de armamentos portáteis; cada qual integrado a um Reator minuto e indivídual e Amplificadores que podem ser conectados à SCP-055-PT, permitindo a manipulação extensiva do armamento como uma extensão da armadura.
+
+
+
+
+
+
+
+_
+
+
++ Excerto: Armamentos de Disrupção.- Excerto: Armamentos de Disrupção.
+
+
+
+Baseados em designs e protótipos ambiciosos de armas magnéticas desenvolvidas pela Superintendência Brasileira do Paranormal, este equipamento híbrido integra conceitos de Directed Energy Weapons e Pulsed Energy Projectiles com tecnologias anômalas para criar um produto de alto desempenho.
+Directed Energy Weapons, "Armamentos de Energia Direcionada", são armas capazes de emitir energia altamente focada na forma de energia eletromagnética. Luz é minimamente alterada pela gravidade em circunstâncias que possibilitam a atuação humana, viajando em velocidades extraordinárias em trajetórias quase que perfeitamente retilíneas, consequentemente proporcionando-a alta precisão, além de um alcance quasi-infinito limitado apenas por seletos tipos de obstáculos.
+Pulsed Energy Projectiles, "Projéteis de Pulsão Energética", são pulsos eletromagnéticos invisíveis análogos em função à projéteis. Em contacto com uma superfície, estes pulsos causam ablasões que criam pequenas quantidades explosivas de plasma cuja pressão consequente é capaz de atordoar e arremessar alvos. Adicionalmente, a radiação produto desta interação afeta sistemas corporais e similares, causando episódios intensos e prolongados de perda de capacidades psicofísicas.
+
+— Doutor Silvério, Departamento de Desenvolvimento de Tecnologia Bélica
+
+
+
+
+- Esconder bloco.
+
+
+
+
+
+Atualmente existem duas Instâncias ativas de SCP-055-PT, cada qual especializada distintamente. Ambas as unidades atuais são capazes de atuar de forma híbrida entre assalto e contenção de ameaças.
+
+
+
+
+CODENOME: PALADINA
+CODENOME: MAGA
+
+
+
+
+
+
+Modelo
+Status
+Operativo
+IA
+
+
+Paladina
+Ativo
+Leonardo Ferreira
+Warden
+
+
+Armadura
+Descrição
+
+
+Especialização
+Macros de proteção e contenção de pessoal.
+
+
+A resiliência deste modelo foi expressivamente aprimorada por meio da implementação de blindagem regenerativa. A energia produzida pelo Reator estimula a regeneração física e os sistemas de auto-reparação compreendendo a Unidade.
+
+
+O Reator foi integrado ao Operativo por meio de intervenções cirúrgicas mediadas pelo uso de Tecido Onírico.
+
+
+A Unidade é capaz de gerar barreiras com as mesmas caracterísiticas do Escudo de Estâse; estas barreiras podem ser manipuladas de maneira plástica pelo Operativo e IA remotamente.
+
+
+Operativo
+Descrição
+
+
+Sobre
+Antigo Capitão da Força-Tarefa Móvel PT7-ϕ, especializado na operação de veículos pesados, contenção de ameaças e assalto. Graduação militar em Engenharia Mecânica (Bacharelado); antigo oficial de polícia da corporação de Florianópolis.
+
+
+Excelente liderança e pensamento administrativo sistêmico-análitico. Altamente sociável e honesto; exibe altos índices de engajamento com atividades designadas.
+
+
+Coluna cervícal substituída por uma prótese de liga de titânio e Tecido Onírico, integrando um Reator ao seu corpo; esta intervenção cirúrgica retornou-o funções físicas préviamente desativadas.
+
+
+Inteligência Artificial
+Descrição
+
+
+Sobre
+Considera-se um constructo de pura inteligência, atribuindo suas idealizações e ações à diretiva primária de providenciar suporte e proteção às operações de SCP-055-PT.
+
+
+Operativo afirma que a voz utilizada pela IA é a "de um indivíduo androgeno".
+
+
+Estabeleceu um relacionamento de familiaridade pessoal com o Operativo.
+
+
+Particularmente estoíco, mesmo sob estresse ou disrupções.
+
+
+Particularmente apetecido por música e literatura romântica.
+
+
+
+
+
+
+
+
+Modelo
+Status
+Operativo
+IA
+
+
+Maga
+Ativo
+Alice Melíflua
+Mellow
+
+
+Armadura
+Descrição
+
+
+Especialização
+Manipulação taumatúrgica avançada.
+
+
+Suporte extensivo à operações taumatúrgicas por meio da implementação de nanofibras supercondutoras por todo o Traje Interno.
+
+
+Instalação de sistemas médicos superiores para reduzir o impacto do estresse físico causado pela atividade psiônica-taumatúrgica.
+
+
+Integração de um Módulo de Ontocinetismo Artificial à Âncora de Hécate, possibilitando o uso de pseudo-ontocinetismo nos campos estabelecidos pelo Operativo.
+
+
+Operativo
+Descrição
+
+
+Sobre
+Precursora integral do "Programa de Treinamento de Magos" conduzido pela Acadêmia, especializadana operação táctica com Arcano. Particularmente habilidosa na condução de atividades belicosas.
+
+
+Sob a custódia da Academia desde os 5 anos de idade. Custódia transferida para a Fundação Lusófona após a fusão.
+
+
+Capacidade de pensamento empreendedor sistêmico-análitico excelente. Altos índices de diligência e cordialidade.
+
+
+Apesar de aparentar saúde física nominal, a indivídua é constantemente sujeitada a degeneração celular causada pela quantidade excepcional de energia taumatúrgica produzida por seu corpo.
+
+
+Inteligência Artificial
+Descrição
+
+
+Sobre
+Caracteriza-se como um indivíduo do sexo feminino, com uma personalidade complexa com uma emulação apromixadamente perfeita de um ser humano.
+
+
+Exibe altos níveis de curiosidade e sociabilidade.
+
+
+Particularmente apetecido por estudos polimatemáticos.
+
+
+Considera o Operativo como "uma irmã"; o relacionamento é correspondido.
+
+
+Expressa preocupação e tristeza em relação as circunstâncias de seu Operativo.
+
+
+
+
+
+
+
+//<![CDATA[
+OZONE.dom.onDomReady(function(){
+        var tabView6fe7f4858e1ab0bdcc060ffa33558ebd = new YAHOO.widget.TabView('wiki-tabview-6fe7f4858e1ab0bdcc060ffa33558ebd');
+                }, "dummy-ondomready-block");
+        
+//]]>
+
+
+- Esconder bloco.
+
+
+
+
+
+
+
+
+Notas de rodapé
+1. Material artificial inteligente altamente transmutável por meio de processos de adaptação de estímulos.
+2. Instâncias indivíduas de experiência consciente subjetiva que são inefáveis, intrinsícas, pessoais e apenas aplicáveis à consciência.
+3. Um campo de força de alta segurança que engenha energia para suspender animação numa área.
+
+
+                    

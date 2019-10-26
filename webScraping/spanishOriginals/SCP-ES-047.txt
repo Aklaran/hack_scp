@@ -1,0 +1,53 @@
+
+                        
+
+
+
+
+Puntuación: +7+–x
+
+
+SCP-ES-047 antes de una prueba de control
+
+
+Item #: SCP-ES-047
+Clasifiación del Objeto: Seguro
+Procedimientos Especiales de Contención: SCP-ES-047 deberá permanecer guardado en un contenedor estándar de 50 cm por 50 cm por 50 cm, en un recinto de almacenaje adecuado y no expuesto a agentes capaces de deteriorar el metal, tales como corrosivos, humidificantes, calor e iluminación excesivos, microorganismos, etc.
+Dada la naturaleza inofensiva del objeto, no se tomarán medidas adicionales para su contención. No obstante, el acceso a SCP-ES-047 estará restringido excepto cuando se lleven a cabo labores de investigación sobre él. Para obtener acceso a SCP-ES-047 se deberá contar con el permiso del personal de Nivel 3 a cargo del proyecto en curso.
+Descripción: SCP-ES-047 es una máquina de escribir, similar al modelo ██████████ de la marca ███████, lanzado al mercado en el año 19██. No obstante, en el armazón de SCP-ES-047 no aparece el logotipo de esta marca, ni tampoco ningún rótulo de modelo o número de serie. Se desconoce si SCP-ES-047 fue fabricado por la citada marca de material de oficina o tiene un origen distinto.
+Las características anómalas de SCP-ES-047 aparecen cuando se trata de dar al objeto un uso normal. Todas las partes constituyentes de SCP-ES-047 presentan un aspecto y funcionamiento adecuados, teniendo en cuenta la antigüedad del mismo. Un análisis visual de los tipos ha revelado que estos son perfectamente normales, y que los glifos grabados en ellos se corresponden con los mostrados por las teclas que los activan, tal y como cabría esperar de cualquier máquina de escribir. No obstante, independientemente de la tecla que se pulse, el carácter que aparecerá inscrito en la hoja utilizada será invariablemente una letra “M” mayúscula. La única excepción a este fenómeno lo constituye la barra espaciadora, que al no estar asociada al movimiento de ningún tipo, produce en el texto un espacio en blanco normal.
+Todos los estudios realizados en SCP-ES-047 para determinar el mecanismo por el cual los tipos producen un carácter diferente del que tienen grabado no han arrojado resultados concluyentes. Grabaciones detalladas a cámara superlenta del impacto de los tipos en varias clases de cintas entintadas, y posteriores exámenes visuales y táctiles de estas, han revelado un funcionamiento completamente normal.
+La razón de que la tinta inscrita en el papel utilizado en los experimentos adquiera invariablemente la forma de una letra “M” mayúscula es actualmente desconocida, pero hasta el momento no se han registrado casos en los que las pruebas llevadas a cabo con SCP-ES-047 se hayan desviado de este patrón Ver Anexo 047/01.
+Anexo 047/01: Informe de prueba SCP-ES-047 (21/4/20██)
+
+Número de prueba SCP-ES-047: 784
+Fecha de prueba: 21 de abril de 20██
+Hora de inicio de prueba: 18.32
+18.32 horas: La prueba se inicia con normalidad, introduciéndose cinta entintada nueva (color negro) y hoja de papel en blanco DIN A-4 en SCP-ES-047.
+18.36 horas: Se comprueba que los tipos contenidos en SCP-ES-047 presentan un aspecto normal. Sin cambios en ninguno de los glifos grabados.
+18.42 horas: Se procede a realizar comprobación de las 56 teclas de SCP-ES-047. Todas funcionan correctamente. El carácter inscrito en la hoja de papel es una letra “M” mayúscula en el 100% de los casos. Barra espaciadora única excepción.
+18.53 horas: Se procede a mecanografiar texto “███ ██████” estándar. Los dos primeros párrafos se transcriben sin observaciones notables. Cada pulsación de tecla, con la excepción de la barra espaciadora, produce una letra “M” mayúscula en el 100% de los casos.
+19.00 horas: Prueba interrumpida. Anomalía detectada al introducir decimosexta (16) letra del tercer párrafo. El carácter inscrito en el papel es un número “7”.
+19.07 horas: Dr. Thompson contactado. Se presenta en la sala de pruebas de SCP-ES-047. Se continúa con la prueba bajo su supervisión.
+19.31 horas: Se termina de mecanografiar texto “███ ██████” estándar. Ninguna otra anomalía detectada aparte de la ocurrida a las 19.00 horas (etiquetada como Anomalía 047-1900210420██).
+19.33 horas: El Dr. Thompson ordena finalizar la prueba de control número 784 de SCP-ES-047. Los resultados se registran y marcan como Anexo 047/01 para figurar en entrada principal de SCP-ES-047 para archivo.
+19.37 horas: Hoja de papel y cinta entintada precintadas para su análisis posterior. Inventariadas como SCP-ES-047-1 y SCP-ES-047-2, respectivamente.
+19.41 horas: SCP-ES-047 devuelto a contenedor estándar y almacenado.
+FIN DEL INFORME
+
+
+
+Fragmento de SCP-ES-047-1. La Anomalía 047-1900210420██ aparece resaltada en rojo
+
+
+Anexo 047/02: Conclusiones tras Anomalía 047-1900210420██
+Llevo días analizando los datos, la cinta y la hoja de papel que obtuvimos en la prueba número 784 y sigo sin tener la menor idea de por qué esa cosa decidió que era un buen momento para escribir un “7” en lugar de una “M”. Mi ayudante, la Dra. ████, me ha llamado la atención sobre el hecho de que la anomalía se produjera precisamente a las 19.00 horas, pero ya que no tenemos más datos para analizar, que las pruebas subsiguientes no han vuelto a revelar nuevas anomalías y que SCP-ES-047 sigue sin causar daño a nadie ni amenaza con escapar a su contención, mi recomendación es que no se tomen medidas adicionales en cuanto a los procedimientos que involucran a SCP-ES-047 ni que se revise su Clasificación de Objeto (Seguro).
+NOTA IMPORTANTE: Cualquier nuevo indicio de anomalía o comportamiento inusual de SCP-ES-047, tanto en pruebas de control como fuera de ellas, deberá serme notificado de inmediato para continuar con los experimentos que involucren al mismo bajo mi supervisión directa.
+- Dr. Thompson
+
+
+« SCP-ES-046 | SCP-ES-047| SCP-ES-048 »
+
+
+
+                    
