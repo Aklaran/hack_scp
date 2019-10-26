@@ -1,0 +1,230 @@
+
+                        
+
+
+
+
+rating: +5+–x
+
+
+An instance of locus-024 infested by SCP-024-IT.
+
+
+Item #: SCP-024-IT
+Object Class: Euclid
+Special Containment Procedures: Instances of SCP-024-IT acquired by the Foundation must be contained in a standard size cell at Site Vulcano. The inner part of all surfaces and access doors must contain a metallic mesh made of vanadium-osmium alloy, capable of withstanding direct impacts up to 50 KN1 and whose interlocking and junction spaces should not have apertures larger than 0.5 cm2.
+The areas in the immediate vicinity of the containment cell of SCP-024-IT must be monitored by metallic mass detectors; any detection of moving metal masses inside the walls must be considered as a containment breach and the entire area must be evacuated and quarantined. Guards are forbidden from direct intervention except for external patrolling. The resolution of the breach must be entrusted to the SSM-IX "Machinamenta".
+Addendum 024-IT-A: All inspectors have been warned to immediately report any uncontained occurrence of SCP-024-IT. If such instances were to generate a locus-024, that area must be immediately quarantined and under no circumstances are civilians to be allowed in its proximity. On-site agents must remain at least 5-10 m from the entrance to the locus-024 and in particular be careful not to get trapped inside of it. Such an eventuality and the subsequent securing of the instance of locus-024 and acquisition of the responsible instances of SCP-024-IT must be entrusted to the SSM-IX only.
+Description: SCP-024-IT is the collective definition of ██ steel rebars for reinforced concrete, with a 2.1 m average length and 0.7 m standard deviation, previously used for building construction and therefore not of new manufacture.
+On the surface, there is the presence, in places, of stains that upon visual inspection appear to be rust, which are labeled SCP-024-IT-M. Spectrographic analyses have however revealed that the chemical composition of these stains is that of unorganized agglomerates of human hemoglobin. If removed, these stains tend to reform over a few hours in a random position, with a still unknown process.
+
+
+Detail of 2 neutralized SCP-024-IT instances, spurt out violently from a wall during an attack.
+
+
+The instances of SCP-#-IT are capable of autonomous serpentine movement. SCP-024-IT uses this property to move on its own accord. The purpose of these movements is twofold: infiltrate within the walls of residential structures, or attack any human being within range. Since SCP-024-IT is capable of generating over 40 KN of power concentrated on the tip on those occasions, it is deemed impossible for a human being to withstand an attack of SCP-024-IT.
+Addendum 024-IT-B: Single instances of SCP-024-IT are able to change non-anomalous steel rebars into new SCP-024-IT instances; evidence confirms the involvement in the process of SCP-024-IT-M and the necessity for direct contact.
+Incident 024-IT-1 | Recovery Log: The first instances of SCP-024-IT were found on 201█-07-11 in ██████, in the province of Benevento, Campania, Italy. The circumstances in which the SCP-024-IT instances were acquired by the Foundation, with relative addenda, are in the transcript below.
+
+► File: Document 024-IT-01 (Incident 024-IT-1 | Recovery Log).log
+
+◀◀◀ Close file
+
+
+<begin log>
+201█-07-11 7:21 AM The neighborhood of ██████ becomes inaccessible: all access and escape routes are closed off by metallic fences made of steel rebars of the type used for building reinforcements. These fences come out from the walls of the buildings, cross the road between them, and penetrate into the adjoining building.
+7:34 AM Although the neighborhood is inaccessible, beyond the fences several corpses are visible. Most of them, despite being in the street, are wearing unsuitable garments for public use, such as pajamas, bathrobes, underwear. The bodies appear pierced by numerous twisted steel rebars, mainly in the cephalic or sternal area, and many have also been traversed in the proximal portion of the legs, particularly in the femoral area. This type of attack is performed by SCP-024-IT, presumably in order to prevent the victim from escaping.
+11:41 AM The area is secured by agents of the Foundation. The area is henceforth labeled as locus-024.
+11:57 AM Agent P███ S██████ crosses over one of the fences; some bars of the same fence begin to move autonomously with serpentine movements and agent S██████ is pierced by 3 steel bars in the femoral area (2) and in the jugular area (1). The agents who run in his aid are attacked as well, but they are able to dodge attacks that extend for less than a meter beyond the fence; however, they are unable to get close. The self-propelled bars are henceforth labeled as SCP-024-IT.
+12:09 PM Agent S██████ stops moving. Later the cause of death will be confirmed as being exsanguination.
+12:41 PM Agent G██████ Z████ climbs over a roof and enters the locus-024 avoiding the fences. He is immediately attacked by several instances of SCP-024-IT that are completely free to move and crawl on the ground. Agent Z████ is injured by 4 attacks in the femoral (2), brachial (1) and retrosternal (1) areas, the latter being lethal.
+
+
+A fence made of instances of SCP-024-IT. Picture taken at a safe distance from within the locus-024 by agent M████.
+
+
+3:00 PM It is decided to send another agent inside the locus-024 to look for possible survivors and for further exploration of the anomalous area. Agent M██████ M████, equipped with a Kevlar suit and a reinforced integral helmet, climbs over a roof and enters the locus-024. The agent manages to dodge the attacks of SCP-024-IT; some attacks successfully hit the agent in the thoracic and femoral area but they do not result in being invalidated. Agent M████ attempts to use lethal force with her ordinance firearm, which is moderately effective in stopping instances of SCP-024-IT temporarily. Of the dozens of instances hit by the agent, 5 are broken by the bullet, and stop moving altogether; deactivated instances return to being inert and stop producing SCP-024-IT-M. It is not clear whether these instances can be reactivated or not.
+3:09 PM Several instances stuck in the victims slip out of the bodies and proceed to search for agent M████. These instances have a higher concentration of SCP-024-IT-M on the surface and appear to be more reddish. They are also faster and more aggressive and they can coordinate with each other. Agent M████ undergoes several attacks in the femoral area by 3 instances that focus on the same spot, succeeding in penetrating the suit and making it impossible for the agent to walk further. Despite the agent's vocalizations of pain, a recovery action is impossible. The evaluation of an emergency plan is immediately put in place before the hemorrhagic leakage results in death for agent M████.
+3:13 PM Agent M████ undergoes other coordinated attacks in the brachial area and in the cephalic area, succeeding in penetrating the overall suit and helmet. The cephalic attack results in death.
+4:51 PM The SSM-IX "Machinamenta" arrives on site.
+5:00 PM SSM-IX sends a drone inside the locus-024. The drone, despite flying at man's height, is not attacked by SCP-024-IT.
+5:08 PM The drone identifies a kneeling man in a relatively central area, which is alive and does not appear to be injured. Immediately afterwards the rotors stop working and the drone falls to the ground. This position is labeled as ℒ1.
+5:34 PM SSM-IX sends into the locus-024, the gynoid2 DIVINA which is able to cross over one of the fences without being attacked.
+5:44 PM DIVINA reaches ℒ1 and finds the previously identified man. He is wearing work clothes and is identified as Ernesto Moretti, a construction worker employed at a construction site in the area now turned into the locus-024. DIVINA asks Mr. Moretti for explanations about his presence there and why he was not attacked by SCP-024-IT. Mr. Moretti, in tears, only enunciates the phrase «I did not mean it», repeatedly. For the rest, although he interacts with DIVINA, he does not listen to the gynoid's requests.
+5:53 PM Upon order of the Command of SSM-IX, DIVINA attempts to recover Mr. Moretti. Several instances of SCP-024-IT twist around Mr. Moretti's body in a non-hostile manner, preventing the gynoid from touching him, but without attacking it. Immediately after DIVINA falls to the ground; the sensors are still active, but the servomotors do not respond; subsequent analyses, performed both on the drone and on DIVINA, revealed the formation of SCP-024-IT-M within them. Once cleansed, the machines started working again regularly.
+7:08 PM SSM-IX knocks down a fence with a heavy-duty fixed turret. Agent Gianluca Laudanna, equipped with a powered exoskeleton, enters into the locus-024 before other SCP-024-IT instances are able to arrive and reconstruct the fence.
+7:13 PM Agent Laudanna is fiercely attacked by numerous instances of SCP-024-IT. Many attacks are successful, but the exoskeleton is sufficient to protect the agent's body. The agent is able to neutralize several instances by using his assault rifle, whose large aperture allows a higher hit ratio.
+7:27 PM Agent Laudanna arrives close to point ℒ1. While approaching the last alley before the location, several instances of SCP-024-IT, presumably formerly part of the reinforced concrete of the two buildings at the sides of the alley, emerge from the buildings and form a fence that prevents access. The agent gets around buildings, but when he comes again close to ℒ1, the same phenomenon occurs.
+7:50 PM After repeated attempts, Agent Laudanna is forced to abandon the operation because following the attacks from SCP-024-IT the exoskeleton has been damaged in multiple points and the agent reports that it does not move correctly; successive analyses will reveal that the servomotors were accumulating SCP-024-IT-M inside themselves.
+8:14 PM Agent Laudanna exits the locus-024, having suffered several injuries where the armor cracked. The agent reports that he heard the sound of a gunshot as he was about to retire.
+9:48 PM SSM-IX starts purge operations of the locus-024. The squad agents are sent hunting for the instances, in a group and equipped with large aperture and explosive weapons, following a spiraling path. Turrets and other agents are positioned to guard all possible exit routes from locus-024 to terminate potential instances attempting to flee.
+
+
+Post mortem x-ray of agent M████. The instance of SCP-024-IT (neutralized) is clearly visible.
+
+
+201█-07-12 5:02 AM After all night, locus-024 is now purged of the SCP-024-IT infestation. ██ instances have been acquired still functional and are sent to Site Vulcano.
+5:09 AM Recovery operations of the victims are commenced.
+5:47 AM The bodies of agents S██████, Z████ and M████ are retrieved.
+6:04 AM DIVINA and Mr. Moretti's body are retrieved. Mr. Moretti has a lethal gunshot wound in the occipital-temporal area and holds a drum gun in his hand.
+6:12 AM Following the inspection of Mr. Moretti's clothes, a note is recovered. In its smartphone, 4 SMS messages are also retrieved in a format that should not be compatible with that phone model. For details on the finds see the Materials of Interest below.
+8:30 AM The clean-up phase of the locus-024 is completed and it is commenced the search for civilian witnesses for the administration of amnestics and confiscation of audiovisual material documenting the existence of SCP-024-IT.
+<end log>
+
+
+◀◀◀ Close file
+
+
+Materials of Interest: In the following the materials found on Mr. Moretti's body after retrieval from ℒ1.
+
+▶ File: Document 024-IT-02-A (Note).log
+
+◀◀◀ Close file
+
+
+
+They sent me a welcome message. Is it true, then?
+
+I want revenge. Fired like that. Humiliated in front of everybody. After twenty-eight years on the construction sites.
+
+I don't want. It is a sin.
+
+Vengeance.
+
+I can't.
+
+Damn bastard, suffer, suffer as much as me.
+
+My rage. My blood.
+
+What happened?!
+
+I didn't think tha
+
+I didn't mean to.
+
+ididntmeanto nonono didntmeantodidntme
+
+
+
+
+
+▶ File: Document 024-IT-02-B (Anomalous SMSs).log
+
+◀◀◀ Close file
+
+Anomalous SMS #1 (201█-07-08 10:47 PM):
+
+
+⎰ WELCOME ⎱
+
+
+
+W3lc0m3.
+
+
+
+ ^--  
+==//==
+
+
+Anomalous SMS #2 (201█-07-10 4:21 AM):
+
+
+⎰ ADVICE IS GIVEN ⎱
+
+
+
+U53 y0ur r463. U53 y0ur bl00d.
+
+
+
+ ^--  
+==//==
+
+
+Anomalous SMS #3 (201█-07-10 5:04 AM):
+
+
+⎰ NOTICE IS GIVEN ⎱
+
+
+
+600d w0rk. 7h3 D1c7470r 15 pl3453d.
+
+
+
+ ^--  
+==//==
+
+
+Anomalous SMS #4 (201█-07-11 7:52 PM):
+
+
+⎰ IT IS ORDERED ⎱
+
+
+
+N0w 3x3cu73 7h3 ul71m473 54cr1f1c3.
+
+
+
+ ^--  
+==//==
+
+
+
+The format of such communications suggests the involvement of the Group of Interest CFO.
+
+
+Update 024-IT-03:
+
+▶ File: Document 024-IT-03 (Update).log
+
+◀◀◀ Close file
+
+Following the incident 024-IT-1 several other incidents occurred, where SCP-024-IT instances created loci-024 in different Italian locations like Campania, Lazio, Umbria, Molise, Tuscany.
+On such occasions, changes in the behavior of SCP-024-IT have been observed:
+
+some of the entrances to the loci-024 were intentionally left partially open;
+civilians who went into a locus-024 were first trapped and then pushed to an inner area, where they were subjected to lethal attacks so that no visible victims remained near the accesses to the locus-024.
+
+
+
+
+Update 024-IT-04:
+
+► File: Document 024-IT-04 (Update).log
+
+◀◀◀ Close file
+
+
+
+Infestation of SCP-024-IT near the French border.
+
+
+Several new loci-024 have appeared in the territory which falls under the jurisdiction of the Italian branch, pushing to the north of Italy and the major islands. Due to the sudden expansion of the area of occurrence of new loci-024, the Foundation's other jurisdictions have already been alerted.
+The existence of the loci-024 spread as an urban legend, but several reports of civilians taking it seriously were received. Such civilians enter the loci-024 (or, more often, similar non-anomalous areas) with the intent on hunting SCP-024-IT; they are often equipped with firearms or blades and sometimes with protections such as improvised armors or shields. A counter-information maneuver has already been put in place; as to civilians who entered the loci-024, no report stated the existence of survivors.
+Again, there has been a change in the behavior of SCP-024-IT, which, in addition to what has already been noted in Document 024-IT-03 above, has added new behaviors in response to the raids of armed civilians in the loci-024:
+
+SCP-024-IT instances now tend to hide and attack by surprise;
+surprise attacks can also be executed from previously inert rebars, converted to SCP-024-IT and bursting out from building walls in the area of the locus-024.
+
+
+Internal Notice
+It is brought to the attention of all non-military Foundation personnel to pay attention to yards where there are no visible workers and urban areas that appear to be blocked by metallic fences.
+The foregoing is to be extended to all other Foundation branches that are concerned.
+
+S5-█
+
+
+
+
+
+
+Footnotes
+1. A fist thrown at maximum power from a middleweight champion equals to ~9 KN.
+2. A humanoid robot that is gendered feminine.
+
+
+                    

@@ -1,0 +1,85 @@
+
+                        
+
+rating: +2+–x
+Object #: SCP-073-FR
+Threat Level: Yellow ●
+Object Class: Euclid
+Special Containment Procedures: SCP-073-FR must be confined in a 30mx30mx15m terrarium made with pyrex glass panels and a thermoregulation system capable of maintaining its entire content at 10°C, the automatic injection of a pesticide into the terrarium must be done weekly to control the development of its occupants, a change of the solution used is mandatory between each control to avoid adaptation to the chemical agent used, the terrarium must be surrounded by an incineration system in order to be able to avoid the escaping of its inhabitants in the event of a breach, this system cover an area of 3 meters in diameter around the terrarium. Reinforced concrete walls of 10cm width surround the main confinement and the incinerator. The SCP-073-FR colony must be fed with a sugar and water solution once a month.
+Description: SCP-073-FR is an ant species belonging to the genus Dinoponera, but has been identified as a new and unknown species. SCP-073-FR consists of fixed colonies with an average of 100 workers (but a record of ████ was observed, see Recovery Addendum).
+SCP-073-FR is hierarchized in several castes without a egg laying true queen, egg laying may be possible for all "worker" ants, but only made by the "Alpha" worker of the colony, who will keep all the ants of the colony under his control by using pheromones and physical injuries.
+The elements that led to the SCP classification of this species of ant are an extreme aggressiveness towards any living being who is not an SCP-73-FR ant, manifested by regular attacks of fauna and flora within a radius of several kilometers around their nest, with the use of their mandibles, formic acid, and a biological arsenal adapted to the species that the anthill wants to destroy, coupled with an abnormally rapid ability to adapt their genome to the environment.
+Represented at present by 158 different castes (this number includes castes destroyed or observed outside the specimens confined by the Foundation). Each cast has an unique offensive system that can include mechanisms unknown to the animal world and, in some cases, being considered as defying physics laws such as:
+- SCP-073-FR can survive several months without eating or drinking.
+- A resistance of several days (██) in the vacuum is possible.
+- All forms of SCP-073-FR are able to lift 55 times their own weight.
+- SCP-073-FR can survive against chemical agents such as boric acid, bleach and solutions containing around ± 70% of sulfuric acid.
+- Pressures in the hyperbaric chamber up to 50 bar have been tolerated by SCP-073-FR.
+SCP-073-FR can also survive in all biomes on Earth. SCP-073-FR was found to have a normal development with temperatures as low as -50°C, and in a desert environment with peak of heat up to 50°C
+These parameters make SCP-073-FR capable of causing the disappearance, on a scale of several kilometers, of any form of life outside its species, including unicellular life forms unnecessary for its development, the attack of a species by SCP-073-FR begins with infrequent assaults on targeted individuals that may resemble to an analysis phase, SCP-073-FR showing no abnormalities in workers compared to normal Dinoponera at this stage.
+After the first attacks on the target species, the behavior of SCP-073-FR will change, once the species was enough studied, the alpha female will lay eggs with properties and attack systems exploiting the animal's weaknesses or of the targeted plant.
+Once the hatched ants reach the adult stage, they will destroy individuals previously affected by SCP-073-FR, as well as surrounding individuals of the targeted species too. Once the species is extinct around the nest, SCP-073-FR will eat the killed individuals and attack the next species designated by the "queen", SCP-073-FR will only attack one species at a time. We can notice that the evolution of unicellular eukaryotes and prokaryotes is held back for reasons unknown around SCP-073-FR.
+If all the life forms have been destroyed around the nest, SCP-073-FR will hibernate by periodically patrolling as soon as the presence of any life form is confirmed around the nest. The ants who are not in the caste of common workers will die by a mechanism based on perception that will be no more stimulated by the presence of organic matter and thereby trigger a toxin in the body of those individual. If no species is targeted by SCP-073-FR, the dominant worker will lay individuals who belong to the caste of normal workers.
+Recovery Addendum:
+SCP-073-FR was located on 29/11 / 198█ in the Guyanese forest at the coordinates. [REFUSED] 
+The report was made by expedition scientists who said they noticed the disappearance of several tribes in the area. Also related by tribes present on the spot, according to the two sources above, the cause of his disappearances would have been due to ants █████. A research unit was sent to the premises populated by the former communities, confirmation of █ tribal extinction was made, analysis of ███████ samples, plants and soil shown an abnormally low density of bacterias, the places where the tribes were located was sterile, the flora was no longer alive.
+The exploration of this extinct ecological niche was done and SCP-073-FR was discovered. A recovery was attempted by the diffusion of the molecule ████ at a local scale, with no effect on SCP-073-FR, the aggressiveness of the SCP-073-FR colony forced an immediate withdrawal of recovery agents. The team assigned to this mission developed a protocol to determine how to recover SCP-073-FR without human risk, air patrols were used for the missin and when they had precise informations of the biome, a second recovery attempt was tried:
+
+< Start recording >
+Audio transcription between the LC-4 recovery team and the "Gemini" station located at ██ kilometers from the premises
+LC-4 Recovery Team: LC-4 Team on Delta-B Radio Frequency, do you receive us?
+Gemini: Received loud.
+LC-4 Recovery Team: We are in the area indicated by the recovery protocol, we will proceed to the release of an ultrasound as soon as the contact is confirmed with SCP-073-FR.
+Gemini: Perfect. Our drone located the center of the structure housing SCP-073-FR, you can continue your progression, no disturbing element has been located. We'll get our UAV to the station.
+LC-4 Recovery Team: Received, we will get closer … * A human scream is heard *. Wait, we have a yellow code.. Injured staff, one of our man is down!
+Gemini:  Continue, please describe his physical condition, LC-4 to you.
+LC-4 Recovery Team: It's planted in its belly, it looks like a javelin … -Inteltelligible- Confirmed contact … -Inintelligible-
+Gemini: Repeat.
+LC-4 Recovery Team: -Inteltelligible- Immediate withdrawal, close formation required … -Inteltelligible- … They have harpoons on their backs I think, wait!
+Gemini: Received, do you have any other things to say?!
+LC-4 Recovery Team: -Inintelligible- * Screams are heard * -Inintelligible-
+Gemini: Recovery Team LC-4 you receive me? Please demonstrate, Delta-B frequency to you? You receive me?! Fuck, block the area on a radius of ██ kilometers, Aldebaran take over on the Delta-B frequency!
+< End of the recording >
+
+The next events led to the death of the LC-4 recovery team. Subsequently, the release of a more powerful pesticide by air eliminated adult SCP-073-FR specimens present on site. A clean-up team was also able to eliminate the traces of the mission and repopulated the forest with local species, a second mission was carried out under optimum conditions, SCP-073-FR eggs that were not affected by the pesticide due to unknown reasons were found.
+
+LIST OF EXPERIMENTATIONS ON SCP-073-FR
+
+LIST OF EXPERIMENTATIONS ON SCP-073-FR
+
+
+Experiment 001 (10/01/19██):
+
+Target Species: Corallus caninus (Emerald Boa)
+
+The introduction of 50 boas was carried out in the wing of the biological tests █████████ ███ ███, the experiment was studied in order to avoid any contact between the biological tests staff and SCP-073-FR, the biome where SCP-073-FR is from was recreated for optimum results:
+Day 1: A contact between Corallus caninus and SCP-073-FR was made, the boas tried to avoid the ants, due to their aggressive reactions and to their bites causing superficial injuries …
+Day 2: The number of attacks increases, the SCP-073-FR alpha worker started to produce eggs (15 individuals have been laid), boas show signs of bites and deep wounds, 2 deaths have been observed at this stage of the experiment.
+Day 3: The eggs growing rate is very fast, they are similar to nymphs at this stade, it is noticed with cameras placed in the colony than the nymphs have a trunk instead of the usual mandibular system, the attacks continue and 1 juvenile boa was killed at this stage of the experiment.
+Day 4: Eggs hatched, normal workers still attack boas but with more violence, nest maintenance and food collection are stopped, SCP-073-FR is devoted exclusively to the destruction of boas.
+Once the specialized workers reached their adult stage, they attacked the boas by placing themselves above their heads and by planting their proboscis in boas brains, crossing all the tissues and bones with a rotating part in the center of the system which acts as a drill, Once the hole is made, they destroy the brain still with their trunk, 47 boas were killed at this point.
+The experiment is stopped and SCP-073-FR is returned to its containment cell.
+Experiment 002 (02/07/20██):
+
+Target Species: Puma concolor (Puma)
+
+The introduction of 10 pumas was carried out in the wing of the biological tests █████████ ███ ███, the experiment was studied in order to avoid any contact between the biological tests staff and SCP-073-FR, the biome where SCP-073-FR is from was recreated for optimum results:
+Day 1: The contact between SCP-073-FR and Puma concolor is noticed, an aggressive reaction of SCP-073-FR takes place, the big cats reacted by fleeing and scratching the ground to chase the ants coming towards them, The cleaning sessions are made more often by the felines due to the ants that are in their coat, shallow bites are found in Puma Puma concolor at this stage.
+Day 2: SCP-073-FR attacks are more frequent and more violent, the SCP-073-FR alpha worker began making eggs (10 individuals were laid), at this stage of the experiment no puma were killed, major injuries in juveniles were found however…
+Day 3: The eggs have reached a size of 50cm, their development is very fast compared to normal Dinoponera specimens, at the end of the day the eggs reached the stage of the nymph, and showed abnormal measurements , The absence of a pair of legs and a silver color can be observed, an eye device with pupil is also visible, the attacks of SCP-073-FR continue, 1 juvenile puma has been killed.
+Day 4: The specialized workers reached maturity, attacked pumas by making groups of 4. With their dimensions and their physical abilities SCP-073-FR specialized workers were able eliminate the pumas in 3 hours, some specialized workers performed abnormally hunting speeds of more than 80km/h, and a height of more than 1.20m and 4m in length. When the SCP-073-FR was confined after the experimentation, the staff proceed to the elimination of one specialized worker, after that they dissected the specimen and discovered a respiratory tract formed through the lungs, and an internal skeleton instead of an exoskeleton. Those elements being more suited to the size of those workers than the original respiratory systems and their original framework.
+Experiment 003 (08/09/20██):
+
+Target Species: Avicennia germinans (white mangrove tree)
+
+The introduction of white mangrove trees was carried out in the wing of the biological tests █████████ ███ ███, the experiment was studied in order to avoid any contact between the biological tests staff and SCP-073-FR, the biome where SCP-073-FR is from was recreated for optimum results:
+Day 1: The contact between SCP-073-FR et Avicennia germinans was carried out, with an aggressive reaction from SCP-073-FR workers, through injuries inflicted on tree bark and by leaf pulling.
+Day 2: The SCP-073-FR attitude is more tree-focused, the SCP-073-FR alpha worker began laying eggs (30 eggs), larval evolution is abnormally rapid, the nymph stage was reached in 6 hours, the presence of stumps above the thorax is remarkable, this would be due to the formation of wings on the nymphs.
+Day 3: The SCP-073-FR nymphs have reached maturity, after observation, the presence of wings on the new workers is confirmed, the specialized workers adopt a "suicidal" attitude by releasing a whitish cloud by exploding near the groups of Avicennia germinans while flying, after that, nothing will be visible at this stage of the experiment.
+Day 4: SCP-073-FR no longer pays attention to Avicennia germinans, after (10) hours the presence of fungi on Avicennia germinans is noticed.
+(█) hours after the appearance of the fungus, Avicennia germinans disagreed , the colony was removed, and after a study of a sample of the fungi present on the trees, it appeared that the fungi belonged to any known species and than it's attack their host with a toxin close to [DENIED], after which the fungus death was observed as soon as the parasite host dies or the fungus is removed from its original support.
+
+
+
+
+                    

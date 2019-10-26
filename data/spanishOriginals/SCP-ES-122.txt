@@ -1,0 +1,305 @@
+
+                        
+
+
+
+
+Puntuación: +15+–x
+Ítem #: SCP-ES-122
+Clasificación del Objeto: Seguro
+Procedimientos Especiales de Contención: Actualmente no se conoce copia alguna de SCP-ES-122, por tanto, SCP-ES-122 será almacenado en el servidor local de la Sección de Investigación Tecnológica del Sitio-35.
+Las solicitudes para la realización de pruebas con SCP-ES-122 deberán ser atendidas por la administración de la Sección de Investigación Tecnológica del Sitio-35. Cualquier prueba con SCP-ES-122-A deberá ser llevada a cabo por un programador medio en SCP-ES-122-A (con un aprendizaje de aproximadamente 6 meses).
+Descripción: SCP-ES-122 es un software anómalo multipropósito únicamente ejecutable en computadores con sistemas operativos derivados de GNU/Linux. Las instancias de SCP-ES-122 comprenden un único archivo ejecutable llamado «verdulero.exe». A pesar de que las distribuciones derivadas de GNU/Linux no son capaces de ejecutar archivos con la extensión .exe, abrir el programa iniciará un instalador que llevará al usuario a través de una serie de pasos hasta la instalación final del software. El siguiente texto fue extraído de los «Términos y condiciones» de SCP-ES-122:
+
+Hola, tío.
+Tal vez no estés leyendo esto porque eres de esos palurdos que le dan a Siguiente sin leer los términos y condiciones, pero a mí me importa un pimiento.
+Si ya vas por estas líneas, felicidades, eres un tipo precavido. Ahora atiende, colega: Yo no me responsabilizo de los efectos que tengas en tu vida a la hora de hacer tus movidas con este programa. Si una planta carnívora te arranca la cabeza de un bocado y le da un beso en los morros a tu suegra, mala suerte. Haber tenido más cuidado. Pase lo que pase, a mí no me vengas a reclamar.
+Dicho esto, disfruta de mi programa.
+
+~~Maximus
+
+
+SCP-ES-122 se instalará bajo el nombre «verdeVerduzcoVeraniego v1.0.1» y podrá ejecutarse su archivo principal. SCP-ES-122 posee una variedad de opciones que sólo podrán utilizarse cuando un cable USB macho-macho sea conectado al dispositivo encargado de su ejecución. Luego de esto, y si SCP-ES-122 está ejecutándose, el cable USB debe ser insertado en una planta cualquiera, que invariablemente, terminará siendo atravesada por el conector.1
+Una vez una planta sea conectada mediante el cable USB, diferentes tipos de datos serán transferidos al dispositivo utilizado. Dependiendo del tamaño de la planta, la cantidad de datos varía, con un máximo registrado de más de 8 Terabytes2. Mediante sus opciones, SCP-ES-122 es capaz de analizar los rasgos genéticos, historia, simbología, entre otras características de la planta conectada.
+SCP-ES-122 posee un lenguaje de programación denominado SCP-ES-122-A, denotado por el propio software como «Loto»3. SCP-ES-122-A es de tipado dinámico4 y orientado a objetos5. A diferencia de los demás lenguajes en el mercado, SCP-ES-122-A utiliza palabras y abreviaciones derivadas del español como palabras claves6, y las cuales aluden al propósito general de SCP-ES-122, por ejemplo, «estructura» o «plantar» . A pesar de que SCP-ES-122-A trabaja con datos extremadamente complejos, el mismo está diseñado para abstraer estos datos de tal forma que la completa estructura de las plantas sean representadas sin utilizar secuencias genéticas, o representar cada célula como un único componente.
+Cada planta conectada registrará en el dispositivo utilizado una serie de carpetas con archivos con código fuente escritos en SCP-ES-122-A7. La modificación de estos archivos tendrá un impacto directo en la planta, cambiando su bioquímica, anatomía, etc. Los errores en el código fuente resultarán invariablemente en un rápido descenso del nivel de Humes en la planta, desde la zona del error hasta abarcarla completamente, y su posterior desintegración si el código fuente no es depurado.
+Anexo-ES-122-1: Registro Experimental
+El siguiente registro es un sumario de experimentos realizados con SCP-ES-122-A. Para más información, véase el Registro Experimental Extendido de SCP-ES-122.
+
++ Mostrar Registro Experimental
+
+- Ocultar Registro Experimental
+
+
+
+Prueba N# 3
+Planta: Aloe vera
+
+
+Archivo Modificado: hojas/principal.oto. Color de hojas modificado.
+
+
+La instancia cambió progresivamente de su color verde característico a un tono carmesí.
+
+
+Prueba N# 8
+Planta: Aloe vera
+
+
+Archivo Modificado: inflorescencia/flores.oto. Afloramiento modificado.
+
+
+Durante el afloramiento, las flores de la planta no se abrieron, en su lugar, fueron expandiéndose hasta estallar.
+
+
+Prueba N# 11
+Planta: Mammilloydia candida
+
+
+Archivo Modificado: estructura/cuerpo.oto. Vector corporal8 modificado.
+
+
+Luego de 2 semanas, la planta tomó una forma toroidal.
+
+
+Prueba N# 17
+Planta: Rosa californica
+
+
+Archivo Modificado: petalos/principal.oto. Parámetro de número de pétalos modificado.
+
+
+Durante 1 hora y 45 minutos, el número de pétalos de la planta estuvo cambiando cada 4 minutos siguiendo la sucesión de Fibonacci. Luego de la primera hora, el número de pétalos fue incontenible. Debido a que el incinerado de estas no cambiaba la siguiente adición de pétalos, se realizó una nueva modificación en la planta, logrando que detuviera la adición de nuevos pétalos.
+
+
+Prueba N# 25
+Planta: Instancias de SCP-392
+
+
+Archivo Modificado: frutos/estructura.oto. Estructura de frutos modificada.
+
+
+La planta dio como frutos duraznos no-anómalos. No se mostraron otras anomalías en la instancia modificada.
+
+
+Prueba N# 27
+Planta: Instancia de SCP-ES-041-1
+
+
+Archivo Modificado: frutos/principal.oto. Aumento del valor nutricional.
+
+
+La planta dio como frutos varias instancias de SCP-ES-041-2 10 veces mayores a las originales. Al ser ingeridas, los sujetos expuestos presentaron un rápido incremento del nivel de azúcar, vitaminas, colesterol y proteínas en sangre, llevándolos a un fallo hepatorrenal con deterioro de la irrigación arterial del cerebro y el miocardio. Pese a esto, la oxigenación en sangre era la suficiente seguir manteniendo la respiración. Llegado a un punto, los niveles anteriormente mencionados dejaron de elevarse, manteniendo un punto estable (que de lo contrario hubiera comenzado el proceso de putrefacción). La sangre de los sujetos se vio transmutada, convirtiéndose en un gel blanquecino con una composición similar a la leche humana, pero extremadamente más densa. Los sujetos sufren un notable deterioro cognitivo y, pese a seguir conscientes, no pueden comunicarse.
+
+
+Prueba N# 31
+Planta: Tronco de Quercus ilex
+
+
+Archivo Modificado: Sólo fue encontrado el archivo tronco.oto. No fueron encontrados los conectores regulares con otros procesos y estructuras propios del árbol. Creado el archivo raices.oto y programado para la enraización del árbol.
+
+
+La planta creó raíces propias de su especie, enraizándose en el suelo del lugar. La planta está bajo supervisión del Área de Botánica del Sitio-35.
+
+
+Prueba N# 35
+Planta: Aloe vera y Rosa californica
+
+
+Archivo Modificado: Fueron ejecutadas dos instancias de SCP-ES-122. Los archivos petalos/principal.oto de la R. californica y hojas/principal.oto de la A. vera fueron mutuamente intercambiados. Algunas sentencias fueron modificadas.
+
+
+La instancia de A. vera comenzó a tornar sus hojas sobre sí, modificando su textura y contextura al de los pétalos de R. californica. Los pétalos de la R. californica fueron volviéndose más puntiagudos, gruesos y verdes, formando la roseta característica de la A. vera.
+
+
+Prueba N# 39
+Planta: Penicillium claviforme
+
+
+Archivo Modificado: Imposible de analizar.
+
+
+SCP-ES-122 no logró analizar el hongo.
+
+
+Prueba N# 41
+Planta: Quercus robur infectado por Penicillium claviforme
+
+
+Archivo Modificado: micorriza/principal.oto. Eliminada la unión entre la planta y el hongo.
+
+
+P. claviforme fue eliminado de la planta mediante su desprendimiento.
+
+
+
+
+
+Anexo-ES-122-2: Registro de Recuperación
+SCP-ES-122 fue recuperado luego una redada en un centro de reunión de la Iglesia Santísima de la Vid9, en [CENSURADO], Chile. Fueron capturados un total de 49 adeptos; 5 fallecieron en el proceso. Durante el asalto, fueron eliminadas 4 instancias de arboles locales modificados, los mismos poseían movilidad a través de sus raíces y utilizaban sus ramas a modo de brazos.10 Entre los dispositivos decomisados, se pudo encontrar la siguiente conversación vía mensajería móvil entre el Estolón11 Alberto Peceros , y un sujeto identificado como el PdI "Maximus". A continuación se muestra un extracto de la conversación:
+
++ Mostrar Registro
+
+- Ocultar Registro
+
+
+Saludos, querido compañero
+
+¿Quién coño? ¿Quién te dio uno de mis números?
+
+Me dijeron que te dijera "#pollazos" como palabra clave, ¿no es algo estúpido?
+
+Ah, veo que conoces personas. Bueno, en parte, pero todo el mundo tenía una palabra clave muy críptica. Es lo que hace un artista.
+
+Como sea. Me han contado que puedes hacer que nuestra investigación y cultura sobre plantas pueda progresar. ¿Es verdad que puedes hacer software para recopilar datos?
+
+Tío, que cosa tan básica. Puedo hacerte eso y más. ¿Quieres plantas que peleen?
+
+Eh, bueno… eso sería.
+
+¡No digas más! Dame unos pavos y haré lo que quieras. Correo electrónico y eso.
+
+Bueno, si pudieras hacer un software que recopilara todo sobre nuestras plantas, mira, las enlisto.
+
+¡Al demonio! Les haré su propia Wiki que puedan editar con sus cosas raras. Es realmente esto de las bases de datos, sólo enlacen las cosas desde el ordenador a la Wiki.
+
+Oh, bueno. Entonces, ¿cómo en cuanto saldría?
+
+Tío, yo hago esto porque me sale de los cojones. 500 duros y tenemos un trato.
+
+Algo elevado, pero puede servir a largo plazo. ¿Tienes cuenta de PayPal o algo así?
+
+Claro, te la envío por correo electrónico.
+
+Mi correo es █████████@gmail.com
+
+Envío los datos ahora. Mira tú correo cada tanto, estará completo en menos de una semana.
+
+¡Gracias!
+
+No me dé las gracias, sólo quiero los créditos.
+
+
+
+
+
+8 días más tarde, Alberto Peceros recibió el siguiente correo, junto a SCP-ES-122 adjunto, del sujeto anterior:
+
++ Mostrar Correo
+
+- Ocultar Correo
+
+
+
+Para:
+█████████@gmail.com
+
+
+De:
+███████████████@yimeil.com
+
+
+Asunto:
+Software Ecológico
+
+
+¡Saludos, compañero!
+
+Me alegra presentarte mi creación. Siempre pueden contactarme. Si conocéis algún amigo que requiera de mis servicios, no duden en sugerirme. Por cierto, luego tendré lista su Wiki, mis otros clientes son algo exigentes.
+
+Atentamente, yo,
+~~Maximus
+
+
+
+
+
+Pasados 2 días, Alberto Peceros envió una respuesta:
+
++ Mostrar Correo
+
+- Ocultar Correo
+
+
+
+Para:
+███████████████@yimeil.com
+
+
+De:
+█████████@gmail.com
+
+
+Asunto:
+Error del Software
+
+
+Saludos, querido Maximus
+
+Esta tarde hemos tenido un pequeño incidente con su Software. Uno de nuestros compañeros intentó analizar una de nuestras sagradas plantas y el suelo, la planta y él terminaron desapareciendo. El lugar dónde desaparecieron ahora se ha convertido en una suerte de "globo de realidad", un lugar como una pompa de jabón.
+
+Queremos respuestas para esto,
+atentamente: Estolón Alberto Peceros.
+
+
+
+
+
+El PdI "Maximus" respondió algunas horas más tarde, junto con una nueva versión de SCP-ES-122:
+
++ Mostrar Correo
+
+- Ocultar Correo
+
+
+
+Para:
+█████████@gmail.com
+
+
+De:
+███████████████@yimeil.com
+
+
+Asunto:
+Actualización de Software Ecológico
+
+
+Tío, menudo gilipollas. Hasta una ardilla bizca podría utilizar mi creación mejor que tú y tu grupito. Vaya, se ve que no saben utilizar correctamente mi sutil lenguaje de programación. Obviamente hicieron lo primero que pensé que no harían. Voy a limitar la alteración de la realidad, se ve que para ustedes esto es un juguete. Cómanse una polla.
+
+Con amor,
+~~Maximus
+
+
+
+
+
+
+
+
++ Mostrar anotaciones +
+
+- Ocultar anotaciones -
+
+
+
+Notas al pie
+1. La mayoría de las veces es necesario intentar clavar el conector varias veces. Los sujetos que han realizado este proceso anteriormente tienen mayores posibilidades de insertarlo al primer intento.
+2. A pesar del tamaño de datos transferidos a la memoria del dispositivo utilizado, el tiempo de transferencia de datos es invariable (10 segundos) y el rendimiento del dispositivo no se ve alterado de forma alguna.
+3. SCP-ES-122 posee un manual completo sobre cómo programar en SCP-ES-122-A.
+4. A diferencia de los lenguajes de tipado fuerte, donde el lenguaje antes de ser compilado es analizado en busca de errores, los lenguajes de tipado dinámico o débil interpretan primero el código (lo ejecutan) y si hay un error, entonces el mismo se accionará durante su ejecución (e.g.: si un botón cambia su color al ser accionado, y si hay un error, entonces aparecerá sólo cuando sea accionado. Bajo el tipado fuerte, el error será mostrado primero y el programa no se ejecutará hasta su resolución).
+5. La Programación Orientada a Objetos es un modo de programar basado en el concepto de «objetos». Los objetos son un encapsulamiento de código que poseen características (atributos) y acciones (métodos). Este tipo de programación está hecho para la menor repetición de código, pues es posible heredar los atributos y métodos entre objeto y objeto. Por ejemplo, sea «animal» un objeto que define a todos los animales existentes, es posible crear un objeto colindante a «animal» llamado «ratón» y el cual heredará acciones y características propias de los «animales», y aún así, «ratón» puede tener sus mismas acciones y características.
+6. Generalmente son abreviaciones que denotan alguna acción o sentencia lógica, como «imprimir en pantalla» o «sí esto, entonces esto. Si no es así, entonces esto».
+7. Tanto los nombres de las carpetas y los archivos variará entre planta y planta, aún siendo estas de la misma especie. La disposición de las carpetas por cada planta varía entre especies, por ejemplo, en árboles genéricos, las primeras carpetas encontradas serán «raiz», «tronco» y «copa». Dentro de cada una de estas carpetas hay archivos y otras carpetas, denotando características y acciones extremadamente abstraídas propias de la planta.
+8. Modelo 3D de la estructura de la planta.
+9. Aunque dependientes de esta, los miembros de la Iglesia utilizan la tecnología como un medio para investigaciones esotéricas y transferencia de datos.
+10. Durante su análisis, se encontró un sistema nervioso similar al humano y tejidos en sus ramas que les permitían percibir el calor del ambiente.
+11. Un análogo entre los miembros de la Iglesia Santísima de la Vid para Padre Parroquial.
+
+
+
+
+
+
+
+                    

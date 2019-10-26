@@ -1,0 +1,330 @@
+
+                        
+
+rating: +6+–x
+
+
+Picture of SCP-089-DE, carried by SCP-032-DE1 upon its detainment.
+
+
+Item #: SCP-089-DE
+Object Class: Keter
+Special Containment Procedures: SCP-089-DE is currently uncontained. Therefore, all media are to be checked for reports regarding the emergence of "robots". Should an emergency be detected, MTF-DE2-𝕴 ("Lichterkette", eng. "Chain of Lights") is to be dispatched to investigate the incident. The use of heavy weapons and EMPs is authorized if the presence of SCP-089-DE and/or machines influenced by it is confirmed.
+If SCP-089-DE and/or subjects affected by it are captured, they are to be kept away from any and all machines under all circumstances and should only be transported if they are completely restrained and located in an appropriate transport unit for mechanical anomalies.
+Site-DE17 has prepared a containment chamber for SCP-089-DE. SCP-089-DE must be immediately transported to said containment cell in the event it has been captured.
+Because of the great differences between machines transformed by SCP-089-DE, default classification and containment procedures cannot be applied. Captured subjects are to be given separate SCP classifications.
+Description: SCP-089-DE designates a humanoid android with a height of approx. 170 cm, that apparently is known by the name of "Hod." The exposed portions of SCP-089-DE seem to be modelled after an adult female. The rest of the body cannot be seen because SCP-089-DE has always worn a wide, black dress with bright gold velvet overhangs, black knee boots, a black butterfly mask, and a wig with white, curly hair. The analysis of video recordings, which show the clothing damaged, suggests that the lower torso, the upper arms, and the legs have no covering like the visible part of the body.
+Until recently, SCP-089-DE could not be contained but encountered the Foundation multiple times nonetheless. In those encounters, SCP-089-DE has displayed great intellectual abilities and apparently no need for a power source. The object is capable of perceiving its surroundings visually, aurally, and haptically. It has a female voice with an undertone that has been described as a "robotic buzz" by personnel. Not much is known about the objects measure of physical strength, but there have been cases where it has thrown fully armoured MTF-Units up to 4 m with one hand. It is also fast and agile, due to its low mass, and is able to dodge most attacks. It has been observed that SCP-089-DE reached a speed of 60 km/h in full sprint. EMP weapons have seemingly no effect on SCP-089-DE; however, its machinery has proven to be very delicate, with pistol shots and in some cases even punches being enough to cause visible damage.
+SCP-089-DE can exert an anomalous effect on any machine, provided it has physical contact with the target for 15 seconds. In this regard, it seems irrelevant if the contact is blocked by its clothing or where it touches the machine in question. Objects affected by SCP-089-DE's effect can no longer be controlled and begin moving autonomously. In 97.7% of the observed cases, the influenced machines also change their appearance and transform into either a humanoid or an animal form. In this process, no mass seems to be lost or gained, and there appears to be no change in any material. Should the machine be affixed to an anchoring, it will remove itself from it, except if the anchoring is connected to another machine or a chassis, in which case they will also be integrated into the transformation process.
+
+
+A truck affected by SCP-089-DE.
+
+
+Machines changed by SCP-089-DE possess a human-like intelligence, can perceive their surroundings visually, aurally and are capable of verbal communication. Like SCP-089-DE itself, these devices seem to no longer need a power source, but their mechanical parts are still subjected to normal wear and tear and need to be replaced if necessary. They appear to view SCP-089-DE as a person of authority and comply to any of its orders, but it has been observed that different machines interpret the same order differently, which leads to the conclusion that they possess a certain degree of autonomy. Depending on what the machine was originally designed for, it possesses various resistances and weaknesses to different weapons and environmental influences. It should be noted, however, that they can in all cases be only temporarily disabled by EMP weapons if they aren't protected against them or constructed entirely analogously.
+
+
+Excerpt of the Logs of machines exposed to SCP-089-DE's effect.
+
+Close.
+
+
+Transformed machine: Motorcycle, Model Honda CB 500 F
+Changes: Took on the appearance of a feline predator, with an estimated length of 2 m. The "legs" remained affixed to the wheels and only allowed movement by rolling.
+
+
+Transformed machine: Car, Modell Passat B8 (Type 3G)
+Changes: Subject took on a form reminiscent of a Hippopotamus amphibius. The subject was able to accelerate very quickly, despite its seemingly ponderous appearance.
+
+
+Transformed machine: Welding robot ██████ ██████ ███
+Changes: The robot arm was part of a welding cabin with six automatons, which were all integrated into the transformation. The subject possessed the approximate form of a ground beetle (Carabidae) and was approx. 3 m in length. The subject was capable of delivering electric shocks from the ends of its legs.
+
+
+Transformed machine: Leopard 2 tank
+Changes: Subject took on a humanoid form, 5 m in height. The tracks of the vehicle served as additional leg armour. The canon was carried on the back, however, it could be repositioned forward by retracting the head. The two machine guns were located on the forearms of the subject.
+
+
+Transformed machine: Bucket wheel excavator, Modell SRs███
+Changes: [DATA EXPUNGED]
+
+
+
+
+Another characteristic of machines transformed by SCP-089-DE is their ability to bestow other machines with the properties they possess themselves. Under normal circumstances, this is achieved by integration of their machine parts into the target, however, other methods have been observed (for example see SCP-███-DE). Machines, that become animated via this method, were never observed to change their form and seem incapable of passing on their properties.
+SCP-089-DE and the machines animated via its effects are apparently part of the Group of Interest "Caecus Carneliana-collective". They appear to try not to harm normal humans directly, however, during their actions and fights against the Foundation and other groups they view as enemies, civilians were indirectly harmed or killed. Up until now, SCP-089-DE could not be apprehended by the Foundation, since it always moves with at least three transformed combat machines, from which at least one is immune to EMP weapons. Furthermore, it is unknown, how SCP-089-DE repairs damages sustained in battle.
+SCP-089-DE first appeared during Incident DE/B33. For a long time, the Foundation could only gather information regarding this SCP via observation, until Research Team 25 partially restored the documentation of the "Athena Project," which had been carried out by Section XXV. The documents describe an anomaly, which possesses properties comparable to the ones SCP-089-DE possesses. It is hypothesized that those two are the same entity.
+
+Restored documentation of Section XXV regarding SCP-089-DE.
+
+Close.
+
+
+
+Berlin, the 17. 05. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Project proposal 056/42
+To handle the growing data volumes we gather during the surveillance of the socialist populace of the GDR, a proposal is hereby submitted to construct a machine to process the data. Theoretically, this task can be carried out by a computer, however, it is estimated, that it will take roughly 80 years until the technology has advanced far enough for this to be feasible. Therefore, the idea would be to use supernatural phenomena for this task. Magister Eisen has already worked out a concept to this end, which basically intends to fill a specifically treated silicon crystal with human memories, and in doing so, teaching it how to think. The specifications are included in this document.
+
+
+
+Berlin, the 19. 05. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Approval of Project Athena
+The proposal of Project Athena is hereby approved. Magister Eisen is allowed to use the memories of Ms ██████ Eisen.
+
+Signed: Officer Konstantin Mader
+
+
+
+
+Dresden, the 09. 09. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Research records regarding Project Athena
+I finally managed to start Athena. The sensory devices work flawlessly, she reacts in acceptable time to changes in her field of vision and sounds. At the moment, she only possesses the mind of an infant, but I am confident, that I can get her onto the level of a grown human within two weeks.
+
+Signed: Magister Eisen
+
+
+
+
+Berlin, the 13. 09. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Surveillance order for Magister Eisen
+Magister Eisen rejected the extra vacation he was granted to properly mourn the death of his wife Mrs ██████ Eisen, which died of pneumonia the day before yesterday. Ordering therefore the unobtrusive surveillance of Magister Eisen by comerade ██████ ██████. Any and all changes of his mental and emotional condition are to be reported to me.
+
+Signed: Officer Konstantin Mader
+
+
+
+
+Dresden, the 21. 09. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Project Athena presentation announcement
+Athena now has reached the intended level. Speech is fluent, thought processes are coherent. Additionally, it has been discovered, that an external energy supply is no longer necessary. Therefore, the generator was shut down. Furthermore, Athena seems to be able to manipulate connected mechanical elements. Through this, it was possible for me to give her arms. Scheduling a presentation for the 3. 10. 1967.
+
+Signed: Magister Eisen
+
+
+
+
+Berlin, the 22. 09. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Research Report regarding Project Athena
+The presentation will be attended by both me and my secretary.
+
+Signed: Officer Konstantin Mader
+
+
+
+
+Dresden, the 27. 09. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Surveillance report from ██████ ██████
+Magister Eisen equipped Athena with a framework modelled after a human head and torso. He then put a silicone coat over the framework and gloves on Athena's gripping devices. Those are skin coloured and seem to emulate the hands, head, and torso of Mrs. ██████ Eisen. Upon being questioned, Magister Eisen stated, he did it for the sake of the presentation and did chose this exact face because it was the memories of his wife, that made Athena possible. Assume emotional bond with Athena.
+
+
+
+Dresden, the 04. 10. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+New orders regarding Project Athena
+After the succesfull conclusion of the presentation, you are now required to carry out the test series as discussed before. The head of Section XXV is to receive reports weekly.
+
+Signed: Officer Konstantin Mader
+
+
+
+
+Dresden, the 10. 10. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Research Report regarding Project Athena
+The test series ended in failure. Athena might be capable of understanding mathematical problems given to her, but isn’t capable of solving them without assistance.
+
+Signed: Magister Eisen
+
+
+
+
+Dresden, the 17. 10. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Research Report regarding Project Athena
+The mathematical understanding doesn't grow. Further conditioning is necessary.
+
+Signed: Magister Eisen
+
+
+
+
+Dresden, the 24. 10. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Research Report regarding Project Athena
+Small improvements were registered, however, Athena still lacks deductive skills. Further conditioning is necessary.
+
+Signed: Magister Eisen
+
+
+
+
+Dresden, the 31. 10. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Research Report regarding Project Athena
+Athena is possibly a failure. She might possess an acceptable mind, but an introduction of specialized knowledge seems next to impossible. Recommend termination of the project and a restart.
+
+Signed: Magister Eisen
+
+
+
+
+Dresden, the 03. 11. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Surveillance report from ██████ ██████
+Magister Eisen seemingly doesn't carry out the test series. Instead, he converses with Athena for hours and addresses her as ██████ while doing it. Additionally, the object is apparently able to transform other machines and make them autonomous. This requires a touch with a duration of 15 seconds. Magister Eisen calls these constructs his "children". Emotional bond confirmed.
+
+
+
+Berlin, the 07. 11. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+New orders regarding Project Athena
+Due to insufficient progress, Magister Eisen will be removed as project head of Project Athena. Magister Krone will take over the project and remedy possible errors that were made up until now.
+
+Signed: Officer Konstantin Mader
+
+
+
+
+Dresden, the 11. 11. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Research Report regarding Project Athena
+Athena possesses a few unnecessary peculiarities, for example a sense of touch, which was probably overlooked by Magister Eisen. Furthermore, as a machine constructed for simple data processing, Athena has no use for the present emotions. Deletion of those will be carried out next week.
+
+Signed: Magister Krone
+
+
+
+
+Dresden, the 14. 11. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Project Athena Incident Report
+Today, at 08:27, Magister Eisen used a crowbar to gain access to Athena. Magister Krone, who at this time was starting the deletion of Athena's emotions, was overpowered by Magister Eisen and suffered a laceration to his head. Magister Eisen tried to remove Athena's core component, the silicon crystal, from the machine, was then, however, pushed away by Magister Krone, who had regained his senses. Afterwards, a fight between the Magisters broke out, which Magister Krone won in the end by breaking Magister Eisen's skull. Thereupon, Athena suddenly started screaming loudly and began to transform her own machinery, including the still connected generator. Through this, she gained a humanlike body that allowed mobility. It also allowed her to assault Magister Krone, who [MISSING DOCUMENT FRAGMENTS] eventually inflicted heavy damage on the eye area of the silicone mask. Following this, Athena transformed the elevator of the building and used the ensuing chaos to escape. The facility in the ██████-█████████-Straße in Dresden became completely unusable due to the fire. Magister Krone is at the moment charged with second-degree murder, though he is to be expected to be acquitted for self-defense because of the witness statements. The whereabouts of Athena are currently unknown.
+
+
+
+Berlin, the 15. 11. 1967
+
+
+
+Ministry for State Security
+
+
+Section XXV
+Termination of Project Athena
+Given the incident from yesterday, Project Athena will be discontinued until further notice, until the cause of the failure has been determined with 100% certainty. The newfound insights can be used for reference in other projects until then, but may not be applied without the consent of the head of Section XXV.
+
+Signed: Officer Konstantin Mader
+
+
+
+
+
+
+Footnotes
+1. An anomalous entity belonging to the "Caecus Carneliana-collective" which was contained by the Foundation and managed to escape.
+
+
+                    

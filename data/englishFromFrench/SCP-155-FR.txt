@@ -1,0 +1,38 @@
+
+                        
+
+rating: +4+–x
+
+
+Final message cast by SCP-155-FR, taken from the ending credits of a (now destroyed) amateur movie. Translation from french:
+
+
+If you are reading this
+You have been in a coma for 15 years
+We are trying out a new technique
+But we do not know whether this message will reach you
+But we will keep trying
+Wake up, try something
+
+
+Item #: SCP-155-FR
+Threat Level: Red ●
+Object Class: Euclid
+Special Containment Procedures: Containment of SCP-155-FR is currently impossible due to its nature. Digital documentation regarding SCP-155-FR should not exceed 500 words. Professor J. Gautron possesses a printed version of this report to satisfy requests for further information. This report is protected and cannot be modified.
+Description: SCP-155-FR is a random memetic phenomenon which manifests through numerical visual media (TV programs, series subtitles, news tickers, etc1) when the displaying text comes in excess of 500 words, either consecutive or intermittent. In this case, SCP-155-FR's effect will alter on-screen text to display subliminal alert messages. These messages, often insignificant, end on a last alarming message (see image) which triggers paranoia or paraphrenia in 90% of cases and various sensory or psycho-sensory hallucinations in 10% of cases. After a few hours, this phase leads to the subject entering a state of lethargy.
+All human subjects submitted to SCP-155-FR rapidly become irascible and seem sure about the veracity of the messages they have seen. As of today, all attempts to bring subjects to their senses have failed. The only effect of such an attempt is to accelerate the subject's transition to a paranoid or secondary state.
+Complementary note from Julia Gautron (chief researcher)
+
+As of today, the connection between the last message, the coma it induces in subjects and the origin of this phenomenon is unknown. With the help of my research unit, we have designed an algorithm which instantiates affected persons in hospitals and symptoms linked with the object. The number of affected persons happens to have risen exponentially throughout the years. In addition to causing a global incident forcing the Foundation to reveal itself, one of the risks of SCP-155-FR is manifesting during prime time. There is no doubt about the fact that bigger means will need to be deployed and more research will need to be done to discover the exact nature of this phenomenon. I also propose to review storage methods of the Foundation's database and more precisely sensible reports, which can exceed 500 words and can potentially be affected by SCP-155-FR.
+
+
+Footnotes
+1. Full list of occurrences available in the printed version.
+
+
+
+« SCP-154-FR | SCP-155-FR | SCP-156-FR »
+
+
+
+                    

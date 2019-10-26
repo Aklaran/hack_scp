@@ -1,0 +1,92 @@
+
+                        
+
+rating: +10+–x
+Item #: SCP-CN-166
+Object Class: Thaumiel
+Special Containment Procedures: All instances of SCP-CN-166 in containment (currently 12 in total) must be kept in different locations, to prevent simultaneous loss in case of a containment breach. Every SCP-CN-166 instance must be contained in a standard non-humanoid object containment chamber, and sealed inside a biological materials safe. Any applications for experiments regarding SCP-CN-166 must receive written approval from two or more Level-4 staff or more than one O5-Council member in order to proceed.
+As soon as any instance of SCP-CN-166 shows signs of biological contamination, the instance must be incinerated immediately and subjected to intermittent X-ray exposure for a minimum of 3 hours (with a break of 10-15 minutes per hour).
+All uses of SCP-CN-166 are to follow the two protocols below:
+Protocol "Apocalypse"
+
+The gathering places of all Christian communities in Shanghai (regardless of denomination) must be closely monitored, and the most frequently used location recorded (to be updated once a year);
+Artificial intelligence (AI) "Nostradamus" is to be installed at Site-CN-34 to predict potential XK-class End-of-the-World, IK-class Civilisation Collapse, and CK-class Reality Restructuring scenarios;
+When the probability of occurrence for any of the K-class scenarios above reaches 85% or greater, the AI will randomly select 3 sites containing an instance and send instructions to them. Following these instructions, those sites are to immediately send their instance in containment to the recorded gathering place, and implement Protocol "Altar";
+If there is no response within 30 minutes after the instructions have been sent, the AI shall reiterate the instructions. When the instructions have been sent 3 times with no response, the AI must immediately contact the O5 Council, announcing that Protocol "Apocalypse" has failed, and the Foundation is to make preparations to deal with K-class scenarios.
+
+Protocol “Altar”
+
+The gathering place recorded in Protocol "Apocalypse" must be converted into a temporary station for the time it is valid, and a machine in the shape of an altar must be present inside it at all times. The machine has a roughly circular platform, with three embryo-shaped depressions carved into the upper part (so that the three depressions form the vertices of an equilateral triangle), and contains a liquid delivery pipe in the center of each of the depressions which connects to a liquid container inside the machine. The container is filled with cellular fluid recovered from Incident SCP-CN-166-A.
+After Protocol "Apocalypse" is initiated, an agent must place the embryos sent by the three selected sites into the three depressions, and place a metal cross at a position equidistant from the three instances, starting the ceremony;
+During the ceremony, everyone on-site must conduct it according to the methods of the Sarkic cultists shown in Incident SCP-CN-166-A. No matter what kind of accident happens during the ceremony, it must proceed regardless.
+Throughout the entire ceremony, there must always be 12 agents participating in the ceremony on-site (all agents on the site must be atheists or adherents of a denomination of Christianity). If any staff are lost during the ceremony, agents on standby outside the site must immediately enter the site, to keep the number of people consistent).
+Following the end of the ceremony, the AI "Nostradamus" will again calculate the probability of the K-class scenario occurring; if the probability does not change or decreases greatly, this means that Protocol "Altar" has been successful, and the K-class event precautions may be dropped; if the probability increases, this means that Protocol "Altar" has failed, and the AI will contact the O5 Council immediately, while the Foundation should make preparations to deal with K-class scenarios.
+
+While Protocol "Altar" is being implemented, the relevant departments in Shanghai should increase the strength and strictness of their information control, and at the same time deploy a complete amnestic spray system over the entire city, to prevent the anomalous events which occur in the process from being noticed by the public and causing information leaks. MTF-Gui Xu1-07 ("Midwives") is to be on standby at the station in Shanghai to deal with all anomalous events which happen in the course of implementing Protocol "Altar".
+Description: SCP-CN-166 is the collective term for a batch of human embryos (currently 12 in total). SCP-CN-166 have already developed a roughly-complete body and outer organs. Outwardly they are indistinguishable from a non-anomalous developmentally-normal human embryo at the same stage of development, but results of X-ray imaging and dissection show that compared to a non-anomalous developmentally-normal human embryo, they do not have internal organs; besides skin, some muscle tissue and bones, the insides of SCP-CN-166 are filled with a kind of cellular fluid. DNA analysis results show that the contents of this fluid do not match any known species.
+The anomalous properties of SCP-CN-166 are that, when exposed to a specific religious ceremony (see Incident CN-166-A for full details), they can trigger a series of extranormal events with a medium-to-high risk of mortality in place of an XK-class End-of-the-World, IK-class Civilisation Collapse, or CK-class Reality Restructuring scenario, which is very likely to occur.
+SCP-CN-166's anomalous nature is revealed when the following conditions are met:
+
+Three SCP-CN-166 instances are placed in the same Christian gathering place in Shanghai, so that their positions form the vertices of an equilateral triangle, on top of an altar mechanism (circular in shape), with a metal cross placed at an equal distance from the three SCP-CN-166 instances;)
+The probability that a XK-class End-of-the-World, IK-class Civilisation Collapse, or CK-class Reality Restructuring scenario will occur is no less than 85%;
+12 atheists or Christians (regardless of denomination) holding metal crosses stand within 7 meters of the three SCP-CN-166 instances;
+The three SCP-CN-166 instances are used to hold a certain religious ceremony (see Incident CN-166 for full details).
+
+When the anomalous properties of SCP-CN-166 reveal themselves, a series of extranormal events with a medium-to-high mortality rate will occur in the city of Shanghai, currently observed to include but are not limited to the following:
+
+Drastic increase in urban vegetation cover;
+Increased strength of ultraviolet radiation reaching the city;
+A percentage of pregnant women show consistent degrees of gene recombination;
+Risk of deformities in newborns reaches approximately 65%;
+A percentage of newborns less than six days old [DATA EXPUNGED];
+[DATA EXPUNGED] over the city.
+
+Besides the properties mentioned above, another anomalous property of SCP-CN-166 is that when one instance gets biologically contaminated, all remaining instances will also show varying degrees of biological contamination within 6 hours, but always to a lesser amount than the first instance to get contaminated. If the first instance is not decontaminated, all other instances will get contaminated again in a random 6-hour period the next day. Due to their unique structure, it is impossible to decontaminate an instance without destroying it.
+Because the anomalous situations SCP-CN-166 is capable of inducing are not fully-known, all plans regarding the mass-production of SCP-CN-166 to counter K-class events multiple times are suspended. At the same time, all sites with an instance of SCP-CN-166 in containment are allowed by O5 approval to stop Protocol "Apocalypse" manually by ignoring instructions from the AI "Nostradamus".
+
++Incident CN-166-A
+
+-Identification confirmed
+
+On █/█2014, while a field agent from Site-CN-034, Wang ████, was carrying out reconnaissance duties in the city of Shanghai, ████ Catholic Church in the ████ district was invaded by a few tens of people from an unknown denomination, who used anomalous techniques to attack and kill the Catholic congregation having a sermon inside the church, then occupied the location. Because the movements and anomalous techniques used by the people from the unknown denomination had a high degree of similarity with those used by neo-Sarkic sects, the agent immediately reported this to Site-CN-034 and requested containment specialists to proceed to the scene immediately. While the agent was communicating with Site-CN-034, the contents of those communications were intercepted by a GOC information station in Shanghai.
+Half an hour later, Foundation containment specialists arrived on the scene, immediately barricading the entire church. Once the barricade was complete, several GOC operatives in full combat-gear arrived and dispersed the nearby crowd. Disregarding advice from the Foundation containment specialists not to do so, the GOC operatives broke the containment specialists' barricade and entered the church. The containment specialists declared that their alliance was broken, and dispatched a Mobile Task Force (MTF) to enter the church and stop the GOC operatives from using destructive methods to resolve the situation.
+When the MTF entered the church, the GOC operatives were already exchanging fire with the neo-Sarkic cultists. Notably, all the armed cultists were keeping away from the areas at the end of the church podium and around the crucifix as much as possible. An altar made of human organs, bone and flesh had been set up in that area, with 12 cultists holding metal crosses and walking around the display in circles, chanting in Proto-Uralic. All the pews had two or three skinned or dismembered human corpses, and Father ██, the priest giving the sermon, had been crucified by being nailed to the cross at the end of the church until he’d died.
+After receiving orders to do so, the MTF joined the firefight on the side of the GOC operatives. Once the Sarkic cultists could no longer resist the firepower from the two groups, the flesh-and-blood altar made a liquid sloshing noise. All the cultists surrounding the altar stopped their movements and knelt in front of the altar, raising their metal crosses over their heads. Seconds later, the corpse of Father ██ broke through the nails on the cross, landing on the altar, and was turned by the repeatedly-beating altar into a red sticky liquid. When that happened, the altar let out a deafening roar. All Sarkic cultists present (including those exchanging fire with the GOC operatives and MTF, as well as those who were already dead) made their way to the altar, and began consuming the flesh of the altar and the red liquid.
+In the next few minutes, every Sarkic cultist who had consumed the red liquid was wrapped in a thick layer of bloody flesh, which started twisting and changing shape into a cocoon-like object. The GOC operatives immediately equipped flamethrowers and moved closer to the altar, beginning to burn the altar and the Sarkic cultists nearby. By the time the MTF stopped the GOC on orders to do so, only twenty Sarkic cultists remained, wrapped in flesh, and the altar was severely damaged, ending the ceremony. A moment later, the flesh on each cultist rotted and fell away one by one, leaving behind twenty perfectly preserved human embryos in the mass of flesh, designated SCP-CN-166.
+After Foundation containment specialists negotiated with the GOC commanding officer, the containment specialists took all remaining SCP-CN-166 into containment, and with the assistance of the GOC operatives, wiped the memories of all ██ civilians who witnessed the incident, with a cover story of a raid on a criminal den.
+A total of ██ people were killed or injured in the incident, consisting of █ MTF members, █ containment staff and ██ GOC operatives. █% of the ████ Catholic Church was damaged, but has now been fully restored and is in use once more.
+
+
+
+
+Addendum CN-166-B: During cleanup of the scene after Incident CN-166-A, a Foundation documentation worker uncovered an envelope in the bible on the pulpit containing a letter with Sarkic heraldry printed on it. Fingerprints on the seal of the envelope indicated that the letter had been opened multiple times. The contents of the letter are below:
+
+As the holy day approaches, the faithful gather in the hall of the saints;
+The clock strikes the twelfth hour, accompanied by the cries of agony and despair from the faithful, echoing throughout the entire hall;
+Under the gaze of the judge, the saints stand tall upon the altar;
+The faithful swarm forth, partaking in their Communion;
+The faithful, full of reverence, drink together from the veins of the saints with a respectful manner;
+The faithful and the saints meld together in intimate union;
+Now, this sacred place is sacrificed, and flesh and blood births embryos of hope;
+Now, the faithful gather together, and the saints guide us to rekindle our lives.
+
+Analysis showed that the fingerprints on the outside of the envelope belonged to Father ██.
+Addendum CN-166-C：Based on the clue that the fingerprints on the seal of the envelope in Addendum CN-166-B belonged to Father ██, Foundation agents conducted an investigation into all of Father ██'s communications in the last three months, finally obtaining an email sent by Father ██ to neo-Sarkic Karcist ████ seven days before Incident CN-166-A. The contents of the email are below:
+
+Respected Karcist Mr. ████:
+To receive favor from Nälkä is indeed an honor. To make a slightly clumsy observation here, the highest ideals of Nälkä are nearly identical to our own. Like this, our cooperation should be able to proceed even more smoothly as well— we can borrow the strength of the gods, create a number of powerful entities, and through that achieve the goal of "destruction" and "recreation".
+During my research into some of the Nälkä texts, I discovered a few thaumatic workings that have so far not been put to good use. These workings were used by ancient Nälkä believers to transform human sacrifices into ritual objects, and I have used some special methods to modify them. Now, after some testing, I already have full confidence that the results will delight you.
+On the day of the sermon one week from now, those believers from our denomination will all be here, and their numbers are just enough to carry out this grand ceremony. Please bring enough people on that day, we must ensure that at least twelve disciples will be performing the ceremony. The remainder should bring weapons, I dare not guarantee that no damnable atheists or pagans will show up to spoil it. As for the materials about the thaumatic working, I hid them to avoid the information being intercepted, and I will lead the ceremony when the time comes.
+The holy day approaches, and we will set yet another milestone for those lofty ideals.
+
+Praise Grand Karcist Ion,
+Father ██
+
+
+Addendum CN-166-D：Up until now, Protocol "Apocalypse" and Protocol "Altar" have been initiated █ times in total. Based on observations, the strength of the anomalous events induced by SCP-CN-166 is directly proportional to the number of times the above two protocols have been initiated, and every time the protocols are initiated, the volume of every instance of SCP-CN-166 increases slightly. Applications to conduct more in-depth research into SCP-CN-166's anomalous properties in order to explore more appropriate and effective methods of countering their anomalous natures have been submitted.
+
+Footnotes
+1. Some Mobile Task Forces of the Chinese branch are designated with astrological motifs from the Chinese calendar in place of Greek letters. - Translator's note.
+
+
+                    

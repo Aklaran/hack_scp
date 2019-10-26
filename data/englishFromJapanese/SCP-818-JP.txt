@@ -1,0 +1,202 @@
+
+                        
+
+rating: +4+–x
+Item#: SCP-818-JP
+Object Class: Keter
+Special Containment Procedures： The area affected by SCP-818-JP and the surrounding 300 meter perimeter is isolated by a 4 meter tall block wall. The wall shall be patrolled by three unarmed D-class personnel disguised as security guards, as to prevent intrusion by the public with collars equipped with a means of remote termination. D-class personnel assigned to patrol shall be equipped with a portable camera, and its images monitored by Foundation personnel with a minimum 10 minute delay against a duplicate. In the unlikely event of observing voices or images of SCP-818-JP-1 while patrolling, the responsible research team shall be promptly notified.
+All humans exposed to SCP-818-JP-1 shall be contained within the containment facility located in Underground Site-81██, and shall be terminated using the incinerator that is provided. This operation will always be performed by D-class personnel, and those that execute it shall only be instructed using relayed communication through at least three D-class personnel. When any interviews need to be performed with the victim, this shall be performed in a similar manner utilizing at least three or more D-class personnel.
+Description: SCP-818-JP is an abnormal phenomenon occurring in a vacant land of 50 square meters existing in █ mountain, Saga prefecture. Within the center of the affected area of SCP-818-JP stands a non-anomalous shrine that is approximately 1 meter in height. About ██ pieces of unknown stone fragments have been discovered from within the shrine. Due to observed traces of post-processing identified with these stones, it is theorized that an earlier object must have collapsed due to aged deterioration or external causes. However, due to the extreme deterioration of each piece coupled with some stone pieces being lost, previous attempts to reproduce this into its original form have failed. With the exclusion of snowfall, the environment within SCP-818-JP shall be fixed in a state where soil can be seen at all times with the naked eye.
+SCP-818-JP occurs when humans (hereinafter referred to as victims) are conducting acts that are generally considered within the modern nation of Japan as good conduct, or courteous in behavior (hereinafter referred to as appearance condition) within its perimeter. Humans who have met this appearance condition will then be confronted with an instance of SCP-818-JP-1 (generalized term referring to both SCP-818-JP-A and SCP-818-JP-B) in the surrounding area.
+SCP-818-JP-1 is a collective term referring to the humanoid entities that in appearance look like an elderly couple in their 70's. The male type is referred to as SCP-818-JP-A and the female type is referred to as SCP-818-JP-B respectively. The appeared SCP-818-JP-1 will begin to offer words of praise to the victim, with the praises being terribly exaggerated and fully vindictive of the victim's actions, while using the term "great" more often. The usage of this term will be made even in instances where it would be both grammatically or semantically inappropriate, and since no corrections have been made after point this out, it is therefore presumed that there is some obsession in its usage of the term "great".
+While SCP-818-JP-B can conduct relatively normal conversations, SCP-818-JP-A will only converse with its victims in words of praise or in short phrases. However, SCP-818-JP-B's speech pattern is very unstable, and will often times create discrepancies within its own conversations. After its initial encounter, SCP-818-JP-1 will disappear from the area after offering a certain extent of praises to its victim.
+Once the victim is exposed to SCP-818-JP-1, even if condition is fulfilled outside the affected perimeter they will still be confronted with SCP-818-JP-1 giving words of praise. The impact of this behavior will vary based on the elapsed number of days counted from the victim's initial encounter with SCP-818-JP-1. Although, there are large individual differences in its progression, the effects of SCP-818-JP-1 are known to accelerate as the number of encounters increases. As confirmed currently, the required duration needed for its effects to reach to its final stage are a minimum of 4 days to a maximum of 20 days. By administrating amnestics the effects of SCP-818-JP can be temporarily relieved from the victim, but due to irreversible increase in frequency of SCP-818-JP-1 appearing, the speed of progression will soon return to its original speed within a very short time span.
+A summary of the criteria used for the progression speeds of SCP-818-JP are outlined below.
+Early-term Effects
+The victim will feel an extreme sense of accomplishment through acts that receive the praise from others, and will proactively satisfy the appearance conditions of SCP-818-JP-1. At times, the victim's personality is found to become more optimistic and forward-looking. This thought to be not due to the effects of SCP-818-JP-1, but due to the vindication of their actions and a boost in their self-confidence.
+Mid-term Effects
+The appearance conditions of SCP-818-JP-1 will become more simplified. At the same time, the victim will feel a sense of sarcasm and irony from words of gratitude or praise given by humans other than SCP-818-JP-1, resulting in clashes with their peers. The clashes are at times the root of some incidents in the like of destruction of property, assault, and murder.
+Late-term effects
+The appearance condition of SCP-818-JP-1 will become "being able to speak Japanese", "walk very well", "being born in good health" and the like, where the threshold for the appearance condition will fall to a level that is impossible to avoid. Because of this, the appearance condition of SCP-818-JP-1 will perpetually be maintained and will appear continuously around the victim. The victim themselves will also heavily depend on SCP-818-JP-1 and only respond to the words given by SCP-818-JP-1. Victims that reach this stage do not need to eat or sleep or perform any other life supporting activities for sustenance.
+Although the SCP-818-JP-1 that appears in all stages are also observable to other humans, usually it will not respond to people other than the victim. However, by satisfying the appearance condition within the perception of both SCP-818-JP-1 and its victim, SCP-818-JP-1 will appear as if the appearance condition was satisfied within the affected perimeter of SCP-818-JP. Since the appearance condition at this time will depend on the progression term of its victim, eventually it will become a situation where just approaching a victim in its late-term will fulfill the appearance condition. Correspondingly, since the termination of a victim whose progression is mid-term or later may trigger the appearance condition of SCP-818-JP-1, early retrieval and deposal of the victim is required.
+Attacks against SCP-818-JP-1 are expected to yield results not beyond that of the temporary repulsion of SCP-818-JP-1 and furthermore, because they have the possibility of satisfying the appearance condition of SCP-818-JP-1 attacks against SCP-818-JP-1 are not recommended.
+
++ Experimental Record
+
+- Close Experimental Record
+
+
+Date: 20██/8/20
+Target: D-81801
+Objective: Exposure to SCP-818-JP-1 and its progression record
+
+D-81801 was ordered to pick up the trash within the premises of SCP-818-JP
+D-81801: Doesn’t seem like there is much trash on the ground…, is this fine?
+D-81801 picks up a lid of a plastic bottle
+Researcher ██: Please throw that into the garbage bag that was provided
+(D-81801 throws the lid of a plastic bottle into the garbage bag. Immediately, SCP-818-JP-1 appears behind D-81801.)
+SCP-818-JP-1: How great-1.
+
+D-81801: Woah!?
+
+SCP-818-JP-A: Garbage, how great-. For picking up.
+D-81801: You were there, since when?
+SCP-818-JP-B: Picking up the garbage nowadays and being so young, really how great-.
+D-81801: Oh…that's.
+(Instructions are given by the staff for D-81801 to state that they picked up the garbage in their own volition.)
+D-81801: No…well, of course it's natural.
+SCP-818-JP-B: No no, only a great person is able to, right Grandpa?
+
+SCP-818-JP-A: That's really great-
+D-81801: Hahaha, that makes me blush. It's been a while since I've been praised by someone else.
+(Thereafter, SCP-818-JP-1 kept offering words of praise to D-81801 for approximately 5 minutes.)
+SCP-818-JP-B: Please continue from now on okay, shall we go soon Grandpa?
+SCP-818-JP-A: Yes, yes yes.
+D-81801: Yup, bye. Old man, old lady.
+SCP-818-JP-B: Hehehe, making proper greetings too, how great-
+SCP-818-JP-A: Your job, how great-
+
+SCP-818-JP-1 disappears after moving outside the field of view of D-81801.
+Due to SCP-818-JP-A issuing the term "job", there is a possibility it may be aware of the fact that D-81801 encountered SCP-818-JP-1 as part of their job routine, or how instructions from Foundation personnel were transmitted to D-81801 through communications equipment.
+
+
+
+
+
++ Observation Record
+
+- Close Observation Record
+
+
+Date: 20██/9/10
+Target: D-81801
+This is a visual recording inside the isolation room of Underground Site-81██, approximately one month after D-81801 was in contact with SCP-818-JP-1. SCP-818-JP-1 no longer disappears and throws constant words of praise to D-81801.
+
+SCP-818-JP-B: So well-behaved, how great-.
+SCP-818-JP-A: How great-, so great.
+D-81801: Hehe, you're the only ones who praises me like that.
+SCP-818-JP-B: That's a very mysterious story.
+D-81801: That's right, no one gives me credit. On the contrary, every one of those good-for-nothings make a mockery of me, "yes, yes; I get it, I get it; how great, how great" and so on.
+SCP-818-JP-B: That's puzzling? Even though we are praising.
+SCP-818-JP-A: We, know.
+SCP-818-JP-B: Well yeah, because you are great by speaking Japanese, great by being able to see with your eyes, and great by being able to breathe my child.
+SCP-818-JP-A: Killing, people how great-, very good.
+
+SCP-818-JP-B: How great- in becoming a D-class.
+SCP-818-JP-A: Your heart, it moves how great-.
+SCP-818-JP-B: You were born how great-.
+SCP-818-JP-A: How great-, how great-.
+SCP-818-JP-B: Completing your job, how great-.
+SCP-818-JP-A: Your job, how great-
+
+The words of praise by SCP-818-JP-1 continued up until D-81801 died due to subsequent termination. From containment to termination, D-81801 did not eat or sleep, but had no problems in surviving.
+In addition, immediately after SCP-818-JP-B's remark of "Completing your job, how great-" SCP-818-JP-1 appeared around the surroundings of █ Foundation personnel who were observing and monitoring both D-81801 and SCP-818-JP-1. Because previous attempts of observing and monitoring did not yield in the appearance of SCP-818-JP-1, there is a possibility that the perceptual range of SCP-818-JP-1 in some way is expanding, or based on the victim's progression of exposure to SCP-818-JP is temporarily expanding. In later experiments, it has been found that as the victim's exposure to SCP-818-JP-1 becomes late-term, the appearance conditions of SCP-818-JP-1 can be satisfied through both visual or audio cues. Viewing records of duplicates have confirmed no appearances of SCP-818-JP-1.
+
+
+
+
+
++ Interview Record
+
+- Close Interview Record
+
+
+Date: 20██/9/13
+Interviewer: Researcher ██
+Interview Subject: SCP-818-JP-1
+Researcher ██ has been exposed to SCP-818-JP due to an incidental accident, and its progression have already reached the early stages. Because of this, a formal request was made to interview SCP-818-JP-1 directly, in-person before termination. To prevent exposure of SCP-818-JP to other Foundation personnel through communication equipment, the interview was performed within the affected area of SCP-818-JP using closed-loop recording devices.
+
+Recording Start
+(Researcher ██ offers a donation and worships the shrine within SCP-818-JP. Immediately, SCP-818-JP-1 appears behind the back of Researcher ██. )
+SCP-818-JP-A: Paying a visit how great-.
+SCP-818-JP-B: Carrying out your job even today how great-.
+Researcher ██: Thank you very much. Would you mind if I ask you some questions for today?
+SCP-818-JP-B: Oh? What could this be?
+Researcher ██: From when where you here?
+
+SCP-818-JP-A: Always.
+SCP-818-JP-B: Well yeah since a long time ago, Grandpa.
+Researcher ██: Would you remember the specifics on from when you have been here?
+SCP-818-JP-B: From since when we were great. But we just came back.
+Researcher ██: Where have you come back from?
+(Immediately afterwards, SCP-818-JP-A unexpectedly starts to cry. SCP-818-JP-B attempts to console it, and the conversation is interrupted for about 10 minutes until SCP-818-JP-A calms down.)
+Researcher ██: Are you calmed down? Would you mind if I resume the interview?
+SCP-818-JP-A: Brown yellow white, a narrow soft room, a trash bin, and many others.
+Researcher ██: Yes? Oh, it's the continuation of the story, please.
+SCP-818-JP-B: Day after day, told to sing songs that have no meaning, being told to forcefully make friends with other people, being told a lie that our time is over, when no such thing can happen.
+SCP-818-JP-A: We walked the same place many times. Ate unappetizing food. Was poured hot water. They were always looking down on us. And praised us. They praised us. They continued to praise us. They were laughing.
+SCP-818-JP-A: We should be the ones offering the praises. That is why we came back.
+SCP-818-JP-B: For our role.
+Researcher ██: Your role?
+SCP-818-JP-B: Don't you people need us?
+SCP-818-JP-A: If not, wouldn't it be problematic?
+Researcher ██: No, well…returning to the story. Why do you praise humans beings?
+SCP-818-JP-B: Of course, it is because it's a great deal.
+SCP-818-JP-A: Good child, how great-.
+
+Researcher ██: Even so, wouldn't your criteria of giving excessive praises becoming a bit too loose?
+SCP-818-JP-B: There is no big or small, good or bad in being great. Then again, who wouldn't be happy for being praised? Everyone is pleased.
+Researcher ██: Is that so, then why do you adversely affect humans through acts of giving praise?
+(SCP-818-JP-1's Laughter)
+SCP-818-JP-B: Well everyone is happy.
+Researcher ██: Yeah, I can see how that can be, but at the very least their condition makes it impossible for them to continue a normal life.
+SCP-818-JP-B: Yes, they look really happy-. Being praised by us.
+SCP-818-JP-A: No mistake that they are happy.
+Researcher ██: Why do you think that they are happy for being praised by you?
+SCP-818-JP-A: Because it is not a sham.
+SCP-818-JP-B: Well yeah, because we are great Grandpa.
+Researcher ██: What does it all mean?
+SCP-818-JP-A: How great- for asking questions.
+SCP-818-JP-B: We give praise because we are great. We are offering our acceptance.
+SCP-818-JP-A: Aren't you happy?
+SCP-818-JP-B: Well yeah, Grandpa. They are happy for receiving praise because we are great. We are genuine, so they are happy to be praised by us.
+Researcher ██: Aah…then, tell me the reason behind why you are a great being.
+SCP-818-JP-B: Of course it was decided since a long time ago. Every everyone was saying it. Because we are great you know.
+SCP-818-JP-A: Offering praise, is greater than receiving praise.
+SCP-818-JP-B: Yes Grandpa, you are right. Those people in that room also did too. Besides, everyone is pleased when we praise them. That is proof. Hey, aren't we great?
+Researcher ██: …Yes, your greatness was fully communicated. Then, going on to the next question ….
+SCP-818-JP-A: Hey.
+Researcher ██: What is it?
+SCP-818-JP-A: Perhaps probably, protecting the world is the most, greatest thing.
+SCP-818-JP-B: There is no doubt about it Grandpa, that must be the most greatest thing, how great-.
+SCP-818-JP-A: Yet, your people will never be righteous. We know that at times in protecting the world your people will do acts that are well removed from that of good conduct.
+SCP-818-JP-B: We also know that you take upon your own beliefs and push away the righteousness of others, at times permitting many sacrifices as necessarily required. There must have been some poor children who have suffered through that too.
+SCP-818-JP-A: But, we also recognize that the greatness of those acts are a lot greater.
+SCP-818-JP-B: We also know that you people are thinking of trying to do something about us, by taking upon those same beliefs. And that is a very great thing.
+SCP-818-JP-A: We will accept your kind. That is our role.
+SCP-818-JP-1: But you should not forget.
+SCP-818-JP-1: That we are even greater.
+SCP-818-JP-1: That nothing exists that is greater than us.
+SCP-818-JP-1: That we are the most greatest greatest greatest greatest greatest greatest at being great.
+SCP-818-JP-1: Your kind has an obligation of being praised. Do not run away from it? Because we are the ones that are great.
+SCP-818-JP-A: Keep up the good work.
+SCP-818-JP-B: For our sake, for praise sake, protect this world.
+SCP-818-JP-A: This is a really great thing.
+Researcher ██: Understood. From now on we will promise that we will put our best in protecting the world.
+SCP-818-JP-A: How great-.
+SCP-818-JP-B: How really great-, in time we need to thank the other children too, Grandpa.
+SCP-818-JP-A: Yes, everyone.
+Researcher ██: Yeah, I am sure everyone will be delighted.
+SCP-818-JP-A: So many great kids, how great-. Great like the old days….
+SCP-818-JP-A: Indeed, it has become ragged now after vacating it for a while, but it will soon become magnificent like the old days. Because we are great.
+SCP-818-JP-A: I am sure, everyone will return.
+SCP-818-JP-B: Ah..that would be fine, Grandpa… … … . Who else was everyone, Grandpa?
+SCP-818-JP-A: … … … .Who knows?
+(After 20 minutes of unimportant conversations, SCP-818-JP-1 disappears. Despite leaving some unanswered preplanned interview topics, Researcher ██ made no attempts retain SCP-818-JP-1.)
+Recording End
+
+After the interview, due to confirming the condition of Researcher ██ has progressed to its mid-stages, termination was sentenced after recovery of the recording devices. Based on the interview content, it is speculated that SP-818-JP-1 was previously enrolled in a facility with functions similar to that of a hospital or elderly nursing home. Furthermore around the middle of the interview, SCP-818-JP-A has been confirmed to clearly not be expressing just simple praises or short terms, but also expressing a similar level of behavior as SCP-818-JP-B. The factors that triggered this change remains unknown at this time.
+From the statement of SCP-818-JP-B, there is a possibility that affiliation with the Foundation itself is now a newly added appearance condition of SCP-818-JP-1, and it has since been decided that all work pertaining to SCP-818-JP will be assigned to D-class personnel.
+
+
+Postscript 20██/10/6 : Currently, reports from several Foundation staff members working in containment sites in near vicinity of SCP-818-JP have reported hearing the words, "how great-" and, at least one person reporting hearing the phrase "you're great-" in a male voice. Currently no confirmed records of SCP-818-JP-1's appearance have been reported, but this suggests the possibility of the expansion of SCP-818-JP-1's affected area, or the likes of the active activities of SCP-818-JP-A being conducted.
+There has not been sufficient information collected on these phenomena, and the investigation is still ongoing. In addition, it has since been decided that assigning D-class personnel to patrol the external perimeters of SCP-818-JP's isolation protection wall will actively inspect for any increases in SCP-818-JP's affected area.
+
+
+
+
+Footnotes
+1. Translator's note: "えらいねぇ～" is a broken, more informal expression of the term "えらい" (偉い) which is used to describe something as "great", "important", "admirable", and/or "respectful". It's usage is similar to the English expression of "you're doing great" but with a suspended hyphen.
+
+
+                    

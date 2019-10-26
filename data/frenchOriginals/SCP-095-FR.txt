@@ -1,0 +1,76 @@
+
+                        
+
+
+
+
+
+
+notation: +15+–x
+
+
+
+
+
+
+notation: +15+–x
+
+
+
+
+
+
+
+
+
+Crédits
+
+
+Titre : SCP-095-FR - Le Cœur de Démon
+Auteur : Neremsa
+Date : 10 février 2015
+
+
+
+
+
+
+
+
+
+notation: +15+–x
+
+notation: +15+–x
+
+
+
+
+
+
+
+Reproduction de SCP-095-FR lors du premier accident de criticité en 1945.
+
+
+Objet # : SCP-095-FR
+Niveau de Menace : Jaune ● Orange ●
+Classe : Euclide Keter
+Procédures de Confinement Spéciales : SCP-095-FR doit être confiné dans un coffre plombé étanches aux radiations. SCP-095-FR doit être confiné dans un bunker sous-terrain conçu pour résister à l'explosion d'une bombe A standard. Seuls les membres du personnel de classe D sont autorisé à manipuler SCP-095-FR en raison de ses effets. Les classes-D ayant manipulé SCP-095-FR doivent être abattu une fois leur tâche effectuée. Tout les six (6) mois, il faut remplacer le coffre plombé ayant contenu SCP-095-FR en raison des dégâts subit lors du confinement Après chaque explosion, il est nécessaire de vérifier l'intégrité du bunker et de déplacer SCP-095-FR dans un autre bunker le cas échéant.
+Description : SCP-095-FR, ci après mentionné l'objet (ou « le cœur de démon »1 par les membres du personnel), est une sphère de quatre-vingt neuf (89) mm de diamètre, pesant 6,2 kg et composé entièrement de Plutonium 239 en état de masse critique permanente et auto-entretenue. Cela se traduit par une émission en constante augmentation extrêmement élevée de radiations de type alpha d'un maximum d'environ dix (10) Gy et d'un flux neutrons d'un maximum de l'ordre de 106×1025 n.cm-2.s-1 neutrons rapides et 106x1022n.cm-2.s-1 neutrons thermiques. Ces émissions empêchent toute manipulation par les membres du personnel et endommagent gravement tout système électrique dans un rayon de vingt (20) mètres. Un effet secondaire plus dangereux du flux neutrons est de gravement irradier tout tissus vivants situé à moins de dix (10) m de la source et d'activer2 les matériaux denses, plus particulièrement les métaux ou les tissus osseux.
+L'objet conserve une masse constante malgré des conditions physiques qui devraient mener à une diminution de masse et semble capable de se reconstruire par un moyen inconnu : en raison de l'incident 095-FR-1, il fut impossible d'observer le phénomène de reconstruction de l'objet. En dehors de ces effets, l'objet montre les mêmes caractéristiques que le Plutonium 239 normal.
+Selon un cycle de temps encore inconnu, l'objet semble provoquer spontanément une explosion nucléaire sans être dans les conditions normalement nécessaires à ce genre de réaction. Cet effet demeure inexpliqué à ce jour.
+Addendum 095-FR-1 : Le 01/07/2015, soixante-neuf (69) ans après sa première destruction confirmée, SCP-095-FR a explosé avec la force d'une bombe nucléaire de type A estimée à trente trois (33) kilotonnes, provoquant la destruction quasi totale du site Algiz, la mort de deux cent quatre-vingt cinq (285) personnes3et la destruction de quatorze (14) SCP de classes Sûr et Euclide. Les chercheurs ayant étudié l'objet ont émis la théorie qu'il serait susceptible de détoner à nouveau après un nombre d'années équivalant à cinquante ans, le seul signe avant-coureur de l'explosion étant le pic maximal de radiations et de flux neutronique enregistré avant la dernière explosion. Une autre théorie est que l'objet est prit dans une boucle temporelle, ce qui expliquerait également le cycle explosion-reconstruction car celui-ci correspondrait à la fabrication et à la destruction de l'artefact. Il est fortement probable, toujours selon les chercheurs, que SCP-095-FR ait détoné plusieurs fois avant sa récupération par la Fondation. L'objet a été reclassé en Keter et déplacé dans un site sécurisé tenu secret à l'épreuve des explosions nucléaires.
+Addendum 095-FR-2 : SCP-095-FR fut récupéré dans le fond marin de l'Atoll de Bikini, environ un an après l'essai nucléaire "Able" de l'opération Crossroad. Les militaires américains avaient été dépêchés sur place suite à un problème de contamination radioactive anormale. L'évacuation de l'objet provoqua plusieurs morts, ce qui attira l'attention de la Fondation. L'objet fut récupéré dans le premier but de servir de source d'énergie, mais il se révéla trop dangereux à manipuler.
+Addendum 095-FR-3 : Outre les victimes de l'explosion du site Algiz, il fut porté à la connaissance des chercheurs que SCP-095-FR était déjà responsable de deux (2) morts aux laboratoires de Los Alamos en 1945 et en 1946 : Harry K. Daghlian Jr. et Louis Slotin. Tous deux sont décédés des suites d'un accident de criticité en travaillant sur SCP-095-FR dans le cadre des premiers essais sur la bombe atomique. A ce jour, il est impossible de savoir si ces deux accidents ont un lien avec l'état actuel de l'objet.
+
+Notes de bas de page
+1. Le surnom de « Cœur de démon » ou « Demon core » ne vient pas initialement du personnel de la Fondation, mais du personnel du Laboratoire national de Los Alamos durant les recherches postérieure au projet Manhattan, en 1946.
+2. Pour le personnel non scientifique : activer la matière signifie rendre ce matériau radioactif
+3. Ce nombre correspond aux victimes de l'explosion en elle même, aux victimes de l'irradiation qui en a résulté ainsi qu'aux victimes des effondrements structurels du site Algiz suite à l'explosion.
+
+
+
+« SCP-094-FR | SCP-095-FR | SCP-096-FR »
+
+
+
+                    

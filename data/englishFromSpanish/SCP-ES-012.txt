@@ -1,0 +1,92 @@
+
+                        
+
+rating: +2+–x
+
+
+Current area of the Containment Area of SCP-ES-012, after its transfer from the Area-██
+
+
+Item #: SCP-ES-012
+Object Class: Safe Keter
+Special Containment Procedures: SCP-ES-012 should always be at a temperature below 10 degrees Celsius below zero. Although it will always remain submerged in liquid nitrogen at a sustained temperature of -243º.
+SCP-ES-012 may not have any type of contact with light from any external source. The dimensions of the cell are currently 17x17 meters wide and long, solid cement covered with steel plates and the internal cell is composed of 4 capes of 8 centimeters of lead containing radiation inside the coolant chamber and its measurements are 6 meters long and wide. The internal cell is supported by 10 columns of 30 centimeters in diameter that keep it 2 meters above the ground and are made of concrete and metal bars. Inside the internal section of the containment room will be a square chamber two meters high and long, fully sealed where the SCP-ES-012 will be submerged in the liquid refrigerant (liquid nitrogen).
+SCP-ES-012 is in Area-██ in - the location of ████████ in Siberia-, it is authorized to transfer it to Area-██ on the day ██/██/████ (with the authorization of O5-13 and O5-10). Their transfer to another facility will only be approved if two members of the O5 Staff authorize their confinement in another area of the world as long as there is a justification and reason of importance for their transfer.
+Only staff with Level 04 will be able to access the cell after authorization to conduct studies by Dr. ██████, the procedure for entering the external containment room will consist in switching off all sources of lighting present in the room. SCP-ES-012 confinement block (every staff member entering this should be dressed in a Level III Anti-radiation Suit) and night vision lenses. Once the subjects are inside the outer cell, the door behind them will be closed and sealed, until the order to open the main floodgates again. When entering the internal containment room, the coolant must be drained, at the moment when the chamber is empty, 12 seconds will be taken before re-cooling the entire cell so that its temperature remains below -10º.
+When the personnel leaves the internal cell, the chamber of the SCP-ES-012 will be refilled with the cooling liquid and the entrance door to the interior of the cell will be hermetically sealed. The main door to the outer cell will open after the door of the internal containment room is fully sealed. A complete automatic washing of the outer cell will be carried out once it is sealed again and the personnel is already outside. The subjects must be decontaminated when entering and leaving the outer cell.
+Description: SCP-ES-012 has a dodecahedron shape, 30 centimeters high and 24 centimeters wide, metallic black. It has inscriptions on each of its sides in an unknown language. It is highly radioactive, its surface is composed of a metal that does not exist in natural conditions, 4 centimeters thick, inside which is a sphere composed of a possible mixture between uranium (% ██,█), plutonium (% ██,█) and a mineral that had not previously been identified on Earth that occupies the remaining percentage of its composition.
+SCP-ES-012 is activated when the surrounding temperature rises to more than ten degrees below zero. This will then cause is inscriptions to begin to shine, from this point on, it will emit a luminous radiation of more than ███ lux, which can cause irreversible damage if it is observed without adequate ocular protection. By means currently unknown, when it makes contact with any source of light its radioactivity increases exponentially (from 190 Rems to 700 Rems). These reactions generate an invisible semi-spherical spectrum that distorts the visible image by present as well as by means of video surveillance around, it has 20 meters in diameter. When a multicellular form of life enters this field, be it an animal, a plant or a human, a tissue mutation process will begin at high speed, deforming the physical form of being exposed to SCP-ES-012 very quickly. Physical contact with any of the SCP-ES-012-1 is strictly prohibited. Each mutation is totally different although they can be divided into three kinds of tissue alteration:
+Class A: The affected subject that has become SCP-ES-012-A lacks total intelligence seconds after contact, it will become completely motionless when all its limbs are unused, after ██ hours approximately, the subject will become a species of inorganic mass lacking in shape and grayish hue.
+Class B: The specimen of SCP-ES-012-B is aggressive, each one has a different form of defense and attack, has a minimum intelligence with which they are able to solve very simple problems, try to kill and [DATA DELETED] to all personnel that this fence, if it becomes unable to control it, will have the authorization to finish it.
+Class C: SCP-ES-012-C is a human whose mutations have been partial and not total, are not aggressive, some may even pronounce words or speak. They are highly affected psychologically by showing an extensive variety of pathologies. Many of the subjects ask to be eliminated or try to commit suicide with repeated blows against the walls of their cells. The subjects before their death have the tendency to affirm having seen apocalyptic events, referring indirectly to SCP-ES-012.
+The animals exposed to the radioactive field, have the same characteristics of the human mutation classes.
+
+
+Impact site of SCP-ES-012 in █████████, England. Note to one side the observation equipment approaching the object.
+
+
+SCP-ES-012 fell like a meteorite on Earth in 1███, leaving a relatively small crater (4.23 meters in diameter), was found that same day by a group of civilians on the outskirts of █████████ in England, all the subjects that approached SCP-ES-012 mutated and the people who were in the vicinity were killed by these. The Foundation arrived a few hours after the incident, ending with the SCP-ES-012-B and capturing the SCP-ES-012-A and C. Civilians who witnessed these events were given class B amnesia. The number of human casualties was [DATA EXPUNGED] (including affected by the mutageno dome).
+To transfer it, the area was sprayed with liquid nitrogen for about 15 minutes, thus extinguishing the effect of SCP-ES-012 and then completely covering it with concrete to leave it out of the light contact, when the radioactive dome vanished, it proceeded to move it from its location. The team specialized in containment that operated in the event achieved the shutdown of the effect trying to cool it quickly (the temperature of the object exceeded 870 degrees Celsius). Although the kind of radiation emanated by it was not classified, we opted to measure it temporarily with the standard scales.
+The radiation of the crater was impossible to remove, for this reason a fenced perimeter of 5 hectares was set, the impact site of SCP-ES-012 was covered by a cement box 20 meters long and wide to contain the residual radiation left by the object.
+
+Subsequent investigations:
+The Foundation has considered that its dismantling is too risky, the procedures to obtain samples of the surface of the object have been denied due to the risk they propose. Tests have been done to determine the severity of mutations with Class-D personnel.
+P1: The subject D-5234 has been exposed to the radioactive field of SCP-ES-012, with the authorization of agent ███████ and Dr. ████████.
+Mutation time: 32.8 seconds.
+Distance of the object: 90 centimeters.
+Result: Class A mutation
+Life time: 23 hours.
+
+Observations: His arms lengthened 2 meters and were consumed until reaching 10 centimeters in a span of 8 seconds. It has been classified as the faster mutation process by SCP-ES-012.
+
+P2: Subject D-1445 has been exposed to the radioactive field of SCP-ES-012, with the authorization of Dr.████████ and Prf.█████.
+Mutation time: 1 minute and 10.89 seconds
+Distance of the object: 3.2 meters.
+Result: Class B mutation
+Life time: 30 days and 4 hours.
+
+Observations: The jaw of the subject was able to open 3 times more than that of the average human, his legs grew 15 centimeters and his arms 1 meter. The tongue of the SCP-ES-012-6-B is retractable and measures 3 meters, it ends in a second independent jaw, which has openings in the digestive system.
+
+P3: Subject D-1890 has been exposed to the radioactive field of SCP-ES-012, with authorization from Pr. █████
+Mutation time: 6 minutes and 32.12 seconds
+Distance of the object: 9 meters.
+Result: Class C mutation
+Life time: 14 days and 12 hours.
+
+Observations: His speech capacity remains intact, his legs and arms have become immobile bony plates covered with extremely weak muscles, the digestive system consumes itself by [DATA DELETED].
+
+P4: The subject D-████ has been exposed to the radioactive field of SCP-ES-012, with the authorization of [DATA DELETED].
+Mutation time: █.██
+Object distance: Direct physical contact with the entity
+Result: [DATA DELETED]
+Life time: █,█ Hours.
+
+Observations: He managed to assassinate and [REDACTED] a number of ██ agents and █ investigators from the adjoining sections of the SCP-ES-012 test chamber in an amount of ██.█ minutes.
+
+PROOF ARE PROHIBITED WITH CLASS-D PERSONNEL AT SCP-ES-012.
+
+File 012 C-01:
+Dr. Piotr has requested an interrogation with SCP-ES-012-11-C (Application accepted on ██/██/████, 17 hours before the death of the mutation result)
+Interview omitted.
+In the edition Nº█ of the report the interview was removed for not presenting any type of precise help in the procedures and as well as in the description of the object, then the final conclusions obtained from it will be seen.
+At the end of the interview SCP-ES-012-11-C began to emit strange sounds and then words in a language still unknown. A few minutes later he was sedated and successfully transferred back to his cell, after █ hours of the event, the result of the mutation reawakened much more altered, crying out for its elimination and [DATA DELETED]. After a few hours SCP-ES-012-11-C was incinerated. The ashes did not present any anomaly.
+██ days after the interrogation, after investigations conducted by Dr.Piotr, and Pr.Milkorv, it was concluded that what is mentioned by SCP-ES-012-11-C is SCP-ES-012 itself, the box is the surface and the sphere is the alloy of radioactive minerals inside, so it is assumed as a certain "invitation" composed of an envelope and a letter.
+This was the penultimate test subject that was exposed to the radioactive field. The visions of those affected Class C prove to be "premonitions" if the "box" is opened, the attempts to open it were never carried out and after the incident of the Test 4 it was strictly forbidden to perform that procedure either by any means.
+File 012 VK-03:
+The inscriptions in SCP-ES-012 have been studied repeatedly and have been determined to be a phrase written in an unknown alphabet, it is believed to be a root language of ancient Egyptian, after several weeks of comparisons with ancient alphabets believes that the phrase that is engraved on its surface means:
+
+“The ancients came from us and the ███████ will also come, open their invitation to be reborn"
+The phrase was partially censored to avoid a category risk [REDACTED] in the personnel.
+
+In order to assemble this sentence, a computerized 3D model of SCP-ES-012 was made when it did not find order in the symbols of the inscriptions.
+According to what the SCP-ES-012-11-C mentioned in the interrogation carried out by Dr. Piotr, it is feared that if the cover of the radioactive material is opened there will be no way to contain the radiation accumulated inside it, for this reason, any member of the Foundation is prohibited from entering the containment cell of SCP-ES-012, due to the fact that if the container cover were accidentally opened, a large-scale expansion of the mutageno dome could be unleashed. it would generate a Class XK End-of-the-World Scenario. It is assumed that if this were to occur, since there was no way to reverse its effect, it could totally or partially end life on the planet.
+
+UPDATE:
+ALL APPLICATIONS FOR EXPERIMENTATION WITH SCP-ES-012 WILL BE DENIED. THE ELIMINATION OF ANY SUBJECT THAT ENTERS BY ANY MEANS WILL BE PROVIDED TO THE CONTAINMENT ROOM OF SCP-ES-012.
+
+
+« SCP-ES-011 | SCP-ES-012 | SCP-ES-013 »
+
+
+
+                    

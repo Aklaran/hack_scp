@@ -1,0 +1,90 @@
+
+                        
+
+rating: +7+–x
+
+
+SCP-172-FR prior to containment.
+
+
+Item #: SCP-172-FR
+Threat Level: Green ●
+Object Class: Safe Euclid (see Addendum 4)
+Special Containment Procedures: SCP-172-FR is currently dissimulated beneath a scaffold, and access to the building which contains it is restricted to Foundation personnel. All persons having seen SCP-172-FR before its containment are to be informed that it was an architectural defect, and that the scaffold's purpose is to help fix it. The building which contains SCP-172-FR was furnished in order to host a guard tasked with monitoring of the anomaly.
+Personnel must exit or enter the building through SCP-172-FR at least once per week (see Addendum 4).
+Description: SCP-172-FR is the designation of a window of the second floor of a residential building located at the address ██th, ██████ Street, Grenoble, France. From the outside, it appears to be tilted towards the East at an angle of 16.4°. From the inside, it is tilted with the same angle, but in the opposite direction. Anything observed through SCP-172-FR, including gravity and the horizon, appears tilted with the same angle, in a way similar to a tilted television screen.
+
+
+Water having crossed SCP-172-FR.
+
+
+When any object enters or leaves the building through SCP-172-FR, it adopts a 16.4° angle similar to that of the window, and the gravitational pull it experiences is therefore also tilted. If an object exits the building through SCP-172-FR, it will be tilted towards the East, whereas if it enters through SCP-172-FR, it will be tilted towards the West. It is therefore possible to counteract the effect by crossing SCP-172-FR a second time in the opposite direction.
+This effect is cumulative: entering or exiting the building through SCP-172-FR twice will result in an angle two times as great, etc. It is therefore possible to completely invert an object's gravity after 11 iterations.
+The laws this anomalous gravity follows, if they exist, are not yet fully understood. It is only known that objects with an angle close to 90° follow the earth's curvature while "falling".
+Addendum 1: A brass plate is screwed below the window (on the inside of the building), bearing following text:
+
++ show block
+
+– hide block
+
+
+
+You are right.
+And you are completely sure about it.
+You always were.
+Those who claim they see things differently,
+They are wrong, right?
+There is only one way to see the world.
+And it's yours.
+Should you put yourself in someone else's shoes,
+You wouldn't see any difference.
+But I invite you to cross me.
+And see by yourself,
+Whether or not we all see through the same eyes.
+Hoping you will think about yourself,
+And that you will invite others to do so.
+Do not worry;
+[REDACTED]
+~
+"Points of View" - 20██
+Et maintenant, on est cool ?
+
+
+
+
+
+Addendum 2: Item recovery
+The Foundation gained custody over SCP-172-FR on March 3rd 20██, after agents noticed a tilted window on a building which had been achieved the day before. After a brief inspection of said building, the agents noticed SCP-172-FR's visual anomaly. Further testing revealed the object's gravitational anomaly, leading to its reclassification as an SCP item. There is one known photography of SCP-172-FR online, often cited as an example of a 'construction fail'.
+According to city archives, the building's construction was lead by Comée Real Estate1. No further information was found about this particular firm.
+
++ Level 4/Aryabhata security clearance required
+
+Accepted
+
+Addendum 3: Project Aryabhata
+The O5 Council demanded the use of SCP-172-FR in the construction of gravitationally modified space probes. These probes will be exposed to different gravitational fields than that of the earth in the purpose of better understanding the laws of SCP-172-FR's anomalous gravity. The eventual goal is to gather enough data to build [REDACTED].
+The inclination process will consist in transferring each component of each probe through SCP-172-FR until it reaches a certain angle. Researchers are free to cross the window as many times as they wish in order to render construction easier, however, personnel is reminded that in such a case, any fall is potentially dangerous or infinite.
+
+
+
+
++ Level 3 security clearance required
+
+Accepted
+
+Addendum 4: Censored paragraph of the brass plate
+
+I will come to those in need of me,
+And will stop only when none are left.
+
+Monthly measurements have revealed that all windows in SCP-172-FR's vicinity are slowly tilting towards the East. The inclination speed goes down with distance to SCP-172-FR. Windows separated from SCP-172-FR by more than three other windows do not experience this effect, or at least not yet. The highest recorded speed is █° per week. These windows exhibit the same visual and gravitational properties as SCP-172-FR, only with a slighter angle.
+Containment procedures were updated in order to prevent the spread of this phenomenon throughout Grenoble. Object was reclassified as Euclid.
+
+
+
+
+Footnotes
+1. Comée is an anagram of E.M.O.E.C, which stands for Et maintenant, on est cool ?, french for Are we cool yet ?.
+
+
+                    

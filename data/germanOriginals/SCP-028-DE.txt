@@ -1,0 +1,130 @@
+
+                        
+
+
+
+Bewertung: +13+–x
+
+
+
+
+
+
+
+
+Bewertung: +13+–x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credits
+
+
+Artikel: SCP-028-DE - Sonderkommando für Paranormales
+Autor: Dr_Grom
+
+Bild-Ersteller: Dr_Grom
+Bild-Lizenz: CC BY-SA 3.0
+
+
+
+
+
+
+
+
+
+
+
+Bewertung: +13+–x
+
+Bewertung: +13+–x
+
+
+
+
+
+
+
+Logo des SKP
+
+
+Objekt-Nr.: SCP-028-DE
+Klassifizierung: Keter
+Sicherheitsmaßnahmen: SCP-028-DE ist oberirdisch als homöopathische Wellnesshotelanlage getarnt, die als Unterkunft für einen Großteil des Personals dient; die Wellnessbereiche dürfen vom Personal zur Entspannung genutzt werden und werden von Stufe 1 Personal betrieben. Zivilisten die versuchen Zimmer zu buchen werden mit angeblicher Überbuchung abgewimmelt.
+Das dazugehörige Gelände ist umzäunt und videoüberwacht, außerdem sind ständig 2 Wachtrupps auf Patrouille. An den Zufahrten finden Einlasskontrollen statt.
+Die unterirdischen Bereiche von SCP-028-DE sind vollständig videoüberwacht und werden permanent von 12 Wachtrupps von nicht weniger als 8 Mann, die mit einem Waffenarsenal das von normalen Sturmgewehren über Flammenwerfer bis hin zu Laserprojektoren reicht, ausgestattet sind. Eine genaue Liste der Ausrüstung siehe #028-DE/A3.
+Im Abstand von jeweils exakt 747,9 m (Siebenhundert Siebenundvierzig Komma Neun) in der Vertikalen zu einem festen Messpunkt auf dem Gelände von SCP-028-DE befinden sich in einem auf den Dezimeter genauen gleichen Abstand zueinander 18 Scranton-Realitätsanker, die auf verschiedene Weise getarnt sind, und rund um die Uhr von Wachpersonal und Videokameras überwacht werden. Diese SRA sind permanent eingeschaltet und auf 20 Hm1 ±0,1 Hm kalibriert.
+Rings um SCP-028-DE-C in Raum ᚠ befinden sich an einem kugelförmigen Rahmen von 18 m Durchmesser insgesamt 36 SRAs in möglichst genauen regelmäßigen Abständen. An einer Seite sind die SRAs und deren Grundgerüst schwenkbar, um die Gerätschaften aus #028-DE/P1 hindurch zu lassen.
+Sollte an einem oder mehreren Ankern eine Realitätsabweichung von mehr als 2,0 Hm gemessen werden, ist sämtliches nicht im Dienst befindliches Personal der Anlage in Bereitschaft zu versetzen, die Reaktionskräfte haben ihre Posten einzunehmen und O4 ist zu verständigen. Erreicht die Abweichung 6,0 Hm ist O5 zu informieren und Codewort „Heimdall” mit höchster Priorität an Standort-DE20, und mit normaler Priorität an alle Standorte auf der Liste #028-DE/A1 zu senden. Die Reaktionskräfte bereiten Protokoll „Mjölnir” vor. Die ab einer Abweichung von ca. 11,0 Hm möglicherweise erscheinenden Personen aus U-3378-DE (SCP-028-DE-A) sind mit allen verfügbaren Mitteln zu neutralisieren.
+Wird SCP-028-DE-C geöffnet, wird Protokoll „Mjölnir” durchgeführt. Bleibt Protokoll „Mjölnir” erfolglos oder erreicht der Faktor der Realitätsabweichung 18,0 Hm wird Standort-DE20 durch O4 oder O5 angewiesen, Protokoll „Ragnarök” durchzuführen.
+Beschreibung: SCP-028-DE ist der Standort-DE3. Standort-DE3 ist das ehemalige Hauptquartier und die geheime Forschungsbasis des ausgelöschten Sonderkommandos für Paranormales2, und wurde bis zum erstmaligen Erscheinen von SCP-028-DE-A während #028-DE/I1 hauptsächlich zur Erforschung der Arbeit des SKP und zur Lagerung von SCPs genutzt, die keiner besonderen Sicherheitsmaßnahmen und Zuwendung bedurften. Nach Zwischenfall #028-DE/I2 wurde Standort-DE3 als SCP-028-DE klassifiziert und die hier gelagerten SCPs an andere Standorte verlegt.
+SCP-028-DE besteht aus insgesamt 106 Räumen die sich über 8 Ebenen verteilen und durch Flure, Treppenhäuser und Lastenaufzüge miteinander verbunden sind. Alle Räume sind entsprechend ihrer Art mit einer Rune der älteren Futhark und teilweise einer Zahl gekennzeichnet. Die oberen Ebenen enthalten vor allem Räume für das Personal, Schulungs- und Lagerräume. In den mittleren Ebenen befinden sich Labore, Büros, und Werkstätten, in den unteren Ebenen Zellen und Eindämmungsräume. Im Zentrum der Anlage befindet sich Raum ᚠ, eine Halle die über vier Stockwerke reicht. Die beiden Zugänge sind mit Panzertüren versehen und es gibt im zweiten Stockwerk über dem Boden einen Kontrollraum mit Sichtfenstern aus Panzerglas, was vermuten lässt, das Raum ᚠ als Zelle und/oder Versuchslabor verwendet wurde, das SKP hat jedoch alle Aufzeichnungen über den Zweck des Raumes und das Kontrollpult vor der Übernahme durch die Foundation vernichtet.
+Seit Zwischenfall #028-DE/I2 befindet sich in der Mitte von Raum ᚠ ein Portal (SCP-028-DE-C) zu Universum U-3378-DE. Das Portal ist im Normalfall durch die SRAs um SCP-028-DE geschlossen.
+Anhänge:
+
++ Zwischenfallprotokoll #028-DE/I1 anzeigen
+
+- Zwischenfallprotokoll verbergen
+
+
+Am ██.██.199█ um 2:47 Uhr - SCP-028-DE wurde damals noch als Standort-DE3 genutzt und nicht vollständig videoüberwacht - schaltete sich das Terminal von Dr. █████, nach falscher Passworteingabe beim Versuch auf Dokumente der Geheimhaltungsstufe 4 zuzugreifen, ab und löste Alarm aus.
+Da außer dem Wachpersonal niemand in Nachtschichten arbeitete, und nächtlicher Zugang zu den unteren Ebenen nur mit Ausnahmegenehmigung möglich war, wurde gemäß Alarmprotokoll stiller Eindringlingsalarm ausgelöst, das Reaktionsteam des Standorts zu Dr. █████s Büro geschickt und das Terminal in einen virtuellen Zugriffsmodus versetzt, in dem Zugang zur Datenbank vorgegaukelt wird um den Eindringling zu beschäftigen.
+Das Reaktionsteam stürmte Dr. █████s Büro und fand darin eine Person vor, die wie Dr. █████ aussah, jedoch eine hellgraue Uniform mit dem Abzeichen des SKP trug, und weiterhin mit Dr. █████s Terminal beschäftigt war.
+Die Person, im Folgenden als SCP-028-DE-A-1 bezeichnet, eröffnete sofort das Feuer mit einer Waffe, bei der es sich vermutlich um eine vollautomatische Railgun-Pistole gehandelt hat, deren Geschosse Körperpanzerung und selbst die zwanzig Zentimeter dicken Wände aus Stahlbeton durchdringen konnten.
+Ein angeschossenes aber nicht getötetes Mitglied des Reaktionsteams berichtete, dass sie einige Minuten nach dem Feuergefecht, in denen der Standortleiter den unteren Bereich abriegelte und ein MTF zur Hilfe rief, dem Terminal eine Diskette die mit einem Kabel an eine Art Tablet3 angeschlossen war entnahm, kurz darauf in einem Bereich vor ihr die Luft zu flimmern begann, sich verzerrte und sich eine Art Portal öffnete. Sie ging hindurch und das Portal schloss sich wieder.
+
+Der überlebende Wachmann merkte an, das er durch das Portal den gleichen Raum sehen konnte, nur das er in einer anderen Farbe gestrichen war, und die Möbel in einer Art futuristischem Bauhausstil gestaltet schienen.
+Es wird davon ausgegangen, dass es durch die damalige Inaktivität von SCP-028-DE-B nicht möglich war größere Portale zu öffnen, die eine groß angelegte Infiltration des Standortes zugelassen hätten
+Eine Analyse des Protokolls des Terminals ergab, dass das SCP-Verzeichnis, Informationen über Standorte, Personal, Sicherheitsprotokolle und insbesondere SCPs, die von dem SKP übernommen wurden und deren Position abgefragt wurden. Diese SCPs wurden umgehend verlegt und die Sicherheit der betroffenen Standorte erhöht.
+Da Scranton-Realitätsanker damals noch nicht zur Verfügung standen, wurden als Sicherheitsmaßnahmen Überwachungskameras in allen Gängen installiert, die Wachen verstärkt, alle SCPs an andere Standorte verlegt, der Zugang zur Datenbank der Foundation stark eingeschränkt und nur noch die Arbeit des SKP erforscht. Bereits damals wurde erwägt, den Standort zum SCP zu erklären, darauf wurde jedoch vorerst verzichtet.
+
+
+
+Zwischenfall #028-DE/I2 anzeigen
+Protokoll „Mjölnir” anzeigen [Freigabestufe 3/028-DE erforderlich]
+Protokoll „Ragnarök” anzeigen [Freigabestufe 4/O4 erforderlich]
+
++ Anhang #028-DE/I2-A1 anzeigen [Freigabestufe 3/028-DE erforderlich]
+
+- Zugriff gewährt
+
+Durch die sich anbahnende Realitätenkonjunktion während Zwischenfall #028-DE/I2, und während eines späteren Versuchs aus U-3378-DE SCP-028-DE-C einseitig zu öffnen, verbanden sich durch überlappende Frequenzen die WLAN-Netzwerke beider Standorte. Während das Netzwerk von SCP-028-DE vom Hauptnetz der Foundation getrennt war und keine sensiblen Daten übermittelt wurden, konnte durch die schnelle Reaktion der IT-Techniker vor Ort ein großer Teil der Datenbank des SKP sowie diverse Daten aus dem dortigen Internet heruntergeladen und gesichert werden, insbesondere SKP-028 (Stand 11 Monate nach Zwischenfall #028-DE/I2), augenscheinlich das Äquivalent von SCP-028-DE in der Realität U-3378-DE.
+Es folgt eine Liste einiger erbeuteter Datensätze die mit ihrer Freigabestufe zugänglich sind:
+    
+
+
+SKP-017
+SKP-028
+SKP-035
+SKP-038
+SKP-045
+SKP-047
+SKP-128
+SKP-173-US
+
+
+    
+    
+    
+    
+
+
+
+Footnotes
+1. Hm = Hume, eine Maßeinheit für die Integrität der Realität. 20 Hm sind Standard für Scranton-Realitätsanker. Ein Scranton-Realitätsanker ist eine Maschine, welche das Maß der Realität (siehe „Hume”) auf einem bestimmten Wert hält, durch hinzufügen oder entfernen von Realität. Dazu wird toten oder leeren Universen Realität entzogen oder hinzugefügt. Siehe auch: JEK-WT01 und JEK-EB02.
+2. Das SKP war eine geheime Organisation unter Führung von Heinrich Himmler, die aus dem Hexen-Sonderauftrag der SS hervorgegangen war, Anomalien erforschte und versuchte für Kriegszwecke nutzbar zu machen. Das SKP wurde - zumindest in unserem Universum - nach Ende des zweiten Weltkriegs aufgelöst, ihre Anomalien an Standorte der Foundation verlegt und ihr Personal, soweit vertrauenswürdig, in die neu gegründete SCP-Foundation in Deutschland integriert und ansonsten terminiert.
+3. Der Wachmann beschrieb es als „flaches Ding in DIN A5 Größe auf dem sie rumgetippt hat”, Tablets existierten zum damaligen Zeitpunkt noch nicht in unserem Universum.
+
+
+                    

@@ -1,0 +1,433 @@
+
+                        
+
+
+
+
+voto: +15+–x
+
+
+SCP-039-IT
+
+
+Elemento #: SCP-039-IT
+Classe dell'Oggetto: Safe
+Procedure Speciali di Contenimento: SCP-039-IT deve essere immagazzinato in un contenitore rinforzato di dimensione adeguata a contenerlo (30 cm di lato) e insonorizzato. Qualora non sia possibile garantire le condizioni di contenimento, SCP-039-IT va distrutto per via meccanica.
+Per nessun motivo l'oggetto va collegato ad una rete telefonica funzionante.
+Qualora il contenitore dovesse essere accidentalmente aperto, bisogna innanzitutto adoperarsi per isolare acusticamente l'oggetto fino al recupero delle condizioni di contenimento. Nel frattempo, non bisogna interagire con SCP-039-IT in alcun modo: in particolare, non bisogna svolgere alcuna attività assimilabile al concetto di "rispondere a una chiamata". Nello specifico, qualora SCP-039-IT si metta a suonare, sollevare la cornetta dal suo aggancio e trovarsi in condizione di ascoltare quanto riprodotto dal microfono è un'esposizione all'anomalia e il soggetto è da considerarsi 'contagiato'.
+Nel caso un individuo venga contagiato, la soluzione più immediata e preferibile è la sua terminazione. Qualora l'eliminazione di un dato individuo non sia negli interessi della Fondazione, sarà necessario confinare l'individuo in un ambiente ove non gli sia possibile effettuare comunicazioni esterne e spargere il contagio. In altre parole, l'isolamento è l'unica alternativa efficace all'eliminazione e dovrà essere autorizzato da direttiva di Livello 4.
+Per tale motivo, qualora sia necessario svolgere attività su SCP-039-IT, si raccomanda di utilizzare personale di Classe D sordo o dotato di cuffie isolanti.
+Descrizione: SCP-039-IT è un telefono a disco, fisso, automatico e a batteria centrale riconducibile al modello S62 prodotto dalla Siemens a partire degli anni sessanta. Nella placca identificativa l'unica informazione presente è il numero di serie che identifica l'oggetto come numero 3. Non è noto se siano in circolazione altri telefoni con analoghe proprietà, come i numeri mancanti della serie lascerebbero supporre.
+Un'analisi della struttura interna di SCP-039-IT non ha rilevato alcuna anomalia nella componentistica e nell'assemblaggio. Nonostante ciò, il telefono ha la caratteristica di mettersi a suonare autonomamente, che sia allacciato o meno alle reti elettrica e/o telefonica. Qualora SCP-039-IT sia collegato a una rete telefonica, sarà in grado di utilizzarla per far suonare altri telefoni della rete, coerentemente con le potenzialità della linea e/o del contratto telefonico in essere.
+Il solo atto di rispondere a una chiamata di SCP-039-IT, direttamente o tramite rete telefonica, porta alla contrazione di una malattia sconosciuta i cui sintomi sono stati raggruppati sotto la sindrome chiamata SCP-039-IT-1. I sintomi includono acufene, insonnia, ansia, mania di persecuzione e inclinazione all'autolesionismo. Si è riscontrato che un soggetto malato, per quanto non personalmente contagioso, tenderà a facilitare l'esposizione di altri soggetti all'anomalia.
+Non è stata trovata al momento una cura per la sindrome SCP-039-IT-1, né per via farmacologica né per via psicoterapeutica. Nei soggetti contagiati non è stato rilevato alcun segno di remissione anche dopo lunghi periodi di tempo e le informazioni a disposizione lasciano intendere che il contagio sia irreversibile. L'aspettativa di vita dei soggetti contagiati è da considerarsi ridotta - principalmente per via della loro inclinazione a togliersi la vita.
+
++ Addendum 039/A: Acquisizione
+
+- Addendum 039/A: Acquisizione
+
+SCP-039-IT è stato rinvenuto nel paese di [REDATTO], in provincia di Matera, Basilicata. Il ritrovamento e tutte le scoperte relative alle sue proprietà sono merito dall'Agente A█████ R████, derivanti dalle sue attività di investigazione svolte negli anni ottanta. Al termine dell'indagine, l'agente ha inviato al suo superiore SCP-039-IT, i propri effetti personali e una lettera di dimissioni.
+In data ██/██/198█, una squadra di estrazione è stata inviata sul luogo. Dopo approfondite ricerche, si è riscontrato che non vi sono stati ulteriori sviluppi del contagio. Non è stata trovata alcuna traccia dell'agente R████.
+In data ██/██/199█, un'ulteriore squadra di estrazione incaricata di allargare il campo di ricerca ha rinvenuto i resti dell'agente R████ in una grotta a sud del paese di [REDATTO]. La squadra ha riportato che l'agente si è tolto la vita per mezzo di una capsula Strock non meno di 5 anni prima. Nella grotta sono stati rinvenuti i cadaveri di altri due uomini, successivamente identificati come Graziano ███████ e Salvatore ██████, deceduti per cause compatibili col ricevimento di percosse letali.
+
+
+
+
+
++ Addendum 039/B: Scansioni del taccuino dell'Agente R████
+
+-  Addendum 039/B: Scansioni del taccuino dell'Agente R████
+
+
+
+
+Pag 1-2
+Pag 3-4
+Pag 5-6
+Pag 7-8
+Pag 9-10
+Pag 11-12
+Pag 13-14
+Pag 15-16
+
+
+
+
+
+Pag 1
+
+
+Missione DF3456L
+Paese di ████████, Provincia di Matera
+████ abitanti
+nessun riscontro negli archivi della Fondaz.
+
+l'ispettore capo Graziano ███████ ha già collaborato in passato quando di stanza a █████████ / motivo della chiamata: due giovani scomparsi di recente in circostanze inspiegabili
+
+Riferimenti utili
+tel. ███████ / Luigi
+tel. ██████ / Rita
+tel. █████ / Sandro
+tel. ██████ / Maria
+
+
+
+
+Pag 2
+
+
+centrale di polizia
+Via ████ 51, I piano
+ispettore capo Graziano ███████
+tel. ██████
+-> il 2 alle 9:30
+il b&b dei sapori perduti
+piazza ████████ 11
+sig.ra Raffaella ███████
+tel. ██████
+-> dal 30/4 al 7/5 12/5 20/5
+
+bar&ristoranti
+il bricco
+caffè fantasia
+da adele / caffè buono
+bar lucania
+locanda primavera / ciaudedda
+trattoria da peppino / pane cotto, lagane e ceci
+pizzeria spaccanapoli
+il campanile
+
+
+
+
+
+
+Pag 3
+
+
+1/5
+sono l'unico ospite del b&b
+niente colazione
+15 minuti per percorrere tutto il paese a piedi
+atmosfera normale, bar uffici negozi
+in serata la proprietaria del b&b si scusa per la colaz. / 40 anni?
+(però non rifà la stanza)
+
+2/5
+ispett. capo sembra ok, un po' esaurito
+coppietta sparita il 13 aprile
+squadra di ricerca rientrata dopo 5 giorni (di già?)
+circostanze anomale: porte chiuse dall'interno, nessuna effrazione o colluttazione, effetti personali lasciati indietro
+Nicola ███████ e Vincenza █████ 2 anni di matrim / 28 e 26 anni
+lui sotto antidepressivi e calmanti, in terapia da 6 mesi
+psichiatra Paola ████████
+—> tel. ██████
+
+
+
+
+Pag 4
+
+
+4/5
+psichiatra affranta (genuinam preoccupata)
+il ragazzo scomparso: caso grave / soggetto NCL
+in cura per attacchi di panico insonnia stress manie di persecuzione autolesionismo e acufene debilitante (!)
+a quanto pare non è l'unico caso ma x segr. prof. la psichiatra può solo parlare del disperso
+restituire fascicolo
+la psich. ha provato di tutto
+la ragazza non era in cura ma la conosceva - niente su di lei
+
+
+
+
+
+
+Pag 5
+
+
+analisi scrivania psichiatra
+- 1° cassetto: contabilità, fatture
+- 2° cassetto: lista pazienti faldone URGENTI
+- 3° cassetto: appunti, cancelleria
+- 4° cassetto: cassette registrazioni sedute ipnosi
+cassaforte a chiave dietro dipinto con faro (procurarsi i mezzi?)
+cassettiera e libreria da analizzare
+
+
+
+
+Pag 6
+
+
+Lista pazienti URGENTI psichiatra Paola ████████:
+- Anna ██████ tel.███████
+- Antonio ███ tel.███████ — (*)
+- Antonio ███████ tel.██████ — (*)
+- Antonio ██ █████ tel.██████
+- Linda ████████ tel.██████ — (*) (**)
+- Luigi █████ tel.███████ — (*)
+- Maria ██████ tel.█████ — (*)
+- Salvatore ██████ tel.██████
+(*) coincide con sintomi soggetto NCL
+(**) questa persona ha lo stesso indirizzo del b&b e lo stesso cognome della proprietaria / soggetto LND
+
+
+
+
+
+
+Pag 7
+
+
+5/5
+conferma: Linda ████████ è figlia della proprietaria del b&b / = soggetto LND
+la quale non si scuce su cosa sta succedendo alla figlia (chiari segni di trauma + imbarazzo)
+esaminare locanda
+sono convinto che i problemi mentali del soggetto NCL hanno giocato un ruolo chiave nella scomparsa della coppia - le caratteristiche sono estremam sospette e non mi stupirei se fossero causate da qualcosa di anomalo (tra l'altro ho setacciato la casa della coppia e non ho altre piste da seguire al momento)
+
+6/5
+proprietaria del b&b
+- fare leva su difficoltà economiche? (da un po' di tempo le cose non vanno bene)
+- nella locanda forte impronta religiosa
+
+
+
+
+Pag 8
+
+
+8/5
+ho trovato come entrare: la proprietaria si è lasciata convincere che sono un neurologo e che potrei trovare una cura per la figlia per via chirurgica, ha accettato che devo studiare il soggetto un po' di tempo prima di potermi esprimere
+sotto sedativi e farmaci antidepressivi, il soggetto LND (~18 anni) è costretto a letto
+secondo la madre è estremamente instabile, come impazzita, ed è solo grazie ai farmaci che riesce a dormire - completamente inerte durante il sonno
+ha lividi sulla tempia dx e nell'area sotto i capelli di varia intensità (alcuni molto recenti) a forma di falci di luna con la pancia in su (contusioni?)
+combaciano con analoghi segni menzionati nei fascicoli degli altri soggetti
+mi sono fatto spostare nella stanza al piano terreno per stargli vicino
+
+
+
+
+
+
+Pag 9
+
+
+9/5
+4 di notte rumori in sala: sospiri singhiozzi sedie spostate
+osservo il soggetto LND che si trascina verso il telefono - prende la cornetta in mano e ascolta (il telefono non ha suonato)
+improvvisamente si esaspera e comincia a colpirsi la testa con la cornetta - agghiacciante
+il dott. Salvo ██ ███████ chiamato sul posto, medica di fretta e non collabora (deve aver già visto questa cosa)
+— tel. ██████
+
+vado a trovare il dottore, devo forzare la mano ma ora collabora
+ha per le mani altri 7 casi analoghi in paese
+tutti i fascicoli confermano i sintomi, 4 sono in cura dalla stessa psichiatra del soggetto NCL
+gli altri sono:
+- Anna Maria ██████ tel.██████
+- Giuseppe ███████ tel.███████
+- Salvatore ██ ███████ tel.██████ — nipote del dottore!
+tutti i sintomi combaciano
+
+
+
+
+Pag 10
+
+
+11/5
+riduco la dose di farmaci del soggetto LND per vedere cosa fa
+tutte le volte che il telefono squilla ha delle convulsioni, si tira su, resta come in ascolto e torna giù
+è molto irrequieto e periodicamente esegue il suo ciclo: raggiungere il telefono, alza la cornetta e ascolta il segnale di libero (rilassandosi), quando 15 secondi dopo scatta l'occupato ha l'attacco di panico e spesso tenta di colpirsi
+sembra condividere la stessa strana mania di persecuzione del soggetto NCL
+
+
+
+
+
+
+Pag 11
+
+
+13/5
+oggi è arrivata una chiamata al telefono del b&b e il soggetto LND è saltato fuori dal letto con violenza: ha risposto alla chiamata ed è rimasto immobile per alcuni secondi, occhi sbarrati, poi ha detto una sequenza di 6 cifre (███████), ha riattaccato ed è tornato a letto — ignora tutte le mie domande sull'identità del chiamante, e reagisce con estrema ostilità alle mie insistenze
+la sequenza di cifre pronunciata dal soggetto LND corrisponde al numero di telefono della sorella della proprietaria del b&b
+Mariella ████████ / soggetto MRL
+tel. ███████
+
+
+
+
+Pag 12
+
+
+14/5
+l'ispett capo ha cambiato predisposizione nei miei confronti, non sembra voler più collaborare (avrò calcato troppo la mano col dottore? sono parenti?) — gioco pesante per ottenere un mandato urgente per i tabulati
+
+16/5
+la chiamata del 13 è stata fatta da un numero locale, corrisponde ad un ufficio in 'centro' / La ██████ Assicurazioni
+tutti i soggetti hanno ricevuto una chiamata da questo numero nel mese passato
+(scommetto che la sorella della proprietaria ne riceverà una presto)
+alla ██████ Assicurazioni lavorano 3 persone:
+- il proprietario: Luigi █████ — paziente della lista URGENTI della psichiatra!!! / soggetto LUG
+- la moglie: Maria █████████
+- un dipendente: Giuseppe ██████
+
+
+
+
+
+
+Pag 13
+
+
+17/5
+passo più di un giorno in macchina vicino alla centralina che smista per la casa del soggetto MRL, alle 10:30 devio una chiamata dal numero della ██████ Assicurazioni, appena rispondo sento come un sospiro di stupore… a parte quello non sento niente ma posso giurare che ci sia qualcuno dall'altro lato, poi il segnale di occupato
+sono convinto siano passati solo pochi minuti, ma guardando l'orologio mi accorgo che la chiamata è durata più di mezz'ora
+
+rientro in locanda e qualcuno ha frugato nella mia roba e ha passato al setaccio tutta la stanza — hanno trovato il nascondiglio dietro il mobile in cui avevo nascosto la copia cifrata della mia agenda!
+sono in pericolo
+la proprietaria del b&b dice di non sapere niente - improbabile
+messa alle strette mi da la descrizione dell'uomo
+evito di dormire al b&b
+
+
+
+
+Pag 14
+
+
+in serata vado a casa del soggetto LUG spacciandomi per un ispettore e la moglie Maria █████████ collabora — persona disperata che vuole credere con tutta sé stessa che sono qui a riaprire il caso del marito
+il soggetto LUG è stato dato per disperso 3 mesi fa, ricerche inutili, nessuna traccia di fuga, macchina documenti effetti personali lasciati indietro - caso analogo a quello della coppia scomparsa
+prima della sparizione stessi sintomi soggetto NCL inclusa l'abitudine di accorrere al telefono di prepotenza e comunicare numeri di telefono di altre persone
+dalla sparizione, l'agenzia di assicurazioni è rimasta chiusa!!! - chi ha fatto le chiamate???
+
+18/5
+non riesco più a prendere sonno, questa missione mi coinvolge troppo… continuo a pensare a quel silenzio pesante, quasi un sospiro, che ho sentito al telefono ieri - era davvero un sospiro?
+parcheggio di fronte alla centralina di smistamento della palazzina dell'agenzia, aggancio il deviatore e resto in attesa
+
+
+
+
+
+
+Pag 15
+
+
+19/5
+il tempo passa e la chiamata non arriva, do seriamente nell'occhio, cerco di passare come tecnico SIP ma la gente sembra sapere chi sono e mi dice di andare via
+è come se tutto il paese mi si stesse rivoltando contro
+quella maledetta telefonata mi tormenta
+mi perseguita
+faccio cose senza senso
+mi sono chiuso la mano nella portiera
+
+nel pomeriggio realizzo di avere alcuni dei sintomi del soggetto NCL - se questo vuol dire quello che penso sono fottuto
+sono un pericolo e soprattutto la Fondazione è in pericolo!
+devo chiudere la questione in fretta
+
+
+
+
+Pag 16
+
+
+in serata l'ispettore capo e un altro uomo vengono a farmi visita "in borghese" - il secondo uomo corrisponde alla descrizione del bastardo che mi ha messo a soqquadro la camera (cosa confermata dal fatto che il deficiente ha con sé la mia agenda cifrata)
+mi disfo dei corpi sommariamente, tornerò a sistemare
+
+
+alle 23 parte una chiamata dal numero dell'agenzia, corro al piano ed entro, non c'è nessuno e tutti e tre i telefoni dell'agenzia stanno squillando contemporaneamente
+nonostante l'addestramento perdo la testa
+spacco tutto
+sradico i telefoni dalle prese
+uno strafottutissimo telefono continua a squillare
+considero la missione conclusa
+
+
+
+
+
+
+//<![CDATA[
+OZONE.dom.onDomReady(function(){
+        var tabViewc4465f87c06ac8722a4edb25ebd6f477 = new YAHOO.widget.TabView('wiki-tabview-c4465f87c06ac8722a4edb25ebd6f477');
+                }, "dummy-ondomready-block");
+        
+//]]>
+
+
+
+
+
++ Addendum 039/C: Trascrizione seduta ipnotica
+
+- Addendum 039/C: Trascrizione seduta ipnotica
+
+Trascrizione seduta di ipnosi tra la Dottoressa Paola ████████ (di seguito 'A') e il paziente Nicola ███████ (di seguito 'B'), avvenuta in data ██/██/198█:
+
+…
+A: «Nicola, sente la mia voce?»
+B: «Sì.»
+A: «Come sta in generale?»
+B: «Stanco.»
+A: «Come mai?»
+B: «Non dormo la notte.»
+A: «Cosa non la fa dormire?»
+B: «C'è un rumore continuo. E ho paura.»
+A: «Parliamo del rumore. È un rumore forte?»
+B: «No, non è forte. È basso ma non se ne va via, è sempre lì che mi segue.»
+A: «Di che rumore si tratta?»
+B: «È proprio come il segnale di occupato del telefono.»
+A: «Può descrivere meglio di che rumore si tratta?»
+B: «È un rumore basso sempre uguale che va e viene sempre con lo stesso ritmo: tuu tuu tuu.»
+A: «Ok, grazie. Sa da dove viene?»
+B: «Sì, viene dai telefoni. Lo sento anche da lontano e anche se la cornetta è appoggiata»
+A: «Questo rumore lo sente anche sua moglie?»
+B: «Non lo so ma non credo. Lei sta bene, dorme.»
+A: «Da quali telefoni proviene questo rumore?»
+B: «Tutti. Anche il suo.»
+A: «In questo momento?»
+B: «Sì.»
+A: «Io non lo sento, ma lo sa che ci sono molte persone che sentono ronzii e altri rumori causati da un disturbo del nervo uditivo? Si chiama acufene e generalmente non è un disturbo grave, si impara a conviverci. Può essere il suo caso?»
+B: «No. Questa cosa è reale. È lì per me e mi vuole.»
+A: «Perché dice questo?»
+B: «Perché mi cerca in continuazione e vuole pure altri.»
+A: «Nicola, come fa a saperlo?»
+B: «Lo… so.»
+A: «Aiutami a capire, questo è l'unico rumore che sente? O ci sono altre cose che sente?»
+B: «A volte il rumore diventa come il segnale di libero. Quand'è così sta per arrivare una chiamata e il mio telefono squilla.»
+A: «E lei risponde?»
+B: «Non vorrei. È la cosa più brutta, proprio non vorrei ma devo. E rispondo.»
+A: «E poi cosa succede?»
+B: «E poi… non… non lo so.»
+A: «Cosa vuol dire? Non si ricorda cosa succede dopo?»
+B: «No.»
+A: «C'è qualcos'altro al riguardo che può raccontarmi? Qualche altro rumore o sensazione o osservazione?»
+B: «Sì, che prima o poi verrà a prendermi. Vuole me ma vuole anche altri e prima o poi ci prenderà tutti.»
+A: «Chi? Di chi stai parlando?»
+B: «Di… di chi c'è di là… di chi mi chiama.»
+A: «Come fai a saperlo?»
+B: «Credo che… me l'abbia detto.»
+A: «Ah sì? Si ricorda mica cosa le ha detto esattamente?»
+B: «Credo di sì»
+A: «Cosa?»
+B: «(*)»
+(*) il soggetto produce una lunga serie di versi incomprensibili, atipici per l'articolazione vocale umana e ben lontani dal repertorio delle lingue conosciute dal paziente.
+
+
+
+
+
++ Addendum 039/D: Sperimentazione
+
+- Addendum 039/D: Sperimentazione
+
+Tutta la sperimentazione effettuata conferma le osservazioni dell'agente R████. Non è stato compiuto alcun progresso riguardo l'identificazione di un eventuale entità all'altro capo della linea di SCP-039-IT e nessuna correlazione è stata stabilita tra i fenomeni in oggetto e le persone scomparse dal paese di [REDATTO].
+In nessuna condizione di laboratorio è stato possibile osservare dette sparizioni e tutti i soggetti sottoposti al contagio sono deceduti - a volte anche dopo anni di osservazione - per stress o commettendo suicidio. Per questo motivo si ipotizza che il fenomeno abbia una correlazione geografica col paese di [REDATTO].
+Il progetto di installazione di un team di ricerca in loco ha faticato a prendere forma per la delicatezza degli equilibri locali, aggravati dai danni collaterali dell'intervento dell'agente R████, ed è poi stato cancellato in seguito all'aggiornamento delle infrastrutture telefoniche avvenute nei tardi anni novanta a favore dei modelli digitali.
+L'agente dormiente [REDATTO] è stato installato col compito di tenere sotto controllo l'area.
+
+
+
+
+                    

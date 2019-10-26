@@ -1,0 +1,219 @@
+
+                        
+
+rating: +15+–x
+
+
+SCP-1732-JP during an experiment. SCP-1732-JP-C-22 is shown in the inside.
+
+
+Item #: SCP-1732-JP
+Object Class: Euclid
+Special Containment Procedures: SCP-1732-JP is to be unplugged and stored in a medium-sized standard storage locker at Site-8181. All SCP-1732-JP-C are to be stored in a small storage locker together separately.
+Experiments using SCP-1732-JP and SCP-1732-JP-C are to be conducted at Site-8181 in lab room 308. Those conducting the experiments are allowed to use any toys that are placed in lab 308. Currently, SCP-1732-JP is unable to undergo any experiments.
+SCP-1732-JP-B is kept at Site-8181 Lodge1 E room 503. Following containment procedures, SCP-1732-JP-B is to be taken care of by at least 3 Foundation personnel on rotating shifts. To ensure that SCP-1732-JP-B is not harmed in any way, SCP-1732-JP-B is to be kept under constant surveillance when not undergoing any experiments.
+SCP-1732-JP-Bhas been removed from the Foundation's protection (see Postscript). A GoI-correspondence team is continuing the search.
+
+Description: SCP-1732-JP is nearly identical to an ivory-colored 21 inch CRT display; however, the Cathode-Ray Tube has been removed and has been replaced with an opaque sheet of glass on both sides. Like a normal display screen of its type, SCP-1732-JP has the company name ██████ and product name ████████████ ██████ written on the front, but with "TOUHEI Co.,Ltd." carved onto the bottom. While SCP-1732-JP is missing almost all necessary hardware to display images, it can function normally when connnected to a PC.
+When SCP-1732-JP is connected to a PC with an OS that uses Graphical User Interface (GUI) and turned on, a short cut link with the name "Toy Training Hall" will appear on the screen.This program (further noted as SCP-1732-JP-A) can be activated using normal operation. However, all means of saving SCP-1732-JP-A on other recording media (including a PC's HDD) have failed, and the only way to activate SCP-1732-JP-A is through the desktop screen on SCP-1732-JP.
+When SCP-1732-JP-A is activated, a top menu like the one shown below will appear on SCP-1732-JP's screen.
+
+
+Mr. Toutei's Toy Training Hall!
+
+
+Don't you want to make your toys more exciting and fun?
+Make your toys Mr. Toutei's apprentice
+Mr. Toutei will help make your toys bigger and better!
+
+→ Make your toy Mr. Toutei's apprentice
+Quit
+
+When "Quit" is selected using the Enter key, SCP-1732-JP-A will end following correct protocol.
+If "Make your toy Mr. Toutei's apprentice" is selected using the Enter key, the display will change to show a man wearing a martial arts uniform (further noted as SCP-1732-JP-A-1), and messages will appear at the bottom of the screen. The messages are from "Mr. Toutei" (presumably SCP-1732-JP-A-1) adressed to "Masaru" and the messages ask for "Masaru" to send "Mr. Toutei" one of his toys. 10 seconds after this screen is shown, SCP-1732-JP's glass screen pulls upwards and SCP-1732-JP's inside can be viewed. It is unknown where the glass screen is stored when this occurs. The inside of SCP-1732-JP is much larger than its actual volume, with it being an empty, cubical space that is approximately 1m x 1m x 1m. The walls of said space are black with no light source within the space. After 60 seconds have passed since the screen pulled up, the screen returns to its original position. SCP-1732-JP-A-1 disappears, and the top menu screen shown earlier reappears.
+When an individual designated as SCP_1732-JP-B (touched upon later) places one of its toys in the space within SCP-1732-Jp, the glass screen pulls back down to its normal position and a new message appears. The message explains that "Mr. Toutei" has accepted "Masaru"'s toy and that the toy will be returned the next day when it has become better. Then, SCP-1732-JP-A-1 disappears from the screen and a message reading "Training at the hall! See you tomorrow!" Appears along with the "Quit"2 option. When an X-ray image of SCP-1732-JP was taken, the toy that was placed inside had disappeared.
+SCP-1732-JP's effects can be present in any type of toy, and the effects can be applied to most models, dolls, acoustic toys3, toys that require practice4, and many other toys that would commonly be used by a child around the age of six. However, natural objects that have not been altered such as sticks and toys with a complex structure such as video games are not affected. When a toy is placed within SCP-1732-JP by anyone other than SCP-1732-JP-B or something that is not a toy is placed inside, the object will not disappear. When a GPS was put on a toy and placed inside of SCP-1732-JP, only the toy disappeared and the GPS was left behind.
+When SCP-1732-JP-A is activated after 7:00 AM the day after a toy was placed inside of SCP-1732-JP, a message appears saying it will return the improved toy to "Masaru". 10 seconds later the glass screen on SCP-1732-JP pulls up and the toy reappears within SCP-1732-JP. These toys are designated as SCP-1732-JP-C. When SCP-1732-JP-C is taken out of SCP-1732-JP, the screen returns to its original position and the top menu is shown.
+SCP-1732-JP-C's appearance, materials, and function are identical from when when it was first placed in SCP-1732-JP, with all damage, paint, and writing all in the same position. Using 15 different SCP-1732-JP-C and 70 children living in Site-8181 Lodge, it was discovered that the children enjoyed playing with and were more satisfied with SCP-1732-JP-C than unaffected toys. See Addendum 2 for the abnormal effects of placing multiple SCP-1732-JP-C in one location. All cased of SCP-1732-JP-C are written on a separate document.
+
+
++ Addendum 1: Orginins/1732-JP - 2004/██/██
+
+- Close
+
+Origin of Discovery: On 2004/██/██, Agent ██ noticed a call that was made by ██ ██, a man living in ██████, in ██ county, Tokyo to a nearby electronic store claiming that "a toy plane came out of a friend's PC display". Below is an interview done by Agent ██ (disguised as a worker at the electronic store) with the Toganos (██'s friend) at their household.
+
+Interview Log 1/1732-JP
+
+Date: 2004/██/██
+Subjects: ██ Togano, ██ Togano, Masaru Togano (aged 6 at the time of interview)
+Interviewer: Agent ██ (referred to as A.██)
+
+<Begin Log>
+
+A.██: I see, so this is the computer you were talking about. I heard you bought it last month.
+
+██: Yes.
+
+A.██: Was there anything odd, or out of the ordinary when you bought it?
+
+██: Well, when we told the guy at the store we had a young child, we were told that there was a special service5 that could be added that could keep our child entertained. So we asked for them to add the service.
+
+██: That's how we got this computer, and sure enough it's an amazing system. Old toys that Masaru's already gotten bored of would suddenly become new and fun to him. Masaru's very happy about it.
+
+A.██: May I see this service first hand?
+
+██: Of course! Masaru, do your thing.
+Masaru: Ok, Dad.
+
+[██ turns on the computer, and SCP-1732-JP's glass screen opens up.]
+
+Masaru: I'll send you ██'s robot today, teacher.
+
+[Masaru takes out a robot-shaped toy from his toy box and places it in SCP-1732-JP. The glass screen returns to its normal position.]
+
+A.██: [remains silent for a moment] Uhh, Mr. ██, normally computer screens do not open and close like this, but did you not find this strange?
+
+██: Wait, it's not normal? All I thought was that it's amazing what modern technology can do.
+
+██: Well, the other day Masaru brought home some of his friends from kindergarten because he wanted to show them his toys. They all seemed to be having fun, and then Masaru showed them his computer. Just then, the toy plane that Masaru put in the day before popped out. ██6 was caught by surprise and she started to cry.
+
+A.██: Ok, I see what you're saying. For nowwe'll take this computer and replace it with a new one.
+
+██: Yes, thank you. Actually, we have a slight problem with the service.
+
+A.██: What is it?
+
+██: The only person that can send toys to the teacher is Masaru. If only we could ask Mr. Toutei to train his toys while Marasu is asleep, we could make him more happy. Can you please do something about it?
+
+<End Log>
+
+Closing Statement: The Toganos didn't question the object's abnormality at all. Since there is a chance that the family has also been affected by the object, there is a need to take in the family along with the object.
+
+
+After the Interview, the cover story "moving away" was used and the Togano family was temporarily taken into Foundation custody along with SCP-1732-JP and 18 SCP-1732-JP-C. After some research it was concluded that only Masaru Togano could activate the effects of SCP-1732-JP and that the parents were not mentally affected by SCP-1732-JP in any way. Masaru was designated as SCP-1732-JP-B. The parents were given a Class C amnestic and were released under the cover story "sudden death of child".
+Information on the worker that sold SCP-1732-JP to the Toganos has been expunged from ████ electronic store's database. Based on the carving engraved on the bottom of SCP-1732-JP it is hypothesized that the Group of Interest "Tou-Hei Heavy Industries" has something to do with the incident. Currently a GoI-correspondence team is searching for the worker along with any other instances of SCP-1732-JP.
+
+
+
+
++ Addendum 2: Incident Log 1/1732-Jp - 2006/██/██
+
+- Close
+
+Incident Log 1: On 2006/██/██, during an experiment on SCP-1732-JP-C, 4 of the researchers and SCP-1732-JP-B claimed to be having hallucinations of noises. They seemed to be in pain as they rushed towards the group of SCP-1732-JP-C and separated them by throwing them across the room. They said the hallucinations stopped as a result. The hallucinations "sounded like the roar of a dinosaur that's heard in movies" and came from the group of SCP-1732-JP-C according to researcher
+██. At the time of the experiment there were no toys that were shaped like dinosaurs.
+The containment procedures for SCP-1732-JP-C have been changed after this incident.
+
+
+
+
++ Addendum 3: Incident Log 2/1732-JP - 2007/██/██
+
+- Close
+
+Incident Log 2: Around 2:00 AM on 2007/██/██, several objects appeared in SCP-1732-JP-B's cell, causing SCP-1732-JP-B to become extremely distressed. The 5 objects that appeared were similar to SCP-1732-JP-C-3, -18, -22, -38, and -87, but with damage including dents, burns, and bite marks7. The objects disappeared as soon as several Foundation personnel entered the room, and SCP-1732-JP-B went back to sleep. No difference was seen with SCP-1732-JP-C after the incident.
+Below is an interview with SCP-1732-JP-B after the incident.
+
+Interview Log 2/ 1732-JP
+
+Date: 2007/██/██
+Subject: SCP-1732-JP-B (aged 9)
+Interviewer: Researcher ██
+Foreword: SCP-1732-JP-C has a slowed mental development, and his mental capability is around those of a child at the age of six. It is not know yet whether this is caused by SCP-1732-JP or not. Furthermore, the subject is referred to as "Masaru Togano" throughout the interview for convenience.
+
+<Begin Log>
+
+Interviewer: Good morning, Masaru. I heard you had a rough night. How are you feeling?
+
+Subject: I'm ok. I'm not scared now. The monsters were really scary though.
+
+Interviewer: The toys that appeared in your room last night were monsters?
+
+Subject: Yeah. They were all the toys that I asked Mr. Toutei to make better.
+
+Interviewer: I see. And what were these monsters trying to do to you?
+
+Subject: They were all angry. They looked at me like I did something really bad. All I did was make them better. I made them good so I can play with them forever, but, but…
+
+Interviewer: Calm down, Masaru. [silence for 30 seconds] Do you know what happened to the monsters after they left?
+
+Subject: A headless robot8 talked to me. It said that Mr. Toutei hit him and put him in hot water and burned him with fire and did lots of mean things. And… [silence]
+
+Interviewer: Masaru?
+
+Subject: They said they were eaten. A big blue dragon went "chomp" and ate them.
+
+Interviewer: A blue dragon?
+
+Subject: Yeah. A blue dragon. After the robot's story everyone else also said they were eaten. They said they went through bad stuff and it was my fault they were left out by the other toys. But then they left before they did anything because the people came in.
+
+Interviewer: I see.
+
+Subject: Do you think it's my fault because I hurt them by using the computer? Am I bad?
+
+Interviewer: I'm not sure. We need to know more about the monster's story before we can say it's your fault.
+
+Subject: No, I think I am a bad boy.
+
+Interviewer: Why so?
+
+Subject: Because even if I'm hurting the toys by making them better I won't stop. I can't think of doing anything else. That's why I'm a bad boy.
+
+Closing Statement: It is hypothesized that the objects that appeared in SCP-1732-JP-B's cell last night were a type XII voluntary spiritual existence9, or in other words a "tsukumogami"10 of some sort. Since the original object must be destroyed in order for the spirit to become a type XII, the theory that the toy placed in SCP-1732-JP and the resulting SCP-1732-JP-C are the same must be challenged. In order to further understand the origin and effects of SCP-1732-JP's abnormality, it is highly encouraged to run a spiritual spectral test.
+
+After the interview mentioned above, a Usurahi type spectral extraction test was used on SCP-1732-JP-C, and it was discovered that all SCP-1732-JP-C emitted the same Azul radiation. This means that the spiritual presence in each SCP-1732-JP-C that became what they are now through damaged objects originated from a single but separate spiritual entity. It is theorized that this entity has something to do with the "blue dragon" mentioned by Masaru and the dinosaur-like roars heard by researchers in Addendum 2.
+
+
+
+
++ Addendum 4: Researcher ██'s Report - 2008/██/██
+
+- Close
+
+
+It's been 4 years since we've contained SCP-1732-JP, yet it is still unknown how the object identifies and distinguishes who places the toy inside of it. We are trying to search for a replacement for SCP-1732-JP-B, but we do not know where to begin.
+
+Although SCP-1732-JP-B has turned 10, his mental capacity is still that of a six year old and has no interest in doing anything other than playing with toys. Because he is the only one who can use SCP-1732-JP, it is impossible to tell wether his mental abilities are indeed affected by SCP-1732-JP or not.
+
+While it is worrying that all experiments rely on SCP-1732-JP-B, this is the best we can do at this time. It's disappointing that we have to make a young, innocent child go through all of this, yet it is our only option.
+
+
+
+
+
++ Postscript: Incident Log 3/1732-JP - 2011/██/██
+
+- Close
+
+Incident Log 3: On 2011/██/██, Site-8181 Lodge was attacked by several unidentified persons, resulting in the death of █ children and ██ Foundation personnel and the disappearance of SCP-1732-JP-B. A surveillance camera recording shows SCP-1732-JP-B laughing as he turns black and then dissolves into a mist-like form. It should be noted that it seems like SCP-1732-JP-B is talking with someone else during this process. The survivors that were at the Site-8181 Lodge claim to have seen a "black, misty creature moving around as it laughed like a child". Since the unidentified persons that appeared have similarities to members of the GoI "This Lovely World", it is likely that SCP-1732-JP-B was abducted by them. Currently there is no known connection between "This Lovely World" and "Tou-hei Heavy Industries".
+The memo shown below was left behind by SCP-1732-JP-B's room, supposedly written the day before the incident occured. It is thought that there is a connection between the incident and this memo.
+
+
+It's fun to play with good toys.
+But it gets lonely playing only with toys.
+
+I wish I had some nice friends11 to play with.
+
+Masaru
+
+Because SCP-1732-JP-B was lost, no experiments can be conducted on SCP-1732-JP.
+
+
+
+
+Footnotes
+1. Site-8181 Lodge is disguised as an orphanage and is where children under the age of 14 and taken in by the Foundation are kept. Because D-Class under the age of 14 are extremely rare, experiments that are deemed as low-risk and require the presence of a child sometimes use a child from this lodge.
+2. Just like the option at the top menu, when "Quit" is selected using the Enter key SCP-1732-JP-A will end.
+3. A simple toy that makes sound, such as a tambourine and a flute.
+4. Examples of these are Yo-yos and Kendamas
+5. While there was an article in the instructions that came with the PC about "Mr. Toutei's Toy Training Hall Set", there is no evidence that ████ electronic store has offered this sort of service before.
+6. The daughter of ██ ██ that made a call to ████ electronic store.
+7. Furthermore, the object with the same appearance as SCP-1732-JP-C-18 was missing its head and left leg.
+8. Reffering to SCP-1732-JP-C-18. It is similar to the toy that was placed in SCP-1732-JP during Interview Log 1/1732-JP.
+9. An example of a type XII voluntary spiritual existence is SCP-1334-JP.
+10. Translator's Note: A tsukumogami is a tool (or in this case a toy) that has acquired a spirit, usually due to long-term use that appears in Japanese folklore.
+11. Following Standard Containment Procedures, SCP-1732-JP-B was only allowed restricted access to other children.
+
+
+                    

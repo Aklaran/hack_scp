@@ -1,0 +1,50 @@
+
+                        
+
+
+
+
+Puntuación: +28+–x
+
+
+SCP-ES-005 en su localización original
+
+
+Ítem #: SCP-ES-005
+Clase de Objeto: Seguro
+Procedimientos Especiales de Contención: La sala de contención de SCP-ES-005 debe estar habilitada para tener en funcionamiento equipos médicos básicos de soporte vital, reanimación y alimentación por sonda. El sujeto que actualmente se encuentre retenido dentro de SCP-ES-005 debe ser visitado cada 12 horas por un psicólogo, o bajo propia demanda del sujeto en situaciones de estrés. En estas situaciones, está permitido administrar sedantes al sujeto. Si el sujeto presenta dificultades para ingerir alimentos, debe ser alimentado mediante una sonda nasogástrica.
+En caso de fallecimiento o relevo del sujeto, se debe buscar un sustituto inmediatamente entre los miembros del personal de Clase D, que debe ser introducido en SCP-ES-005 y retenido con los elementos de sujeción del interior del mismo. Si no se encuentra un sustituto en menos de 48h, el Ala 5 debe ser aislada temporalmente, reteniendo en su interior al equipo asignado a SCP-ES-005, hasta la llegada de un nuevo sujeto.
+Descripción: SCP-ES-005 es una cabina de fotomatón de la marca █████████ que afecta a la percepción táctil de las personas que se encuentren en sus alrededores, y más notablemente, en su interior. Las personas que se encuentren en las inmediaciones de SCP-ES-005, notarán leves sensaciones de presión, frío o calidez en áreas localizadas de su piel.
+Las percepciones anómalas pueden observarse de manera indirecta, a través de variaciones en la temperatura de la epidermis del sujeto o una disminución del riego sanguíneo de los capilares en las áreas presionadas. Éste fenómeno puede presentarse en múltiples personas a la vez, y no se ve afectado por la existencia de barreras físicas entre dichas personas y SCP-ES-005. SCP-ES-005 ampliará su radio de acción hasta afectar a al menos un ser humano. Los efectos provocados por SCP-ES-005 no varían según el tiempo de exposición u otros factores, manteniéndose constantes hasta que una persona accede al interior de SCP-ES-005.
+Si una persona toma asiento dentro de SCP-ES-005, los efectos anómalos dejarán de manifestarse inmediatamente en las personas que se encuentren en el exterior. Sólo en este caso SCP-ES-005 afecta a una única persona, por lo que se ha establecido que el método de contención óptimo consiste en mantener siempre a un sujeto en su interior.
+Mientras que cuando SCP-ES-005 afecta a una persona que se encuentre en su exterior las sensaciones táctiles se mantienen constantes, el sujeto que se encuentre en el interior de SCP-ES-005 verá aumentada su percepción del fenómeno a medida que pase el tiempo. Esto se traduce en una mayor definición de las zonas en las que siente presión o diferentes sensaciones térmicas. Todos los sujetos usados en la contención de SCP-ES-005 hasta la fecha han definido las sensaciones anómalas como altamente similares al contacto de las manos de un humano adulto. A pesar de las pruebas físicas en los sujetos de que efectivamente, parece haber un cuerpo presionando su piel, no se ha podido determinar la fuente, ni por tanto prevenir dichos contactos.
+El número de "manos" que un sujeto siente sobre su piel aumenta proporcionalmente al tiempo que pasa dentro de la cabina, así como la claridad de dicha sensación. Cuando la piel está cubierta completamente de zonas presionadas, los sujetos informan que sienten dichas "manos" moverse, arrastrándose sobre la piel del sujeto. El efecto causado por SCP-ES-005 no se ha manifestado de manera activamente nociva para la salud más allá del estrés natural causado por la situación, a excepción del incidente ocurrido con el sujeto D-33760 (ver el archivo anexo a este documento).
+Anexo: Informe 005/D-33760
+
+El informe que se presenta a continuación ha sido editado para eliminar pasajes superficiales. Si necesita más información, contacte con un miembro del equipo de investigación de Nivel 2 o superior.
+00:00: D-33760 es introducido en SCP-ES-005.
+06:14: D-33760 informa de una sensación de frío en su hombro derecho.
+[ELIMINADO]
+24:56: D-33760 informa de molestias causadas por la presión. Un miembro del equipo médico comprueba su estado. D-33760 intenta liberarse de las correas de restricción con vehemencia durante el examen médico. No se encuentran signos de lesiones causadas por el efecto de SCP-ES-005.
+[ELIMINADO]
+60:00: Durante el chequeo rutinario se observa que más del 50% de la epidermis de D-33760 presenta signos de estar siendo presionada.
+[ELIMINADO]
+129:56: D-33760 informa por primera vez de que siente movimiento en su piel. Debido a su comportamiento exaltado, se decide administrarle un sedante suave.
+132:00: Durante el chequeo rutinario se observa que las marcas de presión se mueven lentamente sobre la piel del sujeto. Aprovechando el estado de semi-inconsciencia de D-33760, se hace un recuento de las marcas de presión claramente identificables como manos, hallándose un total de 137.
+143:02: D-33760 vuelve a caer en un estado de ansiedad, intentando liberarse de las correas. Expone que las "manos" han comenzado a moverse hacia su cara. Nunca antes se había observado un movimiento coordinado de los efectos de SCP-ES-005.
+144:32: Tras la administración de un calmante, se realiza un examen médico extraordinario a D-33760, con la asistencia de la Dra. Santamarina para realizar una entrevista a D-33760.
+145:21: D-33760 insiste en que las "manos" están intentando abrir su boca separando su mandíbula.
+147:07: La boca de D-33760 permanece abierta a pesar de sus aparentes esfuerzos por cerrarla. Un miembro del equipo médico confirma que el interior de la cavidad bucal de D-33760 está siendo presionado desde dentro. Durante el examen, se observa una dilatación del comienzo de la garganta de D-33760, que en ese momento sufre arcadas y vomita.
+149:28: Ante las evidentes dificultades para respirar de D-33760, se le proporciona respiración asistida.
+159:47: Mediante una cámara endoscópica, se observa que el interior del estómago de D-33760 parece estar deformado e inflado. D-33760 emite sonidos inarticulados ante la presencia del personal médico.
+161:27: Se emite una petición de eliminación, firmada por la Dra. Santamarina y los miembros del equipo de Nivel 2 o superior.
+163:41: D-33760 fallece. SCP-ES-005 imprime una serie de 16 fotos de carnet de D-33760.
+La autopsia revela derrames internos provocados por la ruptura de varios órganos. No se ha vuelto a producir ninguna impresión de fotos desde el evento.
+
+
+
+« SCP-ES-004 | SCP-ES-005 | SCP-ES-006 »
+
+
+
+                    

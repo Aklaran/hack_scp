@@ -1,0 +1,149 @@
+
+                        
+
+rating: +4+–x
+
+
+Non-memetic copy of SCP-198-FR.
+
+
+Item #: SCP-198-FR
+Threat level: Red ●
+Object Class: Keter
+Special Containment Procedures: SCP-198-FR is to be contained at Site-198-FRb; under no circumstances are the objects to be transferred off-site. The objects must be kept in an 8m3 room, locked by a steel-armored door. This door must be equipped with a fingerprint reader, a digital keypad, and two separate conventional locks. Two Level 4 personnel must keep with them one key each, while the site Director is to be given the digital code as well as have their fingerprint exclusively registered on the reader. The cell door must be kept closed at all times.
+All Site-198-FRb personnel are strictly forbidden from leaving the Site, and offenders shall be executed. Personnel from other facilities are strictly forbidden from coming on-Site, and offenders shall be transferred to Site-198-FRb, by force if necessary. Site-198-FRb personnel are required to attend psychological counselling and/or therapy sessions via remote services.
+As soon as a personnel member of Site-198-FRb dies, they must immediately be replaced by a new member of personnel within their field.
+The application of Protocol 198-FR-01 must be systematic and executed with strict rigor. For Site-198-FRb containment personnel: The protocol is described at the end of the report. (Site-198-FRb containment personnel are automatically granted with Level 4-198-FR clearance).
+Description: SCP-198-FR is a set of the seven volumes of Edward Gibbon's essay, Decline and Fall of the Roman Empire. Each book measures 19x11x2 centimeters and has a black leather cover. On the front cover of each book is the written title, its corresponding volume number in Roman numerals and the name of the author. On the spine of each book is the title, its corresponding volume number in Roman numerals and the representation of a Roman-style column degrading as the number of the volume increases. On the third page of each book is the following preface:
+
+
+Preface
+
+The Better Man will never see the light of day if we keep repeating the mistakes of the past. This work will help us to apprehend the complex mechanisms of our society and its decline, and will thus spare us from decay.
+Lux Lucet In Tenebris
+
+- A Gentleman
+
+
+This preface seems to be exclusive to these volumes and was never found in another edition. Furthermore, these books do not hold Gibbon's work, but another essay written in the same style, in English, relating in the same way as the original work, the decline of a society affected by SCP-198-FR. The texts changes each time the object affects a new institution, writing by itself, in an unknown manner, the story of the decay of said institution.
+SCP-198-FR is able to dissolve any institution or human social construct. Regarding the nature of this institution (family, government, religious community, etc…), the dissolution process can take place in different ways, but always results in the vanishing of the institution's social cohesion. The time of the decline leading to the dissolution is proportional to the size of said institution. Moreover, the larger the institution, the more complex and/or numerous the causes of its decline will be. Nothing seems to be able to stop the societal collapse of an institution affected by SCP-198-FR. In most cases, the members of the institution are not aware of its decline, even though said members are the main actors of this degeneration.
+A powerful memetic effect is the origin of SCP-198-FR's effects on societies; it seems to inspire the exposed subjects to an idea of senescence, which pushes them to lead one of their institutions to decay. The affected institution seems to be chosen randomly among the subjects' institutions, but only in the case of contact between the object and a subject; in the case of subject-to-subject transmission, the affected institution stays the same. Within the institution, the effect spreads from individual to individual, speeding up the process of societal collapse as more subjects become actors in this process (even if unconsciously). The effect of SCP-198-FR can be regarded as a memetic virus. The meme can spread in three ways: visual contact between the object and a subject, visual contact between a photograph of the object and a subject, and visual contact between an affected subject with an unaffected subject. Each book independently possesses the memetic effect, thus it is not necessary for all seven books are together for the object to affect a society. No amnestic of any type seems to be able to erase the memetic effect from a subject's mind.
+In some cases, the collapse of an institution and the disappearing of social links that characterize it leads to extreme behavior, such as homicide, by people that did not posses any predisposition to such behavior. Said behaviors are fully a part of the decay initiated by SCP-198-FR.
+Tensions that already existed in an institution before being affected by SCP-198-FR can speed up the process of decline provoked by the object. This means that any form of discrimination or hatred towards people of the same institution are used by the object in the societal collapsing process, making it faster. Thus, the more cohesive a society is, the more time it will require for its full collapse.
+A containment breach of SCP-198-FR could lead to an SK-Class scenario.
+SCP-198-FR was discovered in July 2007 by a civilian archeological expedition in the Sahara Desert. The members of the expedition were exposed to the object and driven to tear the expedition's structure apart. When the archaeologists' reports began to describe installations that were disturbingly close to those used by the Foundation in the 1930s, field agents were sent to the location in order to falsify the compromising reports.
+
++ JOURNAL OF FRANK ESBER - HEAD ARCHAEOLOGIST
+
+- CLOSE
+
+Thereafter, some of the entries of Frank Esber's journal were chosen for their ability to illustrate SCP-198-FR's effects.
+
+18th of June 2007
+ 
+The flight saw no issue. All the locals in Alger were very welcoming, but we didn't stay there very long. As soon as we met Dr. Zenouda, we embarked in the 4x4s. We are en route to Ain Salah. I don't think there's the need of mentioning the terrible heat. Nor the sand. But we're all very excited. Zenouda compared us to a summer camp. Well, he isn't wrong.
+
+
+4th of June 2007
+After 16 long hours on the road, possibly without counting the halts, we arrived in Ain Salah. The city has nothing exceptional. It's a small island lost in the ocean of sand. But we'll have to feel at home, Zenouda told us, because it's the only city we'll see during the month or so we're here. Tomorrow, we'll leave for the archaeological site, located in the middle of the desert at more or less 150 km south-east of the city. Zenouda's team is already there. It will probably be exhausting, as the only road that leads there is a trail that disappears under the sand at some places.
+
+
+5th of June 2007
+The site is a small fragment of Heaven. The hours on the road were worth it! The ruins of the small kasbah are located in the middle of a wonderful oasis. Water can be found in large quantities and we're eating dates whenever we please. Dr. Zenouda's team had already prepared everything for us. The excavation of the underground parts begin after tomorrow.
+
+
+7th of June 2007
+Was concrete used in antiquity? As planned, the first cellar is much older than surface fortifications, which is pretty unlikely in this region. But under the stones lies a more than improbable layer of concrete. We decided to pierce it.
+
+
+8th of June 2007
+It's an entire underground installation that lies under the surface. An old pumping station, a dynamo, dormitories and offices… Enough to sustain around twenty people in near autonomy. All over the walls was a strange symbol, three arrows pointing at the middle of circle. Dr. Zenouda assured us that the military never occupied this place, which creates a total mystery. Everything looks so 1930's. There is what seems to be an archive room behind a reinforced door that we haven't been able to pierce. But the strangest thing is this airlock in front of a heavily armored door at- least thirty centimeters thick. We'll have to wait for tools from Ain Salah to pierce it. This isn't what our patron was waiting for, but the curiosity is too strong.
+
+
+10th of June 2007
+After huge efforts, we succeeded in piercing the armored door. Behind it was a entirely empty room, except for a pedestal on which were put seven books, the seven volumes of The Decline and Fall of the Roman Empire by Edward Gibbon. Some said that there was a good reason for these books' location, but their fear is absurd. The books, in fact, were not the original work, but an essay relating the decay of an unknown family. We also discovered new rooms, and… we found corpses, still clothed. Only their skeletons and clothes, suits and lab coats, were left. They seem to be as old as this place.
+
+
+12th of June 2007
+Zenouda's men are starting to doubt our leadership. I don't know- they think we're hiding things from them. Some were frightened by the skeletons, probably too recent for their taste.
+
+
+13th of June 2007
+One of our archaeologist fought with a worker today. I decided to separate Zenouda's men from our archaeologists. He fears it will only increase the tensions, but I don't really care for his advice.
+
+
+14th of June 2007
+The advancement of the excavation is stagnating. During the afternoon, I got angry with Zenouda. He thinks my authority isn't worth anything! Some of my words seemed to be some others' words. But he deserved it. His ineptitude has nothing to do with me.
+
+
+16th of June 2007
+Four Algerian workers left during the night with a 4x4. I had told my men we couldn't trust these guys. Paranoia has gone rampant. Some of our archaeologists have settled inside the kasbah. I turned off the radio, as a precautionary measure.
+
+
+17th of June 2007
+An Algerian worker is dead today. An unfortunate fall of concrete rubble provoked by Dr. Simons. Zenouda is claiming it was a murder. I decided to put two sentinels near the 4x4s at night. We never know.
+
+
+18th of June 2007
+Mr. Chuvet, one of the two sentinels, was killed by Dr. Faure, the other sentinel. His claims that Chuvet was plotting with the Algerians and wanted to escape with the 4x4s. I don't know what to think. I put Faure in isolation.
+
+
+19th of June 2007
+Zenouda's dead. His throat was sliced during the night by one of his workers. He said that what was happening to the expedition was all his fault. The 4x4s were sabotaged. I don't know who did that, but we're blocked here. Only six of us are left with the dozen of workers.
+
+End of the journal.
+
+
+
+The agents sent on site by the Foundation after the disappearance of the archaeological expedition thereby re-discovered Zone-198-FR, a former containment facility built in 1929 in order to contain SCP-198-FR. Built in the middle of the desert, its aim was to take away the object from any human society. It seems that Zone-198-FR's personnel were victims of SCP-198-FR's effects. The reason why this Zone was forgotten and disappeared from the Foundation's records is unknown. It is supposed that this forgetting was voluntary and ordered by the 1930's Foundation's command in order to eliminate any risk of carrying the memetic effects of SCP-198-FR.
+Addendum-01: SCP-198-FR can affect- simultaneously- several institutions. The essay written in the books will then deal with the decay of the first institution affected. However, the speed of societal collapsing of each institution will decrease in an inversely proportional manner with the number of affected institutions, meaning the more institutions are affected, the slower their decay.
+Addendum-02: At the end of 2007, a link was established between a 1993 report by Agent Vickers and SCP-198-FR. The agent, at the time embedded in Marshall, Carter and Dark's London Auction, discovered the report of a transaction- dated from 1807- between said group of interest and [REDACTED] about SCP-198-FR.
+
+LEVEL 4 SECURITY CLEARANCE REQUIRED
+
+ACCESS GRANTED
+
+The transaction, concerning «…a special edition of Decline and Fall of the Roman Empire (sic)…» was signed by Lord Castlereagh, acting as the delegate of the British Crown. His motives became clear thanks to the copy of a letter addressed to George III, kept in Marshall, Carter and Dark's file discovered by Agent Vickers.
+
+
+23th of September 1807
+
+
+ 
+To His Majesty George III, King of Great Britain and Ireland
+What I want to show His Gracious Majesty will probably please Him. Despite late-Lord Nelson's glorious victory at Trafalgar, the pretended Emperor of the French continues to be a threat for England. But let me narrate you a small anecdote. Not long ago, gallant gentlemen came to meet me in their most beautiful finery. After a pleasant discussion, they made me understand that business was more in their preoccupations than mondanities. They proposed me, without any artifice nor subtlety, the end of Bonaparte. They claimed to own a weapon that would dissolve an empire as surely as a lightning bolt can cut a tree in half. They also assured me that this weapon was of no common ease. I very naturally asked to see this weapon, and my gentlemen agreed, but not without a thousand precautions this time.
+I saw, your Majesty, this weapon working. I saw it bringing discord into the hearts of brave men and turning a loving family into a nest of hostility for each of its members. I knew, then, that this weapon was capable of miracles. I saw Paris bending to our will and its emperor fleeing.
+I understand how hard it will be for Your Majesty to believe me. With the portrait I made of this weapon, any sane mind would cry out sorcery. But there is no doubt about the holiness of this weapon, put on our path by pleasing gentlemen to stop the insane doings of a despot.
+It goes without saying that these gentlemen were asking for a generous counterparty. Their price is extreme high, even for the Crown, but infinitely low compared with the value of their merchandise. Your Majesty, it is up to you to stop Bonaparte's madness.
+ 
+
+Lord Castlereagh, Secretary of State for War and the Colonies
+
+
+However, Marshall, Carter and Dark were never able to create anomalies, as they usually only sell them. It is thus very likely that the group of interest was only an intermediary between the British government and the creator of the anomaly. Said creator is still unknown, but he is suspected to be the "Gentleman" who signed the preface of the object. It is also very likely, according to the preface, that this object was not designed as a weapon.
+
+
+
+What happened to the object between its use by [REDACTED] in 1807 and its containment in 1929 is still unknown.
+
+PROTOCOL 198-FR-01 - LEVEL 4-198-FR SECURITY CLEARANCE REQUIRED
+
+ACCESS GRANTED
+
+When the Foundation's agents arrived on the archaeological site, they rapidly identified the set of books as an anomalous object. They ignored however its effects, and thus brought it back to the closest facility, former Site-██. The study of the object gave no result, as no anomalous effect seemed to occur. The anomalous properties of the object were only established when Dr. Johannes discovered the link between M,C&D and the British government transaction for the object. Site-██ was immediately put under quarantine, becoming Site-198-FRb. But it is very likely that, during the period before the quarantine, Foundation personnel were exposed to the object and left the former Site-██, thus spreading the memetic virus, hence the establishment of Protocol 198-FR-01.
+
+Protocol 198-FR-01:
+ 
+The protocol consists in the search and the elimination (or forced transfer to Site-198-FRb) of any person that comes into contact with the object and/or left former Site-██ before quarantine. This search also includes people who were in contact with the latest subject, because of the memetic virus' spreading conditions, hence its enormous extent.
+The Protocol also describes the behavior towards Site-198-FRb. The SCPs contained in this Site before the arrival of SCP-198-FR can not be relocated, because of the quarantine, hence why the Site's personnel must stay full. However, because of the objects effects, the Site is in continuous decay. This includes the occasional murders of some personnel. The Site is no longer efficient because of its continuous decline, but it is organized enough survive.
+The protocol finally implies the use of a civilian family of at least seven members in order to slow down Site-198-FRb's decay (according to the effect described in Addendum-01). After its selection, said family must be exposed to the object and placed under quarantine in a purposely-built extension of the Site. Once the family is entirely dissolved, another civilian family must be selected to take the place of the former. Such a procedure is not aiming to fully stop the Site's decay, but to slow it down considerably. This allows a drastic reduction in the frequency of replacement of qualified Site-198-FRb's personnel, which especially expensive for the Foundation. This procedure was accepted by the Ethics Committee, as long as only one family is used at once and that only the Committee is allowed to choose the family.
+
+Desperate times, desperate measures: we cannot dissolve an infinite society. Everything was done so that Site-198-FRb does not know the fate of its predecessor. The use of a civilian family also allows the replacement of personnel more realistically, and, as long as the personnel will effectively be replaced, the Site shall not collapse. It is even surprising to see a drop in SCP-198-FR effects' severity with time passing. They may disappear one day.
+- Dr. Hotchkiss
+Some researchers with the Level 4-198-FR security clearance are incredibly confident towards the threat that this object represents. This isn't my case. We currently have no way of proving that no member of the Foundation was affected by SCP-198-FR. It would take no more than one man to spread the memetic virus to the entirety of the Foundation, and we could not stop it. We could make the Foundation collapse without being aware of our actions. Maybe it is already happening; the Foundation is huge, so its decay will take time. What could we do, then, if not replacing the entirety of the personnel with healthy people? How can we prove that the object isn't currently affecting human society itself, thus starting the longest era of decay history will ever know?
+- Dr. Marr
+
+
+
+
+                    

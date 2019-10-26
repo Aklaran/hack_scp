@@ -1,0 +1,34 @@
+
+                        
+
+rating: +14+–x
+Item #: SCP-024-FR
+Threat Level: Yellow ●
+Object Class: Safe
+Special Containment Procedures: SCP-024-FR is to be kept under a sealed glass bell jar at all times, in a 2×2×2.5m room fitted with an airlock capable of being vacuum sealed at any time. Should the glass dome be damaged, a D-Class subject equipped with a hazmat suit is to enter the room to assess the damage in order to have the glass dome replaced as soon as possible. Light repairs such as sealing off cracks or putting on mastic are not to be considered sufficient, and may only be carried out at the behest of Level 2 personnel for a limited amount of time.
+The exact vector by which SCP-024-FR affects human beings is still unknown, any affected personnel is to be immediately restrained with a straitjacket and placed in a standard hospital bed, under permanent medical surveillance. Their jaw is to be kept shut by force.
+As of Incident 024-FR-21, personnel are not permitted to stay within the containment chamber longer than twenty (20) minutes, regardless of the protective clothing they are wearing.
+Description: SCP-024-FR appears to be a normal Parisian ham sandwich, exhibiting a very large size, with an estimated diameter of 35cm and a length of 20cm. Observing the object has no effect as long as it is kept under its sealed glass bell jar. Therefore, it is assumed that the effect is due to a smell or non-transmissible pathogen infecting the subject, hereafter designated SCP-024-FR-1.
+The process described in Experience Log 024-1 is triggered at the first exposure to the object. The subject feels the urgent need to swallow SCP-024-FR all at once, regardless of the physical damage such an action would cause. One side of the sandwich is covered with a standard paper towel, which does not display the name of any restaurant or brand. Instead, an inscription reads "Go ahead, U can Totali swalo Dat", and, lower, "Are We Tasty Yet?". As such, the object is suspected to be linked to the pseudo-artistic Group of Interest Are We Cool Yet?. It was found laying on a dustbin in a back alley of ██████, next to the corpse of a homeless person who seemed to have [DATA EXPUNGED] his own jaw.
+As of 08/17/2012, by edict of the Ethics Committee (Letter 024CE65, archived), it is forbidden to expose any human being to SCP-024-FR. This limits current knowledge on the effects of the anomaly (attempts at exposing animals have been unsuccessful). This document is based on the circumstances of its recovery and on the following experience log:
+Addendum 024-21: An incident involving Dr Lears has led to a revaluation of the current containment procedures for SCP-024-FR, and new procedures are under review. For now, it is forbidden to expose personnel more than necessary, and only as part of constructive experiments approved by at least one Level 2 personnel. The only available description of the incident comes from Dr Lears' personal recorder. Transcript of the recording is attached to this document as Incident Log 024-LEARS-A8.
+Experience Log 024-1, 08/14/2012: First and last exposure attempt of a D-Class (D-0568) to SCP-024-FR.
+D-0568 is wearing no protection, and is equipped with an earpiece to receive instructions from researchers, who are monitoring the room through the security camera. However, the procedure consisted of sending the D-Class subject into the containment chamber without precautions for exposure. T=0 designates the moment D-0568 began to show an interest in SCP-024-FR and is not to be considered accurate without further testing.
+
+T=-2min23: D-0568 enters the chamber, and approaches of the glass dome under which SCP-024-FR is placed, waiting for instructions.
+T=-1min57: D-0568 removes the glass dome and put it on the ground. D-0568 exhibits no particular behaviour and looks bored.
+T=0min00: D-0568 shows a keen interest in the object. He bends down, as if he is studying its length.
+T=2min06: D-0568 is now taking measures with his hands, visibly comparing its length, width and especially its diameter.
+T=3min11: D-0568 seems to be losing himself in an intense reflection, comparing the object's measurement with his jaw. Dr Baltin requests the immediate cessation of the experiment. Denied.
+T=3min24: D-0568 is holding the object and tries to insert it inside his mouth, unsuccessfully. The object's diameter is much too big for his jaw. Dr Baltin is dismissed for his inability to stay calm.
+T=3min48: D-0568 shows signs of confusion. He attempts to open his mouth wider, with the help of his hands, trying to match the object's measurements.
+T=4min12: D-0568 grasps his lower jaw with one hand and his upper jaw with the other one, showing signs of intense effort. Dr Laurent is dismissed for his inability to stay calm.
+T=5min06: D-0568 has managed to break his jaw. Subject seems to suffer at a normal level for a bone fracture with important lesions of facial tissues. SCP-024-FR does not seem to anesthetize the subject. Pain increases as he unsuccessfully tries to insert the object in the opening. Despite pain and blood loss, D-0568 appears to be determined. Dr Harlow is dismissed for his inability to cease asking for subject's termination.
+T=5min46: Subject dies as a result of his injuries following complete ablation of his lower jaw. It has to be noted that the object shows no damage after D-0568's attempt to consume it.
+
+Excerpt from Incident Log 024-LEARS-A8, 01/02/2013
+
+"[…] However, it appears that the object was designed in an aesthetic way, attesting to the implication of "Are We Cool Yet?" as much as its abilities, even though the object has no memetic effect like those morons are used to. I asked Agent Dears, she's a specialist. According to her, it matches their mode of operation, a sort of criticism of overconsumption. But she doesn't understand how it works any more than we do. I'll check skips linked to this Group of Interest after the break. Maybe we'll understand why those fools tortured themselves for this sandwich. That's incredibly sick. What was wrong with them… plus, frankly, it's like… the size of my wrist? Nearly? Ha, a bit more. Anyway, with such a length… Even if it's not that big, I don't know what they were thinking… Plus we just need to… This side looks thinner… Just need to… Open… A little wider… Open… A little… Bit… […]"
+
+
+                    

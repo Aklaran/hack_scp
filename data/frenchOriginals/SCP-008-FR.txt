@@ -1,0 +1,93 @@
+
+                        
+
+
+
+
+
+
+notation: +29+–x
+
+
+
+
+
+
+notation: +29+–x
+
+
+
+
+
+
+
+
+
+Crédits
+
+
+Titre : SCP-008-FR - Salamandre de Cire
+Auteur : DrJohannes
+Date : 3 Janvier 2013
+Image : Informations manquantes
+
+
+
+
+
+
+
+
+
+notation: +29+–x
+
+notation: +29+–x
+
+
+
+
+
+
+
+SCP-008-FR hors de son conteneur de confinement.
+
+
+Objet # : SCP-008-FR
+Niveau de Menace : Jaune ●
+Classe : Sûr
+Procédures de Confinement Spéciales : SCP-008-FR doit être conservé dans un conteneur en verre cubique d’un volume d'un (1) mètre cube, rempli d’eau maintenue à cinq (5) degrés Celsius par un système réfrigérant. Le conteneur doit être rangé dans le coffre n°39235 de la zone de stockage Reliquaire du Site 64, possédant un système de prévention incendie de classe 3.
+Les tests impliquant SCP-008-FR doivent être réalisés dans un environnement complètement ignifugé. Ceux-ci ne peuvent être autorisés et supervisés que par un membre du personnel de Niveau 3 ou plus.
+Les membres du personnel en charge des tests pratiqués sur SCP-008-FR doivent être contrôlés une (1) fois par trimestre pour s’assurer qu’ils n’aient aucune tendance pyromane.
+Description : SCP-008-FR se présente sous la forme d’un tube creux constitué d’un morceau de bambou d’un diamètre de sept (7) centimètres et long de trente-cinq (35) centimètres, évidé de manière à être utilisé comme une boîte et scellé aux deux extrémités. Des traces d’abrasion ont pu être relevées à l’intérieur, et suggèrent l’usage d’une lame de silex taillé lors de l’évidage. Des décorations géométriques réalisées à l'aide d'un pyrograveur ornent sa surface. Le bois de SCP-008-FR a été daté du XVIIème (17°) siècle.
+SCP-008-FR contient environ un (1) litre de cire noire. Les analyses ont révélé que cette cire était composée d’environ :
+
+65 % de cire d’abeille commune (Apis mellifera) originaire du bassin méditerranéen,
+14 % de paraffine,
+11 % de cire de jojoba (Simmondsia chinensis),
+7 % de cire de sumac japonais (Rhus verniciflua),
+3 % de cérumen d’origine humaine.
+
+Pour une raison inconnue, la cire contenue à l’intérieur de SCP-008-FR se trouve constamment à un état liquide et à une température d’environ soixante-cinq (65) degrés Celsius, quelle que soit la température à laquelle elle est soumise. Lorsque la cire contenue à l’intérieur de SCP-008-FR est versée sur une surface ou dans un récipient quelconque, celle-ci se coagule sous la forme d’une entité désignée sous le nom de SCP-008-FR-01 et passe à un état actif.
+
+
+SCP-008-FR-01 après coagulation complète.
+
+
+SCP-008-FR-01 est une entité constituée de cire fondue, physiquement semblable à une grosse salamandre noire (salamandra atra). La taille de SCP-008-FR-01 peut varier entre dix-sept (17) et vingt-cinq (25) centimètres de long. Lorsque SCP-008-FR-01 se déplace, celle-ci projette occasionnellement de petites gouttelettes de cire noire fondue autour d’elle ; ces gouttelettes semblent animées d’une volonté propre, et cherchent à rejoindre SCP-008-FR-01 en se dirigeant vers l’entité pour y être réintégrées. Par conséquent, les échantillons prélevés sur SCP-008-FR-01 se comportent de la même manière.
+Si un mammifère quelconque plus gros que SCP-008-FR-01 se trouve à moins de vingt (20) mètres de SCP-008-FR-01, SCP-008-FR-01 se dirigera vers lui pour tenter de "fusionner" avec l’un de ses membres.
+Dans un premier temps, SCP-008-FR-01 cherche à atteindre l’un des membres du sujet en courant ou en sautant vers celui-ci, avant d’augmenter brusquement sa propre température interne par un procédé inconnu jusqu’à entrer en ébullition (lors d’un des tests initiaux, une température de cent dix-huit (118) degrés Celsius a été mesurée). SCP-008-FR-01 perd ensuite sa forme de salamandre et recouvre le membre en question d’une couche épaisse de cire bouillante.
+Lorsque les couches supérieures de l’épiderme en contact avec SCP-008-FR-01 ont été brûlées ou fondues, SCP-008-FR-01 dispose d’un contrôle approximatif sur les gestes qu’accomplit le membre atteint par ce processus de "fusion", et cherche à forcer le sujet à s’approcher d’une flamme ou, dans le cas d’un sujet humain, à lui faire allumer un feu pour enflammer le reste du membre atteint, voire le sujet entier dans certains cas. SCP-008-FR-01 ne se détache d’un sujet que lorsque le feu allumé de cette manière s’est totalement éteint ; après quoi, SCP-008-FR-01 tente de regagner SCP-008-FR pour retourner à son état inactif.
+On suppose que SCP-008-FR-01 cherche à déclencher ce qu’on appelle communément "l’effet chandelle" sur ses victimes pour se "nourrir" d’une partie de la graisse animale fondue qui entretient le feu. Cette hypothèse a été avancée après avoir constaté que SCP-008-FR-01 laissait derrière elle une trace grasse lorsqu’elle cherchait à rejoindre SCP-008-FR après s’être détachée d’un sujet brûlé.
+SCP-008-FR-01 étant constituée de cire, une matière hydrophobe, celle-ci évite d’entrer en contact avec toute source d’eau. La façon la plus simple de détacher SCP-008-FR-01 d’un membre atteint lors du processus de fusion est de le plonger dans de l’eau ou de l’en asperger en grandes quantités.
+Addenda 008-FR-a : SCP-008-FR fut, à l’origine, découvert lors d’une enquête au sujet d'une série de phénomènes appelés populairement "combustion spontanée" dans la ville de ████ en ██████, ayant eu lieu du ██/██/20██ au ██/██/20██ dans un immeuble situé au ██, rue ██████ ████. Différentes personnes étaient régulièrement retrouvées mortes dans leur appartement, presque entièrement brûlées, alors que le feu n’avait que rarement brûlé le reste de la pièce. Le principal suspect était ██████ ███████, un pyromane purgeant une peine de prison de cinq (5) ans à son domicile, sous surveillance constante grâce à un bracelet électronique ; cependant, aucune preuve concrète ne permettait de le relier à ces différents incendies, puisqu’il ne sortait jamais de chez lui.
+L’enquête fut portée à l’attention d’Agents de la Fondation travaillant sous couverture pour la police locale. Ceux-ci s’arrangèrent pour reprendre l’enquête en main, et perquisitionnèrent le domicile de ██████ ███████ le ██/██/20██.
+Ils découvrirent ██████ ███████ dans la cuisine de son appartement, gisant sur le sol, ses vêtements en partie trempés d’eau. Son bras droit était partiellement recouvert d’une substance semblable à de la cire noire en ébullition, du coude jusqu’à l’extrémité de trois (3) de ses doigts. La main couverte de cire était animée de mouvements convulsifs, bien que ██████ ███████ soit physiquement mort, et cherchait apparemment à ouvrir la porte d’un placard situé sous l’évier. De profondes blessures, apparemment auto-infligées, étaient visibles sur une partie du bras droit de ██████ ███████ ainsi que sur son épaule. Une équipe d’intervention fut dépêchée sur place.
+Il apparaît que ██████ ███████ était en possession de SCP-008-FR, et qu’il était pleinement conscient de ses propriétés anormales ainsi que de certains aspects du comportement de SCP-008-FR-01 dans son état actif. D’après des notes qui ont été retrouvées à son domicile, il se servait de SCP-008-FR comme arme pour allumer des feux à distance chez ses voisins – il évitait que SCP-008-FR-01 ne s’en prenne à lui en s’aspergeant d’eau avant de le libérer.
+On suppose que ██████ ███████ n’a pas utilisé suffisamment d’eau le jour où les Agents de la Fondation l’ont découvert, l’entité SCP-008-FR-01 ayant réussi malgré cela à fusionner avec son bras droit. ██████ ███████ a apparemment paniqué sous le coup de la douleur et a tenté d’amputer le membre atteint à l’aide de tout ce qui lui tombait sous la main. La mort aurait été entraînée par l’importante perte de sang occasionnée, additionnée au choc causé par la fusion avec SCP-008-FR-01. D’après les traces relevées dans l’appartement, il semble que SCP-008-FR-01 ait réussi à traîner ██████ ███████ par la seule force de sa main sur près de douze (12) mètres. Un briquet fut retrouvé dans le placard que SCP-008-FR-01 cherchait à ouvrir.
+
+
+« SCP-007-FR | SCP-008-FR | SCP-009-FR »
+
+
+
+                    

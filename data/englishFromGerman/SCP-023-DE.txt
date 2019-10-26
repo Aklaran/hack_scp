@@ -1,0 +1,48 @@
+
+                        
+
+rating: +8+–x
+
+Item #: SCP-023-DE
+Object Class: Safe
+Special Containment Procedures: All instances of SCP-023-DE are kept in a standard-locker in storage room 07 at Site-DE6, with the exception of the pair currently worn by SCP-023-DE-01. SCP-023-DE-01 is confined to a standard cell and needs no extraordinary containment measures.
+Description: SCP-023-DE is the designation for eight pairs of contact lenses (16 items overall) which are of unusual design. Each consists of three separate, malleable lenses, between which there are six miniature helical motors and three inwardly directed sensor units.
+When a subject uses a pair of SCP-023-DE, the object compensates for any kind of potentially present visual impairment, except for blindness, after a varying amount of time (on average three seconds per diopter). The anomalous properties of SCP-023-DE manifest as soon as it has adjusted to the visual impairment of the subject: Subjects begin to perceive large, black areas on themselves, and other peoples skin, which after closer inspection, appears to be massive gatherings of small spiders, estimated to be 0.5 mm big each. Affected people state that they feel nothing unusual in the effected areas of skin. Examinations could find no hint to the existence of these spiders, which is why it is currently assumed that these spiders are only an illusion created by SCP-023-DE, even though disassembled pieces of SCP-023-DE didn't contain any objects which would be capable of creating such illusions.
+Discovery: The first pair of SCP-023-DE was discovered in Vienna, after a young woman1 ran in front of a car during a panic attack and, after she awoke in the hospital, stated that she perceived spiders on her and everyone around her, since she got "these new lenses" from a friend. This friend was tracked down and taken into custody by Agent Sprenger. He stated that he created SCP-023-DE himself and wears a ninth pair of them himself, and that he does not know why SCP-023-DE creates these Illusions (see Interrogation-Protocol 023-01-02). Until the origin of the illusions is explained, their creator (designated SCP-023-DE-01) is to be kept in custody. He refuses to hand over the pair of SCP-023-DE he is currently using which will, at this time, be tolerated because of their apparent harmlessness.
+Interrogation-Protocoll 023-01-02, 06.03.20██
+Interrogation conducted by Dr. Stein
+
+Dr. Stein: Good morning, 023-01.
+SCP-023-DE-01: Hello.
+Dr. Stein: How are you today?
+SCP-023-DE-01: I'd like to go home.
+Dr. Stein: That will unfortunately not be possible for as long as we don't know how your lenses create those illusions.
+SCP-023-DE-01: I don't know either. And …
+Dr. Stein: Yes?
+SCP-023-DE-01: … I don't think those are illusions.
+Dr. Stein: What do you mean? There are certainly no spiders on either of us.
+SCP-023-DE-01: Oh yes, there are. You just can't see them.
+Dr. Stein: You wanna tell me they are invisible?
+SCP-023-DE-01: I think so.
+Dr. Stein: How would your lenses make these spiders visible, then? Wouldn't it make more sense, if your lenses only created those images?
+SCP-023-DE-01: I created these lenses, to automatically detect the visual impairments of its user, and adapt to it. I certainly didn't build any spider-holegrams into them!
+Dr. Stein: You mean holograms.
+SCP-023-DE-01: … I might be a bit nervous, because I'm a prisoner of the men in black and might be a clumsy talker because of it. Please forgive me.
+Dr. Stein: No problem. So, if the spiders are no illsuions created by your lenses, where would they come from?
+SCP-023-DE-01: … maybe they were always on us. Maybe the lenses are somehow bypassing the spiders camouflage. I don't know.
+Dr. Stein: But you have to admit, it sounds… unlikely, that almost every human being carries around thousands of tiny spiders without noticing it.
+SCP-023-DE-01: Each of us carries billions of bacteria around without noticing … also, we do notice, we just don't realize it.
+Dr. Stein: … What do you mean?
+SCP-023-DE-01: Before I was dragged… became your guest, I asked some people after those spiders, and watched others. You wanna know what I noticed? People are itchy. Exactly in the spots where the spiders are.
+Dr. Stein: Sounds very unlikely.
+SCP-023-DE-01: Really? Your nose is itchy, isn't it?
+(Ten seconds silence)
+Dr. Stein: This conversation is over. I have to go.
+
+Note: Dr. Stein handed over the interrogations of SCP-023-DE-01 to Dr. Klanic.
+
+Footnotes
+1. Questioning showed that these woman was suffering under severe arachnophobia.
+
+
+                    

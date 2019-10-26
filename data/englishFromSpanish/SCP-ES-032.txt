@@ -1,0 +1,74 @@
+
+                        
+
+rating: +4+–x
+
+
+SCP-ES-032
+
+
+Item #: SCP-ES-032
+Object Class: Euclid
+Special Containment Procedures: Given that SCP-ES-032 cannot be contained by current means and it only has effect in a small area, its containment is limited to keeping civilians away at 5 km. from its area of effect. A wire fence at the perimeter, as well as a permanent patrol, will be responsible of keeping the site isolated. Foundation personnel will be sent after a precipitation to collect samples from it.
+Due to security reasons, the presence of personnel is prohibited during precipitations, as well as picking up and/or drinking the materials which plunge from SCP-ES-032.
+Description: SCP-ES-032 is a swirly-shaped cloud of the Cumulus-Nimbus type, which is floating 5 kms. above the region of ██████, Argentina. The cloud has the particularity of throwing a "rain" of random objects. So far a pattern which could predict which objects will fall has not been determined, however the precipitations take place mainly during the months from November to March, in correspondence with monsoon season, though geographically the rains should be wintry.
+SCP-ES-032 came to the Foundation's attention after news came about a blood rain in a local community. Foundation operatives validated the veracity of the event, after which a misinformation campaign and relocation of the population took place, succedding in concealing the site as a study zone of the Argentine National Meteorological Service.
+Addendum A-1:
+Register of SCP-ES-032's documented precipitations
+
+
+Date of Event
+Plunged Element
+Effect
+
+
+12/12/20██
+Human blood
+Blood's decomposition due to high temperatures.
+
+
+01/20/20██
+Rose petals
+None.
+
+
+01/22/20██
+Frozen birds from different species
+Defrosting and subsequent animal's decomposition due to high temperature.
+
+
+03/31/20██
+Ancient coints, later identified as dinars and rupees from ██ B.C.
+Significant mechanical damage to observation equipment. Two deceased Foundation members.
+
+
+12/03/20██
+Common water (first "normal" rain registered)
+None.
+
+
+02/02/20██
+Snowflakes and sleet
+Registered temperature of 2ºC under the cloud. Outside the area of effect the temperature was 38ºC.
+
+
+03/05/20██
+Gears, washers and rusty screws.
+Mechanical damage to instruments of measurement.
+
+
+12/05/20██
+[DATA EXPUNGED]
+Area under quarantine, cleaning teams deployed at the area. Infected livestock terminated and incinerated.
+
+
+12/23/20██
+5 and 10 dollar bills, all of them utilizables.
+Dragged by the wind. A total of U$S ██████.██ was recovered
+
+
+Addendum A-2: Exploration into SCP-ES-032 has been attempted through the use of unmanned aircraft with atmospheric sensors, however, before reaching its center these stopped working. Examination of the remains revealed that an electromagnetic pulse emitted from the interior of SCP-ES-032 left the equipment unusable. Data recovered before the signal lost indicate the cloud possess high concentrations of hydrogen, oxygen, nitrogen and other gases that have yet to be identified.
+Addendum A-3: Studies are being conducted in order to ascertain if there is a relation between SCP-ES-032 and SCP-1686. Dr. ███████ and ███████'s research teams are currently in charge of carrying out the investigations. So far the results are inconclusive.
+It is still under investigation why the cloud remains immobile despite the winds and/or the lack of atmospheric humidity.
+
+                    
