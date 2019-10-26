@@ -29,16 +29,17 @@ class ChineseSpider(Spider):
             item = {}
 
             # parse stuff on this page
-            item['scpId'] = row.xpath("./a/text()").extract()[0] # indexing at 0 appears to get the string
-            item['href'] = row.xpath("./a/@href").extract()[0]
-            item['name'] = row.xpath("./text()").extract()[0][3:] # list slice drops the preceding " - "
+            if row.xpath("./a").extract(): # check for annoying things
+                item['scpId'] = row.xpath("./a/text()").extract()[0] # indexing at 0 appears to get the string
+                item['href'] = row.xpath("./a/@href").extract()[0]
+                item['name'] = row.xpath("./text()").extract()[0][3:] # list slice drops the preceding " - "
 
-            # parse stuff on the linked pages
-            request = Request(self.englishBaseUrl + item['href'], callback=self.parseEnglishPage) # get linked page and parse it with helper
-            request.meta['data'] = item # spooky stuff for communicating between this and helper
+                # parse stuff on the linked pages
+                request = Request(self.englishBaseUrl + item['href'], callback=self.parseEnglishPage) # get linked page and parse it with helper
+                request.meta['data'] = item # spooky stuff for communicating between this and helper
 
-            # save the data returned from helper (which includes the original scraped data)
-            items.append(request)
+                # save the data returned from helper (which includes the original scraped data)
+                items.append(request)
 
         return items
 
