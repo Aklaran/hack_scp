@@ -1,0 +1,65 @@
+
+                        
+
+rating: +1+–x
+
+
+SCP-586-JP-3 shortly after the breakage during testing (SCP-586-JP-A-3 is in dead angle). Note that internal liquid was already vaporized.
+
+
+Item#: SCP-586-JP
+Object Class: Safe
+Special Containment Procedures: All instances of SCP-586-JP are to be stored in Low-Risk Object Storage Units at Storage Site-8123. Inactivated SCP-586-JP-A instances are to be stored in Cryogenic Storage Units at said Site. On testing of SCP-586-JP, the priority is given to the establishment of communication with SCP-586-JP-A instances. Testing involving the breakage or physical impact against SCP-586-JP requires the approval of 2 Security Clearance Level-3 or above personnel. In case another incident possibly related to new SCP-558-JP instances is reported to the law enforcement, investigation is to be handed over to Foundation agents.
+Description: SCP-586-JP is a small snow globe. Currently 6 instances of SCP-586-JP are in Foundation custody, designated SCP-586-JP-1 to -6. SCP-586-JP has been filled by transparent liquid, which is presumed to be an unknown component. Said liquid is assumed to serve as a method to maintain the active state of SCP-586-JP-A instance; studies have been stagnant as the liquid is immediately vaporized upon the breakage of glass. While the interior decoration of SCP-586-JP are vary per instance, an instance of SCP-586-JP-A is consistently present.
+SCP-586-JP-A instances are small humanoid entities that have appearance of 4 to 12-years-old children wearing winter clothes. All SCP-586-JP-A instances are sapient, and capable of autonomous movement. SCP-586-JP-A instances require no feeding, and recover its external injures at anomalously rapid rate. When SCP-586-JP is shaken or applied with external impact, SCP-586-JP-A is similarly affected, and may be crashed into decorations or glass dome in case the impact is violent. While SCP-586-JP-A displays extreme distress upon the crash, it does not be externally damaged due to abovementioned rapid recovery.
+SCP-586-JP-A is incapable of perceive the external environment of SCP-586-JP; all communications from outside have been unsuccessful to date. Attempt to break glass caused the vaporization of internal liquid and the inactivation of SCP-586-JP-A. Autopsy of removed SCP-586-JP-A revealed that its internal structures are identical to that of non-anomalous human.
+All instances of SCP-586-JP-A have identical appearance to specific children who mysteriously disappeared in various countries. Currently, all instances have been identified.
+Following table is a summary of SCP-586-JP instances and corresponding SCP-586-JP-A instances.
+
+
+Designations of SCP-586-JP and internal SCP-586-JP-A
+Brief history of SCP-586-JP-A
+Internal decorations
+Current status of SCP-586-JP-A
+
+
+SCP-586-JP-1, SCP-586-JP-A-1
+4-years-old male. From [REDACTED], Brasil.
+A miniature model of coniferous tree.
+Inert. It mostly spends lying down.
+
+
+SCP-586-JP-2, SCP-586-JP-A-2
+7-years-old female. From [REDACTED], China.
+A miniature of wooden house typical of subarctic zones; this miniature has no entrance.
+Inert. It mostly spends sitting on ground and curling up in fetal position.
+
+
+SCP-586-JP-3, SCP-586-JP-A-3
+10-years-old male. From [REDACTED], Egypt.
+Simple miniatures of a house with chimney, and two coniferous trees.
+Inactivated upon the breakage of SCP-586-JP-3 during testing.
+
+
+SCP-586-JP-4, SCP-586-JP-A-4
+12-years-old male. From the State of ███████, USA.
+Miniatures of various tools are scattered.
+Inactivated. SCP-586-JP-4 was already broken upon discovery.
+
+
+SCP-586-JP-5, SCP-586-JP-A-5
+12-years-old female. From the State of █████ █████, USA.
+Miniatures of various tools are scattered. Glass dome is thicker than previous instances.
+Inert. While mostly spending lying down, it sometimes weakly tries to break glass of SCP-586-JP-5 with tools.
+
+
+SCP-586-JP-6, SCP-586-JP-A-6
+9-years-old male. From ███████ Prefecture, Japan.
+A small, active organism superficially identical to polar bear (Ursus maritimus).
+[REDACTED]
+
+
+Discovery Log: SCP-586-JP-1 to -3 were recovered on 201█/01/08, when Foundation agents intercepted a civilian report about "living humans trapped in snow globes" which was found in Mt. ████████, Hokkaido. Said civilian was administered amnesiac after the interview. On 04/06 in the same year, the existence of "a miniature corpse in snow globe" was reported from [REDACTED] Forest, Chiba Prefecture, and SCP-586-JP-4 was recovered. Following these incidents, SCP-586-JP-5 was recovered from [REDACTED], Kumamoto Prefecture on 07/10, and SCP-586-JP-6 was recovered from Mt. ███████, Yamagata Prefecture on 10/24.
+All instances of SCP-586-JP were initially contained in a cardboard box with an attached B5-size printer paper, written as "Waste; Past the Seell-By Date" [sic] by permanent marker. Given the situation, it has believed that SCP-586-JP instances were created and disposed by unknown individual. Investigation and search about said individual are ongoing.
+
+                    

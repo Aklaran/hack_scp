@@ -14,14 +14,14 @@ class KoreanSpider(Spider):
     koreanBaseUrl = "http://ko.scp-wiki.net"
     englishToken = '610da9ba2f8fa1ca5ef14c7488cdfc16'
     koreanToken = 'd6be53a2948f8f5eb10d764ecc24c198'
-    
     # vvv this is very important because we are scraping multiple pages and don't want to get in trouble
-    custom_settings = { 'DOWNLOAD_DELAY' : 0.5 }
+    custom_settings = { 'DOWNLOAD_DELAY' : 0.5,
+                        'DUPEFILTER_CLASS': 'scrapy.dupefilters.BaseDupeFilter' }
     # ^^^ inlude this line to wait 0.5 seconds between each download ^^^
 
     def parse(self, response):
         rows = response.xpath("//div[@class='content-panel standalone series'][1]/ul[2]/li")
-        rows = rows[3:5] # limit rows when testing to save time
+#         rows = rows[3:5] # limit rows when testing to save time
         items = []
         for row in rows:
             # the data to save
