@@ -1,0 +1,23 @@
+
+                        
+
+rating: +3+–x
+
+
+SCP-1033-RU In containment
+
+
+Item #: SCP-1033-RU
+Object Class: Safe
+Special Containment Procedures: SCP-1033-RU is to be contained in the safe storage facility A of Site 7, inside a standard steel safe with a combination lock. Access to the facility for research purposes is permitted to personnel with a level 2 or higher level of admission, and a written authorization from Dr. Saligov is also required for testing. In the test room there should be 3 (three) security personnel, armed with high-speed automatic weapons and familiar with the features of neutralizing the object’s carriers.
+Description: SCP-1033-RU is a bracelet made from an unknown pottery-like material. Attempts to take a particle of the material for a more detailed analysis have not succeeded, nor did any attempt to at least somehow damage the object. Initially, the object is quite large and heavy for a person (hole diameter being 15 cm, ring thickness is 4 cm, weight is 2.5 kg), however, when put on the arm, its dimensions change, fitting any carrier. The weight of SCP-1033-RU, according to the subjects, ceases to be felt (experiments conducted confirmed that the weight of the person does not change after putting on the bracelet). Removing the object restores the original size and weight.
+When the bracelet is worn, it launches 12 (twelve) ultrathin probes into the body of the carrier (they were detected only during the examination of the carrier's body using [REDACTED]), which penetrate into different parts of the body. The subject who has put SCP-1033-RU on experiences only a slight burning of the skin under the bracelet, which passes quickly. Wearing SCP-1033-RU protects its wearer from any serious damage and attempts to inflict them, using rather unusual methods and means. Most often these are probes (apparently similar to those found in the body of the carrier), although many other types of protection were used during the tests.
+For each action that protects the carrier, the object takes some of its blood, depending on the level of the threat. Full exsanguination is possible, the user dies, and SCP-1033 is independently separated from it. If the carrier removes the object itself, then for some time (from 2 (two) weeks to 3 (three) months) the blood regeneration slows down, even if the protection mechanism was never activated.
+Note: Despite this fact, conducting experiments with SCP-1033-RU and subjects who have any form of cell regeneration is strictly prohibited. - Dr. Saligov
+Only the carrier can remove SCP-1033-RU; any attempt by others to do so will inevitably lead to activation of the defense mechanism.
+Initially it was assumed that the object responds directly to actions directed against the wearer, and not to the person who performs these actions. However, after the experiments, it turned out that the object is able to improve the methods of protecting the carrier, reducing blood consumption and improving methods of eliminating threats, and passive methods of protection are replaced by active ones, including the immediate destruction of the attacker.
+SCP-1033-RU possesses a so-called. “A sense of aggressor”, whose radius is 10 meters. It is within this radius that the properties of the object manifest themselves: it will instantly destroy anyone who intends to attack the carrier, as well as oppose any actions directed against him. The hazard analysis system is still unclear, although it is assumed [DATA EXPUNGED]. The presence of the object of reason has not yet been confirmed. It is not known where the bracelet takes the protective devices and where it removes them after use: they just appear from the object / body of the carrier / space near the carrier, and disappear after preventing the threat.
+Addendum: The object was discovered after an explosion in the shopping center of the city [REDACTED], Russia, near a single body (it was later established that it was [REDACTED], and that it was he who organized the explosion), on which there was no visible damage from the explosion and its consequences. An autopsy showed that the internal organs are also intact, and death was caused by blood loss, although there were no wounds on the body. The rumors of a “terrorist-vampire” leaked to the press attracted the attention of the Foundation. After a brief investigation, the agents went to the site and removed it from the police depot. It was not possible to find out the complete history of the object - it turned out only that [REDACTED] carried it almost all his life.
+Addendum 1033-1: All experiments with SCP-1033 are recorded in Experiment log 1033 .
+
+                    
