@@ -1,0 +1,65 @@
+
+                        
+
+rating: +7+–x
+
+
+Instance of SCP-197-FR.
+
+
+Item #: SCP-197-FR
+Threat Level: Green ●
+Object Class: Safe
+Special Containment Procedures: The area of ​​activity of the only known colony of SCP-197-FR (approximately one square kilometer of Amazonian rainforest in Brazil) is delimited by a one and a half meter high concrete wall. It must be regularly patrolled and monitored to ensure that no natural bridge (fallen tree, fallen branch, soil buildup) allows SCP-197-FR to cross it. New sources of food (plants, fruits, etc.) must be left at the disposal of the colony if they are depleted.
+Any new material introduced to the colony for testing purposes must be approved in advance by the Director of Research (currently Dr. De Souza).
+Description: SCP-197-FR is an anomalous species of tortoises, physically similar to red-footed tortoises (Chelonoidis carbonaria), except for their size and social behavior. Each instance of SCP-197-FR measures between two (2) and three (3) centimeters long, and they are organized into a single Brazilian colony of approximately six hundred and fifty (650) asexual individuals. The instances are omnivorous, like Chelonoidis carbonaria, but mostly feed on plants.
+The SCP-197-FR colony is organized around a giant queen-like instance, which is twelve (12) meters long from head to tail, and designated SCP-197-FR-Ω. Due to its size and its weight, SCP-197-FR-Ω is virtually stationary, partially buried in the forest soil (only the head, the shell and the tail are above ground level), and must be assisted by the whole colony to be fed, healed, and to evacuate its dejections in order to avoid their accumulation. Unlike all the other instances, SCP-197-FR-Ω is female, but seems capable of laying eggs without prior fertilization. The egg production is triggered by any decline in the colony’s population, and produces between five (5) and ten (10) eggs, which are buried by the colony until they hatch one month later.
+The SCP-197-FR colony appears to have a social organization, and is capable of performing complex tasks, such as exploiting a big source of food or moving stones from one place to another. This organization appears through the many interactions between the instances, generating a form of collective intelligence1, and does not seem to be orchestrated by SCP-197-FR-Ω.
+The main activity of the colony is to collect food, gardening materials (earth, clay, gravel) and seeds or cuttings. These materials are either transported in the mouth of the SCP-197-FR instances or moved by repeatedly pushing them with their head, and usually stored for later use in holes dug around SCP-197-FR-Ω. The majority of the food collected (about 80%) is fed to SCP-197-FR-Ω, while the rest is distributed between the workers of the colony. The instances which aren’t collecting food, minerals or plant materials evacuate SCP-197-FR-Ω dejections and bury its eggs until they hatch.
+Gardening materials, as well as seeds and cuttings collected by the colony, are gradually moved by some instances (apparently specialized) onto the shell of SCP-197-FR-Ω, where they are rearranged in a complex manner evoking a landscaped garden, including tiny gravel paths, succulent plants garden-beds, short dirt roads, miniature trees, 'mountains' made of large stones, and small statues made of wood or stone, usually representing tortoises (two statues of lizards and a bird statue were also found). The organization of this garden constructed on top of SCP-197-FR-Ω is regularly modified as new materials are discovered by the colony.
+Testing Log: New materials introduced to the SCP-197-FR colony by the research team. Redundant or irrelevant tests were omitted.
+
+Test Number: 1
+Introduced material(s): Apple
+Result: Six SCP-197-FR instances discovered the apple, and after a moment of confusion which lasted about twenty (20) minutes, decided to push the apple into the mouth of SCP-197-FR -Ω (the operation lasted about an hour and a half).
+Notes: None.
+
+
+
+Result of test n°8.
+
+
+
+Test Number: 8
+Introduced material(s): Gravel, compost, sand, succulents, lithops (for a total weight of two kilos)
+Result: The materials were gradually collected and stored by the colony in a hole dug near the shell of SCP-197-FR-Ω, then progressively moved onto its shell and reorganized into a new garden-bed, surrounded by a four centimeters wide gravel path (the operation lasted about five days).
+Notes: An area of ​​SCP-197-FR-Ω’s shell, formerly occupied by a moss garden-bed, was cleared to build this new garden-bed. The moss was eaten by the instances building the "garden".
+
+
+
+Result of test n°12.
+
+
+
+Test Number: 12
+Introduced material(s): Small sandstone cube (5 cm).
+Result: The piece of sandstone was collected by the colony and stored in a hole next to the head of SCP-197-FR-Ω. Nothing else seemed to happen, until a research assistant, a week later, noticed that a new small sandstone statue representing a tortoise had been placed in the "garden."
+Notes: We missed an opportunity to understand how SCP-197-FR sculpts these statues. The slow pace of SCP-197-FR’s activities should not diminish our vigilance. Please keep a more wary eye in the future. - Dr. De Souza
+
+
+
+Result of test n°14.
+
+
+
+Test Number: 14
+Introduced material(s): Small cube of mahogany (5 cm).
+Result: The piece of wood was collected by the colony and stored in a hole next to the head of SCP-197-FR-Ω. Three days later, it was dug up and pushed into the mouth of SCP-197-FR-Ω, which swallowed it. The next day, while some instances of SCP-197-FR were moving and evacuating the dejections of SCP-197-FR-Ω, they discovered a small mahogany statue representing a tortoise among the excrement. The statue was cleaned by rolling it in sand, then placed in the "garden" (the operation lasted about six days).
+Notes: At least that mystery is solved now. - Dr. De Souza
+
+
+Footnotes
+1. The term "Collective intelligence" is used here to describe how collective behavior of complex appearance is generated by relatively simple individual rules.
+
+
+                    

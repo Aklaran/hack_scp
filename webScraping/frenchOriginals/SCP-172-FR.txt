@@ -1,0 +1,140 @@
+
+                        
+
+
+
+
+
+
+notation: +21+–x
+
+
+
+
+
+
+notation: +21+–x
+
+
+
+
+
+
+
+
+
+Crédits
+
+
+Titre : SCP-172-FR - "Points de Vue"
+Auteur : Reyas
+Date : 24 juillet 2017
+Image : Informations manquantes
+
+
+
+
+
+
+
+
+
+notation: +21+–x
+
+notation: +21+–x
+
+
+
+
+
+
+
+SCP-172-FR avant son confinement.
+
+
+Objet # : SCP-172-FR
+Niveau de Menace : Vert ●
+Classe : Sûr Euclide (voir Addendum 4)
+Procédures de Confinement Spéciales : SCP-172-FR est actuellement dissimulé derrière un échafaudage, et l'accès au bâtiment le contenant est réservé au personnel de la Fondation. Toute personne ayant aperçu SCP-172-FR avant son confinement doit être informée qu'il s'agissait d'un défaut de construction, et que l'échafaudage sert à sa réparation. Le bâtiment contenant SCP-172-FR a été aménagé afin d'y loger un garde chargé de surveiller l'objet.
+SCP-172-FR doit être traversé au moins une fois par semaine par un membre du personnel quelconque (voir Addendum 4).
+Description : SCP-172-FR désigne une fenêtre du deuxième étage d'un immeuble d'habitation situé au ██ Rue ██████ à Grenoble. Vue depuis l'extérieur, elle paraît inclinée vers l'Est avec un angle de 16,4° par rapport à la verticale. Vue depuis l'intérieur, elle est inclinée avec le même angle, mais dans la direction opposée. Tout ce qui est observé à travers SCP-172-FR, y compris la chute des corps et l'horizon, paraît incliné selon l'angle de la fenêtre, d'une manière analogue à des objets observés sur un écran de télévision incliné.
+
+
+De l'eau après un passage à travers SCP-172-FR.
+
+
+Quand un objet traverse SCP-172-FR, il adopte une inclinaison de 16,4° similaire à celle de la fenêtre, et par conséquent la force gravitationnelle qu'il subit s'incline de 16,4° par rapport à la verticale. Si l'objet sort du bâtiment par SCP-172-FR, il sera incliné vers l'Est, et s'il y rentre, il sera incliné vers l'Ouest. Il est donc possible d'annuler l'effet en re-traversant SCP-172-FR dans le sens contraire à celui de la traversée précédente.
+Les effets sont cumulatifs : deux passages dans le même sens produisent un angle deux fois plus important, trois passages produisent un angle triple, et ainsi de suite. Il est possible d'inverser complètement la gravité d'un objet après 11 passages.
+Les lois qui régissent cette gravité anormale, si elles existent, sont encore mal comprises. Il est uniquement su que les objets ayant un angle proche de 90° "tombent" en respectant la courbure de la Terre.
+Addendum 1 : Une plaque en laiton est vissée en dessous de la fenêtre (à l'intérieur du bâtiment) et comporte les mots suivants :
+
++ Montrer
+
+- Cacher
+
+
+
+Vous avez raison.
+Et vous n'en doutez pas.
+Vous n'en avez jamais douté.
+Tous ceux qui prétendent voir la situation différemment,
+Ils ont tort, pas vrai ?
+Il n'y a qu'une seule manière de voir le monde.
+Et c'est la vôtre.
+Ce serait inutile de se mettre à la place de quelqu'un d'autre,
+Puisque vous verriez la même chose.
+Mais je vous invite à me traverser.
+Et à vérifier par vous même,
+Si tous les Hommes voient avec les mêmes yeux.
+En espérant que vous réfléchirez sur vous-même,
+Et que vous ferez réfléchir les autres.
+Ne vous en faites pas ;
+[DONNÉES SUPPRIMÉES]
+~
+"Points de vue" - 20██
+Et maintenant, on est cool ?
+
+
+
+
+
+Addendum 2 : Journal de récupération
+La Fondation est entrée en possession de SCP-172-FR le 3 mars 20██, après que des agents ont remarqué la fenêtre penchée d'un immeuble dont la construction s'était achevée le jour précédent. Après une rapide inspection des lieux, les agents relèvent l'anomalie visuelle de SCP-172-FR. La fenêtre est dissimulée puis classée comme simple objet anormal. Des expériences ultérieures révéleront l'anomalie gravitationnelle et justifieront sa classification en tant qu'objet SCP. Il existe une photographie de SCP-172-FR circulant sur internet, souvent citée comme un exemple d'un "échec de construction" (ang. construction fail).
+L'entreprise responsable de la construction de l'immeuble selon les registres municipaux est Comée Immobilier1. Aucune information complémentaire n'a pu être découverte au sujet de cette entreprise.
+
++ Accréditation de niveau 4/Aryabhata nécessaire
+
+- Accès autorisé
+
+Addendum 3 : Projet Aryabhata
+Le Conseil O5 a ordonné l'utilisation de SCP-172-FR dans la construction de sondes spatiales à gravité modifiée. Ces sondes seront exposées à des champs gravitationnels autres que celui de la Terre dans le but de comprendre les lois de la gravité anormale de SCP-172-FR. L'objectif final est de récupérer assez de données pour pouvoir construire [DONNÉES SUPPRIMÉES].
+L'inclinaison des sondes se fera en passant chaque composant de chaque sonde à travers SCP-172-FR afin d'obtenir l'angle recherché. Les chercheurs sont libres de traverser la fenêtre le nombre de fois désiré afin de rendre la construction des sondes plus commode, mais il est rappelé qu'en un tel cas toute chute peut devenir dangereuse voire infinie.
+
+
+
+
++ Accréditation de niveau 3 nécessaire
+
+- Accès autorisé
+
+Addendum 4 : Paragraphe supprimé de la plaque de laiton
+
+Je viendrai à ceux qui ont besoin de moi,
+Et ne m'arrêterai pas tant qu'il en restera.
+
+Des mesures mensuelles ont révélé que toutes les fenêtres à proximité de SCP-172-FR s'inclinent progressivement vers l'Est. La vitesse d'inclinaison décroît avec la distance à SCP-172-FR. Quand un être humain traverse SCP-172-FR ou une autre fenêtre affectée, le processus d'inclinaison est stoppé pendant sept jours avant de reprendre lentement. Les fenêtre séparées par plus de trois autres fenêtres de SCP-172-FR ne subissent pas cet effet, ou bien ne le subissent pas encore. La vitesse la plus importante enregistrée est de █°/semaine. Ces fenêtres présentent les mêmes propriétés gravitationnelles et visuelles que SCP-172-FR, si ce n'est avec un angle plus faible.
+Les procédures de confinement spéciales ont été mises à jour afin d'éviter la propagation du phénomène dans Grenoble. Une reclassification en Euclide a été approuvée.
+
+
+
+
+Notes en bas de page
+1. Comée est un anagramme de EMOEC, acronyme de Et maintenant, on est cool ?
+
+
+
+« SCP-171-FR | SCP-172-FR | SCP-173-FR »
+
+
+
+                    
