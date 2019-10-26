@@ -1,0 +1,58 @@
+
+                        
+
+rating: +2+–x
+Item #: SCP-003-IT
+Object Class: Euclid
+Special Containment Procedures: Due to its nature, SCP-003-IT must be confined in its place of origin. A 10x10x10 meter perimeter is to be created around this location, to which access is only allowed to Class-D personnel. A minimum number of three (3) armed guards must be stationed regularly around the perimeter.
+
++ Revision 3-A
+
+- Close
+
+Due to the existence of multiple instances of SCP-003-IT being possible, the FIM-X Machinamenta has the task of intervening and securing the area concerned in case an instance should be located.
+
+
+
+Description: SCP-003-IT is a luminous globe with a diameter of twenty (20) centimeters, apparently turning on its axis. It is currently not possible to determine what material it is made of. SCP-003-IT manifested inside an electronics store located in ██████ in the province of ████████, levitating about 160 centimeters in the air. The object always appears in the same place: next to a showcase containing laptops located at the bottom of the store. Its manifestations have been observed and have a precise cycle:
+
+The object appears and remains visible for 30 minutes, then disappears for the next 20 minutes.
+After this period, the object reappears for 30 more minutes, restarting the cycle.
+
+No variation in this sequence has ever been observed. See Addendum SCP-003-IT-3.
+The object has no effect until something comes into contact with it. When this happens, a strong flash of light is generated. At that moment, the globe and the object that came into contact with it will have disappeared. SCP-003-IT will reappear 20 minutes later, according to its normal cycle, although it is impossible to retrieve the object. After the A-003 test, it was discovered that the objects reappear in an unidentified place, completely enveloped by darkness. However, for unknown reasons, all video recording devices cease to function after a brief period of time while in this area.
+All attempts to move SCP-003-IT resulted in [REDACTED].
+SCP-003-IT was discovered on ██/██/20██, when the object first appeared, causing the shop owner to flee from in panic and attracting the attention of Agent ███████, who was nearby. The owner and all witnesses were given Class A amnestics, and the Foundation acquired the store.
+Addendum SCP-003-IT-1:
+Test A-003
+
+<Start of log>
+D-003 is a 27 year old Caucasian male, ex-dealer, and in stable mental condition. He is wearing a headset with a camera and a microphone. SCP-003-IT is facing him.
+Dr. █████: Ok, are you ready to move on?
+D-003: Yes Yes. I admit that I'm a shitting in my pants a little. How does this sphere stay in the air?
+Dr. █████: You do not have to be afraid, we are in contact with you. Go ahead, now.
+D-003 touches SCP-003-IT, and, as expected, a strong flash of light is released. Agents posted outside the store confirm that SCP-003-IT and D-003 have disappeared. The recovery of the camera shows a completely black environment.
+
+Dr. █████: Do you see anything?
+D-003: No, it's completely dark. What kind of fucking place is this?
+Dr. █████: Take a few steps forward, please.
+The sound of footsteps are heard.
+D-003: I think I'm walking on ground, I feel pebbles under my feet.
+The sound of D-003's steps confirm his words.
+Dr. █████: Can you hear anything?
+D-003: [After a few seconds] Yes, I seem to hear something, like the sound of wind through blinds. But it's very weak, I can barely hear it.
+Dr. █████: Ok, continue walking and inform me on what is happening around you.
+D-003 continues to walk for about 30 seconds when suddenly the camera pickup signals that the data transmission has stopped. The D-003 pickup is recording a loud tone.
+D-003: [screaming] Oh, good God! No! No! Help! Help me! Oh my God, no! No! Help me, I beg of you!
+D-003's microphone stops working. All attempts to resume contact with D-003 failed.
+<End of log>
+
+Addendum SCP-002-IT-3: Based on some assertions provided by SCP-006-IT, hyoptheses were born about the existence of a second instance of SCP-003-IT, although according to most of our research there would be many, localized in what could be "parallel dimensions", including ours.
+Addendum SCP-003-IT-3: On ██/██/2017 there was a noticed variation in the cycle of SCP-003-IT. The object appeared with a delay of 15 minutes and with a reddish coloration, unlike the usual luminescent green, generating a magnetic field strong enough to damage all the electronic devices within a radius of 30 meters. SCP-003-IT then resumed its regular cycle with no further variations.
+
+
+« SCP-002-IT | SCP-003-IT | SCP-004-IT »
+
+
+
+                    
