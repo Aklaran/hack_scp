@@ -84,8 +84,6 @@ class KoreanSpider(Spider):
         # parse JSON because this was called with a AJAX request
         data = json.loads(response.body)
 
-        self.logger.info("parsing english author and date")
-
         # make a selector from the inner html so we can run xpaths on it
         selector = Selector(text=data['body'], type='html')
 
@@ -105,8 +103,16 @@ class KoreanSpider(Spider):
     def parseEnglishAuthorPage(self, response):
         item = response.meta['data']
 
-        # [0] gets the string and strip gets rid of whitespace
-        item['englishAuthorKarma'] = response.xpath('//*[@id="user-info-area"]/div/dl/dd[3]/text()[1]').extract()[0].strip()
+        # assuming the last item on the author info page is karma,
+        # use regex to extract it
+        karmaListItem = response.xpath('//*[@id="user-info-area"]/div/dl/dd').extract()[-1]
+        karmaSearch = re.search("<dd>\s*(\w*\s*\w*)\s*<img", karmaListItem)
+        if karmaSearch:
+            karmaString = karmaSearch.group(1).strip()
+        else:
+            karmaString = 'Not found'
+
+        item['englishAuthorKarma'] = karmaString
 
         # now get the Korean
         # I don't know why this has to be done from this function, but it called a "hackathon" for a reason, right?
@@ -139,8 +145,6 @@ class KoreanSpider(Spider):
             pageId_search = re.search('WIKIREQUEST\.info\.pageId = (.*);', script)
             if pageId_search:
                 pageId = pageId_search.group(1)
-
-        self.logger.info('pageId: %s', pageId)
 
         # open revision history tab and get the initial author + date
         # important that you have wikidot_token7 in both the formdata and the cookie!
@@ -178,8 +182,16 @@ class KoreanSpider(Spider):
     def parseKoreanAuthorPage(self, response):
         item = response.meta['data']
 
-        # [0] gets the string and strip gets rid of whitespace
-        item['koreanAuthorKarma'] = response.xpath('//*[@id="user-info-area"]/div/dl/dd[3]/text()[1]').extract()[0].strip()
+        # assuming the last item on the author info page is karma,
+        # use regex to extract it
+        karmaListItem = response.xpath('//*[@id="user-info-area"]/div/dl/dd').extract()[-1]
+        karmaSearch = re.search("<dd>\s*(\w*\s*\w*)\s*<img", karmaListItem)
+        if karmaSearch:
+            karmaString = karmaSearch.group(1).strip()
+        else:
+            karmaString = 'Not found'
+
+        item['koreanAuthorKarma'] = karmaString
 
         # that's all folks
         return item
