@@ -1,0 +1,96 @@
+
+                        
+
+
+
+Bewertung: +15+–x
+
+
+
+
+
+
+
+
+Bewertung: +15+–x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credits
+
+
+Artikel: SCP-042-DE - Avoid Containment
+Autor: Dr_Grom
+
+Bild-Ersteller: TPS-Geronam
+Bild-Original: auf DeviantArt
+Bild-Lizenz: CC BY-SA 3.0 (durch Verwendung des SCP Logos)
+
+
+
+
+
+
+
+
+
+
+
+Bewertung: +15+–x
+
+Bewertung: +15+–x
+
+
+
+
+
+
+
+Cover von SCP-042-DE
+
+
+Objekt-Nr.: SCP-042-DE
+Klassifizierung: Euclid
+Sicherheitsmaßnahmen: Sämtliche Spieleplattformen und Keyshops für Indie-, Early-Access und Crowd-Funding-Spiele sind permanent auf Veröffentlichungen von SCP-042-DE zu überwachen. Diese sind unverzüglich zu entfernen; einige Plattformanbieter stellen der Foundation dafür einen Administrations-Zugang zur Verfügung. In allen anderen Fällen sind die Server, auf denen SCP-042-DE existiert, per DDoS-Attacke zu blockieren, welches von mobilen Einsatzkräften physisch von den Servern zu löschen ist.
+Wird SCP-042-DE unkontrolliert ausgeführt, sind die Instanzen von SCP-042-DE-1 durch MTF-DE16-𝔏 „16-Leopold” zu verfolgen, wie es der Spieler erwarten würde. Dabei ist deeskalierend, und Zeit gewinnend zu wirken, um die Verluste gering zu halten. Durch Beobachtung und genaue Auswertung aller Kontakte sind die Eigenschaften von SCP-042-DE-1 zu ermitteln, die Ausrüstung der MTF dem anzupassen und eine Isolierzelle vorzubereiten. Gelingt es, SCP-042-DE-1 zu fangen, ist dies zu Standort-DE16 zu transportieren und zu isolieren. Da damit zu rechnen ist, dass es wieder ausbricht, sind kosten- und personalintensive bauliche Sicherheitsmaßnahmen zu vermeiden.
+Spieler von in Umlauf geratenen Instanzen von SCP-042-DE sind durch Analyse von Kommentaren und Nutzerdatenbanken der Plattformanbieter zu ermitteln, schnellst möglich festzunehmen und zu amnesizieren. Der Spielstand ist auf einen portablen Speicher zu kopieren und mit SCPCleaner SCP-042-DE zu deinstallieren und Spielstände, Konfigurationsdateien und Rückstände in der Registry vom Gerät des Spielers zu entfernen.
+Anschließend ist der Spielstand auf ein gesichertes System der Foundation zu kopieren und zu laden. Die jeweilige Instanz von SCP-042-DE-1 ist von einem Mitarbeiter von mindestens Klasse C und Freigabestufe 3 mit Hilfe von MTF-DE16-𝔏 in ihre Zelle zu bringen, und dort dauerhaft und ihren Eigenschaften entsprechend zu isolieren. Falls möglich, können die Eigenschaften der Instanz entschärft werden, um die Eindämmung zu erleichtern. Anschließend ist das Spiel zu speichern und der aktuellste Spielstand ist auf einem sicheren Datenträger in einem Hochsicherheitsschließfach zu verwahren. Alle anderen Spielstände der Instanz sind mit einem sicheren Verfahren zu löschen.
+Beschreibung: SCP-042-DE ist das Computerspiel „Avoid Containment”, welches sich derzeit in einer Early-Access-Phase befindet. Das Spiel wird in unregelmäßigen Abständen auf verschiedenen Spieleplattformen, die Early-Access-Veröffentlichungen unterstützen, veröffentlicht. Üblicherweise geht dies mit einem Softwareupdate einher; die aktuelle Version ist 0.7.4. Das Spiel unterstützt bisher nur die deutsche und englische Sprache und wurde noch nicht außerhalb Europas festgestellt. Der angegebene Autor, der stets den Nickname „Dr. Chaos” oder Abwandlungen davon selten in Verbindung mit Zahlen verwendet, behauptet, das Spiel alleine zu entwickeln. Versuche seinen Standort über seine IP zu orten führten bislang zu keinem Ergebnis. Der Autor reagiert nicht auf Kontaktaufnahmeversuche über die Spieleplattformen.
+Spielinhalt ist, mit einer zu Beginn des Spiels erstellten anomalen Entität in einem frei begehbaren Gebiet von ca. 8 × 5 km Größe, welches der Umgebung von Standort-DE16 bis ins Detail gleicht, möglichst lange zu überleben, während man von einer oder mehreren MTF-Einheiten verfolgt wird. Dabei müssen Grundbedürfnisse wie Hunger, Durst, Schlaf, aber auch das Bedürfnis nach Defäkation, Sex, Gewalt, religiösen Handlungen, Gesprächen, einem bestimmten Schlafplatz, bestimmten Besitztümern und dergleichen erfüllt werden. Die Darstellung der Erfüllung dieser Bedürfnisse ist sehr explizit. Das Erfüllen dieser Bedürfnisse hält die Spielfigur bei guter körperlicher und geistiger Gesundheit und generiert „Anomaliepunkte”, die in neue anomale Fähigkeiten investiert werden, und neue Möglichkeiten zur „Kreaturenerstellung” bei Spielbeginn, für neue Spiele, sowie neue Schwierigkeitsstufen und Startparameter freischalten. Das dauerhafte Nichterfüllen dieser Bedürfnisse führt zum Einen zur Degeneration damit verbundener Fähigkeiten, kann aber auch zur automatischen Generierung neuer Fähigkeiten führen, bis hin zu einem „Rausch”, in dem die Spielfigur sich ganz oder teilweise der Kontrolle des Spielers entzieht und versucht ihre Bedürfnisse zu erfüllen. Die Art und Relevanz der Bedürfnisse wird aus den zu Spielbeginn festgelegten körperlichen, geistigen und anomalen Eigenschaften ermittelt.
+Gelingt es der MTF-Einheit die Entität gefangen zu nehmen, wird diese in eine vorbereitete Isolierzelle in dem am Rand des Spielgebietes liegenden Standort der Foundation gebracht. Die Entität kann nun versuchen, mit Hilfe seiner normalen und anomalen Eigenschaften aus der Eindämmung auszubrechen, gegebenenfalls indem der Entzug von Bedürfnissen zur spontanen Generation neuer Eigenschaften führt. Es kommt auch vor, das die Isolierzelle Schwachstellen aufweist oder es zu einem standortweiten Unfall kommt, durch den die Entität zu fliehen vermag. Es besteht stets die Möglichkeit zu entkommen.
+Das langfristige Ziel des Spiels ist, dem Spielgebiet zu entkommen: entweder durch Zerstörung des Standortes der Foundation und der MTFs, durch das Herbeiführen einer Klassifikation als Neutralisiert, oder dass Erzwingen der Freilassung.
+SCP-042-DEs anomaler Effekt tritt ein, wenn ein Spiel gestartet oder ein Spielstand geladen wird. In dem Moment erscheint auf dem Gelände von Standort-DE16 eine Instanz von SCP-042-DE-1, welche den Eigenschaften der Spielfigur entspricht an der Position, wie in dem Spielstand gespeichert. Diese Instanz vollzieht alle Handlungen und Bewegungen der Spielfigur, wird also „vom Spieler gesteuert”. Ebenso erscheinen sämtliche Handlungen des Personals und des MTFs von Standort-DE16 im Spiel, wie auch Veränderungen am Standort oder dem Gelände. Da eine Instanz nur sicher und dauerhaft isoliert werden kann, wenn der Spielstand in den Besitz der Foundation gelangt, ist der Fokus des MTF darauf zu legen, Zeit zu gewinnen und die Verluste gering zu halten. Nicht auf eine Instanz zu reagieren führt dazu, dass diese zur Befriedigung ihrer Bedürfnisse in den Standort eindringt, im Zweifel selbstständig in einem „Rausch”.
+Der Versuch mit dem Spieler zu kommunizieren, wird von diesem stets als Easter Egg gewertet, selbst wenn es sich um einen Mitarbeiter der Foundation handelt. Wird ein Spiel geladen, während bereits eine Spielsitzung läuft, erscheint eine Meldung, die Sitzung liefe aufgrund technischer Probleme offline. In dem Fall kommt es zu keiner weiteren Manifestation von SCP-042-DE-1; die Spielsitzung hat dann keinen anomalen Effekt. Wird jedoch die ältere Spielsitzung beendet, bekommt der Spieler der neueren die Möglichkeit, in den „Onlinemodus” zu wechseln, woraufhin sich SCP-042-DE-1 entsprechend dem neuen Spielstand manifestiert. Wird ein laufendes Spiel beendet, verschwindet SCP-042-DE-1; nur Instanzen von SCP-042-DE-1 die sich zu dem Zeitpunkt in Isolation befinden, bleiben permanent erhalten.
+Wird eine Spielsitzung geladen oder wechselt eine Sitzung in den „Onlinemodus”, ertönt ein Alarm im Bereitschaftsraum der MTFs und es erscheinen die bereits über die Instanz zusammengetragenen Informationen auf einem Briefing-Bildschirm im Bereitschaftsraum, unabhängig davon was auf dem Bildschirm dargestellt wurde und ob dieser eingeschaltet oder an die Spannungsversorgung angeschlossen ist.
+Mitglieder von MTF-DE16-𝔏, die während einer Spielsitzung sterben oder außer Gefecht gesetzt werden, lösen sich nach 5 Minuten, nachdem SCP-042-DE-1 von ihnen abgelassen hat, auf und manifestieren sich im Bereitschaftsraum des MTFs, von wo aus sie wieder in das Geschehen eingreifen können. Sind mehrere Mitglieder des MTFs gleichzeitig „tot”, erhöht sich die Zeit bis zu ihrer Auflösung um 1 Minute/Person. Durch SCP-042-DE-1 zugefügte Verletzungen verschwinden nach Beendigung einer Spielsitzung. Die Mitglieder des MTFs empfinden diese Umstände während einer Spielsitzung als normal, zeigen jedoch nach deren Beendigung erhebliche Symptome von Stress, Schock, Depression, Panikattacken und verschiedene Persönlichkeitsstörungen. Auf Wunsch oder ärztliche Anordnung können Mitglieder des MTFs amnesiziert und mit Psychotherapie und Psychopharmaka behandelt werden. Werden Mitglieder des MTFs versetzt, terminiert oder begehen Suizid und werden sie bis zu Beginn einer neuen Spielsitzung nicht ersetzt, manifestieren sie sich erneut im Bereitschaftsraum des MTFs.
+Nachtrag: Das Spiel hat relativ niedrige, minimale Hardwareanforderungen, unterstützt mittlerweile jedoch DirectX-12 und 32- und 64-bit-Systeme und läuft unter Windows 7 und höher. Es entspricht dem Stand der Technik, mit jedem Update werden jedoch neue Effekte, detailliertere Modelle oder Texturen hinzugefügt. Es verwendet keinerlei 3rd-Party Software, durch reverse-engineering wurden jedoch Parallelen zu Software, wie sie von der Foundation entwickelt wird, festgestellt, weshalb angenommen wird, dass „Dr. Chaos” ein aktiver oder ehemaliger Mitarbeiter der Foundation oder in die Foundation eingebetteter Agent einer Interessengruppe ist.
+Es wird vom Autor als „Survival-Spiel der nächsten Generation” bezeichnet. Es hat derzeit nur einen Einzelspielermodus, laut Autor ist ein Mehrspielermodus mit mehreren PvP, PvE und Coop-Modi geplant sowie die DLCs „Avoid the GOI”, „Avoid the Anomaly” sowie verschiedene teils kostenlose Skin- und Erweiterungspakete. Der Autor verspricht bei angemessenem Erfolg außerdem ein großes Add-on mit mehreren neuen Schauplätzen.
+
+
+
+
+
+
+
+Vertonungen
+
+
+
+• Ilucie
+
+
+
+
+
+                    

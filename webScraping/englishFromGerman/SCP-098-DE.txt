@@ -1,0 +1,202 @@
+
+                        
+
+
+
+
+
+
+rating: 0+–x
+
+
+
+
+
+
+rating: 0+–x
+
+
+
+
+
+
+
+
+
+
+Credits
+
+Article: SCP-098-DE - Demon vs Machine
+Author: Dr Ore
+Translator: ThePaperMask
+
+12656248925_cd7ca498b8_z.jpg
+Image creator: The Bunny
+Image source: https://www.flickr.com/photos/94243611@N02/12656248925/
+Image license: CC BY-NC 2.0
+
+
+
+
+
+
+
+rating: 0+–x
+
+rating: 0+–x
+
+
+
+
+
+
+
+SCP-098-DE shortly before the release of chemical warfare agents in its isolation cell.
+
+
+Item #: SCP-098-DE
+Object Class: Euclid
+Secure Containment Procedures: SCP-098-DE is to be stored in an insulating cell measuring 3 m x 3 m x 3 m, the inner walls of which are coated with corrosion-resistant material. SCP-098-DE must at all times have a stainless steel clamp in place to prevent it from preparing its weapon system for fire. Additionally, it is to be fixed to the bottom of the chamber by suitable means. The isolation cell is to be equipped with an airlock and an adjacent observation room. In addition, an air outlet and an air inlet are to be integrated into the ceiling of the insulation cell in order to be able to remove chemical warfare agents from the cell. This exhaust is to be connected with a filter system, which is to be able to filter all materials except nitrogen, oxygen, carbon dioxide and noble gases from the air.
+Personnel entering and handling SCP-098-DE's isolation cell must be equipped with a chemical protection suit with integrated oxygen cylinder for safety reasons. If SCP-098-DE is to be transported, it is to be stored in an airtight box made of a resistant material, the dimensions of which, in addition to the clamp, prevent it from placing its weapon system on fire standby.
+Description: SCP-098-DE is an oval-shaped robot drone with a flat underside. It is 25 cm long and 20 cm wide at its thinnest cross section. SCP-098-DE consists of three segments, the 2 cm wide lower segment, the 2 cm wide weapon segment and the upper segment, which is 21 cm high. The colors and pattern of the upper and lower segments always match those of the surrounding environment of the SCP-098-DE, allowing it to camouflage itself in almost any environment.
+The sub-segment of SCP-098-DE has no conspicuous features other than the Raptor Tec Industries logo. It is assumed, however, that it contains the drone's locomotion mechanism. This allows SCP-098-DE to exert kinetic energy of varying strength and direction on itself in a previously unexplained manner, giving it the ability to float through the air. With this method of locomotion, it seems capable of reaching maximum speeds of up to 5 m/s and can exert a force of up to 10 N on obstacles. It is apparently also able to determine the point of application of the kinetic energy, since it automatically straightens up again when it is tilted over.
+SCP-098-DE is able to hide its weapon segment by lowering its upper segment. The surface of the segment consists of a metal whose analysis has so far yielded few results since it appears to be inert to all chemical reactions. Nevertheless, it is possible to damage the material by physical influences. The surface has folds, which are equipped with a large number of small gas nozzles. SCP-098-DE is capable of ejecting various chemical warfare agents with pressures of up to 600 Kpa, such as mustard gas, prussic acid or tear gas, using these gas nozzles. SCP-098-DE is capable of delivering warfare agents in combination and normally produces mixtures with several until now not adequately analyzed mask breakers to prevent its attack from being ineffective due to the use of gas masks. The only effective protection against SCP-098-DE's gases to date are chemical protective suits with integrated oxygen cylinders. SCP-098-DE can seemingly only use its weapon system if it is not hidden under the upper segment, so a stainless steel clamp prevents it from lifting its upper segment.
+The upper segment has a small camera that allows SCP-098-DE to observe and film its surroundings. At its highest point there is also a microphone that allows SCP-098-DE to capture and record sounds from 1000 Hz to 30 KHz. The microphone also acts as a loudspeaker for communication. SCP-023-DE-01, after viewing the object, stated that the sign of the "Fourth Reich" had been placed on the upper segment.
+SCP-098-DE seems to harbor two different entities designated as SCP-098-DE-A and SCP-098-DE-B. Both are able to communicate with each other and with staff using the loudspeaker and can be distinguished by their voices and their ways of speaking. SCP-098-DE-A claims to be the AI of the robot drone, which it calls "R.T.I. Miasma". It appears to have control over SCP-098-DE and is hostile and uncooperative towards Foundation personnel. SCP-098-DE-B claims to be a "demon" sealed in SCP-098-DE. SCP-098-DE-B is more corporative towards Foundation personnel than SCP-098-DE-A, but does not seem to have any control over SCP-098-DE. SCP-098-DE-A and SCP-098-DE-B antagonize each other because of their opposing views on different issues and often quarrel with each other.
+Discovery: SCP-098-DE was discovered during the search of an abandoned facility of the "Fourth Reich". It had been locked in a steel cabinet with the word "failures" written on it in red. SCP-098-DE-A, when discovered by Foundation personnel, immediately released large quantities of prussic acid, resulting in the loss of the entire investigation team. SCP-098-DE was later salvaged and contained by a team of Foundation hazardous materials specialists equipped with chemical protective suits and oxygen cylinders. In addition to SCP-098-DE, only metal debris and individual machine parts were found in the cabinet. SCP-098-DE has apparently been in continuous operation since its containment, and its energy and ammunition reserves do not seem to exhaust. In this context, SCP-098-DE-B claims that it is responsible for this phenomenon.
+At the moment a disasembly of SCP-098-DE is not scheduled, as SCP-098-DE-A indicated that when the machine is opened, an explosive device is activated. Therefore, for the time being, information retrieval is limited to interrogations only. For safety reasons, interviews with SCP-098-DE-A and SCP-098-DE-B are currently only carried out by personnel wearing chemical protection suits with an integrated oxygen cylinder, as SCP-098-DE-A floods the room with toxic gas at every opportunity.
+
+Interview 098-DE-1
+
+Close
+
+
+Preliminary statement: This was the first interview conducted with SCP-098-DE after his capture. SCP-098-DE is secured in this and all other interviews by his clasp and fixed to the ground.
+<Begin Log>
+[Dr. Jung enters the room equipped with a chemical protection suit with integrated oxygen cylinder and squats in front of SCP-098-DE.]
+SCP-098-DE-B: Hey man, you don't need that deep diver suit here. The tin can over here is more secure than Fort Knox.
+SCP-098-DE-A: Warning. Please do not take note of this program. This is a malfunction which this unit probably received due to improper handling.
+SCP-098-DE-B: How often do I need to teach you this lesson, scrap bucket, I. AM. NOT. A. BUG!
+SCP-098-DE-A: This statement is considered unlikely by this unit.
+SCP-098-DE-B: Oh, what the ass…
+Dr. Jung: Hello, SCP-098-DE, I-
+SCP-098-DE-B: Hey scrappy, you hear that? The fellas gave you a name. Do you feel flattered?
+SCP-098-DE-A: This unit is not flattered, it is extremely angry at the moment.
+SCP-098-DE-B: Ouh, watch out, dude, the paperweight here will… damn, "anger you to death" sounds kinda shit…
+Dr. Jung: Well, I wanted to ask you some questions.
+
+SCP-098-DE-A: This unit refuses to answer any questions.
+SCP-098-DE-B: I don't, I don't have anything better to do anyway. Shoot.
+SCP-098-DE-A: Warning. This program is extremely untrustworthy and unreliable. Information received from it does not necessarily have to match reality and is highly likely to be incorrect.
+SCP-098-DE-B: Yeah yeah, whatever. Ask quickly, or else this nagging won't have an end.
+Dr. Jung: Okay, so, uh, what exactly are you?
+SCP-098-DE-B: Well, I'm a demon who's been locked up in this walking trash bin. The junk can itself I believe goes by the name of R.T.I. Miasma. That's the best your inventor could come up with, eh, scrapinator? How did he even come up with the idea with the gas? Roommate with a bean addiction, eh?
+SCP-098-DE-A: R.T.I. Miasma is the intellectual property of Raptor Tec Industries. Information about its structure and development may not be passed on to third parties.
+SCP-098-DE-B: Listen to Mr. Copyright over here. Fuck property rights, this thing is a gas weapon, as I'm sure you've noticed already. A gas weapon with a talking AI. Is that something?
+Dr. Jung: I see, SCP-098-DE-B, you claim to be a demon. Why were you-
+SCP-098-DE-A: Correction. The entity known as SCP-098-DE-B is most likely a malicious program or a malfunctioning part of this AI.
+
+SCP-098-DE-B: I thought you weren't answering questions. Make up your mind, dammit!
+SCP-098-DE-A: That's correct. This unit, however, cannot accept the obviously lied statement that a demon is trapped within it. It could damage the reputation of Raptor Tec Industries. Therefore, this unit now reiterates that the entity SCP-098-DE-B cannot be a demon because of a lack of a scientific basis for their existence.
+
+SCP-098-DE-B: These robots with their fucking science. No matter what kind of stupid basics are stored on your limited circuit board, I'm a goddamn demon and no virus or system error!
+SCP-098-DE-A: Affirmative. The entity SCP-098-DE-B is not a virus.
+SCP-098-DE-B: There we g-
+SCP-098-DE-A: Therefore, it is now assumed that the entity SCP-098-DE-B is a worm.
+SCP-098-DE-B: OH, I'LL SHOW YOU A WORM, ALRIGHT!
+<End Log>
+Concluding remarks: The interview was interrupted as SCP-098-DE-A and SCP-098-DE-B began to argue about what nature SCP-098-DE-B is. Dr. Jung failed to draw the attention of both entities and left the isolation cell after five minutes.
+
+
+
+
+
+
+Interview 098-DE-2
+
+Close
+
+
+Preliminary statement: This interview was conducted after SCP-098-DE had shown an unexpectedly large ammunition and power capacity in tests.
+<Begin Log>
+[Dr. Jung enters the room equipped with a chemical protection suit with an integrated oxygen cylinder and introduces himself to SCP-098-DE.]
+Dr. Jung: Hello, SCP-098-DE.
+SCP-098-DE-B: Oh, Hazmat Man's back. What do you want?
+SCP-098-DE-A: This unit reiterates that it will not answer any questions.
+SCP-098-DE-B: Pff, as if that's any use to you. What is it, Doctor Fallout?
+Dr. Jung: Well, SCP-098-DE has emitted a lot of gas in recent experiments. We also noticed that it hasn't shut down since it's been here. So my question is: how has it managed to have such large capacities for energy and gas?
+SCP-098-DE-A: R.T.I. Miasma is the intellectual property of Raptor Tec Industries. Information about its structure and development may not be passed on to third parties.
+SCP-098-DE-B: Capacities? Dude, this thing would've run out of juice three times by now if it hadn't been for me.
+Dr. Jung: What do you mean by that?
+SCP-098-DE-B: So, I told you I was a demon, right?
+Dr. Jung: Um, correct.
+SCP-098-DE-A: And at the same time completely incorrect…
+SCP-098-DE-B: Hey, when the fiend speaks, the tin can remains silent! Back to the subject. You know where demons come from, right?
+Dr. Jung: I would tip on hell.
+SCP-098-DE-B: Good guess, Captain Chernobyl. So. I'm here in this tin box drawing energy from hell. And this energy I then convert into electrical energy for our stink bomb here. All right?
+SCP-098-DE-A: Correction. The term "stink bomb" is insufficient to describe this unit and further misleading in terms of its functions. The R.T.I. Miasma is a sophisticated gas weapon, manufactured using the latest technology.
+SCP-098-DE-B: Ooh, is our high-tech Tupperware container feeling offended?
+SCP-098-DE-A: Initiating search for faulty programs and malware…
+SCP-098-DE-B: Oh good, hopefully we'll finally get some quiet from that guy.
+Dr. Jung: Okay, you told me where the electricity came from, but how do you generate the gas?
+SCP-098-DE-B: You don't want to know.
+SCP-098-DE-A: Search complete. No hits. Conclusion. The entity is an advanced malware for which this unit currently has no patch.
+SCP-098-DE-B: Will it ever get into your stupid tin head? I. AM. A. DEMON! Why the hell do you think you're still electrified?
+SCP-098-DE-A: Theory. The entity SCP-098-DE-B has access to the data on the energy supply and the gas container. By changing them, this entity can be made to believe that it has more energy and ammunition than it can store.
+SCP-098-DE-B: You just won't admit I'm right, will you? That you are actually harboring a demon.
+SCP-098-DE-A: The possibility of a daemon has already been considered and rejected.
+SCP-098-DE-B: Okay, let's be serious. You're already considering demon possession but then wrote it off as some software bugs and virus stuff. Do you even believe the crap you calculate yourself?
+SCP-098-DE-A: Correction. This unit meant the word daemon, which is written with the two vowels "ae" instead of the vowel "e".
+SCP-098-DE-B: What's that supposed to be?
+Dr. Jung: A computer program.
+SCP-098-DE-B: [EXPLETIVES REDACTED]
+<End Log>
+Concluding remarks: SCP-098-DE-B spent the next two hours and forty-four minutes loudly addressing a tremendously extensive insult to SCP-098-DE-A. The interview was aborted and Dr. Jung left the isolation cell again.
+
+
+
+
+
+
+Interview 098-DE-3
+
+Close
+
+
+Preliminary statement: This interview was conducted after the investigation of the abandoned facility of the Fourth Reich had been completed. The aim of the interrogation was to obtain additional information on the origin of SCP-098-DE and the nature of the facility.
+<Begin Log>
+[Dr. Jung enters the room equipped with a chemical protection suit with integrated oxygen cylinder and introduces himself to SCP-098-DE.]
+SCP-098-DE-A: Person titled "Captain Chernobyl" sighted.
+SCP-098-DE-B: Did… did you just try your hand at humor? Leave that to those who actually have some.
+SCP-098-DE-A: Inquiry. Based on this statement, why does the entity SCP-098-DE-B keep trying to make humorous statements?
+SCP-098-DE-B: Ouh, that burns. That burns a lot.
+Dr. Jung: Nice to see you too.
+SCP-098-DE-A: Inquiry. How does the enemy unit get to the word "too"?
+SCP-098-DE-B: Because they're mostly talking to me, silicon brain. Where does the shoe pinch today, Fukushima Boy?
+Dr. Jung: So, SCP-098-DE-B, I would like to hear from you today how SCP-098-DE was created.
+SCP-098-DE-B: Dude, that's more of a question for our scrappy friend than for me. I don't know how the guys made the junk in the factory.
+SCP-098-DE-A: R.T.I. Miasma is the intellectual property of Raptor Tec Industries. Information about its structure and development may not be passed on to third parties.
+SCP-098-DE-B: Yeah, we know you're gonna tell us shit, Robofart. Man, it's not just made of junk, it also keeps talking it as well.
+Dr. Jung: Um, I meant with my question more, how did you get into it, SCP-098-DE-B?
+SCP-098-DE-B: Oh, I see. Well, I owe it to those asshole acolytes Faust and Storm, miserable scumbags.
+
+Dr. Jung: Faust and Storm?
+SCP-098-DE-B: Two self-proclaimed acolytes working for the Fourth Reich. The two have dismantled the box here and scratched an incantation and seal circle into it. Then I was summoned in, and now I can't get out. We were a prototype and since I didn't stop demanding my release, they put us in this closet.
+Dr. Jung: Am I getting this right? The seal is inside SCP-098-DE?
+SCP-098-DE-B: Yeah, where else did you find it?
+Dr. Jung: If you opened SCP-098-DE and destroyed the seal, would you be freed?
+SCP-098-DE-A: Warning. This unit indicates that opening an R.T.I. Miasma by unqualified personnel is not recommended.
+SCP-098-DE-B: I think this is the first time I've agreed with this piece of junk. I would be released, but only to be torn to pieces by the explosive in that metal egg.
+Dr. Jung: Hm, noted. Can you tell us anything else about the Fourth Reich, especially about Mr. Rass?
+SCP-098-DE-B: Dude, I'm one of the lowest demons there is. I'd really like to tell you something else so that you can give those fuckers hell with my personal greeting, but nobody tells me anything, I'm just not important enough. All I remember is that they perfected their process at some point and went into mass production.
+SCP-098-DE-A: This unit must confirm this statement with concern for the continued existence of Raptor Tec Industries. According to the latest state of the facts, exactly ███ units were altered by the unknown malware of the Fourth Reich.
+SCP-098-DE-B: Are you looking for trouble again…
+<End Log>
+Concluding remarks: Dr. Jung left the isolation cell while another loud dispute broke out between SCP-098-DE-A and SCP-098-DE-B regarding the nature of SCP-098-DE-B.
+
+
+
+
+The strategy to seize the "Fourth Reich" was adapted to the findings of SCP-098-DE.
+
+                    

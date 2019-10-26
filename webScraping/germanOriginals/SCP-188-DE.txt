@@ -1,0 +1,349 @@
+
+                        
+
+
+
+
+
+
+
+
+
+
+
+Inhaltswarnung
+
+
+
+In diesem Artikel kommen folgende Themen vor; er sollte daher, von Personen die darauf empfindlich reagieren, mit Vorsicht behandelt werden:
+
+Kriegsgefangene und KZ-Insassen
+Menschenversuche
+Dieser Artikel ist so geschrieben, daß er Unwohlsein verursachen soll.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credits
+
+
+Artikel: SCP-188-DE - B4 „Blitzgewitter”
+Autor: Dr_Grom
+
+Bild-Ersteller: Bacter (Wikimedia-User), bearbeitet von Dr_Grom
+Bild-Original: auf Wikimedia
+Bild-Lizenz: CC BY-SA 3.0
+
+
+
+
+
+
+
+
+
+
+
+Bewertung: +8+–x
+
+Bewertung: +8+–x
+
+
+
+
+
+
+
+
+
+Bewertung: +8+–x
+
+Bewertung: +8+–x
+
+
+
+Historische Aufnahme von SCP-188-DE-A
+
+
+Objekt-Nr.: SCP-188-DE
+Klassifizierung: Neutralisiert
+Sicherheitsmaßnahmen: Von SCP-188-DE existieren keine Proben mehr. Sollten wider Erwarten Proben gefunden werden, sind diese gemäß den Standardbestimmungen für mikrobielle biologische Kampfstoffe der Klasse 3 einzufrieren und zu handhaben. Eine Nachproduktion von SCP-188-DE anhand der gefundenen Forschungsunterlagen ist strikt untersagt, es findet keine Forschung dahingehend statt.
+Alle Originalunterlagen sowie möglicherweise vorhandene Kopien sind zwar nicht anomal, aufgrund der Gefahr, die durch eine mögliche Nachproduktion droht, sind sie jedoch in einem kameraüberwachten Hochsicherheitstresor der Stufe S4 aufzubewahren. Der Zugriff auf die Dokumente ist niemandem gestattet. Digitale Kopien unterliegen der Sicherheitsstufe 5/188-DE. Im Falle eines unberechtigten Zugriffs wird der Inhalt des Tresors automatisch von einer Thermitladung zerstört. Versuche sich Zugang zu verschaffen sind im Zweifel mit tödlicher Gewalt zu unterbinden.
+Mit SCP-188-DE infizierte Personen und Tiere oder solche, die im Verdacht stehen infiziert zu sein, sind in einem verstärkten Quarantäneraum zu isolieren und zu beobachten. Sollten sich Symptome zeigen, steht es dem Projektleiter frei, eine Euthanasierung anzuordnen; infiziertes Foundationpersonal kann eine Euthanasierung beantragen, für den Fall das sich Symptome zeigen. Treten nach sechs Wochen keine Symptome auf, gilt die Infektion als abgewendet und die Subjekte als nicht mehr ansteckend. Die Leichname von Opfern von SCP-188-DE und eventuell damit Infizierten sind als biologischer Gefahrstoff der Klasse 3 zu behandeln und zu kremieren.
+SCP-188-DE kann an der Luft bis zu fünf Tage nach der Freisetzung überleben und infektiös sein. Tatsächlich oder vermeintlich kontaminierte Räumlichkeiten sind mit oxidierendem, gasförmigem Desinfektionsmittel wie Ozon oder Chlorgas zu fluten und alle Oberflächen mit einem geeigneten Oxidationsmittel zu reinigen. SCP-188-DE selbst ist zwar nicht maskenbrechend, kann aber mit maskenbrechenden Trägerstoffen kombiniert werden. Für den Fall eines Einsatzes durch das SKP aus U-3378-DE ist Standort-DE3 mit einem Ozongenerator ausgestattet, um im Ernstfall Raum ᚠ sowie angeschlossene Flure zu fluten. Sollte es zu einer Freisetzung kommen, sind Schutzanzüge mit Sauerstoffversorgung und Servokampfanzüge bevorzugt einzusetzen und anschließend mit Oxidationsmittel oder Niedertemperaturplasma zu dekontaminieren. Dabei eventuell beschädigte Bauteile sind zu ersetzen.
+Beschreibung: SCP-188-DE ist ein anomal modifiziertes multiresistentes Staphylococcus aureus Bakterium (SCP-188-DE-A), an welches ein anomales Prion (SCP-188-DE-B) gekoppelt ist. Es wurde 1944 vom Sonderkommando für Paranormales als Biowaffe B4 "Blitzgewitter" entwickelt. Ihre Wirkung ist zwar tödlich, ihr Hauptzweck war jedoch die Demoralisierung feindlicher Verbände. Es sind keine Proben mehr vorhanden (siehe Anhang #188-DE/A1). Es ist des Weiteren nicht bekannt, ob die Aufzeichnungen der Entwicklung tatsächlich ausreichen, um SCP-188-DE zu reproduzieren.
+SCP-188-DE wurde entwickelt, um in einer Trägerflüssigkeit von Flugzeugen aus über feindlichen Stellungen und Feldlagern als Aerosol ausgebracht zu werden. Die Trägerflüssigkeit ist zunächst grell-gelb und schlägt sich durch Oxidation als farbloses, klebriges Gel auf allen Oberflächen nieder. Sie ist nicht mit Wasser löslich und nur schwer zu entfernen. SCP-188-DE bleibt teils in der Trägersubstanz gebunden, teils wird es aerob und dringt so bei der ersten Exposition über die Atemwege, Augen und Schleimhäute oder später durch versehentliche Aufnahme über kontaminierte Speisen oder Schmierinfektion bei Kontakt mit kontaminierten Gegenständen in den Körper ein. Wird die Trägersubstanz eingeatmet, führt sie zu einem Hustenreiz, bleibt jedoch lange genug in den Atemwegen, um eine Infektion herbeizuführen. In der Trägersubstanz überlebt SCP-188-DE für ca. eine Woche und bleibt so lange infektiös. Von Mensch zu Mensch ist SCP-188-DE durch Körperflüssigkeiten und die Luft übertragbar, überlebt aber außerhalb des Körpers oder der Trägersubstanz nicht länger als 2 Stunden. Es bleibt die gesamte Zeit der Einwirkung über infektiös. SCP-188-DEs Effekt tritt nur bei Menschen auf, Tiere sind jedoch für ca. eine Woche infektiös, danach denaturiert SCP-188-DE aufgrund einer ungeeigneten Umgebung. Es ist gegen alle nicht-oxidierenden Desinfektionsmittel resistent. Die Trägersubstanz ist nicht anomal und wurde vernichtet, als sie begann sich zu zersetzen, die chemische Zusammensetzung wurde jedoch zuvor ermittelt und ist zusammen mit Anweisungen zur Synthese in Dokument #188-DE/A2 hinterlegt.
+SCP-188-DE-A bleibt bei einem gesunden Menschen für ca. drei Tage asymptomatisch und vermehrt sich lediglich. Erreicht SCP-188-DE-B nach dieser Zeit einen bestimmten Punkt seiner Verbreitung, löst es die Ausschüttung eines Hormons über die Hypophyse aus, welches SCP-188-DE-A aktiviert. Dies führt zu einem spontanen Ausbruch einer blasigen Ablösung der Epidermis ähnlich dem Lyell-Syndrom sowie der Bildung nekrotischer Furunkel und Karbunkel und möglicherweise weiterer typischer Symptome einer Infektion mit Staphylococcus aureus. Die Periode, in der SCP-188-DE inert bleibt, hängt von verschiedenen Umweltfaktoren während der Ausbringung sowie der "Reifungsperiode" und der Dauer von der Züchtung bis zur Ausbringung ab; solange alle Infizierten an einem Ort bleiben und den gleichen Faktoren ausgesetzt sind, bricht es jedoch bei gleichzeitig Infizierten innerhalb einer Stunde gleichzeitig aus, wenn alle SCP-188-DE der gleichen Charge entstammen.
+Nicht bei allen Infizierten treten Symptome auf. Wenn SCP-188-DE-B nicht binnen 37 Stunden das Gehirn erreicht, beginnt es sich zu zersetzen, der Botenstoff bleibt aus, SCP-188-DE-A bleibt inert und beginnt nach einigen Wochen abzusterben. Forschungen des SKP dahingehend, SCP-188-DE auf bestimmte Haplogruppen zu spezialisieren, blieben fruchtlos.
+SCP-188-DE-B infiziert das Gehirn und reift zunächst für die oben genannte Zeit asymptomatisch heran. Durch die Ausschüttung des Hormons wird nicht nur SCP-188-DE-A aktiviert, sondern auch SCP-188-DE-B. Zunächst treten lediglich Kopfschmerzen und Wahrnehmungsstörungen wie Doppelsehen oder Tinnitus und Gleichgewichtsstörungen auf. 4-8 Stunden nach dem Aussenden des Hormons kommt es zum spontanen Auftreten von Verhaltensänderungen. Die Betroffenen zeigen außergewöhnliche Aggression und Angriffslust gegen Lärmquellen und schnelle Bewegungen, unabhängig davon, ob es sich um Personen, Tiere oder Objekte handelt. Der Ausbruch der Verhaltensänderung mindert den Intellekt, die Wahrnehmung oder die Fähigkeit, zu sprechen, und Waffen und Gerät zu bedienen jedoch nur langsam über einen Zeitraum von mehreren Stunden.
+SCP-188-DE-B führt zu einer fortschreitenden Degeneration des Gehirns; etwa 12 Stunden nach Ausbruch der Verhaltensänderung besitzen die Betroffenen nur noch "animalische Instinkte" und sind weder in der Lage zu sprechen, noch Gerätschaften zu bedienen und scheinen weder Sprache noch Schrift zu verstehen. Der Zerfall des Gehirns setzt sich weiter fort und erreicht etwa 5 Tage nach Ausbruch vitale Bereiche und führt dadurch zum Tod, sofern die Betroffenen nicht vorher verdurstet oder an einer Sepsis verendet sind. Das Hormon, das fortwährend durch SCP-188-DE-B freigesetzt wird, führt zu einer chemischen Veränderung des Schweißes, der damit einen anderen Geruch annimmt. Die Betroffenen neigen deutlich seltener zu Aggression gegenüber anderen Infizierten.
+SCP-188-DE-A ist gegen alle bekannten Antibiotika, auch gegen moderne Antibiotika gegen MRSA wie Vancomycin oder Linezolid und fast alle Desinfektionsmittel außer Oxidationsmitteln und Niedertemperaturplasma resistent. Es sei anzumerken, dass das SKP SCP-188-DE-B für ein anomales Eiweiß hielt. Das Konzept von Prionen hat sich ihnen nicht erschlossen. Außer Maßnahmen zur Vermeidung einer Infektion gibt es keine möglichen Gegenmaßnahmen oder Impfungen.
+SCP-188-DE war bei der Auflösung des SKP zwar bereits fertig gestellt und an KZ-Insassen und Kriegsgefangenen getestet worden, die Proben wurden jedoch vor ihrem ersten Feldeinsatz beseitigt (siehe Anhang #188-DE/A1), sodass der Foundation lediglich die Dokumentation in die Hände gefallen ist und einige Zeugen vernommen werden konnten.
+SCP-188-DE wurde zwar als Biowaffe zum Einsatz gegen feindliche Befestigungen und Feldlager entwickelt, eine Verbreitung in modernen Ballungsgebieten würde jedoch je nach Zahl der Erstinfizierten rasch katastrophale Ausmaße annehmen. Da keine Proben mehr existieren, wurden noch keine konkreten Eindämmungsmaßnahmen für diesen Fall geplant.
+Anhang #188-DE/A1
+
+Anhang anzeigen [Sicherheitsfreigabe Stufe 3/188-DE erforderlich]
+
+[ZUGRIFF GEWÄHRT]
+
+Es folgen Ausschnitte aus den Forschungstagebüchern von SS-Sturmbannführer Dr. med. Hammerschmidt, einem Bakteriologen des SKP. Teils stammen die Aufzeichnungen aus der offiziellen Dokumentation, teils aus privaten Tagebüchern. Einige Dokumente wurden aus durch das SKP vernichteten Akten rekonstruiert.
+
+
+3. Februar 1944
+Der Reichsführer SS persönlich hat mich zum SKP versetzt. Einer Abteilung der SS für Paranormales. Ich habe so etwas stets für Humbug gehalten, aber er hat meine Versetzung mit einer persönlichen Inspektion des SKP verbunden, so hatte ich die Gelegenheit Einblick in verschiedene Projekte zu erhalten. Es gibt hier einige ganz erstaunliche Forschungen, die sich als kriegsentscheidend erweisen könnten. Die Vergeltungswaffen, die die Industrie entwickelt, sind zwar bemerkenswert, doch hier werden echte Wunderwaffen gebaut, im wahrsten Sinne des Wortes.
+Er hat mir sogleich eine Aufgabe zugeteilt, eine, an der die Arbeitsgemeinschaft Blitzableiter nicht forschen kann, weil sie dem Führer missfällt. Herr Himmler ist jedoch der Meinung, daß diese Arbeit von größter Wichtigkeit ist und er den Führer wird umstimmen können, wenn mein Projekt erst einsatzbereit ist. Meine Versetzung zum SKP ist vor allem dem Umstand geschuldet, daß der Führer es für eine, wie Herr Himmler zitiert, "Spielerei" hält und nicht an ihren Erfolg glaubt, was bedeutet, daß ihn die Arbeit des SKP nicht wirklich schert.
+Mein Projekt ist die Entwicklung einer kontrollierbaren B-Waffe, die die eigenen Truppen nicht gefährdet. Sie soll außerdem nicht der Vernichtung dienen, sondern der Zersetzung und Demoralisierung. Angesichts der Horden, die die Feinde Deutschlands aufbringen, hält er den Einsatz von B-Waffen, die zur Vernichtung vorgesehen sind, für zu unkontrollierbar. Ich teile diese Einschätzung. Eine hochansteckende Krankheit, die Hunderttausende dahinrafft, wird auch unsere Truppen gefährden und womöglich ganze Landstriche für Jahre unbrauchbar machen. Eine Waffe hingegen, die so schrecklich ist, daß der Feind sie vor allem anderen fürchtet, ist viel effektiver, um eine Schlacht zu gewinnen, als alle Feinde zu vernichten.
+
+
+
+5. Februar 1944
+Ich hadere mit mir selbst. Der Führer verachtet B-Waffen. Deshalb arbeitet die Arbeitsgemeinschaft Blitzgewitter nur an Defensivmaßnahmen dagegen. Ich bin mir sicher, dem Reichsführer SS wäre es recht, wenn dabei auch Erkenntnisse über mögliche Offensiveinsätze zutage treten, aber das wäre nur ein Nebeneffekt. Dies hier ist ein direkter Verstoß gegen eine Weisung des Führers. Und ein Verstoß gegen das Genfer Protokoll. Nicht daß sich jemand in diesem Krieg um Konventionen scheren würde. Wo sind nur die alten Tage ritterlichen Kampfes hin, und zu wahllosem Schlachten verkommen? Der Weltkrieg hätte uns eine Lehre sein müssen.
+Ich bin mir sicher, die Tommys, Amis und Iwans arbeiten selbst an B-Waffen, vermutlich ist es nur eine Frage der Zeit, bis eine Seite die ihren einsetzt. Besser wir sind bereit, als erst dann mit der Entwicklung zu beginnen.
+Meine Ausrüstung hier ist erstklassig. Ich bin regelrecht überrascht, daß das SKP trotz knapper Finanzen in der Lage ist, mir ein voll ausgestattetes Labor auf dem neuesten Stand der Technik bereitzustellen. Die schiere Größe dieses Standortes - und dies ist nach dem was ich gehört habe nicht der einzige Standort des SKP1 - lässt darauf schließen, daß das SKP in Wahrheit über weit größere Mittel verfügt, als der Führer annimmt.
+
+
+
+8. Februar 1944
+Ich werde zunehmend unsicher über die Rolle des SKP. Offiziell ist es ein Teil der SS. Man trägt hier die Uniformen und benutzt die Ränge der SS. Aber die Struktur ist die einer eigenständigen Organisation. Ich habe hier am Standort noch nicht Einen gesehen, der nicht auch hier stationiert wäre. Jeder LKW, der auf das Gelände kommt, wird von einem Fahrer des Standortes gefahren.
+Die anderen SS-Leute in der Stadt und die Gestapo halten dies für eine spezielle und geheime Außenstelle der Waffen-SS und lassen uns in Ruhe. Man hat uns eine detaillierte Geschichte über diesen Standort eingebläut, die wir erzählen sollen, wenn wir in der Stadt darauf angesprochen werden. Der Großteil dieser Geschichte dreht sich allerdings darum, wie geheim hier alles ist.
+All das stinkt nach Verrat und ich bin Teil davon. Ich habe nicht den Eindruck, daß Reichsführer Himmler jemals wirklich offen gegenüber dem Führer ist. Mehr noch scheint er willens ihn nach Strich und Faden zu hintergehen. Doch zu welchem Ziel? Plant er einen Putsch wie seinerzeit Röhm mit der SA? Ist der Führer nicht mehr urteilsfähig? Stecken auch andere mit ihm unter einer Decke? Ich stimme mit dem Reichsführer überein, daß wir B-Waffen brauchen, aber ich würde mich wesentlich wohler fühlen, wenn ich wüsste vor welchem Hintergrund das SKP - oder genauer gesagt die gesamte SS - arbeitet. Andererseits will ich mir angesichts der Forschung hier gar nicht ausmalen, was für andere geheime Projekte die SS betreibt.
+
+
+
+13. Februar 1944
+Ich wurde heute zum Direktor der Einrichtung, Standartenführer Schön, gebeten. Offenbar hat man meine Zweifel an der Rechtmäßigkeit der Arbeit des SKP bemerkt. Er hat jedoch Verständnis gezeigt und wir hatten ein offenes Gespräch miteinander. Es ist nun so, daß das SKP tatsächlich in höchstem Maß rechtswidrig ist. Zum einen werden die Gelder von anderen Projekten abgezweigt, teils von Projekten die eigentlich nicht oder nicht mehr existieren, oder stammen aus beschlagnahmten Geldern aus besetzten Gebieten, zum anderen werden die Einrichtungen von Zwangsarbeitern errichtet, die später als T-Personal für Menschenversuche herhalten, und einige der Forschungsprojekte hier behandeln völkerrechtlich relevante Bereiche.
+Menschenversuche. Ich hätte mir nie träumen lassen, daß ich jemals B-Waffen an Menschen würde testen müssen, aber unethisch oder nicht, es ist unerlässlich. Und Ethik sucht man in diesem vermaledeiten Krieg, wie im letzten, oftmals vergeblich. Der Direktor hat mir klargemacht, daß die Arbeit des SKP - entgegen der Meinung des Führers - kriegsentscheidend sein wird. C-Waffen haben wie normale B-Waffen zu viele Nachteile bei zu geringem Nutzen. Die V-Waffen nutzen vielleicht der Propaganda, haben aber kaum militärischen Wert, zumal die Ressourcen knapper werden. Die Atombombe steht noch am Anfang ihrer Entwicklung. Wir verlieren den Krieg. Es ist nur eine Frage der Zeit, bis die Amis den Krieg zu uns tragen. Das SKP arbeitet an Projekten, die Rohstoffknappheit kompensieren können. Waffen und Panzerungen, die dem Stand der Technik so weit voraus sind, daß unsere Feinde die Differenz nicht mehr werden aufholen können. Bomben, die ganze Stadtviertel auslöschen können, ohne die Nachteile von Atombomben, und weitere, die mir unbekannt sind. Und die B-Waffe, die der Reichsführer der SS bereits "Blitzgewitter" getauft hat, obwohl ich gerade erst mit der Konzeption begonnen habe.
+Mir ist zumindest klargeworden, daß meine Arbeit hier die wichtigste meines Lebens ist. All meine Arbeit zuvor ist verschwindend klein im Vergleich zu dieser Aufgabe. Ich werde Tag und Nacht daran arbeiten, um möglichst bald Ergebnisse vorweisen zu können!
+
+
+
+28. Februar 1944
+Ich habe ein grobes Konzept entwickelt, von dem ich glaube, daß es am vielversprechendsten ist. Das Hauptaugenmerk des "Blitzgewitters" ist nicht den Feind zu töten, das wäre nur ein Nebeneffekt, sondern den Feind zu ängstigen und zu demoralisieren. Über einem Feldlager ausgebracht soll es Angst, Schrecken und Zwietracht verbreiten. Dazu sind zwei Faktoren zu beachten. Die Waffe selbst und die Art ihres Einsatzes.
+Zum einen sollte die Waffe selbst erschreckende Wirkung haben. Also etwas Sichtbares, das im besten Fall übel riecht und sehr schmerzt. Etwas, das Furunkel und Karbunkel, Nekrosen und allgemeinen schmerzhaften Ausschlag herbeiführt. Es sollte aber nicht allzu ansteckend sein, sonst besteht wiederum Gefahr für die eigenen Truppen. Und der Effekt ist größer, wenn nicht alle infiziert werden, aber niemand wissen kann, wer infiziert ist und wer nicht. Die Krankheit sollte also zunächst asymptomatisch verlaufen. Mir wäre eine möglichst geringe Infektionsquote am liebsten. Das Blitzgewitter soll der Demoralisierung dienen, nicht der Vernichtung. Eine Quote von 20% sollte ausreichen, um eine ausreichende Furcht davor zu wecken. Vielleicht weniger.
+Der zweite Faktor ist die Art, wie die Waffe eingesetzt wird. Ich denke, die Waffe sollte per Flugzeug oder großkalibriger Artillerie ausgebracht werden oder durch Infiltratoren. Nicht aber durch Panzerwagen oder Infanterie. Als Trägermedium wäre eine Substanz geeignet, die sich einatmen lässt und später nicht gleich versickert oder verdunstet. Wir brauchen eine Substanz, die sich überall niederschlägt und sich bestenfalls schlecht entfernen lässt, sodaß alles damit benetzt und das Lager damit komplett infektiös wird. Der Feind wäre gezwungen, seine Stellung aufzugeben, und würde gleichzeitig ständig riskieren, daß er infektiöses Material übersieht und beim Rückzug mitnimmt. In der Kleidung, auf Vorräten und auf Waffen und Ausrüstung. In der Trägersubstanz sollte der Erreger einige Tage überleben können, aber nach spätestens einer Woche sicher abgestorben sein. Damit der Feind auch wirklich merkt, daß er vom Blitzgewitter getroffen wurde, sollte die Trägersubstanz eine grelle Farbe haben, zumindest bis sie sich niederschlägt. Ich werde den Direktor bitten, mir einen Chemiker zur Entwicklung einer solchen Substanz zur Seite zu stellen.
+
+
+
+12. März 1944
+Die Entwicklung des Projekts "Blitzgewitter" geht gut voran. Ich hatte Kontakt mit verschiedenen Bakteriologen der SS, die an anderen Projekten arbeiten, und habe mich für das Staphylococcus aureus Bakterium entschieden. Es bedarf jedoch noch einiger Forschungsarbeit, um einige Eigenschaften herbeizuführen bzw. abzustellen. Zum Beispiel muss die Art der Übertragung verändert werden. Und die Resistenz gegen Desinfektionsmittel muss erhöht werden. Desweiteren wäre es wünschenswert, den Erreger darauf einzustellen, ausschließlich zu Erkrankungen der Haut zu führen.
+Ich überlege, geringe Mengen Clostridium perfringens beizumischen. Es kommt zwar ohnehin beinahe überall vor, doch durch die angestrebte gelartige Trägersubstanz, wäre es vor Sauerstoff geschützt, bis das Gel gänzlich oxidiert ist, und könnte so leichter in Wunden an den Fingern und im Gesicht eindringen.
+Die Symptome beider Erreger sind entstellend, für die Betroffenen sehr schmerzhaft und verlaufen tödlich. Mir persönlich würden die ersten Faktoren genügen, doch der Reichsführer SS wünscht explizit einen tödlichen Verlauf. Ich müsste nur den Staphylococcus aureus gegen Penizillin resistent bekommen.
+
+
+
+16. März 1944
+Der Reichsführer SS hat sich angekündigt, um einem Versuch mit SKP-███ zu überwachen. Es gilt als das derzeit vielversprechendste Projekt des SKP; der Führer selbst wird einen Beobachter schicken. Es hängt also viel davon ab und die Kollegen hier sind nervös.
+Einige Kollegen haben von einem anomalen Eiweiß berichtet, das zu einer Degeneration des Gehirns und Verhaltensänderungen führt und von dem einige Proben existieren. Es ist ungewöhnlich, aber hier herrscht keine Konkurrenz zwischen den Forschern und Forschungsgruppen. Eher ein freier Austausch. Vermutlich, weil ohnehin niemand hier mit einer Anerkennung seiner Arbeit außerhalb der Anlage rechnen darf. Das macht das Arbeitsumfeld sehr angenehm. Experten aus verschiedenen Bereichen kommen hier regelmäßig zusammen, um gemeinsam Ideen und Lösungsansätze für ihre Projekte zu suchen. Keine Idee ist zu absurd, um nicht gehört zu werden. Keine zu unsachlich. Und tatsächlich kam erst dabei die Idee mit dem Eiweiß auf, weil einer der Kollegen witzelte, daß man die angestrebte Schmierinfektiösität noch besonders grausig gestalten könnte, wenn die Infizierten auf die Gesunden losgehen würden. Das wäre sicher ein interessanter Effekt, um das Grauen noch weiter zu verstärken, ich will jedoch eine Waffe zur Demoralisierung schaffen, keine Monster. Ich verbat mir von den Kollegen weitere Späße in die Richtung. Wenn Himmler davon hört, wird er es sicher im Blitzgewitter untergebracht haben wollen, das geht mir jedoch zu weit.
+
+
+
+██. März 1944
+Ich weiß nicht was ich sagen soll. Das Experiment mit SKP-███ ist katastrophal gescheitert. Es gab vier Tote und zig Verletzte, darunter der Beobachter, den der Führer geschickt hat. Selbst der Reichsführer wurde leicht verletzt. Der Beobachter, ein SS-Sturmbannführer des Führerbegleitkommandos, soll gesagt haben, daß er dem Führer raten wird, das SKP aufzulösen. Himmler war außer sich. Standartenführer Schön hat befohlen, wie gehabt weiter zu machen, aber die Ungewissheit sorgt für eine bedrückte Stimmung.
+
+
+
+03. April 1944
+Es ist aus und doch geht es weiter. Der Führer hat sämtliche offiziellen Mittel des SKP gestrichen. Er soll dem Reichsführer gesagt haben, wenn er seine "Spielereien" weitermachen wolle, solle er sie selbst finanzieren. Staf Schön hat eine Ansprache gehalten. Das SKP wird verkleinert und drei der fünf Standorte aufgegeben. Projekte, die nicht erfolgversprechend sind, werden eingestellt und eingelagert und das Personal an andere Projekte oder an andere Teile der SS versetzt.
+Das Projekt "Blitzgewitter" läuft jedoch auf Geheiß Himmlers weiter, ich bekomme Unterstützung von Personal, das von anderen Standorten her versetzt wird, und weitere Mittel und Ausrüstung. Außerdem bekomme ich Zugang zu bisherigen Forschungen mit Pathogenen. Ich fürchte, nach dem Scheitern von SKP-███ ist "Blitzgewitter" das neue Vorzeigeprojekt des SKP. Diesen zusätzlichen Druck kann ich nicht wirklich gebrauchen.
+
+
+
+10. April 1944
+Die Sichtung der mir nun zur Verfügung stehenden Informationen und Geräte sowie die Neuaufstellung meiner Forschungsgruppe ist abgeschlossen. Ich denke Staphylococcus aureus so einzustellen, daß es sich auf Symptome die Haut betreffend beschränkt, sollte problemlos möglich sein. Mir ist nicht im Geringsten klar, wie sie funktioniert, aber aus einer anderen Einrichtung wurde eine Maschine zur Manipulation der Eigenschaften von Mikroben hergeschafft. Sie wurde in einem B-Waffenlabor das 1940 in Paris entdeckt wurde gefunden und bis zu deren Auflösung vor zwei Jahren von der Abteilung Kliewe zur Forschung mit Milzbrand- und Pesterregern eingesetzt2. Mit dieser Maschine sollte es möglich sein zumindest einige der gewünschten Eigenschaften herzustellen.
+
+
+
+15. April 1944
+Es ist uns gelungen herauszufinden, welchen Weg wir einschlagen müssen, um Staphylococcus aureus so einzustellen, daß es nur bei Befall der Haut zu Symptomen kommt und ansonsten asymptomatisch verläuft und abstirbt. Ich bin erstaunt über die Leichtigkeit, mit der die Bedienung der Maschine von statten geht. Wir werden nun mit Versuchen an T-Personal beginnen, um die genaue Einstellung zu finden.
+Mir wird speiübel, wenn ich daran denke was wir zu tun im Begriff sind. Ob Soldaten an der Front nun von Granaten oder dem Blitzgewitter zerfetzt werden ist mir einerlei, die Front ist fern. Aber dies sind allesamt Zivilisten aus dem KZ Breitenau. Herr Gott, zu was für Abscheulichkeiten hat der Krieg uns werden lassen? Ich habe das Lager persönlich besucht um mir ein Bild von den für T-Personal infrage kommenden zu machen. Die Zustände dort sind erschütternd. Die meisten Gefangenen sind unterernährt und krank. Die Unterbringung in Schlafsälen und mangelhafte Hygiene erleichtern die Verbreitung von Krankheiten. Ich brauche T-Personal in derselben Verfassung wie Frontsoldaten. Die generell mangelnde Ernährung der Infragekommenden wird auf eine eher einseitige Ernährung wie sie im Feld üblich ist umgestellt, und die Unterkünfte werden besser gereinigt. Außerdem bekommen die Infragekommenden mehr Platz, der Witterung besser angepasste Kleidung und Möglichkeiten diese auszuspülen und gelegentlich mit Kernseife zu waschen. Generell ähnelt die Unterbringung der für T-Personal infrage kommenden nur eher der in den Zellen an unserem Standort. Hätten wir dort mehr Platz, würde ich sie gleich alle mitnehmen. In Anbetracht dessen, daß die Meisten von ihnen einen schrecklichen Tod durch meine Hand sterben werden, ist dieser Gedanke regelrecht albern. Ich tröste mich jedoch damit, daß nicht alle ausgewählt, und an anderer Stelle eingesetzt werden. Dort können sie vielleicht überleben.
+
+
+
+18. April 1944
+Es fällt mir unsagbar schwer Menschenversuche durchzuführen. Eine Waffe zu entwickeln, die an der fernen Front tötet ist angenehm weit entfernt. Doch hier trennt mich und meiner Hände Opfer nur eine Panzerglasscheibe. Niemand in meiner Forschungsgruppe scheint sich wohl dabei zu fühlen. Während wir dreimal täglich den Zustand der unter Quarantäne stehenden Infizierten besprechen macht nicht einer einen Witz oder eine alberne Bemerkung. Die Stimmung ist bedrückend. Die Anwesenheit des stellvertretenden Direktors der Einrichtung, Obersturmbannführer Reitlinger, der unsere Fortschritte überwacht ist nicht gerade hilfreich, insbesondere weil jeder zweite Satz von ihm eine versteckte Drohung enthält. Ich denke ich werde mit dem Direktor darüber reden müssen, wenn es so weitergeht. Er stört die Arbeitsmoral meiner Gruppe. Wir sind Mediziner und Chemiker, keine Soldaten. Die Meisten sind in der SS, weil ihre Arbeit dies erfordert hat. Nicht weil es ihnen Spaß macht Menschen dahinsiechen zu sehen.
+
+
+
+28. April 1944
+Der Versuch, den Erreger auf die Infektion der Haut einzustellen ist geglückt. Es hat jedoch das Leben von 26 Menschen gekostet. Ich frage mich ob ich den Anblick ihrer entstellten Leiber, und ihre Schmerzenslaute je werde vergessen können. Ihre verzerrten Gesichter plagen mich in meinen Träumen. Ich habe die Versuche zuletzt mit immer weniger Personal durchgeführt. Es ist mein Projekt, meine Aufgabe. Meine Bürde.
+Wir werden als Nächstes versuchen eine Resistenz gegen Penizillin herbeizuführen. Zunächst nur mit Erregerkulturen, später erneut mit Gefangenen.
+Ich habe mir heute vor versammeltem Personal ein Wortgefecht mit Ostubaf Reitlinger geliefert. Anschließend wurde ich zum Direktor beordert, er war zwar äußerst aufgebracht, hat aber letzten Endes ein Einsehen gehabt, und verzichtet darauf uns Überwacher zu schicken. Dafür muss ich ihm zweimal wöchentlich Bericht erstatten.
+
+
+
+30. April 1944
+Sie sind tot. Hilde und Gustav sind bereits am 22. März von englischen Bombern ermordet worden3. Ich weiß nicht warum es über einen Monat gedauert hat bis mich die Information erreicht hat. Vielleicht hat der Direktor sie mir vorenthalten. Es spielt aber keine Rolle. Sie sind tot. Und ich kann nichts tun als an einem Mordwerkzeug zu arbeiten um andern Vätern ihre Söhne zu nehmen. Himmler hält es für notwendig, also sei es drum.
+
+
+
+7. Mai 1944
+Es ist gelungen mit der Maschine eine Resistenz gegen Penizillin einzustellen. Wir beginnen mit den Tests mit T-Personal um diese Eigenschaft sicherzustellen. Die Qualität des T-Personals lässt nach. Die Meisten sind bereits krank oder zu unterernährt. Ich habe den Direktor gebeten, sicherzustellen daß die Insassen des KZs so gepflegt werden wie ich es verlange, oder eine andere Quelle zu suchen.
+Mit der Zeit scheinen ich und meine Forschungsgruppe uns an Menschenversuche gewöhnt zu haben. Es bereitet uns allen weit weniger Probleme, und es kommt zu ersten zynischen Scherzen während der Versuche und Besprechungen. Ich weiß nicht ob ich über diesen Umstand froh oder besorgt sein soll.
+
+
+
+16. Mai 1944
+Die Resistenz gegen Penizillin hat offenbar auch eine Resistenz gegen unsere üblichen Reinigungsmittel hervorgebracht. Glücklicherweise reinigen wir alle Instrumente mit Alkohol und durch abkochen, es hat also zu keiner Verschleppung der Kontamination aus der Quarantänezone geführt. Der Trägerstoff ist testbereit, ebenso wie Blitzgewitter. Das Bakterium ist soweit verändert, daß einige meiner Leute es bereits Staphylococcus fulgor getauft haben. Himmler wird der Name gefallen, auch wenn er sachlich falsch ist.
+Wir planen zunächst Abwurftests mit der Trägersubstanz ohne Bakterium auf einem Testgelände, und Tests zur Überlebensfähigkeit des Bakteriums in der Trägersubstanz, bevor wir ausgedehnte Tests zur Effektivität der geplanten Schmierinfektion machen.
+Der Zustand des T-Personals ist untragbar geworden. Wenn wir keine bessere Quelle finden, kann ich keine realistischen Tests mehr durchführen. Ich habe den Direktor gebeten, im Zweifel bei Himmler selbst nach neuen Quellen zu fragen, oder um eine bessere Versorgung der Insassen vom KZ Breitenau zu ersuchen.
+
+
+
+23. Mai 1944
+Die Versuche mit der Trägersubstanz sind geglückt. Ein Abwurf über einem für den Versuch aufgebauten Feldlager der HJ hat ergeben, daß die Substanz auch nach mehrmaligem Waschen noch in der Kleidung und auf Gerätschaften nachweißbar ist. Die grell gelbe Farbe an sich hatte ebenfalls den erwünschten Effekt, zumal man darauf verzichtet hat die Hitlerjungs vorab über den Test zu informieren. Innerhalb von Minuten nach dem Abwurf wurde die Substanz klar und kaum noch zu erkennen. Auch ein Abwurf bei Regen war nicht minder erfolgreich. Lediglich bei Temperaturen unter null wird die Substanz im Labor zäher und weniger klebrig.
+Die Versuche zur Überlebensfähigkeit in der Trägersubstanz sind ebenfalls geglückt, das Bakterium überlebt darin nach Freisetzung nicht länger als eine Woche, dann ist die Substanz soweit oxidiert daß keine Nährstoffe mehr vorhanden sind und das Bakterium abstirbt.
+Wir beginnen mit Tests zur Effektivität der Schmierinfektion mittels der Trägersubstanz in verschiedensten Szenarien. Der Direktor hat angekündigt eine Quelle für T-Personal in besserem Zustand aufgetan zu haben.
+
+
+
+25. Mai 1944
+Kriegsgefangene. Der Direktor hat Kriegsgefangene aus Stalag IX A herbringen lassen. Die Meisten die man uns schickt sind Italiener, die hier für ihren Verrat büßen sollen. Außerdem einige Belgier, Niederländer, Jugoslawen und Engländer. Ich kann mir nicht helfen, aber ich weiß nicht ob ich mir wünschen sollte es wären kein einziger Engländer unter ihnen oder wären es nur Engländer. Ich kann ihnen nicht in die Augen sehen. Der Anblick ihrer Uniformen lässt mein Herz bersten vor Schmerz, darüber was ihresgleichen meiner Hilde und meinem Gustav angetan haben.
+
+
+
+3. Juni 1944
+Ich weiß nicht was ich von mir halten soll. Während mir die Todesqualen aller anderen Gefangenen noch immer eine leichte Übelkeit bescheren lacht mein Herz über die Leiden der englischen Gefangenen. Bin ich so grausam geworden wie Reitlinger? Werde ich verrückt? Spielt das überhaupt noch eine Rolle? Wenn die Tests gelingen ist das Blitzgewitter einsatzbereit.
+
+
+
+8. Juni 1944
+Schön hat heute eine Standortversammlung einberufen, und erklärt, daß der Feind vorgestern in einer großangelegten Operation zu Hunderttausenden in der Normandie gelandet ist. Himmler wird uns in den nächsten Tagen besuchen und wird Ergebnisse sehen wollen. Hätten wir nur schneller gearbeitet, es könnten bereits hunderte Tonnen Blitzgewitter einsatzbereit sein um die Invasion im Keim zu ersticken und die Horden ins Meer zurückzutreiben!
+Mir fiel die Idee, Clostridium perfringens beizumischen wieder ein. Ich habe einem der verbleibenden Engländer mit einem Hammer mehrere Prellungen von Muskelgewebe beigebracht und diese mit C. perfringens vom Serotyp A und "Staphylococcus fulgor" infiziert, um die Wechselwirkung beider Erreger zu untersuchen.
+
+
+
+10. Juni 1944
+Der Engländer ist verstorben, vermutlich durch einen toxininduzierten Schock infolge der Infektion mit C. perfringens. Während fast alle infizierten Stellen wie erwartet Gasbrand ausgebildet haben, haben sich keinerlei Symptome der Infektion mit den Staphylokokken gezeigt. Vielleicht wäre es nicht verkehrt, eine feste Inkubationszeit hineinzuzüchten.
+Ich habe mich dabei ertappt, wie ich den Engländer wieder und wieder beobachtet habe nachdem sich die ersten Gasbrände gebildet haben, um ihn leiden zu sehen. Nur sein Schmerz konnte den meinen lindern. Vermutlich bin ich bereits reif für eine Geistesheilanstalt, aber zunächst habe ich eine Waffe zu entwickeln. Ich werde Himmler bitten mir bevorzugt englische Luftwaffensoldaten zu schicken.
+
+
+
+11. Juni 1944
+Der Besuch vom Reichsführer Himmler ist gut verlaufen. Er ist mit unserem Fortschritt zufrieden, denkt aber nicht daß der Führer einem Einsatz zu diesem Zeitpunkt zustimmen würde. Ich habe ihm von der Idee mit dem Protein erzählt, das eine Verhaltensänderung herbeiführt, und er hat angeordnet danach zu forschen wie das Protein integriert werden kann, jedoch sollen wir zunächst weitere Studien und Tests durchführen, unter anderem einen Feldtest mit Kriegsgefangenen unter realen Bedingungen. Dazu sollen wir zunächst 20 Tonnen Trägerflüssigkeit produzieren, damit die Industrie eine Bombe zur Verbreitung entwickeln kann. Außerdem sollen Möglichkeiten zur Produktion des Blitzgewitters ermittelt werden. Die Integration des Proteins ist nachrangig.
+Ich bekomme so viele Engländer wie ich brauche, ich soll es nur nicht übertreiben, schließlich würde man sich offiziell an die Genfer Konvention halten.
+
+
+
+20. Juni 1944
+Die Produktion der 20 Tonnen Trägersubstanz ist abgeschlossen, jetzt heißt es warten. Es wird angenommen, daß bis zur Fertigstellung funktionsfähiger Prototypen ein bis zwei Monate vergehen werden. Unsere Chemiker kümmern sich um die Optimierung des Produktionsprozesses, wir beginnen ebenfalls mit Tests zur Massenproduktion des Erregers. Außerdem habe ich mir die Unterlagen über dieses Protein schicken lassen.
+
+
+
+25. Juni 1944
+Das Protein führt der Dokumentation zufolge zu einer Mutation des Gehirns und zu gesteigerter Aggressivität. Wie genau es funktioniert ist mir völlig schleierhaft, ebenso wie den Autoren der Dokumentation. Gesteigerte Aggression ließe sich aber durchaus als weiterer Effekt um Schrecken und die Infektion zu verbreiten nutzen, zum Beispiel wenn Soldaten sich gegen ihre Kameraden wenden oder sie im Nahkampf anstecken. Ich werde beginnen Versuche mit diesem Protein zu unternehmen.
+Einer ersten Rückmeldung zufolge gibt es bereits einen Prototyp für eine Bombe zum Einsatz einer flüssigen C-Waffe, der durch einige Änderungen für das Blitzgewitter umgerüstet werden kann. Vermutlich können wir in ein bis zwei Wochen mit ersten umgebauten Prototypen rechnen.
+
+
+
+4. Juli 1944
+Wir haben drei Prototypen der Bombe erhalten. Der Plan für den Test sieht vor, das englische Kriegsgefangene gezwungen werden ein typisches Feldlager nachzubauen, sogar mit Waffenattrappen. Ihnen wird vorgegaukelt sie würden für eine Besichtigung durch die HJ herhalten müssen, und bekommen Vergünstigungen wie ordentliche Mahlzeiten englischer Art, heißes Wasser für die Duschen, Zigaretten und ein Glas Bier. Man wird sie einige Zeit warten lassen, und sobald sie sich einigermaßen entspannt haben das Blitzgewitter abwerfen. Der gesamte Bereich ist weiträumig mehrfach eingezäunt. Nach zwei Wochen werden die Überlebenden erneut Ziel des Blitzgewitters, um die Wirkung bei wiederholter Aussetzung zu testen.
+Wer das überlebt, den werde ich im Rahmen einer Vivisektion auf mögliche Immunitäten gegen das Blitzgewitter untersuchen.
+
+
+
+18. Juli 1944
+Der Versuch war ein Erfolg! Das Lager wurde tatsächlich zunächst von einer Schar der HJ besucht. Ihnen wurde erklärt daß sie mehrere Tage in Folge von der HJ und dem BDM besucht würden. Am zweiten Tag jedoch wurde das Blitzgewitter über ihnen abgeworfen. Natürlich sind die Beobachtungen nicht gänzlich realitätsnah, da die Truppen im Feld nicht von einem Zaun an der Flucht gehindert werden, dennoch hat bereits die Sichtung des in großer Höhe auf sie zuhaltenden Bombers Unruhe geweckt. Die Bombe wurde mit einer Jericho-Trompete versehen, um die Wirkung zu verstärken, ein Geräusch das den meisten Tommys bekannt ist. Bereits vor der zeitgesteuerten Zündung etwa 100 Meter über dem Boden brach im Lager Panik aus. Die Sichtung eines Flugzeugs und das bloße Heulen der Sirene genügten um sie wissen zu lassen, daß ihnen ein Angriff aus der Luft bevorstand. Das Blitzgewitter wurde von der Bombe nicht gleichmäßig verteilt, hier muss noch nachgearbeitet werden. Man schien den gelben Niederschlag zunächst für eine C-Waffe zu halten, und ergriff entsprechende Vorsichtsmaßnahmen, da sich aber keine unmittelbare Wirkung einstellte, gingen die Tommys Gesprächsaufzeichnungen zufolge von einem verfrühten Test einer C-Waffe oder einem ihrer Reaktionen aus.
+Nach ein paar Tagen sind bei den Ersten Symptome auf der Haut aufgetreten. Als diese vermehrt auftraten wurde den Tommys klar, daß an ihnen eine B-Waffe getestet wurde. Die Reaktionen fielen sehr unterschiedlich aus, von Apathie über Verzweiflung bis zu dem Versuch die Kranken von den Gesunden zu trennen und ein gewisses Maß an Quarantäne herzustellen. Als immer wieder einzelne Testpersonen Symptome zeigten, begannen einige sich von den anderen auf dem Gelände zu separieren. Zwei Testpersonen wurden bei einem Fluchtversuch erschossen. Es kam desweiteren zu Versuchen die Infizierten zu töten um sie von ihrem Leid zu erlösen oder Suizidversuchen. Das Blitzgewitter jedenfalls hat seine Arbeit getan. Die Überlebenden halten teils noch Abstand voneinander, andere haben ein zweites Lager abseits des ursprünglichen Lagers improvisiert, in das sie sich nur sehr vorsichtig wagen, unter anderem wegen der Leichen. Von 100 Mann sind 41 dem Blitzgewitter und spontanen Gewaltausbrüchen zum Opfer gefallen. Wir warten noch ein paar Tage bis sie sich wieder zusammenrotten und werfen dann die zweite Bombe ab, um ihre Reaktion zu testen.
+
+
+
+21. Juli 1944
+Es hat einen Attentatsversuch auf den Führer gegeben. Glücklicherweise wurde er nur leicht verletzt, und der Reichsführer war gerade nicht anwesend. Er hat sich zur Beobachtung des nächsten Bombenabwurfs angekündigt. Er will dem Führer unbedingt etwas vorweisen können. Aber dazu muss es bereits komplett durchgetestet sein.
+
+
+
+25. Juli 1944
+Der Reichsführer ist eingetroffen und wir haben den zweiten Bombenabwurf durchgeführt. Bereits bei Sichtung des Flugzeugs brach eine Panik aus und die Überlebenden 59 Mann haben sich weiträumig auf dem Gelände verteilt. Sie müssen damit gerechnet und einen Plan für diesen Fall ausgeheckt haben. Die Bombe wurde in größerer Höhe gezündet, um einen größeren Bereich abzudecken. Glücklicherweise sind diese Bomben erstaunlich präzise.
+Die, die offenbar von der Substanz getroffen worden waren versammelten sich in dem ursprünglichen Lager und stapelten ihre verstorbenen Kameraden. Es schien als wollten sie ihre letzten Tage beisammen verbringen, und ihre vermeintlich nicht infizierten Kameraden nicht gefährden, die allesamt Abstand voneinander halten, und nur einzeln in ihr zweites Lager gehen um Vorräte zu holen.
+
+
+
+26. Juli 1944
+In der Nacht haben sich die meisten der vermeintlich Infizierten in ihrem Lager versammelt, sich mit etwas Benzin das wir ihnen zur Verfügung gestellt hatten, Holz und Zeltplanen selbst verbrannt. Himmler, der eigentlich heute abreisen wollte ist von dem Gedanken die feindlichen Truppen zur Selbstvernichtung bringen zu können begeistert. Natürlich wäre die Reaktion im Feld eine andere, hier sind sie in einer ausweglosen Situation. Im Feld werden sie zunächst mit Penicillin behandelt und andere Maßnahmen versucht. Er hat den Versuch zum Erfolg erklärt und das Testgelände mit Phosphorbomben niederbrennen lassen, und eine es zu dekontaminieren. Unsere Aufgabe ist jetzt, weiter an der Massenproduktion zu arbeiten und das Protein zu testen.
+
+
+
+2. August 1944
+Uns sind in der letzten Zeit immer wieder Berichte über einen Zusammenbruch der Ostfront und einem weiteren Vorrücken der Amis und Tommys im Westen zu Ohren gekommen. Standartenführer Schön hat die Berichte nun weitgehend bestätigt. Himmler will das Blitzgewitter mit diesem Protein möglichst noch vor dem Herbst. Das ist völlig unrealistisch. Er könnte es zwar auch ohne das Protein einsetzen, aber er muss befürchten daß der Führer das aus Sorge vor dem Einsatz alliierter B-Waffen verbieten würde. Die Tommys können nichts als Zivilisten bombardieren, die würden B-Waffen gegen unsere Städte einsetzen. Ich habe so viele Gefangene wie möglich mit dem Protein infiziert. Die meisten einzeln, einige in Gruppen, in denen sich auch Nicht-Infizierte befinden. Ich hoffe es gelingt uns möglichst schnell, Ergebnisse vorzuweisen.
+
+
+
+1. September 1944
+Die Tests mit dem Protein haben länger gedauert als geplant. Die Finanzen des SKP werden knapp, und der zweite Standort wurde geschlossen, und Personal entlassen oder hierher verlegt. Auch aus meiner Forschungsgruppe wurde Personal abgezogen. Außerdem bekomme ich für normale Tests nur noch KZ-Insassen und bolschewistische Kriegsgefangene.
+Das Protein hat tatsächlich die beschriebene Wirkung. Die Betroffenen werden nach etwa 41-45 Stunden spontan aggressiv und reagieren angriffslustig auf Bewegungen, Geräusche und Licht. Dem geht eine kurze Phase verbaler Reizbarkeit voraus, sie werden jedoch binnen 1-2 Stunden gewalttätig, was zu tödlichen Schlägereien in den Gruppenzellen geführt hat, und zu Gewalt gegen Einrichtungsgegenstände. Der Reichsführer wird begeistert sein.
+Die Betroffenen besitzen nach etwa 12 Stunden nur noch rudimentäre motorische instinktgesteuerte Fähigkeiten, ihr Verstand scheint völlig degeneriert. Sie beginnen spätestens dann sogar damit, einander, Leichname oder sich selbst zu verzehren um ihren Hunger zu stillen. Der Tod tritt binnen fünf Tagen durch eine fortgeschrittene Degeneration des Gehirns, Verdursten oder eine Sepsis durch unbehandelte Verletzungen ein.
+Obduktionen haben ergeben, daß etwa 4-8 Stunden vor dem Auftreten der Aggression ein Hormon in der Hypophyse ausgeschüttet wird. Wir werden versuchen das als Auslöser für Staphylococcus fulgor zu verwenden.
+
+
+
+28. September 1944
+Es ist geglückt, wir konnten Staphylococcus fulgor so manipulieren, daß es asymptomatisch bleibt, bis es mit dem Hormon in Kontakt kommt, und dann bei Befall der Haut binnen kürzester Zeit beginnt unter anderem die Exfoliatine A und B zu produzieren, was zu einem großflächigen Ausbruch von Morbus Ritter, Hautnekrosen, Furunkeln und Karbunkeln und anderen Symptomen führt. Jetzt gilt es die Wirkung des kombinierten Erregers zu testen, sowie die Stabilität in der Trägersubstanz. Ich hoffe wir können erneute Tests durchführen, bevor der Winter einbricht.
+
+
+
+23. Oktober 1944
+Die Tests sind gut verlaufen. Die Betroffenen zeigen in den meisten Fällen zunächst Symptome der Infektion der Staphylokokken, bevor sie in Raserei verfallen. Der Schmerz durch die Hauterkrankung scheint sie noch aggressiver zu machen. Die Trägersubstanz hat sich als geeignet erwiesen. Ein weiterer Effekt des Hormons scheint eine chemische Veränderung des Schweißes der Infizierten zu sein, die sich dann einander gegenüber eher friedlich verhalten. Ich bin etwas neugierig was das Ziel der Entwicklung dieses Proteins gewesen sein mag.
+Ich habe Himmler um einen weiteren Feldtest gebeten, allerdings bekommen wir keine englischen Kriegsgefangenen mehr, sondern ich kann zwischen Iwans und KZ-Insassen wählen. Ich habe mich für die Iwans entschieden. Es ist mir mittlerweile gleich an wem ich teste. Iwans und KZ-Gefangene sind ohnehin in gleich schlechtem Zustand. Meine Hilde und Gustav kommen nicht wieder, egal wie viele Tommys ich töte. Ich hoffe dieser Krieg endet bald, auf die eine oder andere Art. Damit ich endlich damit aufhören kann. Ich will niemanden mehr leiden lassen, und niemanden mehr ermorden.
+
+
+
+8. November 1944
+Obwohl die meisten T-Personen für den Feldtest ausgemergelt und krank waren, ist er erfolgreich verlaufen. Die Iwans wurden wie die Tommys zuvor gezwungen ein Feldlager zu errichten, allerdings kam keine HJ. Auch sie haben teils mit großer Panik auf die Bombe reagiert, andere scheinen sie jedoch kaum wahrgenommen zu haben, so schlecht war ihr Zustand. Die Streuung der Bombe ist jetzt wesentlich besser eingestellt und gleichmäßiger. Am Mittag des zweiten Tages brachen bei den Ersten Symptome der Staphylokokkus-Infektion aus, was allerdings nicht zu einer Panik führte. Was für Gräuel müssen diese armen Kreaturen erlebt haben, daß sie vom Ausbruch einer Hautkrankheit nach einem Angriff mit einer Flüssigkeit ungerührt bleiben?
+Erst der Eintritt der aggressiven Phase hat für Aufruhr gesorgt, und für eine Massenpanik. Wir haben ihnen nicht nur Werkzeugkisten gelassen, sondern darin auch einige geladene Pistolen verstaut. Sowohl Infizierte als auch nicht Infizierte begannen einander anzugreifen. Aufgrund ihrer Überzahl gelang es den nicht Infizierten die Aggressiven zu töten oder kampfunfähig zu machen. Da es aber weiterhin zu Ausbrüchen von Symptomen kam, und vor allem in der Nacht die Infizierten nicht sofort erkannt wurden, kam es zu weiteren Kämpfen im Lager, und morgens zu einer Tötung aller die Hautkrankheiten aufwiesen. Dieses Verhalten zog sich über die nächsten Tage hin. Am fünften Tag wurde der Test mittels Brandbomben beendet. Die meisten Toten waren T-Personen, bei denen es noch zu keinen Symptomen gekommen war.
+Ich halte das Blitzgewitter so für einsatzbereit. Ich werde Himmler informieren, und die Fertigstellung der Unterlagen anordnen.
+
+
+
+15. November 1944
+Himmler hat dem Führer gegenüber offenbar die Existenz des Blitzgewitters angedeutet, woraufhin dieser erneut seine Abneigung gegen B-Waffen jeglicher Art zum Ausdruck gebracht hat. Er soll sich außerdem sehr verärgert darüber gezeigt haben, daß Himmler das SKP heimlich weiter betrieben hat. Himmler hat angeordnet, die Forschungsergebnisse und Proben zu sichern, und vorerst keine weiteren Forschungen durchzuführen, oder waffenfähige Mengen herzustellen. Wir werden also die Proben einmotten und die Zeit damit verbringen, die Spuren unserer Tätigkeiten zu beseitigen. Sollten wir diesen Krieg wirklich verlieren, soll niemand herausfinden was wir hier getan haben. Und keine der Paranormalien hier soll der SCP-Foundation, der amerikanischen Organisation für Paranormales, in die Hände fallen.
+
+
+
+24. Dezember 1944
+Es ist Heiligabend. Das erste Heiligabend, den ich ohne meine Familie verbringe. Der Gedanke an ihren Tod bricht mir das Herz.
+Hier ist keiner der keinen Verwandten oder Freund verloren hat. Wofür? Für Blut und Boden? Für eine Utopie. Manche verbergen ihren Schmerz hinter einem lachenden Gesicht in der Kantine. Andere ertränken ihn in Wein oder starren für Stunden in den Lauf ihrer Pistole.
+Wenn man ihn im richtigen Winkel hält, kann man die Kugel im Lauf sehen. Ich habe irgendwoher einen Kratzer an der Mündung.
+Ich würde alles dafür geben sie wiederzusehen. Aber ist das der richtige Weg? Ich glaube nicht. Ich glaube an kein Paradies und keine Hölle. Ich sehe sie nie wieder. Niemals.
+
+
+
+30. Januar 1945
+Der Führer hat die Auflösung des SKP befohlen. Himmler hat uns zunächst angewiesen alle noch laufenden Projekte auf Eis zu legen und Daten zu sichern, aber ich glaube nicht daß wir auch nur eines davon wiederaufnehmen werden.
+
+
+
+8. Februar 1945
+Er hat offenbar nachgegeben. Himmler hatte bereits am Dienstag angeordnet, daß ab dem 12. Februar alle Aufzeichnungen, Paranormalien und T-Personal vernichtet werden sollen. Aber heute ist etwas Seltsames passiert. Staf Schön hat mich angewiesen, einen kompletten Satz aller Forschungsunterlagen, inklusive Notizen, sowie Proben aus verschiedenen Entwicklungsstadien des Blitzgewitters zusammenzustellen und Dr. Kühne zu übergeben. Ich dachte Kühne arbeitete mit einer Dimensionsparanormalie. Ich verstehe nicht was der mit den Unterlagen will. Es spielt aber keine Rolle mehr, soll er sie haben. Wir haben nun nichts mehr zu tun. Man wird uns nicht entlassen, also werden einige bei der Vernichtung der Unterlagen helfen, der Rest, mich eingeschlossen, wartet auf die Amis.
+Ich werden Schöns Angebot ein Amnesikum einzunehmen nicht wahrnehmen. Wenn die Amis mich vor ein Gericht stellen, will ich wenigstens wissen wofür.
+
+
+
+1. April 1945
+Die Amis rücken gerade in Kassel ein. Schön hat uns angewiesen, Zivil oder Uniformen der Wehrmacht anzulegen. Wir sind keine Soldaten. Wir werden uns ergeben. Die Vernichtung der Paranormalien und Unterlagen ist wie ich höre kaum vorangegangen, weil kaum jemand daran arbeitet. Sollen sie sie haben, mir ist es gleich.
+
+
+
+Die folgenden Ereignisse sind nicht gänzlich klar. Die US-Army nahm die Kapitulation des SKP ohne Repressalien oder Festnahmen an, einige Tage später wurde der Standort von der SCP-Foundation in Besitz genommen. Standartenführer Schön hatte bereits Wochen zuvor ohne das Wissen Himmlers mit der SCP-Foundation Kontakt aufgenommen und eine friedliche Übernahme des SKP verabredet. Er würde so viele Paranormalien und Unterlagen vor der Vernichtung bewahren, wie dies möglich wäre, ohne Verdacht bei seinem Stab zu erregen, dafür würde das Personal des SKP vor alliierter Strafverfolgung geschützt.
+Dr. Hammerschmidt erhielt eine Psychotherapie zur Bewältigung des Verlustes seiner Familie und eine selektive Amnesizierung, bei der die Erinnerungen an seine Gräueltaten gelöscht wurden, anschließend wurde er in die Foundation integriert. Standartenführer Schön konnte nicht vor dem Zugriff der alliierten Behörden geschützt werden und wurde terminiert, um eine Informationsverschleppung zu verhindern. Der gegen Ende erwähnte Dr. Kühne wurde zusammen mit 11 anderen Mitgliedern seiner Forschungsgruppe zu SCP-028-DE mit vollständig ausgelöschtem Gedächtnis im Spital des Standortes vorgefunden und euthanasiert.
+Aus Unterlagen, die aus dem Universum U-3378-DE abgegriffen wurden, geht hervor, dass SCP-188-DE zu den Anomalien gehörte, die durch SCP-028-DE-C gereicht wurden. Dort war die Arbeit am Blitzgewitter nach dem Erfolg von SKP-███ ins Stocken geraten und die Familie des dortigen Dr. Hammerschmidt überlebte das Bombardement.
+SCP-188-DE wurde in U-3378-DE unverändert in großen Mengen produziert und erstmals im Februar 1951 eingesetzt wurde um den Widerstand Australiens zu brechen, allerdings als Massenvernichtungswaffe über Großstädten. Es wurde später im selben Jahr gegen Truppenverbände der USA eingesetzt und hat damit effektiv zum endgültigen Sieg des Dritten Reiches in U-3378-DE beigetragen.
+
+
+
+
+Footnotes
+1. Das SKP verfügte zu diesem Zeitpunkt über fünf Standorte, Dr. Hammerschmidt war am heutigen Standort-DE3 stationiert. — Dr. Bauer
+2. Der Verbleib dieser Maschine ist unklar, es wird angenommen, dass sie zerstört wurde. Es ist ebenfalls unklar, wer sie hergestellt hat und ob sie überhaupt anormal war. — Dr. Bauer
+3. In einem Feuersturm hervorgerufen durch britisches Flächenbombardement auf Frankfurt a.M. - gemeint sind die Ehefrau und der 7-jährige Sohn von Dr. Hammerschmidt — Dr. Bauer
+
+
+                    

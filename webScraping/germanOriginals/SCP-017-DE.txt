@@ -1,0 +1,72 @@
+
+                        
+
+
+
+Bewertung: +10+–x
+
+
+
+
+
+
+
+
+Bewertung: +10+–x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credits
+
+
+
+Artikel: SCP-017-DE - R.T.I. Grizzly A1
+Autor: Dr_Grom
+Derivat: SKP-017
+
+
+
+
+
+
+
+
+
+
+Bewertung: +10+–x
+
+Bewertung: +10+–x
+
+
+
+
+
+Objekt-Nr.: SCP-017-DE
+Klassifizierung: Euclid
+Sicherheitsmaßnahmen: SCP-017-DE wird in einem unterirdischen Bunker in einem Raum von 20×20×6 m Größe aufbewahrt. Der Bunker verfügt über einen großen Aufzug, mit welchem SCP-017-DE transportiert werden kann, sowie über einen Personen- und einen Lastenaufzug, über ein Treppenhaus und über Frischluftzufuhr und Abgasabsaugung. Die Wände, Boden und Decke bestehen aus vier Meter dickem Stahlbeton. Aufgrund der Durchschlagskraft von SCP-017-DEs Hauptgeschütz wurde auf Nebenräume für Personal verzichtet, es gibt lediglich einen Lagerraum. In einer Höhe von 3 m über dem Boden befindet sich im Hauptraum umlaufend ein Laufweg. Der Aufzugschacht und die Oberseite des Bunkers sind vor Funksignalen abgeschirmt. In allen Aufzug- und Belüftungsschächten werden starke Magnetfelder mit einer Länge von mindestens 10 m aufrechterhalten, mit 4-facher Redundanz und autarker Stromversorgung. Im Hauptraum befindet sich jedoch ein mit der Oberfläche verkabeltes Funkgerät, mit dessen Hilfe SCP-017-DE mit dem Personal der Foundation an der Oberfläche kommunizieren kann. Wünsche bezüglich Beleuchtung, Raumtemperatur und Luftfeuchtigkeit sind in Absprache mit Dr. Griesmann zu erfüllen.
+Auf Verlangen von SCP-017-DE sind diesem je eine männliche und eine weibliche, saubere und entkleidete Person der Klasse D über die Dachluken zuzuführen. Die Überreste ihrer Vorgänger sind zu entfernen, bevor die neuen D-Personen in den Raum von SCP-017-DE gebracht werden. Das man das erwähnen muss ist ein Armutszeugnis! — Dr. Griesmann Die Personen dürfen zuvor keiner Amnesizierung unterzogen worden sein und keinen Zugang zu sensiblen Daten gehabt haben, insbesondere nicht über Raptor Tec. Industries.
+Bemerkungen des Personals bezüglich des Verhältnisses von Raptor Tec. Industries zur Foundation innerhalb des Isolationsbunkers von SCP-017-DE, oder über Funk, führen zu sofortiger, disziplinarischer Terminierung. Sollte SCP-017-DE zu diesem Thema Fragen stellen, sind Antworten mit Hinweis auf dessen unzureichende Sicherheitsfreigabe zurückzuweisen. SCP-017-DE darf niemals mit seiner Objektnummer angesprochen werden. Zugelassene Anreden sind: Die Typenbezeichnung oder Teile davon sowie „Klara” und die Personalnummer P-DE/449-63446.
+SCP-017-DE glaubt, es sei noch immer nur ein Prototyp eines Waffensystems zur Bekämpfung extrem gefährlicher Anomalien und wartet auf seinen ersten echten Einsatz — den Umstand, dass es noch nicht eingesetzt wurde, wertet es als gutes Zeichen. Es glaubt, es sei ein nichtmenschlicher Mitarbeiter der Foundation und habe die Sicherheitsfreigabe 1 und Personalklasse C. Dies ist unter allen Umständen aufrecht zu erhalten.
+Beschreibung: SCP-017-DE ist der Prototyp eines Kampfpanzers vom Typ R.T.I. Grizzly A1, den die SCP Foundation von der Raptor Tec. Industries als Waffensystem gegen extrem gefährliche und widerstandsfähige anomale Objekte und Entitäten hat entwickeln lassen. Der Prototyp basiert auf einem stark umgebauten Leopard 2A6.
+Sämtliche Winkelspiegel und Zugangsluken zum Kampfraum wurden entfernt und zugeschweißt, bis auf die Luken von Kommandant und Ladeschütze. Die Luke des Fahrers ist nicht verschweißt, bleibt jedoch stets verriegelt. Der Motorraum ist zugänglich und entspricht dem des Standardmodells. Überschüssige Anbauteile wurden entfernt, Werkzeug und Ersatzteile, die normalerweise außen an der Wanne und dem Turm befestigt werden, befinden sich in einem Staukasten am Turmheck, beziehungsweise unter der abklappbaren Zusatzpanzerung an der Turmfront. Die Zusatzpanzerung ist zwar abklappbar, jedoch nicht abnehmbar gestaltet.
+Alle verbliebenen Optiken des Panzers besitzen zwei Kameras, die eine stereoskope Betrachtung des Umfelds ermöglichen. In dem Gehäuse der Zieloptik des Richtschützen befinden sich von außen sichtbar mehrere symmetrisch angeordnete Linsen, die der Bedienungsanleitung zufolge ein weitaus genaueres Zielen ermöglichen, als übliche Zieloptiken. Auf dem Turm befindet sich die drehbare Optik des Kommandanten. Anstelle der Winkelspiegel des Fahrers befindet sich vor der Luke eine niedrige drehbare Optik, die Rückfahrkamera ist allerdings starr.
+Die Zusatzpanzerung, sowie alle neuen Anbauteile, wie das Geschütz und die Optiken, bestehen aus einer Titanlegierung mit nicht identifizierbaren Legierungselementen. Der gesamte Panzer ist mit derselben Beschichtung versehen, wie SCP-047-DE und viele andere SCPs die von R.T.I. stammen, die das Fahrzeug unempfindlich gegenüber den meisten nicht-kinetischen Einflüssen macht. Darüber wurde die Standardtarnung für Panzer der Bundeswehr aufgebracht. Auf dem Geschütz, den Optiken, allen Teilen der Zusatzpanzerung und an einigen anderen Stellen, ist das Logo der R.T.I. eingeprägt. Das taktische Zeichen ist dass des █./PzBtl ███.
+Das Hauptgeschütz ist eine Railgun mit der Länge des normalen Geschützes des Leopard 2A6. Als Munition dienen Stahlkugeln von 20 mm Durchmesser mit, je nach Einsatzzweck, unterschiedlicher Zusammensetzung und Härte. Sie alle sind mit derselben Beschichtung versehen, wie das Fahrzeug selbst. Die genaue Funktionsweise, Munitionsvorrat und Lademechanismus sind nicht bekannt. Laut Bedienungsanleitung können die Geschosse mit variabler Mündungsgeschwindigkeit von bis zu ██.000 m/s abgefeuert werden. Die maximale Feuerrate liegt bei 12 Schuss pro Minute. Das koaxiale MG wurde durch einen Lautsprecher ersetzt, der sowohl zur verbalen Kommunikation, als auch zur Emission eines Tons mit einer Lautstärke von bis zu 200 dB zur Abwehr von Infanterie eingesetzt werden kann. Ursprünglich geplante Waffentests in den USA wurden aufgrund der kurz nach der Lieferung einsetzenden Spannungen mit R.T.I. nicht durchgeführt, die rechnerisch maximale Mündungsenergie ist mit 1██ MJ jedoch ein Vielfaches dessen, was normale Panzerkanonen mit unterkalibrigen Penetratorgeschossen erreichen.
+Über das Innere des Turms ist wenig bekannt. Die Luken des Kommandanten und des Ladeschützen führen in Abteile mit einem Sitz und diversen Kabeln, Schläuchen und medizinisch aussehenden Gerätschaften, jedoch über keinerlei Anzeigen oder Bedienelemente. Laut Bedienungsanleitung sind für die korrekte Funktion von SCP-017-DE eine männliche und eine weibliche Person in diesen Abteilen notwendig. Es wird angenommen, dass die Personen mit SCP-017-DE-1 vernetzt werden und diese in ihren Gehirnen Prozesse ausführt, die in einem binären Computer nicht oder nur sehr langsam ausführbar wären. SCP-017-DE-1 verweist bei Fragen diesbezüglich auf eine fest programmierte Informationssperre. Der Umstand, dass SCP-017-DE-1 Züge der Persönlichkeit der Subjekte und Kenntnis über deren Erinnerungen (selbst die, die durch Amnesika gelöscht wurden) zeigt, weist jedoch darauf hin. Fest steht, dass der Aufenthalt in SCP-017-DE zu einem Absterben von Gewebe führt. Zunächst bilden sich Nekrosen an den Zehen und Fingern, die sich zunächst über Arme und Beine ausbreiten, dann über Genitalien und Unterleib den Torso befallen und schließlich den Kopf. Die Körper werden dabei mumifiziert und können meist in einem Stück entnommen werden. Augenscheinlich abgefallene Teile, wie Finger und Zehen, sind anschließend nicht auffindbar. Es wird angenommen, dass die Abteile über ein System zur Selbstreinigung verfügen. Ist das Gehirn zu 50% beschädigt, signalisiert SCP-017-DE-1 dass „die Besatzung” [sic] ausgetauscht werden müsse. Erst dann werden die Luken entriegelt und können geöffnet werden. Auf den Versuch, mit einem der Subjekte eine Kamera hineinzuschmuggeln, reagierte SCP-017-DE-1 sehr emotional. Es dauerte zwei Wochen guten Zuredens, um sie wieder zur Kooperation zu überreden.
+Wird die Besatzung nicht binnen 24 Stunden ausgetauscht beginnt SCP-017-DE sich „wie ein aufgeregtes Raubtier” zu verhalten. Dies äußert sich in unvermitteltem Starten des Motors, im Raum herumfahren, ruckartiges Drehen der Fahreroptik, Blinken der Scheinwerfer, Versuchen das Personal durch Bitten und Drohungen zum Einsteigen zu bewegen und Personal sehr dicht zu folgen.
+Dort, wo sich normalerweise der Sitz des Richtschützen befindet, befindet sich laut Bedienungsanleitung ein Computer, auf welchem eine künstliche Intelligenz (SCP-017-DE-1) ausgeführt wird, die alle Systeme steuert. Sie nennt sich selbst „Klara” und bevorzugt Pronomen femininen Genus. Durch geschickte Befragung seitens Dr. Griesmann wurde ermittelt, dass es sich bei „Klara” offenbar um eine Frau handelte, deren Persönlichkeit als Grundlage für die KI diente. Fragen nach dem Verbleib ihres Körpers weicht sie aus, was für ihre ansonsten eher pragmatische und direkte Art sehr untypisch ist. Sie gibt sich der Foundation gegenüber loyal, verweist aber bei Fragen bezüglich ihrer Funktionsweise oder der des Panzers, den sie steuert, auf einprogrammierte Informationssperren.
+Anhang: Bedienungsanleitung #017-DE/A1 [Zugriff verweigert]
+Nachtrag: Seit April 2008 werden in unregelmäßigen Abständen unverschlüsselte Funksignale in Form hoher und tiefer Töne von verschiedenen Positionen um den oberirdischen Teil der Bunkeranlage, in welcher sich SCP-017-DE befindet, abgefangen. Da kein Sender ausfindig gemacht werden konnte und die Signale von verschiedenen Positionen aus gesendet werden, wird von einem mobilen Sender an einem Fahrzeug oder Fluggerät ausgegangen.
+
+                    

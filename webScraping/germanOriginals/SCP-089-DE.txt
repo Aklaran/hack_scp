@@ -1,0 +1,382 @@
+
+                        
+
+
+
+Bewertung: +9+–x
+
+
+
+
+
+
+
+
+Bewertung: +9+–x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credits
+
+
+
+Artikel: SCP-089-DE - Das Athena-Projekt
+Original-Autor: Dr Ore
+
+Puppe.jpg
+Bild-Ersteller: Dr Ore
+Bild-Lizenz:CC BY-SA 3.0
+5361281936_97c1d576da_z.jpg
+Bild-Ersteller: Haiku66
+Bild-Quelle: https://www.flickr.com/photos/alberto_cottica/5361281936/
+Bild-Lizenz: CC BY-NC 2.0
+
+
+
+
+
+
+
+
+
+
+Bewertung: +9+–x
+
+Bewertung: +9+–x
+
+
+
+
+
+
+
+Von SCP-032-DE bei seiner Ergreifung mitgeführtes Foto von SCP-089-DE.
+
+
+Objekt-Nr.: SCP-089-DE
+Klassifizierung: Keter
+Sicherheitsmaßnahmen: SCP-089-DE ist im Moment nicht eingedämmt. Daher sind sämtliche Medien auf Meldungen zum Aufkommen von "Robotern" hin zu überwachen. Sollte ein Aufkommen festgestellt werden, ist MTF-DE2-𝕴 ("Lichterkette") zu entsenden um den Vorfall zu untersuchen. Sollte die Präsenz von SCP-089-DE und/oder von ihm beeinflussten Maschinen bestätigt sein, ist der Einsatz schwerer Waffen und EMPs autorisiert um die Subjekte einzudämmen.
+Sollte SCP-089-DE und/oder von ihm beeinflusste Subjekte erfolgreich eingefangen werden, sind diese unter allen Umständen von jeglichen anderen Maschinen fernzuhalten und nur zu transportieren, wenn sie sich vollständig fixiert in einer angemessenen Transporteinheit für mechanische Anomalien befinden.
+Standort-DE17 hält für SCP-089-DE eine Isolierzelle bereit, in die es nach der Gefangenenahme umgehend zu transportieren ist.
+Aufgrund der großen Unterschiede zwischen von SCP-089-DE veränderten Maschinen und der damit nicht immer eindeutigen Zuweisung sind gefangene Subjekte mit separaten SCP-Klassifikationen zu versehen.
+Beschreibung: SCP-089-DE designiert einen humanoiden Roboter mit einer Größe von ca. 170 cm, der offenbar auf den Namen "Hod" hört. SCP-089-DE besitzt ein Gesicht, das ebenso wie sein Hals, sein oberer Torso, seine Unterarme und seine Hände, einer Frau nachempfunden zu sein scheint. Vom Rest seines Körpers ist nichts zu erkennen, da SCP-089-DE immer ein weites schwarzes Kleid mit hellrosa Samtüberhängen, schwarze Kniestiefel und eine Perücke mit weißen, gelockten Haaren trägt. Die Analyse von Videoaufnahmen auf denen die Kleidung beschädigt war lässt allerdings den Schluss zu, dass sein unterer Torso, die Oberarme und die Beine keine Verkleidung wie der normalerweise sichtbare Teil ihres Körpers besitzen. Ebenfalls auffällig ist die schwarze Schmetterlingsmaske, die SCP-089-DE im Gesicht trägt.
+SCP-089-DE konnte bis jetzt nicht eingedämmt werden, geriet aber mehrfach in Kontakt mit den Kräften der Foundation. Bei diesen Zusammentreffen hat SCP-089-DE gezeigt, dass es große intellektuelle Fähigkeiten besitzt und scheinbar keine Energieversorgung benötigt. Das Objekt ist in der Lage seine Umgebung visuell, auditiv und taktil wahrnzuehmen und besitzt eine weibliche Stimme mit einem Unterton, der von Personal als "roboterhaftes Summen" beschrieben wurde. Über das Ausmaß seiner körperlichen Kraft ist nicht viel bekannt, allerdings hat es sich in unbeschadetem Zustand als fähig erwiesen voll ausgerüstete MTF-Soldaten mit einer Hand hochzuheben und bis zu 4 m weit zu werfen. Seine Maschinerie scheint allerdings empfindlich zu sein, da bereits Pistolenschüsse und unter Umständen sogar Faustschläge ausgereicht haben um SCP-089-DE sichtlichen Schaden zuzufügen. Durch sein niedriges Gewicht ist es allerdings schnell und wendig, was es ihm erlaubt den meisten Angriffen zu entgehen. Es wurde beobachtet, wie SCP-089-DE im vollen Lauf Geschwindigkeiten von bis zu 60 km/h erreicht hat. EMP-Waffen haben auf SCP-089-DE anscheinend keinerlei Effekt.
+SCP-089-DE kann auf jedwede Maschine einen anomalen Effekt ausüben, vorausgesetzt es hält für 15 s einen physischen Kontakt mit seinem Ziel aufrecht. Hierbei scheint es unerheblich zu sein, ob der Kontakt durch seine Kleidung behindert wird oder welchen Teil der betreffenden Maschine es berührt. Von SCP-089-DE's Effekt beeinflusste Geräte lassen sich nicht länger bedienen und beginnen sich autonom zu bewegen. In 97,7% der beobachteten Fälle kam es außerdem vor, dass betroffene Maschinen ihre Form änderten und eine grob humanoide Gestalt oder die eines Tieres annahmen. Bei diesem Vorgang kommt es scheinbar zu keinem Verlust oder Gewinn an Masse und es wird kein Material verändert. Sollte sich das Gerät in einer Verankerung befinden, wird es sich von dieser losreißen, es sei denn die Verankerung verbindet es mit einer angeschlossenen Maschine oder einem Chassis. Diese werden in den Transformationsprozess miteinbezogen.
+
+
+Von SCP-089-DE umgewandelter Lastwagen.
+
+
+Durch SCP-089-DE veränderte Maschinen besitzen eine menschenähnliche Intelligenz, können ihre Umgebung visuell, auditiv und taktil wahrnehmen und sind zur verbalen Kommunikation fähig. Wie SCP-089-DE selbst scheinen diese Geräte keinen Energiebedarf mehr zu besitzen, allerdings sind ihre Maschinenteile immer noch von normalem Verschleiß betroffen und müssen wenn nötig ersetzt werden. Sie sehen SCP-089-DE offenbar als Autoritätsperson an, da sie jeden seiner Befehle ausführen, allerdings wurde beobachtet dass verschiedene Geräte den gleichen Befehl unterschiedlich interpretiert haben, was auf einen gewissen Grad an Autonomie schließen lässt. Abhängig davon wofür die Maschine ursprünglich konzipiert wurde, besitzt sie gegenüber verschiedenen Waffen und Umwelteinflüssen unterschiedliche Resistenzen und Schwächen. Es sollte allerdings bemerkt werden, dass sie von EMP-Waffen in allen Fällen nur temporär "ausgeknockt" werden können, sofern sie nicht dagegen geschützt oder vollständig analog aufgebaut sind.
+
+Exzerpt des Logs der von SCP-089-DE's Effekt betroffenen Maschinen
+
+Schließen
+
+
+Umgewandelte Maschine: Motorrad, Modell Honda CB 500 F
+Veränderungen: Nahm das Aussehen einer Raubkatze mit einer geschätzten Länge von 2 m an. Die "Beine" blieben weiterhin mit den Rädern verbunden und ermöglichten so nur eine Fortbewegung durch Rollen.
+
+
+Umgewandelte Maschine: Auto, Modell Passat B8 (Typ 3G)
+Veränderungen: Subjekt nahm eine Form an, die an die eines Flusspferds (Hippopotamus amphibius) erinnerte. Subjekt konnte trotz seines behäbig wirkenden Aussehens sehr schnell beschleunigen.
+
+
+Umgewandelte Maschine: Schweißroboter ██████ ██████ ███
+Veränderungen: Der Roboterarm war Teil einer Schweißerkabine mit insgesamt sechs Automaten gewesen, die alle bei dieser Transformation miteinbezogen wurden. Das Subjekt besaß die ungefähre Form eines Laufkäfers (Carabidae) und war ca. 3 m lang. Das Subjekt war fähig von den Enden seiner Beine Stromschläge abzugeben.
+
+
+Umgewandelte Maschine: Leopard 2 Panzer
+Veränderungen: Subjekt nahm eine humanoide Form mit einer Größe von 5 m an. Die Ketten des Fahrzeugs dienten als zusätzliche Beinpanzerung. Die Kanone wurde auf dem Rücken transportiert, konnte aber bei Bedarf durch Einziehen des Kopfes nach vorne ausgerichtet werden. Die beiden Maschinengwehre befanden sich an den Unterarmen des Subjekts.
+
+
+Umgewandelte Maschine: Schaufelradbagger, Modell SRs███
+Veränderungen: [DATEN GELÖSCHT]
+
+
+
+
+Eine weitere Eigenschaft der durch SCP-089-DE umgewandelten Maschinen stellt ihre Fähigkeit dar anderen Geräten dieselben Eigenschaften zu verleihen die sie selbst besitzen. Dies geschieht normalerweise durch den Einbau eines ihrer Maschinenteile in ihr Ziel, allerdings wurden auch andere Methoden beobachtet (siehe beispielsweise SCP-███-DE). Bei auf diese Weise animierten Geräten wurde allerdings noch nie eine Änderung der Form beobachtet und sie scheinen auch nicht fähig zu sein ihren Effekt weiterzugeben.
+SCP-089-DE und durch seinen Effekt animierte Geräte sind offenbar Teil der Interessengruppe "Caecus Carneliana-Kollektiv". Sie versuchen normalen Menschen keinen direkten Schaden zuzufügen, allerdings sind bei einigen ihrer Aktionen und Kämpfen gegen der Foundation und anderen als Feind betrachtete Gruppierungen bereits Personen indirekt verletzt oder getötet worden. SCP-089-DE konnte bis jetzt noch nicht von der Foundation gefasst werden, da es sich immer mit mindestens drei umgewandelten Kampfmaschinen bewegt, von denen mindestens eine gegen EMP-Waffen immun ist. Weiterhin ist bisher unbekannt wie SCP-089-DE nach Kämpfen seine erlittenen Schäden behebt.
+SCP-089-DE trat während des Vorfalls-DE/B33 das erste Mal in Erscheinung. Die Foundation konnte lange Zeit nur durch das Auswerten von Beobachtungen Informationen zu diesem SCP sammeln, bis Rechercheteam 25 Teile der Dokumentation des "Athena-Projekts" wiederherstellte, welches von Abteilung XXV durchgeführt worden war. In diesen Dokumenten wird eine Anomalie beschrieben, die mit SCP-089-DE vergleichbare Eigenschaften besaß. Es wird davon ausgegangen, dass es sich bei diesen beiden um dieselbe Entität handelt.
+
+Wiederhergestellte Dokumentation von Abteilung XXV zu SCP-089-DE
+
+Schließen
+
+
+
+Berlin, den 17. 05. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Projektvorschlag 056/42
+Um die wachsende Datenmenge zu bewältigen, die bei der Überwachung der sozialistischen Bevölkerung der DDR anfällt, wird hiermit der Vorschlag unterbreitet, eine Maschine zur Verarbeitung der Daten zu konstruieren. Diese Aufgabe kann theoretisch von einem Computer übernommen werden, allerdings wird geschätzt, daß bis dieser Stand der Technologie erreicht ist noch rund 80 Jahre vergehen werden. Daher ist die Idee, übernatürliche Phänomene zu diesem Zweck heranzuziehen. Magister Eisen hat zu diesem Zweck bereits ein Konzept erarbeitet, das im Prinzip vorsieht einem speziell behandelten und mit Strom durchflossenen Siliziumkristall mit menschlichen Erinnerungen zu füllen um ihm so das Denken beizubringen. Die Spezifikationen liegen diesem Schreiben bei.
+
+
+
+Berlin, den 19. 05. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Genehmigung von Projekt Athena
+Hiermit wird dem Antrag des Athena-Projekts stattgegeben. Magister Eisen ist es gewährt, die Erinnerungen von Frau ██████ Eisen zu benutzen.
+
+Gezeichnet: Offizier Konstantin Mader
+
+
+
+
+Dresden, den 09. 09. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Forschungsaufzeichnungen zu Projekt Athena
+Es ist mir endlich gelungen Athena zu starten. Die Sinnesvorrichtungen funktionieren einwandfrei, sie reagiert in angemessener Zeit auf Veränderungen in ihrem Blickfeld und Geräusche. Im Moment besitzt sie noch den Verstand eines Säuglings, aber ich bin zuversichtlich, daß ich sie innerhalb von zwei Wochen auf das Niveau eines erwachsenen Menschen bringen kann.
+
+Gezeichnet: Magister Eisen
+
+
+
+
+Berlin, den 13. 09. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Überwachungsbefehl für Magister Eisen
+Magister Eisen hat den Tag Extraurlaub abgelehnt, der ihm gewährt worden war um angemessen um den Tod seiner Frau ██████ Eisen trauern zu können, die vorgestern an ihrer Lungenentzündung gestorben ist. Befehle daher die unauffällige Überwachung von Magister Eisen durch Genosse ██████ ██████. Sämtliche Änderungen seines mentalen und emotionalen Zustands sind mir zu melden.
+
+Gezeichnet: Offizier Konstantin Mader
+
+
+
+
+Dresden, den 21. 09. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Präsentationsankündigung für Projekt Athena
+Athena hat nun das gewünschte Niveau erreicht. Sprache ist flüssig, Gedankengänge sind kohärent. Konnte außerdem feststellen, dass eine Energiezufuhr von außen nicht länger nötig ist. Der Generator wurde daher abgestellt. Athena scheint weiterhin fähig zu sein angeschlossene mechanische Elemente manipulieren zu können. Dadurch war es mir möglich ihr Arme zu geben. Beraume eine Präsentation für den 3. 10. 1967 an.
+
+Gezeichnet: Magister Eisen
+
+
+
+
+Berlin, den 22. 09. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Forschungsaufzeichnungen zu Projekt Athena
+Der Termin der Präsentation wird von mir und meinen Sekretären wahrgenommen.
+
+Gezeichnet: Offizier Konstantin Mader
+
+
+
+
+Dresden, den 27. 09. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Überwachungsbericht von ██████ ██████
+Magister Eisen hat Athena mit einem einen menschlichen Kopf und Oberkörper nachempfundenen Gerüst ausgestattet. Über dieses Gerüst hat er anschließend einen Silikonüberzug gezogen und Athenas Greifwerkzeuge in Silikonhandschuhen gesteckt. Diese sind in Hauttonfarben gehalten und scheinen die Hände und den Oberkörper von Frau ██████ Eisen darzustellen. Auf Nachfrage gab Magister Eisen an, er hätte das getan um der Präsentation Willen getan und gerade jenes Gesicht ausgewählt, da es schließlich die Erinnerungen seiner Frau gewesen waren, die Athena möglich gemacht haben. Vermute emotionale Bindung zu Athena.
+
+
+
+Dresden, den 04. 10. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Neue Anweisungen zu Projekt Athena
+Nach dem erfolgreichen Abschluss der Präsentation sind sie nun angehalten die zuvor besprochenen Versuchsreihen zu starten. Der Leitung von Abteilung XXV sind wöchentlich Berichte vorzulegen.
+
+Gezeichnet: Offizier Konstantin Mader
+
+
+
+
+Dresden, den 10. 10. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Forschungsaufzeichnungen zu Projekt Athena
+Die Versuchsreihen waren ein Fehlschlag. Athena ist zwar in der Lage die ihr gestellten Mathematikaufgaben zu verstehen, allerdings erreicht sie ohne Hilfe keinen Lösungsweg.
+
+Gezeichnet: Magister Eisen
+
+
+
+
+Dresden, den 17. 10. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Forschungsaufzeichnungen zu Projekt Athena
+Das mathematische Verständnis nimmt nicht zu. Weitere Konditionierung erforderlich.
+
+Gezeichnet: Magister Eisen
+
+
+
+
+Dresden, den 24. 10. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Forschungsaufzeichnungen zu Projekt Athena
+Kleine Verbesserungen wurden verzeichnet, allerdings fehlt es Athena noch immer an kombinatorischen Fähigkeiten. Weitere Konditionierung erforderlich.
+
+Gezeichnet: Magister Eisen
+
+
+
+
+Dresden, den 31. 10. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Forschungsaufzeichnungen zu Projekt Athena
+Athena könnte sich als Fehlschlag erwiesen haben. Sie verfügt zwar über einen akzeptablen Verstand, aber die Integrierung von Fachwissen scheint nahezu unmöglich. Empfehle Abbruch des Projekts und einen Neustart.
+
+Gezeichnet: Magister Eisen
+
+
+
+
+Dresden, den 03. 11. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Überwachungsbericht von ██████ ██████
+Magister Eisen scheint die Testreihen gar nicht durchzuführen. Stattdessen unterhält er sich über Stunden hinweg mit Athena und redet sie dabei mit ██████ an. Das Objekt scheint außerdem die bisher nicht erwähnte Fähigkeit zu besitzen andere Maschinen zu verwandeln und eigenständig zu machen. Dies setzt eine Berührung voraus die fünfzehn Sekunden andauern muss. Magister Eisen bezeichnet diese Konstrukte als seine "Kinder". Emotionale Bindung bestätigt.
+
+
+
+Berlin, den 07. 11. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Neue Anweisungen zu Projekt Athena
+Mangels sichtbarer Fortschritte wird Magister Eisen hiermit die Leitung des Projekts Athena entzogen. Magister Krone wird die Leitung des Projekts übernehmen und eventuelle Fehler beheben, die bisher gemacht wurden.
+
+Gezeichnet: Offizier Konstantin Mader
+
+
+
+
+Dresden, den 11. 11. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Forschungsaufzeichnungen zu Projekt Athena
+Athena verfügt über einige unnötige Eigenheiten, wie etwa einen Tastsinn, die Magister Eisen wahrscheinlich übersehen hat. Als zur simplen Datenverarbeitung konzipierte Maschine hat Athena außerdem keine Verwendung für die vorhandenen Emotionen. Nehme deren Löschung nächste Woche vor.
+
+Gezeichnet: Magister Krone
+
+
+
+
+Dresden, den 14. 11. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Projekt Athena Vorfallsbericht
+Heute um 08:27 Uhr verschaffte sich Magister Eisen mittels einer Brechstange Zugang zu Athena. Magister Krone, der zu diesem Zeitpunkt gerade die Löschung von Athenas Emotionen in Gang setzte, wurde von Magister Eisen überrumpelt und trug eine Platzwunde am Hinterkopf davon. Magister Eisen versuchte Athenas Kernkomponente, den Siliziumkristall, aus der Maschine zu entnehmen, wurde aber von Magister Krone, der sich wieder fing, weggestoßen. Daraufhin kam es zum Kampf zwischen den Magistern, den Magister Krone schließlich für sich entschied als er Magister Eisen den Schädel brach. Daraufhin fing Athena plötzlich an laut zu schreien und begann seine eigene Maschinerie mitsamt dem noch immer angeschlossenen Stromgenerator umzuwandeln. Sie erhielt dadurch einen menschenähnlichen Körper, der ihr die Fortbewegung ermöglichte. Ebenfalls war es ihr möglich auf Magister Krone loszugehen, der [FEHLENDE DOKUMENTFRAGMENTE] schließlich die Silikonmaske im Bereich der Augen stark beschädigte. Athena wandelte anschließend den Fahrstuhl des Gebäudes um und nutzte das entstehende Chaos um zu flüchten. Die Einrichtung in der ██████-█████████-Straße in Dresden wurde durch das Feuer komplett unbrauchbar. Magister Krone wird im Moment wegen Totschlag angeklagt. Allerdings wird durch die Zeugenaussagen unserer Mitarbeiter in Kürze ein Freispruch wegen Notwehr erfolgen. Der Aufenthaltsort von Athena ist derzeit unbekannt.
+
+
+
+Berlin, den 15. 11. 1967
+
+
+
+Ministerium für Staatsicherheit
+
+
+Abteilung XXV
+Abbruch von Projekt Athena
+Gegeben der gestrigen Ereignisse wird Projekt Athena bis auf weiteres eingestellt, bis vollständig ergründet wurde inwiefern Magister Eisen vom eigentlichen Ziel abgewichen ist. Die gesammelten Erkenntnisse können bis dahin für andere Projekte als Referenz benutzt, aber ohne die Erlaubnis der Leitung von Abteilung XXV nicht angewendet werden.
+
+Gezeichnet: Offizier Konstantin Mader
+
+
+
+
+
+
+                    
