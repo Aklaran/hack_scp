@@ -12,7 +12,7 @@ def getKLD(filename1, filename2):
 		file2 = open(filename2, 'r', encoding="utf8")
 	except:
 		return "None"
-		
+
 	text1 = file1.read().split(" ")
 	text2 = file2.read().split(" ") 
 
@@ -47,6 +47,26 @@ def getKLD(filename1, filename2):
 	relativeKLD = entropy(text1_data, text2_data) 
 	return relativeKLD
 
+def getEntropy(file ):
+	try:
+		file1 = open(file, 'r',encoding="utf8")
+	except:
+		return "None"
+
+	text1 = file1.read().split(" ")
+
+	# Get probability distributions
+	dist1 = {}
+	for word in text1:
+		dist1[word] = dist1.get(word, 0) + 1
+
+	# Normalize
+	for word in dist1:
+		dist1[word] = (dist1[word] / len(dist1))
+
+	text1_data = list(dist1.values())
+
+	return entropy(text1_data) 
 
 def parse(file):
 	df = pd.read_csv(file)
@@ -61,7 +81,8 @@ def parse(file):
 					"es":"spanish",
 					"th":"thai"}
 
-	newCol = []
+	originalCol = []
+	translateCol = []
 	for language in languageMap:
 		if language in df["href"][1]:
 			lang = languageMap[language]
@@ -69,10 +90,12 @@ def parse(file):
 	for i in df.index:
 		opath = "data/" + lang + "Originals" + df["href"][i] + ".txt"
 		tpath = "data/" + "englishFrom" + lang + df["href"][i] + ".txt"
-		result = getKLD(opath, tpath)
-		newCol.append(result)
-	assert(len(newCol) ==  df.shape[0])
-	df["kld"] = newCol
+		originalCol.append(getEntropy(opath))
+		translateCol.append(getEntropy(tpath))
+
+	assert(len(originalCol) ==  len(translateCol) == df.shape[0])
+	df["original entropy"] = originalCol
+	df["translated entropy"] = translateCol
 	
 	outfile = "data/kld/" + lang + "-kld.csv"
 	df.to_csv(outfile, index = False)
