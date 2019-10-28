@@ -1,0 +1,49 @@
+
+                        
+
+rating: +4+–x
+
+
+SCP-558-JP-Products
+
+
+Item#: SCP-558-JP
+Object Class: Euclid
+Special Containment Procedures: Currently, SCP-558-JP has been contained in Specialized Containment Line-α within Specialized Site-8179-b. SCP-558-JP-Products are to be cultured, processed and consumed according to the Specialized Containment Line Manual. As deviation from SCL can cause SCP-558-JP-Related Anomalous Events, the monitor level of SCL and Site-8179-b must maintain Level 4 at all times. When an anomalous event possibly related to SCP-558-JP is reported, the Foundation personnel are to put utmost priority to the preservation of the scene of incident at first. At the same time, they must alert to SCP-558-JP Research Team, and carry out the investigation/verification/collection according to said team's instructions.
+If the displacement of SCP-558-JP is confirmed, synchronous on-site investigations at all chicken farms, the administration of appropriate amnesiacs and the relocation of SCL functionalities is to be carried out, in accordance with Protocol-"Slaughter". In case this procedure fails to rediscover SCP-558-JP, Emergency Execution Protocol F-21 INCENDIALY is to be issued, because of concerns about the extension of its related events and the resulting serious damage.
+Currently, the final consumption process of SCL has been executed by rotation of 7 teams, that consist of 1,526 D-Class personnel (216 in each team). Activities and scale of these processes have been extended all the time for increasing the number of staff; discussions for satisfying both the improvement of SCL processing delay resolving methods and the protection of secrecy information are ongoing. Researching team is currently accepting applications for the improvement plan for the forcing culture method of SCP-558-JP-Products.
+Description: SCP-558-JP is a certain spatial anomaly, believed to be roughly 2.3cm2. Except for the production of SCP-558-JP-Product, no anomalous properties are discovered from SCP-558-JP. However, if SCP-558-JP is exposed to the external environment completely, it will undergo spatial shift and relocate itself to the center of place where at least 8 instances of SCP-558-JP-Product (or non-anomalous broiler chicken chicks) are crowding.
+SCP-558-JP is producing and discharging the chicks of broiler chicken (Gallus gallus domesticus) at a rate of 31-33 instances per second. Through the examinations and observations, it was concluded that these chicks are biologically non-anomalous; a plurality of genetic tests have made no fruitful discoveries except that all instances share identical mitochondria DNA.
+Addendum-1: Due to the concerns about damage caused by the permanent production of SCP-558-JP-Products, Dr. Ikima established the immediate euthanizing system for SCP-558-JP-Product.
+Euthanizing system started operating at 17:08 on 2017/08/18; however, 18 seconds after the start of operation, 52 individuals (including Dr. Ikima) who were involved in establishing, designing or constructing were found dead. In light of the cause of their death, as well as the security camera footage of the situation of Dr. Ikima's death, the record of SCP-558-JP prior the containment was reviewed. In addition, the distribution and routes of uncontained SCP-558-JP-Products were also thoroughly reexamined. As a result, the relationship between several anomalous incidents1 and SCP-558-JP was pointed out. Through subsequent D-Class tests, this fatal event was designated as "SCP-558-JP-Related Anomalous Event" (SCP-558-JP-RAE).
+All victims of SCP-558-JP-RAE bear a number of lacerated or mutilated wounds, fractures, contusions and traces of internal organ rupture. A large number of feathers were discovered at each scene of the incident, and all circumstantial evidences indicate the assailant is an adult female broiler chicken, approximately 80m in body length. Despite this, such creature was never observed by witnesses and security records. Moreover, several SCP-558-JP-RAE were occurred in closed places. Investigation for solving these confirmed discrepancies is still ongoing.
+Addendum-2: Security footage of Dr. Ikima's death has been released to the personnel to for acquiring knowledge on SCP-558-JP-RAE. Said footage is viewable in the video database code [558-sGh21-J3K-98].
+Transcription of video is as follows:
+
+Video Record 558-Related-Anomalous-Event-04
+Foreword: This is a security camera footage of Dr. Ikima's office. Damaged or extremely obscure images have been removed. Her office is Type-II standard, which is 5.7m×7.1m×5.3m in dimension.
+<Log Begin>
+17:08:33 Dr. Ikima is making the document pertaining to approval for the maintenance work of SCP-558-JP-Product immediate euthanizing system.
+17:08:35 Dr. Ikima suddenly lifts her face. She is apparently shocked, and the angle of her visual axis seems face upward by about 55 degrees.
+17:08:40 Dr. Ikima stands up in a very hurriedly manner.
+17:08:41 Dr. Ikima's upper body is lifted upward and out of the footage frame. Footage suggests that her part from the head to chest was "grabbed" by a non-visible entity.
+17:08:46 Several parts of human body (left shoulder and arm, as well as a fragmented liver) are smashed against the wall on right-side of the footage.
+17:08:48 Remains of Dr. Ikima is hurled against her desk. Desk is crushed by impact and overturned.
+<Log End>
+Autopsy Report: In common, all victims were killed by the dismemberment of head or chest. Fractures/deformations of their skeleton and the damage of muscle fibers has indicated a momentary pressure of ≥3t; no sharp-edged tool is used. According to the formation process of scars, it is assumed that the victims were forcibly amputated by edge of a thin, hard and curving plate-like tool. Specifically, the tool in question is presumed to be a hollowed, openable/closable, cone-shaped and twisted one - like a bird beak. Analyse of detected saliva components is currently pending.
+
+Despite all 52 victims died at almost same time, it was confirmed that they were killed by an identical tool by the collation of scars. Ratio of saliva components adhered to their remains was matched in all cases, and the cells sampled from saliva were identified as that of a biological mother of all SCP-558-JP-Products.
+Addendum-3: Several experiments utilizing D-Class personnel revealed the occurrence condition of SCP-558-JP-RAE and the selection condition of its target.
+SCP-558-JP-RAE occurs whenever a chick of SCP-558-JP-Product was killed intentionally and/or an adult SCP-558-JP-Product was not appropriately consumed as food. In addition, it was concluded that the target of SCP-558-JP-RAE is the individuals who directly involved in killing immature SCP-558-JP-Products and/or did not properly and perfectly consume the processed meat of adult SCP-558-JP-Products.
+With the aforementioned matters in mind, despite the multiple damage due to SCP-558-JP-RAE, the containment procedure was finalized as Specialized Containment Line, which currently consists of DoS attack forcing culture program for rapid growth of SCP-558-JP-Products and the final consumption process by D-Class personnel.
+However, this series of flow comprising rapid acceleration of growth2, speedy processing/cooking and immediate consumption is not keeping up with the production speed of SCP-558-JP-Products; the ways for improving the SCL or neutralizing SCP-558-JP has been exploring presently.
+Addendum-4: 2017/05/11, an instance of SCP-558-JA-RAE was occurred outside of Foundation control. Investigation raised the suspicion that the victim (36-aged Japanese male) disposed a processed meat, which was once an offspring of a SCP-558-JP-Product and a non-anomalous broiler chicken.
+Presence of uncontained SCP-558-JP-Products that were produced before the discovery of SCP-558-JP was pointed out since the initial containment, and the countermeasures had been believed to be completed. However, due to the occurrence scope of SCP-558-JP-RAE was extended to SCP-558-JP-Products' offsprings, the difficulty of effective containment has been considered to be soared significantly. Thereby, the reclassification of SCP-558-JP have been proposed.
+This proposal is currently pending for approval.
+
+Footnotes
+1. Previously, these had been each researched as an independent extranormal event.
+2. Current forcing culture program is able to make an immature SCP-558-JP-Product grow into an adult chicken in 15 days.
+
+
+                    

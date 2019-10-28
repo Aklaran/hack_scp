@@ -1,0 +1,156 @@
+
+                        
+
+
+
+
+
+
+notation: +20+–x
+
+
+
+
+
+
+notation: +20+–x
+
+
+
+
+
+
+
+
+
+Crédits
+
+
+Titre : SCP-327-FR - Caméras de Prévoyance
+Auteur : War Lock
+Date : 06 mai 2019
+Image : Travail personnel de l'auteur
+
+
+
+
+
+
+
+
+
+notation: +20+–x
+
+notation: +20+–x
+
+
+
+
+
+
+
+SCP-327-FR-A à -F mis en place à des fins de test.
+
+
+Objet # : SCP-327-FR
+Niveau de Menace : Jaune ●
+Classe : Sûr Euclide
+Procédures de Confinement Spéciales : SCP-327-FR doit être gardé hors tension au Site-Aleph. La mise sous tension de l'objet SCP doit être approuvée par au moins un membre du personnel de Niveau 4 et n'est autorisée qu'à des fins de test. Lors des phases de test, seuls des membres du personnel de Classe D sont autorisés à regarder les écrans de SCP-327-FR et doivent décrire en permanence ce qu'ils voient. Des recherches sont en cours pour mieux appréhender SCP-327-FR dans l'optique de pouvoir l'utiliser en toute sécurité.
+
++ Procédures de Confinement Spéciales originelles [Archivées suite à l'évènement du ██/██/2017]
+
+- Attention ! Ces procédures de confinement sont obsolètes.
+
+Procédures de Confinement Spéciales : SCP-327-FR peut être utilisé en plus du système de vidéo surveillance de base de la Fondation. Afin d'observer d'éventuels changements de comportement de l'objet SCP, une caméra de surveillance non-anormale doit être ajoutée à côté de chaque caméra de SCP-327-FR selon une orientation similaire de manière à pouvoir comparer les images enregistrées par SCP-327-FR avec celles d'un système de vidéo surveillance ordinaire en permanence.
+
+
+
+Description : SCP-327-FR est un système de vidéosurveillance comprenant 20 caméras ainsi que 5 postes de visionnage connectés à ces dernières. Le système était à l'origine utilisé dans le parking de 5 étages (4 caméras par étage) d'un centre commercial avant d'être récupéré par la Fondation.
+Sur les 20 retransmissions vidéo, 9 montrent les images filmées par les caméras correspondantes en temps réel et 5 ont un retard variable d'une caméra à une autre allant de 2 secondes à 1 minutes et 20 secondes. L'anomalie se manifeste au niveau de la retransmission vidéo des 6 caméras restantes. En effet, les images sont affichées sur les postes de visionnage avant même que les caméras correspondantes n'aient pu les capter. Les caméras concernées par l'anomalie ont été désignées comme SCP-327-FR-A à -F. Ci-après la liste des caméras et du décalage correspondant :
+
+
+Caméra
+Temps d'avance
+
+
+SCP-327-FR-A
+5 secondes
+
+
+SCP-327-FR-B
+17 secondes
+
+
+SCP-327-FR-C
+29 secondes
+
+
+SCP-327-FR-D
+42 secondes
+
+
+SCP-327-FR-E
+55 secondes
+
+
+SCP-327-FR-F
+1 minute et 9 secondes
+
+
+Des tests menés au Site-Aleph montrent que si les caméras de SCP-327-FR sont remplacées par des caméras ordinaires ou que les postes auxquels elles sont reliées sont remplacés par des postes ordinaires, les images retransmises seront toutes en temps réel, comme pour un système de vidéosurveillance classique. Remplacer une pièce du circuit électrique par une pièce identique engendre le même résultat. En revanche, si la pièce remplacée n'est pas liée au circuit électrique, l'effet anormal de SCP-327-FR persiste. Ce résultat suggère que l'anomalie provient de l'ensemble du circuit électrique, bien que ce dernier ne semble pas présenter de différence avec celui d'un système de vidéosurveillance classique.
+D'autres tests ont aussi permis de déterminer que les évènements imminents annoncés par les retransmissions sont inévitables, les caméras auxiliaires filmant exactement les mêmes images avec un angle légèrement différent quels que soient les moyens mis en œuvre pour empêcher ce qui a été annoncé de se produire. Certaines tentatives visant à détourner des évènements prévus par SCP-327-FR ont mené à des phénomènes semblables à des dissociations de la réalité dans l'espace. L'hypothèse selon laquelle les caméras pourraient affecter la réalité dans leur champ de vision est envisagée, mais n'est pour l'instant pas confirmée. Il a aussi été observé hors des phases de tests que SCP-327-FR est capable de créer des paradoxes temporels, par exemple en provoquant un événement qui est sa propre origine (Voir Addendum-327-FR-2).
+
+Rapport d'interview du 16/07/2016
+
+Interviewé : M. ██████
+Interviewer : Dr Sofalys
+Avant-propos : Une annonce de vente pour des "caméras prévoyantes" mise en ligne par M. ██████ attira l'attention de la Fondation le 14/07/2016. Un rendez-vous fut fixé avec M. ██████ via un faux profil d'acheteur potentiel. Une fois sur place, celui-ci fut emmené, avec SCP-327-FR, au site le plus proche par la FIM Delta-0 ("Les Hommes en Noir") se faisant passer pour des agents de police.
+<Début de l'interview>
+Dr Sofalys : Nous avons quelques questions à vous poser, ensuite vous pourrez partir. En revanche, nous gardons les caméras.
+M. ██████ : Vous n'avez pas mon accord pour me les prendre, c'est du vol !
+Dr Sofalys : D'où provient l'objet, je vous prie ?
+M. ██████ : Je suis responsable de parking au centre commercial de ███████. C'est le système de vidéoprotection du parking où je travaille.
+Dr Sofalys : Vous avez donc mis en vente un bien de l'État — qui ne vous appartient pas. Vous comprendrez, j'espère, que vous êtes mal placé pour parler de vol. D'autant plus que nous faisons partie de l'État, cet objet nous appartient déjà. Cela étant dit, comment avez-vous découvert le potentiel de ces caméras ?
+M. ██████ : (soupire) Bah… L'autre soir, le parking était fermé et j'allais rentrer chez moi. Puis j'ai vu un homme de dos portant la même tenue de service que moi à travers un poste vidéo. Forcément, vu qu'il ne devait plus y avoir personne et que je travaille seul, je suis allé voir. Il n'y avait pas un chat.
+Dr Sofalys : Avez-vous une idée de qui il s'agissait ?
+M. ██████ : Quand je suis retourné à mon local, je me suis vu de face dans le retour vidéo d'un autre poste. Je faisais la même chose que le gars dans la vidéo d'avant. J'ai mis du temps avant de comprendre, mais c'était moi, le gars. Dieu sait comment, cette caméra savait que j'allais me pointer pour vérifier s'il y avait quelqu'un.
+Dr Sofalys : D'autres personnes que vous ont-elles vu cela ?
+M. ██████ : Non, je l'ai gardé pour moi. Un truc comme ça, il y avait moyen de le revendre cher, je voulais pas me le faire vol… ouais bon c'était déjà du vol selon vous. J'avais pensé à déposer un brevet là-dessus aussi, mais j'aurais pas su expliquer comment ce truc marche. Donc j'ai essayé de me faire discret pour qu'un type plus calé que moi là-dedans ne le fasse pas à ma place.
+Dr Sofalys : Vous confirmez donc qu'à part vous et les potentiels lecteurs de votre annonce, personne ne sait que vous possédiez un tel appareil.
+M. ██████ : Ouais, de toute façon j'habite seul et je vois pas grand-monde tous les jours.
+Dr Sofalys : Bien, alors nous en avons fini, on vous raccompagnera. Merci pour votre coopération.
+<Fin de l'interview>
+M. ██████ a été ramené chez lui et des amnésiques de Classe C lui ont été administrés. L'annonce a été supprimée sous prétexte qu'il s'agissait d'un canular.
+
+
+Addendum-327-FR-1 :
+Pour plus d'informations, veuillez vous référer au Journal d'Expérience 327-FR.
+
+Addendum-327-FR-2 :
+
++ Transcription de l'enregistrement audio de l'évènement du ██/██/2017
+
+- Fermer le document
+
+
+Date de l'évènement : ██/██/2017
+Description : Un enregistrement audio a été retrouvé dans le bureau du Dr Haynes où ce dernier est décédé suite à une attaque de SCP-096. Avant l'attaque, il a diffusé une annonce vocale demandant au personnel du site de fermer les yeux.
+<Début de l'enregistrement>
+Dr Haynes : Je suis le Dr Haynes. Le personnel du Site a été averti que… (Inspiration) …que j'ai vu le visage de 96 dans ces caméras qui voient le futur. Il va donc sortir de sa cellule d'une seconde à l'autre… (Respiration plus forte et plus rapide) Merde… (Sanglots) Ne regardez surtout pas les bandes vidéo de SCP-327-FR ! Vous devez les détruire ! Y a le visage de 96 dessus. Sur la bande il…
+<L'alarme signalant une brèche de confinement retentit. Les hurlements de SCP-096 se rapprochant sont entendus.>
+Dr Haynes : (implorant) Non, non, NON ! C'est pas vrai ! Pitié seigneur !
+[SUPPRIMÉ]
+<Fin de l'enregistrement>
+Résultat d'enquête : D'après les éléments recueillis, l'hypothèse la plus probable est que le Dr Haynes regardait la retransmission vidéo de SCP-327-FR-F et a vu SCP-096 sortir de sa cellule de confinement une minute avant que l'événement ait réellement lieu. Ayant vu le visage de SCP-096, il en aurait donc été la cible, provoquant ladite brèche, qu'il avait pu voir sur la retransmission vidéo. Grâce à l'annonce diffusée à l'ensemble du personnel du Site, le Dr Haynes fut la seule victime.
+(Note : Suite à cet incident, SCP-327-FR a été ramené au Site-Aleph et ses procédures de confinement ont été révisées.)
+
+
+
+
+
+
+« SCP-326-FR | SCP-327-FR | SCP-328-FR »
+
+
+
+                    

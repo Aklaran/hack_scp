@@ -1,0 +1,83 @@
+
+                        
+
+rating: +6+–x
+
+
+SCP-646-JP at time of recovery.
+
+
+Item #: SCP-646-JP
+Object Class: Keter Neutralized
+Special Containment Procedures: SCP-646-JP is currently stored in a high-risk object storage at Site-81██. Assigned personnel are to perform regular reviews on its anomalous properties.
+Description: SCP-646-JP is a 19██ digital public telephone operated by ██████ Corporation. There is no visual or structural difference between SCP-646-JP and normal phones of the same model. SCP-646-JP can be used normally for calling. There is a note on the internal wall of the phone booth containing SCP-646-JP. The note contains a message "If you want a change, please call me" in Japanese and an 11-digit telephone number1.
+When the telephone number is dialed on SCP-646-JP, a particular individual, who is designated as SCP-646-JP-A, will answer.2 Subjects calling SCP-646-JP-A report that its voice is male. Only the subject taking up the receiver can catch the voice, and any other persons recognize it as a monotonous noise. SCP-646-JP-A speaks only Japanese in these calls, ignoring any speeches in non-Japanese languages and attempts at conversation with SCP-646-JP-A.
+When a call begins, SCP-646-JP-A asks the subject what he or she wants to change. If the subject requests to change "an object/matter (A)" into "another object/matter (B)," after a few seconds to several minutes silence, SCP-646-JP-A answers, "I can't change it" or "Okay" and ends the call. If the response is the former, SCP-646-JP's anomalous effects will not manifest. On the other hand, if the response is the latter, a reality shift changing "A" into "B" will occur just after the end of the call. No person other than the subject will realize this change or feel something strange. Fluctuation of Hume level has not been detected around the altered objects or matters, which can be attributed to the reality-bending process detailed later.
+After the anomalous event, any investigation into the target of the alteration shows that an unknown male (designated as SCP-646-JP-B) was involved in the target. It is also revealed that all of the things were changed and redefined into the current state by SCP-646-JP-B's actions at that time. From the above reasons, it is believed that the SCP-646-JP's reality-bending event occurs as a result of SCP-646-JP-B's retrocausal effects. Testimonies by witnesses and video footage taken of SCP-646-JP-B directly show that the entity appears to be a Japanese man aged roughly thirties in a suit. Some personnel hypothesize that SCP-646-JP-A and SCP-646-JP-B are the identical entity.
+On 09/21/20██, SCP-646-JP was discovered in and recovered from the region of ██, ███ City, ██ Prefecture, Japan. Records show that it was installed there on 07/06/19██. However, given the fact that the anomalous characteristics and the poster in the booth did not exist at that time, it is assumed that SCP-646-JP recently gained its anomalous properties. When recovered, SCP-646-JP was considered an object that causes reality-shifts classified as Type Objects/Events Reconstruction. Results of Test Log 646-JP-8, however, uncovered potential risks, and SCP-646-JP has been classified as the current object class. After the Incident 646-JP, it has been reclassified as Neutralized.
+Addendum: The following are extracts from SCP-646-JP Test Logs.
+
++ Test Logs (excerpts)
+
+- Test Logs (excerpts)
+
+Test Log 646-JP-1 - Date ██/██/20██
+
+Subject: ██ ███3
+Test Description: An anomalous phenomenon occurring outside of containment. ██ ███ answered that he wanted to be a man who will not be bullied.
+Test Results: After the silence of a few minutes, SCP-646-JP-A answered "Okay." With the end of the call, ██ ███ found multiple scars that he had not known and unusual changes on his body. In addition, the boy noticed the emergence of the background of winning the local karate competition and many acquaintances claiming that they watched it.
+Research for the past: The boy's mother stated that he won the tournament thanks to coaching by an enthusiastic "karate instructor4." When asked about this statement and the "instructor", he insisted that he had no knowledge of them. Although the mother claimed that the "instructor" is a man aged about 30 years and living in the neighborhood, further investigation failed to discover the person.
+Analysis: This is the first reality-bending event by SCP-646-JP in records. It seems that this anomaly can modify not only human bodies but also cognition and history. SCP-646-JP might be able to materialize an unreal individual to remove contradiction arisen from its alteration.
+
+Test Log 646-JP-4 - Date ██/██/20██
+
+Subject: D-8164601
+Test Description: Subject was instructed to ask to change his sex into female.
+Test Results: After the silence of a few minutes, SCP-646-JP-A answered, "I can't change it" and ended the call. No reality alteration was detected.
+Research for the past: Due to absence of observable alterations, the investigation has not been conducted.
+Analysis: As can be seen from the Test Log 646-JP-1, SCP-646-JP should be able to modify a human body. Are there any restrictions and limits to what SCP-646-JP can alter? We must further investigate the range of its capability.
+
+Test Log 646-JP-5 - Date ██/██/20██
+
+Subject: D-8164601
+Test Description: Subject was instructed to ask to change D-8164602 into a corpse.
+Test Results: SCP-646-JP-A immediately answered, "I can't change it”, and hanged up the call. D-8164602 was alive even after the test. As with the above, reality-bending effects were not confirmed.
+Research for the past: Due to absence of observable alterations, the investigation has not been conducted.
+Analysis: SCP-646-JP-A refused like the former test, but the silence period was significantly different. SCP-646-JP-A might decide whether or not to accept the request based on some kind of its principle and thought.
+
+Test Log 646-JP-8 - Date ██/██/20██
+
+Subject: D-8164601
+Test Description: Subject was instructed to ask to change the color of the clothes of Dr. ██, who was assigned to this experiment.
+Test Results: After the silence of a few seconds, SCP-646-JP-A answered "Okay." Just after the end of the call, D-8164601 noticed and reported that Dr. ██'s white coat had turned into a black shirt. Dr. ██ was not aware of the change, and testified that he wore the shirt just because he somehow could not find his white coats. Other personnel who participated in the testing also claimed that Dr. ██ had worn the black shirt from the beginning of the test.
+Research for the past: Video footage in the site shows that an unknown man5 sneaked into the room of Dr. ██ and subsequently came out with some white coats under his arm. Although intrusion alarms were activated, the man was not captured.
+Analysis: Considering from the video record, the unknown man's actions in the past would result in a change or redefinition of clothes which Dr.██ wears presently. If so, it is reasonable that Hume level was not observed to fluctuate. However, why does the man grant trivial requests regardless of such trouble?
+
+After the research for the past at the test log 646-JP-8, given the existence of SCP-646-JP-B, SCP-646-JP was classified from the temporal object class to Keter. At the same time, the special containment procedures were significantly revised, and the capture of SCP-646-JP-A and -B was designated as the highest priority for the SCP-646-JP research project.
+Seemingly, SCP-646-JP-A and -B appear to be just robot-like entities that don't affect the past without subjects' requests. However, we're unable to confirm whether this is correct or not. There is even a possibility that SCP-646-JP-B is capable of freely going to the past and participating in the events of the age. We mustn't let such anomalies loose. - Dr. ██
+Test Log 646-JP-██ - Date ██/██/20██
+
+Subject: D-8164601
+Test Description: The subject was instructed to ask to replace the burnt-out light bulb in Containment Room ██. The bulb was already burnt out and 10 guards who have knowledge about SCP-646-JP-B were stationed in the room. This test was performed as a part of SCP-646-JP capture project.
+Test Results: SCP-646-JP-A answered "Okay" instantly. After the end of the call, D-8164601 was instructed to check the room, reporting that the bulb became a new one. SCP-646-JP-B had not been apprehended.
+Research for the past: Camera footage in Containment Room ██ reveals that SCP-646-JP-B came into the room as the bulb burned out. SCP-646-JP-B entered the room, found the deployed guards and ran away immediately, then being chased by six of them. 270 seconds later, however, a sleeping gas grenade6 was thrown from the duct, incapacitating the four remaining guards. At the same time, SCP-646-JP-B with a gas mask entered the room from the duct, changing the light bulb and going back into the duct. The six guards kept chasing SCP-646-JP-B, but they lost track of it 190 seconds after starting the chase and failed at arresting it.
+Analysis: Capture of SCP-646-JP-B was unsuccessful. SCP-646-JP-B would use any means to realize subjects' wishes. We must make the next attempt after taking data from this test into full account.
+
+
+
+
+Incident 646-JP: In the test carried out on ██/██/20██, D-8164601 defied prior instruction and instead asked SCP-646-JP-A to let him free. D-8164601 was restrained instantly, but it was impossible to confirm whether or not reality-altering effects occurred because the call with SCP-646-JP-A was interrupted by the riot. Since the appearance of D-8164601 did not change and D-8164601 memorized that he made a call to SCP-646-JP-A, it was temporarily assumed that SCP-646-JP-A had not accepted his answer.
+Afterward, testing was restarted with another D-class personnel. However, the personnel reported that when he entered the phone number on SCP-646-JP, it was not connected to SCP-646-JP-A and played a recorded message saying that the number was not in service. By further verification tests ███ times, anomalous properties of SCP-646-JP were considered to disappear completely, and reclassification was carried out.
+Appendix: After the incident on ██/██/20██, given the probability that the memory and personality of D-8164601 had been replaced with those of others, detailed investigation was carried out into his history. At that time, D-8164601 reported that his criminal record and history included an extra murder that he did not know. The written statements on the murder say that during D-8164601's first robbery, an unknown man in a suit suddenly entered the house, struggled with the robber, and was killed by him with a knife. In addition, the testimony of the robbery victim shows that the suited man attempted to stop him using various words: "Stop it," "Think again," "It's not too late," etc.
+The murdered man had been regarded as an unknown person and disposed as an unidentified decedent by the local government on 08/24/19██. Currently, the research on the relation between the male and SCP-646-JP is ongoing. As part of identifying the man, excavation of his body is under consideration.
+
+Footnotes
+1. Investigation confirms that the number does not match any existing identification numbers of telephone companies or carriers, and has never been in service according to records.
+2. When the number is dialed on another telephone, the phone will not be connected to SCP-646-JP-A and just normally emit a recorded message saying that the number is not in service.
+3. A local juvenile. His reporting to the police led to the discovery of SCP-646-JP.
+4. Later experimentation proved that the man regarded as a "karate instructor" was SCP-646-JP-B.
+5. From the results of later experiments, the man was newly designated as SCP-646-JP-B.
+6. Analysis of its residue reveals that the grenade was a 20██ model manufactured by ████ Company.
+
+
+                    

@@ -1,0 +1,74 @@
+
+                        
+
+
+
+
+Puntuación: +36+–x
+
+
+Espectrograma de audio captado en D-78816, 61 horas después de iniciada la segunda etapa de la infección de SCP-ES-002.
+
+
+Ítem: SCP-ES-002
+Clasificación de Objeto: Keter
+Procedimientos Especiales de Contención: Todos los ejemplares de SCP-ES-002 deben estar almacenados en una cámara de 5m x 5m x 5m, rodeada a su vez de una bóveda sellada al vacío. La entrada a la cámara de SCP-ES-002 está controlada con una esclusa recubierta con plomo para asegurar un aislamiento de sonido absoluto, seguido de dos capas de aislantes acústicos especializados para el rango de frecuencias de SCP-ES-002.
+Con el fin de preservar a SCP-ES-002, se emitirán veinte (20) minutos de música seleccionada cuidadosamente para este propósito, cuyo tempo no sea mayor a andante (máx. 108 BPM) y a no más de 60 dB, cada seis (6) horas, a través de un sistema periférico autónomo, programado para tal fin. Además, su actividad será registrada mediante dos (2) sistemas de ecolocalización conectados de forma inalámbrica al Laboratorio de Imaginería Acústica del Sitio-127, ambos operando con baterías betavoltaicas de tritio, con una duración aproximada de veinte (20) años. En caso de falla en los componentes electrónicos de la cámara, los técnicos de mantenimiento deberán ingresar a través de la esclusa, equipados con cascos aislantes, y no deben permanecer más de una (1) hora en su interior.
+En caso de brechas en la contención, se emitirá una alerta a todo el Sitio-127 y se desplegará al Equipo de Respuesta Rápida 002-D ("El Silencio Otorga"), encargándose de ejecutar el Protocolo Stille-K8, el cual consiste en neutralizar a todo ejemplar de SCP-ES-002 utilizando armamento sónico ajustado a las frecuencias captadas de cada ejemplar. Todo el personal afectado por SCP-ES-002 debe ser llevado a una cámara anecoica anti-002 con el fin de evitar su propagación.
+Se deben realizar búsquedas exhaustivas en todas las áreas que manifiesten el efecto de [ELIMINADO] en el exterior (Véase Apéndice 002-4), neutralizando a todos los ejemplares de SCP-ES-002. Todos los civiles afectados por SCP-ES-002 deberán someterse al Procedimiento Strepitus-Umbra lo antes posible.
+Descripción: SCP-ES-002 es una forma de vida observada como meramente acústica. Posee un nivel moderado de consciencia, y ha sido tentativamente clasificada como Rivulis tremulae. SCP-ES-002 se conforma principalmente de ondas que oscilan en frecuencias entre 14 y 18 kHz, las cuales pueden ser captadas por cualquier organismo provisto de oídos capaces de escuchar en este rango, o por equipos electrónicos. Cualquier acción realizada por SCP-ES-002 generará un pitido agudo de diente de sierra, generalmente durante su movimiento. SCP-ES-002 parece existir como una onda sonora aislada, presentando varias de las características físicas de ondas acústicas comunes.
+SCP-ES-002 es capaz de "alimentarse" cuando está expuesto a otras ondas sonoras de menor frecuencia, teniendo cierta predilección por las ondas polifónicas. SCP-ES-002 parece nutrirse más apropiadamente cuando es expuesto a música lenta o ambiental, y no es recomendable su exposición a música intensa (véase Apéndice 002-2). En ocasiones, es posible oír a SCP-ES-002 "excretar", percibido como "trozos" de sonido completamente atonales. Cuando se alimenta, el sonido parece disminuir su sonoridad, haciéndolo apenas audible.
+Durante sus movimientos, SCP-ES-002 emite una sucesión de pulsos entre 14 y 18 kHz, cuya sonoridad dependerá ampliamente de la cantidad de sonido que haya "consumido" previamente. Los escáneres de ecolocalización muestran que SCP-ES-002 es capaz de desplazarse en cualquier dirección dentro del espacio tridimensional, y siempre a una velocidad constante, medida en 1,2 m/s en un medio aéreo homogéneo (78,7% N, 20,2% O, 1,1% H). La mayor particularidad de SCP-ES-002 es que es capaz de utilizar cualquier elemento que permita la propagación de ondas, pudiendo atravesar materiales sólidos a mayor velocidad, translocalizarse usando periféricos de entrada/salida, e incluso utilizar dispositivos amplificadores de sonido con el fin de desplazarse más rápido. Los efectos de reverberación también han mostrado una eficacia elevada en el alcance de SCP-ES-002.
+Apéndice 002-1: SCP-ES-002 posee un comportamiento bastante inusual cuando es oído por organismos que posean un sistema auditivo funcional y en condiciones de captar frecuencias hasta los 18 kHz, haciéndolo más fácil de identificar en sujetos humanos de entre 0 y 15 años de edad. Cuando uno de los pulsos es oído, SCP-ES-002 se desplazará inmediatamente en dirección al oído del organismo (referido como "huésped"), iniciando la primera fase de infestación. El mecanismo por el cual SCP-ES-002 puede identificar que ha sido oído aún es motivo de investigación.
+SCP-ES-002 comenzará a moverse dentro del cuerpo, comenzando por el tejido coclear, y luego recorriendo los órganos y sistemas del cuerpo, sin salir de la capa hipodérmica de la piel, ni por orificios naturales o artificiales. Los sujetos humanos afectados indican que en esta etapa de la infestación suelen escuchar un pitido agudo y ensordecedor, que suele interferir entre los demás sonidos audibles. Luego de aproximadamente veinticuatro (24) horas, este sonido cesa y SCP-ES-002 comienza la segunda fase de infestación. Se desconocen los criterios de SCP-ES-002 para escoger a su huésped, no estando esto asociado con la distancia o la capacidad auditiva del sujeto. Si bien el huésped suele ser único en cada exposición, se han dado casos en donde varios sujetos han sido afectados por un mismo ejemplar de SCP-ES-002 con una probabilidad moderada. Véase Apéndice 002-3 para más información.
+Una vez dentro del organismo, SCP-ES-002 continúa desplazándose dentro del cuerpo, pero bajando su frecuencia paulatinamente, la cual ha sido definida experimentalmente por una relación funcional casi logarítmica según equipamiento médico especializado. A continuación, se muestra la sintomatología de la infestación de SCP-ES-002 en humanos (la frecuencia de la tabla es la recibida por equipamiento de audio especializado, la frecuencia real emitida por SCP-ES-002 es imposible de determinar hasta ahora):
+
+
+Horas
+Frecuencia Captada
+Síntomas
+
+
+1-5
+~7200 Hz
+Disminución hasta el cese del pitido oído durante la primera fase de la infestación de SCP-ES-002. El sujeto comienza a sentir una leve desorientación y mareos. Ocasionalmente, han habido casos de pérdida de la concentración y espasmos.
+
+
+6-11
+~2800 Hz
+Aumento leve de la presión sanguínea, acompañada de dolores de cabeza persistentes, pérdida del equilibrio y un control disminuido de las extremidades. Se han reportado vómitos en esta etapa.
+
+
+12-18
+~840 Hz
+Vómitos generalizados, así como un mayor aumento de la presión. Los sujetos son incapaces de caminar distancias cortas sin tropezar o caer, además de sufrir perturbaciones en la audición. En uno de cada cinco casos se ha informado de cierto desenfoque visual.
+
+
+19-36
+~210 Hz
+Espasmos generales en el cuerpo, dificultad para respirar y hemorragias leves. En esta fase es normal observar un sinnúmero de síntomas, como sudoración fría, escalofríos, alucinaciones intrapsíquicas, expectoraciones, fracturas en huesos largos y, en casos puntuales, un total descontrol de la actividad intestinal, generando patrones de excreción completamente anormales.
+
+
+37-108
+~40 Hz
+Hemorragias generalizadas a través de todos los orificios del cuerpo, acompañados frecuentemente de esputos sanguinolentos, espasmos violentos y aumento de la agresividad. En el 86% de los sujetos afectados se aprecian casos de xenoglosia consciente, normalmente asociadas a lenguas bantúes, y en dos casos, lenguas tonales. Esta es la fase más peligrosa de la infección de SCP-ES-002.
+
+
+109+
+~6 Hz
+A partir de este momento, y en caso que el huésped no pueda ser intervenido, la xenoglosia cesará, y comenzará un proceso de contracciones musculares que aumentará exponencialmente en frecuencia. La muerte es asociada normalmente a desgarros capilares masivos, alteración del flujo sanguíneo y sobrecarga del músculo cardíaco, el cual puede reventar violentamente luego de tres (3) horas pasada esta fase. Las autopsias han determinado que al menos el 90% de los vasos sanguíneos han sido desgarrados o rotos producto de la acción de SCP-ES-002.
+
+
+Durante la xenoglosia, los huéspedes de SCP-ES-002 hablarán ininterrumpidamente, en general encadenando palabras relativamente coherentes, con una pronunciación casi exacta. Sus cuerdas vocales parecen distenderse y contraerse anormalmente, y pueden emitir pitidos entre 14 y 18 kHz en momentos aleatorios. Cuando esto sucede, nuevos ejemplares de SCP-ES-002 están emergiendo del cuerpo huésped, y pueden infectar a cualquier organismo que pueda percibirlos. Se desconoce el método de reproducción empleado por SCP-ES-002 durante esta etapa; los análisis han arrojado resultados poco esclarecedores.
+Apéndice 002-2: Durante una brecha de contención el día 25 de octubre del 200█, varios ejemplares de SCP-ES-002 se desperdigaron por el Sitio-127 a través de las cañerías de cobre, generando un eco metálico audible a varios metros de distancia. Al salir, uno de ellos fue oído por el Investigador T██████, quien además, escuchaba música a 210 BPM en un dispositivo de reproducción de audio portátil. SCP-ES-002 reaccionó erráticamente ante este impulso acústico y al ingresar al oído de T██████ provocó [ELIMINADO], iniciando inmediatamente la fase de xenoglosia.
+Durante los siguientes diez (10) minutos, T██████ gritaba dolorosamente en una lengua similar al xhosa, mientras emitía tres (3) pulsos de 15,4 kHz por segundo. Al cabo de cuatro (4) minutos, varias de sus arterias importantes explotaron, agravando la hemorragia, posteriormente [DATOS EXPURGADOS] varios minutos después de morir. En el área, se encontraron trescientos sesenta y dos (362) ejemplares de SCP-ES-002 antes de iniciar el Protocolo Stille-K8 por el Equipo de Respuesta Rápida 002-D, el cual logró neutralizar a los ejemplares, con seis (6) bajas.
+Apéndice 002-3: En un experimento programado el 16 de julio del 201█ con el fin de estudiar las propiedades físicas de SCP-ES-002, un ejemplar fue depositado en una cámara insonorizada con sistemas de ecolocalización integrados, y tres sujetos de prueba, separados por una pared antirruido. Se condujo a SCP-ES-002 a través de un sistema de amplificación de sonido conectado a un sistema Home Theater de 5.1 canales. El pulso emitido por SCP-ES-002 alcanzó los 104 dB, provocando que dos de los sujetos de prueba se infectaran al unísono. El tercer sujeto fue afectado al cabo de quince (15) minutos, pese a que ningún pulso entre 14 y 18 kHz fue captado por el equipo de ecolocalización.
+El Protocolo Stille-K8 no fue suficiente para evitar la proliferación de ejemplares de SCP-ES-002, quienes eventualmente rompieron la contención. Los sujetos afectados fueron enviados a cámaras anecoicas anti-002 para neutralizar la amenaza, mostrando los efectos psicológicos de aislamiento acústico a los cuarenta (40) minutos de exposición. Sólo uno de los sujetos terminó el procedimiento vivo, y está ahora bajo observación médica debido a las secuelas.
+Apéndice 002-4: Los ejemplares de SCP-ES-002 aún en estado salvaje han sido incesantemente buscados por el Equipo 002-D. Se estima que aún deben haber unos cincuenta (50), con seis (6) neutralizaciones exitosas a la fecha. Los estudios afirman que es posible discernir la proximidad de SCP-ES-002 en un área determinada: cuando SCP-ES-002 se desplaza sobre los 3000 msnm, es capaz de [ELIMINADO] consigo mismo, aumentando considerablemente su velocidad, así como su infectividad. En tierra, este efecto acústico es percibido como un sonido fuerte de baja frecuencia, similar al emitido por una trompeta o instrumento de viento similar.
+
+
+« SCP-ES-001 | SCP-ES-002 | SCP-ES-003 »
+
+
+
+                    

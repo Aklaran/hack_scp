@@ -1,0 +1,42 @@
+
+                        
+
+rating: +4+–x
+
+
+SCP-008-FR out of its containment box.
+
+
+Item #: SCP-008-FR
+Threat Level: Yellow ●
+Object Class: Safe
+Special Containment Procedures: SCP-008-FR is to be kept inside an aquarium with water kept at five (5) degrees Celsius by a refrigeration system, in a one (1) cubic meter glass container, submerged in water. That container is to be kept inside the vault n°39235 of Site-64's Reliquary Storage Area. The fire sprinkler system of the area must be checked monthly.
+Any testing involving SCP-008-FR must be performed in a completely fireproof environment. Any access to SCP-008-FR must be approved and supervised by staff with Level 3 security clearance or higher.
+Any personnel in charge of tests involving SCP-008-FR must be checked for pyromania once every three months.
+Description: SCP-008-FR is a tube carved from a bamboo, measuring seven (7) centimeters in diameter and thirty-five (35) centimeters in length, hollowed out in order to be used as a container and sealed at both ends. Traces of abrasion have been found on the inside, and suggest the use of a silex blade. Some geometrical decorations made with a wood burning tool can be seen on the surface of the object. The wood used to make SCP-008-FR was dated back to the 17th century.
+SCP-008-FR contains approximately one (1) liter of black wax. Analysis has revealed that the wax is composed of :
+
+65% of common bee wax (Apis mellifera) from the Mediterranean region,
+14% of paraffine wax,
+11% of jojoba wax (Simmondsia chinensis),
+7% of Japanese sumac wax (Rhus verniciflua),
+3% of human earwax.
+
+For an unknown reason, the wax contained inside of SCP-008-FR is in a constant liquid state, with a temperature of approximately sixty-five (65) degrees Celsius, independent of the ambient temperature. Whenever the wax contained inside of SCP-008-FR is poured on a surface or into a different container, it coagulates into an entity referred to as SCP-008-FR-01 and its other properties activate.
+
+
+SCP-008-FR-01 after complete coagulation.
+
+
+SCP-008-FR-01 is an entity of liquid wax, visually similar to a big alpine salamander (Salamandra atra). The size of SCP-008-FR-01 varies between seventeen (17) and twenty-five (25) centimeters in length. Whenever SCP-008-FR-01 moves, the entity disperses small droplets of wax around it ; these droplets seem to have some form of autonomy, and try to move towards SCP-008-FR-01 in order to be reintegrated to its main body.
+Whenever a mammal bigger than SCP-008-FR-01 moves within twenty (20) meters of SCP-008-FR-01, SCP-008-FR-01 will moves towards it with the intent of "fusing" with one of its limbs.
+In order to do so, SCP-008-FR-01 will try to reach one of the subject’s limbs by running or jumping towards it, before raising its own core temperature through an unknown process until reaching a boiling point (during initial testing, a temperature of one hundred and eighteen (118) degrees Celsius was measured). SCP-008-FR-01 then loses its salamander shape and covers the afflicted limb with a thick coat of boiling wax. As soon as the upper epidermis of the subject in contact with SCP-008-FR-01 has been burned or melted, SCP-008-FR-01 acquires an approximate control over the movements made by the limb afflicted by this "fusion" process, and tries to force the subject to come closer to an open flame or, in the case of a human subject, to make them start a fire in order to burn the entire subject. SCP-008-FR-01 will only voluntarily leave the subject once the fire is completely out; SCP-008-FR-01 will then try to go back to SCP-008-FR in order to become inactive again.
+It is theorized that SCP-008-FR-01 tries to trigger the phenomenon named "wick effect" on the subjects in order to "eat" a part of the melted animal fat feeding the fire. This theory was created after noticing that SCP-008-FR-01 leaves an oily track on the ground when trying to go back to SCP-008-FR after detaching itself from a burnt subject.
+Considering SCP-008-FR-01 is made of wax, which is hydrophobic, the entity tries to avoid contact with any and all sources of water. The simplest solution to detach SCP-008-FR-01 from a subject in mid-fusion process is to submerge the afflicted limb in water or to pour large quantities of it on said limb.
+Addenda 008-FR-A: SCP-008-FR was initially discovered during an investigation on a series of incidents commonly called "spontaneous combustion", in the city of ████, ██████, between ██/██/20██ and ██/██/20██ in an apartment building located at number ██, ██████ ████ Street. Several individuals were each found inside their own apartment, almost entirely burned, with almost no trace of a fire in the rest of the room. The main suspect was ██████ ███████, an arsonist purging a five (5) years prison sentence at home under house arrest with an electronic bracelet; however, no tangible proof could link him to all these different fires, since he couldn’t leave his apartment.
+The investigation was brought to the attention of some undercover Foundation Agents working with the local police. They resumed the investigation and searched the apartment of ██████ ███████ on ██/██/20██.
+The Agents found ██████ ███████ lying on the floor of his kitchen, wearing wet clothes. His right arm was partly covered in a substance similar to boiling black wax, from his elbow to the ends of three (3) of his fingers. The wax-covered hand was moving convulsively - even though ██████ ███████ was physically dead – and was trying to open a cupboard under the sink. Some deep and apparently self-inflicted wounds were visible on the wax-free part of the arm as well as the shoulder. An intervention team was called.
+There is evidence that ██████ ███████ was in possession of SCP-008-FR and was fully aware of its abnormal qualities, including some aspects of the behavior of SCP-008-FR-01 in its active state. According to the notes found in his apartment, he was using SCP-008-FR to start fires in his neighbors' homes – and prevented himself from being a target by covering himself in water before releasing SCP-008-FR-1.
+It is presumed that ██████ ███████ didn’t use enough water the day the Foundation Agents found him, since SCP-008-FR-01 managed to fuse with his right arm. ██████ ███████ panicked due to the intense pain and tried to amputate the afflicted limb with anything he could find. His death was caused by the considerable blood loss added to the shock caused by fusing with SCP-008-FR-01. According to the traces found in the apartment, the entity apparently managed to drag the whole body of ██████ ███████, just with the force of his own right hand, across twelve (12) meters of floor. A lighter was found in the cupboard SCP-008-FR-01 was trying to open.
+
+                    

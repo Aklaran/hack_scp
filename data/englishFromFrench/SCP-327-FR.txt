@@ -1,0 +1,111 @@
+
+                        
+
+rating: +5+–x
+
+
+SCP-327-FR-A to -F set up for testing purposes.
+
+
+Item #: SCP-327-FR
+Threat Level: Yellow ●
+Object Class: Safe Euclid
+Special Containment Procedures: SCP-327-FR is to be kept turned off at Site-Aleph. The SCP object's activation must be approved by at least one level-4 staff member and is permitted only for testing purposes. During testing, only D-Class personnel are allowed to look at SCP-327-FR screens and they have to continually describe what they are viewing. Research is currently in progress to understand SCP-327-FR better in order to be able to use it safely.
+
++ Initial Special Containment Procedures [Archived following the ██-██-2017 event]
+
+- Warning ! These containment procedures are obsolete.
+
+Special Containment Procedures: SCP-327-FR can be used along with the basic Foundation's video surveillance system. In order to notice potential behaviour changes of the SCP object, a normal surveillance camera is to be added next to each SCP-327-FR camera with a similar orientation to compare the recorded footage of SCP-327-FR with the ones caught by an ordinary video surveillance system at all time.
+
+
+
+Description: SCP-327-FR is a video surveillance system, including 20 cameras and 5 viewing posts connected to it. The system was originally used in the 5-floor car park (4 cameras per floor) of a shopping center before being retrieved by the Foundation.
+On the 20 video broadcasts, 9 show footage recorded by the respective cameras in real time, and 5 have a delay, varying from one camera to another between 2 seconds and 1 minute and 20 seconds. The anomaly is apparent in the video broadcast of the 6 remaining cameras. To this extent, footage from these cameras are displayed on the viewing posts before the cameras are able record them. Cameras affected by the anomaly are referred to as SCP-327-FR-A to -F. Below is the list of the affected cameras and their respective offset:
+
+
+Camera
+Time in advance
+
+
+SCP-327-FR-A
+5 seconds
+
+
+SCP-327-FR-B
+17 seconds
+
+
+SCP-327-FR-C
+29 seconds
+
+
+SCP-327-FR-D
+42 seconds
+
+
+SCP-327-FR-E
+55 seconds
+
+
+SCP-327-FR-F
+1 minute and 9 seconds
+
+
+Tests at Site-Aleph show that if SCP-327-FR cameras are replaced by ordinary cameras, or if the posts to which they are connected to are replaced by ordinary posts, all the relayed footage will be in real time, as for a regular video surveillance system. Replacing a piece of the electrical circuit by an identical piece lead to the same result. However, if the replaced piece is not linked to the electrical circuit, the abnormal effect of SCP-327-FR persists. This result suggests that the anomaly comes from the whole electrical circuit, though it does not seem to display any difference with the electrical circuit of a normal video surveillance system.
+Other tests have also shown that the upcoming events announced by the retransmissions are unavoidable, the secondary cameras shooting exactly the same footage with a slightly different angle regardless of the means implemented to prevent what has been announced from happening. Attempts to divert events predicted by SCP-327-FR lead to phenomena similar to reality dissociations in space. It is theorized that the cameras could affect the reality in their field of vision, but it is not yet confirmed. Outside of testing, it has also been observed that SCP-327-FR is able to generate temporal paradoxes, such as by causing an event that leads to its origin (See Addendum-327-FR-2).
+
+Interview log of 07-16-2016
+
+Interviewed: Mr ██████
+Interviewer: Dr. Sofalys
+Foreword: A sale ad for "farsighted cameras" put online by Mr ██████ called the attention of the Foundation on 07-14-2016. A meeting was established with Mr ██████ using a fake potential buyer profile. Once at the destination, he was taken, with SCP-327-FR, to the nearest site by MTF Delta-0 (“The Men in Black”), who were posing as police agents.
+<Begin transcript>
+Dr. Sofalys: We have some questions for you, then you'll be free. However, we keep the cameras.
+Mr ██████: You don't have my agreement to take it from me, it's theft!
+Dr. Sofalys: From where the objet comes from, please?
+Mr ██████: I'm the car park manager at the shopping center of ███████. It's the video protection system of the car park in which I work.
+Dr. Sofalys: So you put on sale property of the State — which doesn’t belong to you. You will understand, I hope, that you're not in a good position to talk about theft. In addition to this, we're part of the State, so this object already belongs to us. That being said, how did you discover the potential of these cameras?
+Mr ██████: (sigh) Well … The other night, the car park was closed and I was going to go home. Then I saw a guy, with the back turned to the camera, wearing the same service gear as me through one of the video post. Of course, since no one was supposed to be here anymore and I work alone, I went to see. There was not a soul out there.
+Dr. Sofalys: Do you have any idea of who that was?
+Mr ██████: When I came back to my local, I saw myself facing the camera in the video feedback of another post. I was doing the same thing that the guy in the previous video. It took me some time before I understood, but the guy, was me. Lord knows how, this camera knew that I was going to roll in to check if there were someone.
+Dr. Sofalys: Did other people besides you see that?
+Mr ██████: No, I kept it to myself. Something like that, there had to be a way to make a profit off of it, and I didn’t want it to be stol… well yeah, that was already theft according to you. I also thought to file a patent for it, but I would have been unable to explain how this stuff works. So I tried to be discreet so that someone else more knowledgeable than me would not do these things instead.
+Dr. Sofalys: So you do confirm that beside you and the potential readers of your ad, no one knows that you had such a device.
+Mr ██████: Yeah, I live alone and I don't see many people every day anyway.
+Dr. Sofalys: All right, in that case we're done, we will take you back to your home. Thank you for your cooperation.
+<End transcript>
+Mr ██████ has been sent back at his home and sedated with Class-C amnesics. The ad has been deleted on the pretext that it was a hoax.
+
+
+Addendum-327-FR-1:
+For more informations, refer to the Experiment Log 327-FR.
+
+Addendum-327-FR-2:
+
++ Audio recording's transcript of the ██-██-2017 event.
+
+- Close the document
+
+
+Date of the event: ██-██-2017
+Description: An audio recording has been found in Dr. Haynes' office where he died from an attack of SCP-096. Before the attack, he issued a vocal message asking the site staff to close their eyes.
+<Begin transcript>
+Dr. Haynes: I'm Dr. Haynes. The Site staff has been warned that… (Deep breath) …that I saw 96's face in these cameras that see the future. It will breach its confinement any second now… (Deeper and faster breath) Shit… (Tears) Don't look at the video tapes of SCP-327-FR ! You have to destroy them ! There's the face of 96 on it. On the tape there…
+<Containment breach alarm resonates. The screams of SCP-096 approaching are heard.>
+Dr. Haynes: (imploring) No, no, NO ! It can't be true ! Please, Lord !
+[REDACTED]
+<End transcript>
+Investigation result: In accordance with the collected elements, the most plausible assumption is that Dr. Haynes was looking at the video broadcast of SCP-327-FR-F and saw SCP-096 getting out of its containment cell approximately one minute before the event really happen. Having seen the face of SCP-096, he would have become its target, causing the breach he would have seen in the video broadcast. Thanks to the message issued to the whole Site staff, Dr. Haynes remained the only victim.
+(Note: Following this incident, SCP-327-FR has been sent back to the Site-Alpeh and its containment procedures have been updated.)
+
+
+
+
+
+
+« SCP-326-FR | SCP-327-FR | SCP-328-FR »
+
+
+
+                    

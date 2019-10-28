@@ -1,0 +1,48 @@
+
+                        
+
+rating: +12+–x
+
+
+SCP-018-DE
+
+
+Item #: SCP-018-DE
+Object Class: Euclid
+Special Containment Procedures: SCP-018-DE is to be stored in a Class 4 locker equipped with alarm systems. The locker is gas-tight and, as a precaution against unauthorized access, is flooded with the highly toxic and mask-breaking security-gas G/232SFD-E, which is removed in case of authorized access. Admission to SCP-018-DE requires approval by O4-4. The room is kept under surveillance using CCTV cameras lacking microphones, which are monitored by two independent, illiterate guards, incapable of lip-reading or any sign language. Guards are to remain unaware of the content and effect of SCP-018-DE. If they detect an unauthorized access attempt, they are to release G/232SFD-E into the room in which the locker is located. Unauthorized personnel in possession of SCP-018-DE are to be terminated instantly and without making any prior contact. SCP-018-DE may only be transported by a remote-controlled robot. Unauthorized use of SCP-018-DE is to be prevented by any and all means.
+Description: SCP-018-DE is a piece of paper which has been cut approximately to an A5 format using scissors. It is printed with text in German declaring that the owner of the Object "may do that"1. It contains no evidence as to either the creator or source of the object. The signature is indecipherable. The reverse side of the object is blank.
+If the individual in possession of SCP-018-DE is asked to justify themselves or is caught committing a crime and shows SCP-018-DE, all people within four meters become convinced that the possessor of SCP-018-DE was authorized to act as they did. This effect also manifests in people who become aware of SCP-018-DE's content within ten minutes, be it via radio, media or by being told so by other affected. This effect is permanent and only reversible by the administration of amnestics. Affected individuals will try to justify the act to those not affected, and even attempt to protect the culprit with their lives and by using deadly force. The urge to protect the possessor of SCP-018-DE rises with the degree of contempt by authorities, media and the general public for the subject.
+If SCP-018-DE is stolen or lost, the effect on all individuals affected by the possessor vanishes within 48 hours, and they become aware of the severity of the possessor's crimes, as well as their own. In the event that the former possessor regains possession of SCP-018-DE, it can be used again. If it is regained before 48 hours have elapsed, the effect persists among all individuals still affected. If SCP-018-DE is voluntarily relinquished to somebody else, the effect also persists. A person gaining possession of SCP-018-DE will promptly become aware of its primary effect and feel an urge to use it.
+Addendum-1: This is a list of crimes and security-breaches committed by multiple individuals with the help of SCP-018-DE:
+
+247 cases of theft of goods, each worth below 1,000€
+12 cases of theft of goods, each worth between 1,000€ and 100,000€
+2 cases of bank robbery, with captured goods worth ca. 4,000,000€
+7 cases of unauthorized accesses to the women's showers at a gym
+1 case of rape
+3 cases of murder of non-Foundation personnel
+4 cases of theft of anomalous objects in the possession of the Foundation in Germany
+The release of SCP-███-DE (neutralized)
+The theft of SCP-███-DE (regained)
+Leaking of 8 TB of data from the Foundations Database (neutralized)
+The murder of O4-█
+[DATA EXPUNGED]
+
+Addendum-2:
+
+On the grounds of the danger posed by 018-DE falling into the wrong hands, I propose the neutralization of the object. Seriously, it's just paper, that much is proven. It burns. I know: we secure, we contain, we protect. But this thing has cost us an O4 already. How many others will have to die? — Dr. Schwab
+
+
+What about using SCP-018-DE for our goals instead? The GOC, authorities, politicians and all the other nutjobs wouldn't pose a problem anymore. We would just need trustworthy people and a fail-safe emergency plan. — Dr. Brunnenberg
+
+
+Dr. Schwab's motion is hereby denied! The special containment procedures are sufficient. Just because it burns doesn't mean it's destructible. Just think of SCP-682, which gets stronger with every attempt to destroy it, and trust me, you as the project manager do not want something like that. That's why we only neutralize SCPs in the case of an extreme emergency. Before you ask, no, it will stay Euclid. Dr. Brunnenberg's proposal is currently not in contemplation, but we will keep it an open option. — O4-4
+
+
+Footnotes
+1. "G E N E H M I G U N G - Der Inhaber oder die Inhaberin dieses Dokuments darf das!"
+translates to:
+"P E R M I T - The owner [male] or the owner [female] of this document may do that!"
+
+
+                    

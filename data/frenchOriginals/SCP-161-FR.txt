@@ -1,0 +1,153 @@
+
+                        
+
+
+
+
+
+
+notation: +24+–x
+
+
+
+
+
+
+notation: +24+–x
+
+
+
+
+
+
+
+
+
+Crédits
+
+
+Titre : SCP-161-FR - Le Livre et la Bête
+Auteur : Zaap
+Date : 3 mars 2017
+Image : Informations manquantes
+
+
+
+
+
+
+
+
+
+notation: +24+–x
+
+notation: +24+–x
+
+
+
+
+
+Objet # : SCP-161-FR
+Niveau de Menace : Vert ●
+Classe : Euclide
+
+
+SCP-161-FR-2.
+
+
+Procédures de Confinement Spéciales : SCP-161-FR-1 doit être confiné dans une cellule d'une hauteur sous plafond d'au moins trois (3) mètres et équipée de détecteurs de pression sur le sol. SCP-161-FR-2 doit être confiné dans un coffre pour objets anormaux verrouillé. Trois stylos dont le bon fonctionnement doit être vérifié toutes les semaines doivent être conservés à proximité en toute circonstance. L'accès de la zone de confinement de SCP-161-FR-2 doit comporter un sas ainsi que des détecteurs de pression sur le sol. Aucun membre du personnel n'est autorisé à l'utiliser sans une accréditation de niveau 4 ou supérieure (sauf en cas d'évasion de SCP-161-FR-1, où l'accréditation nécessaire est de 3).
+En cas d'évasion de SCP-161-FR-1, un membre du personnel bénéficiant du niveau d'accréditation 3 ou supérieur doit se rendre dans la salle où est confiné SCP-161-FR-2. Après s'être assuré que SCP-161-FR-1 n'est pas rentré dans le sas, le membre du personnel doit prendre SCP-161-FR-2 et y écrire la phrase suivante : "SCP-161-FR-1 décide finalement de rentrer dans sa cellule et d'attendre qu'elle soit verrouillée." Une fois que les détecteurs de pression y détectent SCP-161-FR-1, la cellule de ce dernier doit être refermée.
+NOTE : SCP-161-FR-1 semble être doté d'un système sanguin. Celui-ci n'étant pas invisible, il est envisageable en dernier recours de le blesser afin de pouvoir le pister1.
+Description : SCP-161-FR désigne une entité et un objet distinct nommés SCP-161-FR-1 et SCP-161-FR-2, qui sont respectivement une créature et un livre.
+La taille de SCP-161-FR-1 est estimée entre deux (2) et trois (3) mètres de haut. Il n'est habituellement pas hostile envers l'homme, dans la mesure où aucun sujet n’interagit avec SCP-161-FR-2. Si quelqu’un utilise SCP-161-FR-2, une fois son effet accompli, SCP-161-FR-1 semblera mémoriser la personne du sujet (même sans contact visuel avec lui) et deviendra extrêmement agressif envers ce dernier pour une durée indéfinie. SCP-161-FR-1 est invisible pour l’œil humain, les caméras, les caméras thermiques, et tout autre type de détection à base d'ondes. Il semble pouvoir se déplacer à une vitesse de 45 km/h en ne produisant que peu de bruit, et semble disposer de griffes d'une longueur approximative de 6 cm selon les rapports médicaux-légaux. SCP-161-FR-1 ne semble posséder ni queue ni pelage.
+SCP-161-FR-2 est un livre de format 34 x 22 x 7 cm et possède une couverture en cuir brun et une reliure rouge ainsi qu'un total de ████ pages dont 49 arrachées. Les 48 premières pages comptent parmi celles arrachées. La page ███ a été arrachée par la Fondation dans un but expérimental. ████ pages sont encore vierges. Les autres pages contiennent des textes écrits par différents auteurs (ici appelés "sujets") où des ordres sont donnés à SCP-161-FR-1.
+À l'heure actuelle, 12 des 48 premières pages arrachées ont été retrouvées. Les 7 premières pages restent introuvables. Parmi les 12 pages retrouvées, seulement trois (3) présentent des informations d'intérêt concernant SCP-161-FR-1 - les pages 8, 9 et 13. Parmi ces trois (3) pages, deux (2) ont été brûlées à plus de 70 %. Le texte écrit sur ces trois pages est intégralement rédigé en arménien. Plusieurs éléments du texte font référence à la propagande anti-russe menée par les forces Britanniques dans les années 1890. Cela laisse supposer, compte tenu de la position de ces pages dans l'objet, que celui-ci a fait son apparition dans les années 1860-1870. SCP-161-FR-1 y est désigné sous le nom d'Amenaber.
+Lorsqu'un sujet écrit à l'intérieur de SCP-161-FR-2, SCP-161-FR-1 semble contraint d'effectuer les actions qui y sont décrites. Une action indiquant à SCP-161-FR-1 un changement de sa façon de penser n'aura aucun effet. Les actions sortant des capacités de SCP-161-FR-1 ne sont pas prises en compte par ce dernier. Lorsque personne n'écrit, un texte décrivant en temps réel les actions de SCP-161-FR-1 y apparaît dans la langue du dernier utilisateur, et avec le nom désignant l'entité employé par celui-ci. Les phrases sont alors simples, courtes et directes, et sont rédigées au présent. Il a été montré lors d'expériences que si un texte est écrit sur les pages vierges restantes postérieures à la page actuellement remplie, l'acte demandé sera effectué une fois que toutes les pages vierges intercalaires seront remplies. Barrer ou arracher lesdites pages semble n'avoir aucun effet. SCP-161-FR-2 semble prendre en compte toutes les langues testées, y compris celles créées pour les tests, dans la mesure où les mots ont une signification pour le sujet. Un mot sans signification ou une phrase écrite par une machine n'ont aucun effet. Malgré les recherches portant sur SCP-161-FR-2, la seule solution trouvée à ce jour pour rendre SCP-161-FR-1 heureux est de lui rendre SCP-161-FR-2.
+Deux théories s'opposent concernant le nombre de pages de SCP-161-FR-2. La première veut que le nombre de pages corresponde à la durée de la vie de SCP-161-FR-1 jusqu'à sa mort. La seconde théorie veut que SCP-161-FR-1 "rembourse" une "dette" envers une autre entité et que le nombre de pages correspond à l'importance de cette dette. Dans les deux cas, arracher une page vierge semble avoir une influence majeure sur le futur de SCP-161-FR-1. Cependant, la dernière théorie, soutenue par le Dr Zap, prends en compte le fait que le nom "Amenaber" désigne dans les anciennes croyances arméniennes une divinité ayant la vertu de faire fructifier la terre. Or, à l'époque où seraient apparus les premiers textes inscrits dans SCP-161-FR-2, "celui qui faisait fructifier la terre" était souvent un esclave. Selon le Dr Zap, SCP-161-FR-1 aurait donc été asservi d'une manière ou d'une autre.
+Addendum : SCP-161-FR-1 et SCP-161-FR-2 ont été trouvés et capturés ensemble dans la région de ██████ en ███████.
+
++ Extrait de la page 561
+
+- Extrait de la page 561
+
+
+SCP-161-FR-2 est en la possession d'un membre du crime organisé du nom de ███. Le texte est écrit en italien.
+"La créature part pour tuer ████████. La créature passe par dessus le mur. Elle monte sur une voiture puis sur le toit du garage. De là, elle entre dans la maison. Elle voit ████████. Elle lui ouvre le ventre. La créature rentre discrètement à la maison et attend toute la nuit sans bouger jusqu'à ce que j'aie de nouveau le livre."
+
+
+
+
+
++ Extrait de la page 585
+
+- Extrait de la page 585
+
+
+À cette date, ███ semble avoir oublié de préciser à la créature d'attendre la nuit. Le texte est écrit en italien.
+"La créature se dirige vers la chambre. Elle ne fait pas de bruit. Elle sent son odeur. Elle ouvre la porte. Il n'est pas seul. Il y a des filles. La créature s'approche. Elle lui attrape la tête. Il se réveille. Elle lui brise le cou."
+
+
+
+
+
++ Extrait de la page 806
+
+- Extrait de la page 806
+
+
+SCP-161-FR-2 est en la possession d'un pompier du nom de ██████. L’événement qui suit est l'incendie qui a eu lieu à ███-████ le 25/03/19██. Le texte est écrit en anglais.
+"Abraham monte par la cage d'escalier en feu puis fouille les appartements du huitième étage pour amener les survivants près de la fenêtre où se trouve l'échelle. Les murs sont en feu. L'escalier est un brasier. Abraham escalade la cage d'ascenseur. Des poutres tombent du plafond. Abraham est aveuglé par les flammes. La chair d'Abraham est carbonisée. Abraham persiste. Il retrouve un survivant. Il le protège des brûlures avec son corps. Abraham ressort du bâtiment. Il rejoint ██████ dans une ruelle proche. ██████ lui rend le livre."
+
+
+
+
+
++ Extrait de la page 1107
+
+- Extrait de la page 1107
+
+
+SCP-161-FR-1 semble avoir échoué à la tâche que lui avait donné l'auteur. Le texte est écrit en russe.
+"Tashia se tient au centre de la pièce et se fait une griffure sur le visage. Tashia a désormais onze cicatrices parce qu'elle a raté onze fois. Maintenant Tashia se met dos à son maître et le laisse la fouetter. Le maître espère que cette fois Tashia a compris qu'elle ne doit pas échouer. Maintenant Tashia rentre dans la cage et attend que le maître l'aie verrouillée. Tashia a mal. Elle tente de couper les barreaux avec ses griffes. Elle n'y arrive pas. Tashia veut mourir. Tashia n'en peut plus."
+Une page arrachée sous-entend peut-être que SCP-161-FR-1 ne peut pas se suicider.
+
+
+
+
+
++ Extrait de la page 1692
+
+- Extrait de la page 1692
+
+
+Il a été prouvé après analyse que l'écriture est celle de ███ ██████ ██████. La description des événements dans SCP-161-FR-2 correspond à l'assassinat, en 19██, de ████ █. ███████. Le texte est écrit en anglais.
+"Richard observe la banquette arrière de la voiture. Il observe la cible qui se tient à côté de sa femme. Il se décide finalement à aller l'égorger. Il y a beaucoup de monde. La voiture n'a pas de toit. Elle roule lentement. Richard s'en approche. Il reste discret. La voiture est juste devant lui. Il bondit sur la banquette arrière. Il ouvre la gorge de la victime avec ses griffes. Il y a du sang sur la femme. Sur lui aussi. Tout le monde le regarde. Il a peur. Il court. Les gardes du corps lui tirent dessus. La douleur le brûle. Finalement il s'échappe. Il voit ███ ██████ ██████ qui fuit aussi."
+Les vidéos et rapports de l'événement ont à l'époque été falsifiés par le Département de Désinformation de la Fondation. Un amnésique a été administré à chaque témoin direct de l'incident. La version officielle est désormais que la victime, ████ █. ███████ a été tuée par un tireur embusqué.
+
+
+
+
+
++ Extrait de la page 2003
+
+- Extrait de la page 2003
+
+
+SCP-161-FR-1 est en possession de SCP-161-FR-2. Le texte est écrit en français.
+"Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux. Le monstre a le livre. Le monstre est heureux."
+Répétition jusqu'à la page 2082.
+
+
+
+
+
+Notes de bas de page
+1. MISE À JOUR : Une solution plus pertinente pour la survie de SCP-161-FR-1 a récemment été pensée par le Dr Tritonis ; il s'agit d'équiper les gardes du secteur de confinement de fusils à peinture tels qu'utilisés pour le paintball afin de marquer SCP-161-FR-1.
+
+
+
+« SCP-160-FR | SCP-161-FR | SCP-162-FR »
+
+
+
+                    

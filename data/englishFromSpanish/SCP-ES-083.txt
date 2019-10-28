@@ -1,0 +1,93 @@
+
+                        
+
+rating: +1+–x
+Item #: SCP-ES-083
+Object Class: Euclid
+Special Containment Procedures: All existing networks must be monitored for copies of SCP-ES-083. Every webpage offering a direct download of SCP-ES-083 is to be shut down, and the administrator of the page, localized and interrogated. Every person found in possession of a copy of SCP-ES-083 is to be interrogated, after which they will be treated with Class-A amnestics, while the program is eliminated from the system and replaced with a non-functional copy of similar interface.
+The Foundation will maintain at least one copy of SCP-ES-083, and experiments conducted on it require authorization from a Level 2 personnel.
+Description: SCP-ES-083 is a piece of software designed for the purpose of cryptographic decryption. It is composed of a single file named "decrypt.exe", with a size of 125,91 KB. Decompiling said file in order to see the source code will show a chain of text which reads [sic] "Fucking awesome. So you want to see how my program works. Well, too bad. Go study and learn like I did, and someday you will be able to make these kind of things! With love, Maximus." followed by an obscene image composed of ASCII characters. If certain actions are performed with SCP-ES-083, the warning messages will be written in the same arrogant and informal tone.
+Information about a software developer under this pseudonym, working on this kind of applications, has not been found. Suspects with similar pseudonyms have been interrogated about the authorship of SCP-ES-083, however, none of them remember ever seeing the program in question.
+When SCP-ES-083 is executed, a window titled "deCipher'em All v1.6" is opened, with a significant text field and a button reading "Decrypt". When this button is pressed, SCP-ES-083 analyzes the text and distinguishes between coherent phrases and unintelligible chains. In the latter, if said chain is an encrypted message, it will always in the majority of cases replace the text with its translation. If by the contrary the text is a nonsensical chain or the program does not manage to translate the encryption, it will be replaced with "Don't take me for a fool, imbecile".
+SCP-ES-083 has been able to decipher all kinds of encrypted code, from pig latin to binary. In all instances, both determining if the text is an encryption and translating it will take between ██ thousands of a second and a whole second. This is the case in every instance independently of the complexity of the code. SCP-ES-083 is also capable of separating all words contained in a phrase and showing them separately, a function which is combined with the decipher. For example: writing the message "tsetasisiht" and pressing the button will give as a result "this is a test". The language in which the text is written will not affect the result.
+Experiment Log:
+SCP-ES-083 was tested with various kinds of encrypted messages, both hard and easy. In all cases, no matter the complexity or the expected effort, the translation was made almost immediately.
+
+
+Encryption
+Message
+Result
+
+
+Reversed
+tsetasisiht
+this is a test
+
+
+ROT13
+V nz Qe. Yragm.
+I am Dr. Lentz.
+
+
+Binario
+01001000 01100101 01101100 01101100 01101111
+Hello
+
+
+Vigènere (keyword "SCP")
+BPA EWTSM BS EDWBW SSPH NT LPJFXF SW BS ISPIW
+J'ai perdu ma plume dans le jardin de ma tante ("I lost my pen at my aunt's garden" in french)
+
+
+1337
+4774(l< 47 l>4\/\/l/l
+Attack at dawn
+
+
+None
+lñsefko4sus89p84u93s3jf9soj889jf834988439 (random chain)
+Don't take me for a fool, imbecile
+
+
+Navajo code
+BA-AH-NE-DI-TININ YIL-DOI TSA-E-DONIN-EE AH-TAD TLO-CHIN DIBEH-YAZZIE KLESH LHA-CHA-EH CHUO BA-AH-NE-DI-TININ KLIZZIE TKELE-CHO-G NA-AS-TSO-SI A-CHIN CHINDI TSA-E-DONIN-EE JAD-HO-LONI AH-YA-TSINNE KLESH JEHA KLESH LHA-CHA-EH CHUO BA-AH-NE-DI-TININ NE-AHS-JAH TKELE-CHO-G JEHA AH-JAD KLESH BE JAD-HO-LONI YIL-DOI DIBEH-YAZZIE KLIZZIE-YAZZIE DIBEH LHA-CHA-EH TKELE-CHO-G CHINDI
+kjfgolsdfkgjmndfkjsgñsdfkojgñlsdkjlksdjñd (Intentionally encrypted random chain. When pushing the button again, the phrase "Don't take me for a fool, imbecile" appeared)
+
+
+Atbash followed by Cesar +1
+PWH'IIWWTMECMGXMAUASNIHOGPHSLPWWNYJCLHSMN
+Let's see how you do against multiple encryption
+
+
+Enigma Machine replica
+HGNS INNV MJOH TZZW HTMF UURZ MVCG JVZA MBZB FWXF DATN HNWC AYHK SBCX XDUR IUNT XOJW BAXS QDNI SMTQ P
+I wonder how long it will take you to figure out this phrase encrypted with a random configuration.
+
+
+SHA-1, then morse and then MD5
+c3351c024a2c599865eeccc54e9b8cc4
+Triple encryption. This should take you more than a second, damned program.
+
+
+MD5 applied ██ times
+efc735ecfe7910dc04de7805e77c577f
+Don't take me for a fool, imbecile (The message actually read "Let's try recursively". This test proved that SCP-ES-083 is not fail proof)
+
+
+████████ (algorithm created by the Foundation in order to encrypt communications between infiltrated agents)
+………………………………………………………………………….
+We've discovered something important
+
+
+█████-7 (algorithm created by the Foundation in order to encrypt communications between directives and the O5 Council)
+&ö.æv.¦¦¶.v¦æNª
+Don't take me for a fool, imbecile (The message actually read "Urgent meeting today")
+
+
+Unknown. Intercepted message from operatives of GOI "Serpent's Hand".
+64 75 6d 62 20 77 68 6f 20 72 65 61 64 73 20 74 68 69 73 20 78 44 44 44 44 44 44 44
+[DATA EXPUNGED]. See Report 083-14-"Rescue ██████████" for more details.
+
+
+
+                    

@@ -1,0 +1,209 @@
+
+                        
+
+
+
+Bewertung: +12+–x
+
+
+
+
+
+
+
+
+Bewertung: +12+–x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credits
+
+
+
+Artikel: SCP-098-DE - Dämon vs Maschine
+Original-Autor: Dr Ore
+
+12656248925_cd7ca498b8_z.jpg
+Bild-Ersteller: The Bunny
+Bild-Quelle: https://www.flickr.com/photos/94243611@N02/12656248925/
+Bild-Lizenz: CC BY-NC 2.0
+
+
+
+
+
+
+
+
+
+
+Bewertung: +12+–x
+
+Bewertung: +12+–x
+
+
+
+
+
+
+
+SCP-098-DE kurz vor der Freisetzung von chemischen Kampfstoffen in seiner Isolierzelle.
+
+
+Objekt-Nr.: SCP-098-DE
+Klassifizierung: Euclid
+Sicherheitsmaßnahmen: SCP-098-DE ist in einer 3 m x 3 m x 3 m abmessenden Isolierzelle aufzubewahren, deren Innenwände mit korrosionsbeständigem Material beschichtet sind. SCP-098-DE muss zu jeder Zeit eine Klammer aus rostfreiem Stahl angelegt sein, die verhindert, dass es sein Waffensystem feuerbereit machen kann. Es ist außerdem mit geeigneten Mitteln am Boden der Kammer zu fixieren. Die Isolierzelle muss als Eingang eine Luftschleuse, sowie einen angrenzenden Observationsraum besitzen. Zusätzlich muss in die Decke der Isolierzelle ein Luftabzug und ein Lufteinlass integriert sein um chemische Kampfstoffe aus der Zelle entfernen zu können. Dieser Abzug ist mit einem Filtersystem zu verbinden, das in der Lage sein muss alle Stoffe außer Stickstoff, Sauerstoff, Kohlenstoffdioxid und Edelgase aus der Luft zu filtern.
+Personal, das SCP-098-DE's Isolierzelle betritt und es handhabt, muss aus Sicherheitsgründen mit einem Chemikalienschutzanzug mit integrierter Sauerstoffflasche ausgerüstet sein. Sollte SCP-098-DE transportiert werden müssen, ist es in einer luftdichten Kiste aus einem widerstandsfähigen Material zu verstauen, deren Abmessungen zusätzlich zur Klammer verhindern, dass es sein Waffensystem in Feuerbereitschaft versetzen kann.
+Beschreibung: SCP-098-DE ist eine ovalförmige Roboterdrohne mit flacher Unterseite. Sie ist 25 cm lang und an ihrer dünnsten Querschnittsstelle 20 cm breit. SCP-098-DE besteht aus drei Segmenten, dem 2 cm breiten Untersegment, dem ebenfalls 2 cm breiten Waffensegment und dem Obersegment, welches eine Höhe von 21 cm besitzt. Die Farben und das Muster des Ober- und Untersegments passen sich immer denen der SCP-098-DE umgebenden Umwelt an und erlauben ihm so, sich in fast jeder Umgebung zu tarnen.
+Das Untersegment von SCP-098-DE weist keinerlei Auffälligkeiten auf, außer dem Firmenlogo von Raptor Tec Industries. Es wird allerdings angenommen, dass es den Fortbewegungsmechanismus der Drohne enthält. Dieser erlaubt es SCP-098-DE, auf eine bisher nicht abschließend geklärte Weise auf sich selbst kinetische Energie variierender Stärke und Richtung einwirken zu lassen, was ihm die Fähigkeit verleiht durch die Luft zu schweben. Mit dieser Fortbewegungsmethode scheint es fähig zu sein Höchstgeschwindigkeiten von bis zu 5 m/s zu erreichen und kann auf Hindernisse eine Kraft von bis zu 10 N ausüben. Es ist offenbar auch dazu in der Lage den Angriffspunkt der kinetischen Energie zu bestimmen, da es sich selbstständig wieder aufrichtet, wenn es umgekippt wird.
+SCP-098-DE ist in der Lage sein Waffensegment zu verbergen, indem es sein Obersegment absenkt. Die Oberfläche des Segments besteht aus einem Metall, dessen Analyse bis jetzt nur wenige Ergebnisse geliefert hat, da es gegenüber allen chemischen Reaktionen inert zu sein scheint. Dennoch ist es möglich das Material durch physikalische Einflüsse zu beschädigen. Die Oberfläche besitzt Falten, die mit einer großen Anzahl kleiner Gasdüsen bestückt sind. SCP-098-DE ist mithilfe dieser Gasdüsen fähig, verschiedene chemische Kampfstoffe mit Drücken von bis zu 600 Kpa auszustoßen, wie etwa Senfgas, Blausäure oder Tränengas. SCP-098-DE ist in der Lage, Kampfstoffe kombiniert abzugeben und produziert normalerweise Mischungen mit mehreren, bisher nur unzureichend analysierten Maskenbrechern, um zu verhindern, dass sein Angriff durch Gasschutzmasken wirkungslos verläuft. Den bisher einzigen wirksamen Schutz gegen SCP-098-DE's Gase bieten Chemikalienschutzanzüge mit integrierten Sauerstofflaschen. SCP-098-DE kann sein Waffensystem anscheinend nur benutzen, wenn es nicht unter dem Obersegment verborgen ist, daher wird mit einer rostfreien Stahlklammer verhindert dass es sein Obersegment anheben kann.
+Das Obersegment besitzt eine kleine Kamera, die es SCP-098-DE ermöglicht seine Umgebung zu beobachten und zu filmen. An seinem höchsten Punkt befindet sich zudem ein Mikrofon das SCP-098-DE die Erfassung und Aufnahme von Tönen von 1000 Hz bis 30 KHz ermöglicht. Das Mikrofon fungiert gleichzeitig auch als Lautsprecher, den es zur Kommunikation einsetzt. SCP-023-DE-01 sagte nach der Betrachtung des Objekts aus, dass auf dem Obersegment das Zeichen des "Vierten Reiches" aufgetragen wurde.
+SCP-098-DE scheint zwei verschiedene Entitäten zu beherbergen die als SCP-098-DE-A und SCP-098-DE-B designiert wurden. Beide sind fähig mithilfe des Lautsprechers miteinander und mit Personal zu kommunizieren und können anhand ihrer Stimmen und ihrer Redeweise voneinander unterschieden werden. SCP-098-DE-A behauptet die KI der Roboterdrohne zu sein, die es als "R.T.I. Miasma" bezeichnet. Es scheint die Kontrolle über SCP-098-DE zu besitzen und zeigt sich gegenüber Foundationpersonal feindselig und unkoorporativ. SCP-098-DE-B gibt an, ein "Dämon" zu sein, der in SCP-098-DE versiegelt wurde. SCP-098-DE-B zeigt sich gegenüber dem Foundationpersonal korporativer als SCP-098-DE-A, scheint aber keinerlei Kontrolle über SCP-098-DE zu besitzen. SCP-098-DE-A und SCP-098-DE-B antagonisieren sich gegenseitig wegen ihrer gegensätzlichen Ansichten zu verschiedenen Themen und streiten oft miteinander.
+Entdeckung: SCP-098-DE wurde bei der Durchsuchung einer verlassenen Einrichtung des "Vierten Reiches" entdeckt. Es war in einen Stahlschrank eingeschlossen worden, auf den mit roter Farbe das Wort "Fehlschläge" geschrieben stand. SCP-098-DE-A sorgte bei seiner Entdeckung durch Foundationpersonal sofort für die Freisetzung von großen Mengen an Blausäure, was zum Verlust des gesamten Untersuchungsteams führte. SCP-098-DE konnte später von einem mit Chemikalienschutzanzügen und Sauerstoffflaschen ausgerüsteten Team von Foundationgefahrengutspezialisten geborgen und eingedämmt werden. Neben SCP-098-DE wurden in den Schrank nur Metalltrümmer und einzelne Maschinenteile gefunden. SCP-098-DE ist seit seiner Eindämmung offenbar kontinuierlich in Betrieb gewesen und sein Energie- und Munitionsvorrat scheint sich nicht zu erschöpfen. SCP-098-DE-B behauptet in diesem Zusammenhang, dass es für dieses Phänomen verantwortlich sei.
+Im Moment wird davon abgesehen SCP-098-DE zu zerlegen, da SCP-098-DE-A angab, dass beim Öffnen der Maschine ein Sprengsatz aktiviert wird. Daher beschränkt sich die Informationsbeschaffung bis auf weiteres nur auf Vernehmungen. Interviews mit SCP-098-DE-A und SCP-098-DE-B werden im Moment aus Sicherheitsgründen nur von Personal durchgeführt, das Chemikalienschutzanzüge mit integrierter Sauerstoffflasche trägt, da SCP-098-DE-A den Raum bei jeder sich bietenden Gelegenheit mit Giftgas flutet.
+
+Interview 098-DE-1
+
+Schließen
+
+
+Vorwort: Dies war das erste Interview, das mit SCP-098-DE nach seiner Gefangennahme geführt wurde. SCP-098-DE ist bei diesem und auch bei allen weiteren Interviews durch seine Klammer gesichert und am Boden fixiert.
+<Beginn des Logs>
+[Dr. Jung betritt ausgerüstet mit einem Chemikalienschutzanzug mit integrierter Sauerstoffflasche den Raum und hockt sich vor SCP-098-DE hin.]
+SCP-098-DE-B: Hey Mann, du brauchst diesen Taucheranzug doch nicht. Der Blecheimer hier ist besser gesichert als Fort Knox.
+SCP-098-DE-A: Warnung. Beachten sie dieses Programm nicht. Dabei handelt es sich um eine Fehlfunktion, die diese Einheit vermutlich durch unsachgemäße Handhabung erhalten hat.
+SCP-098-DE-B: Wie oft denn noch, du Schrottkiste, ICH. BIN. KEIN. BUG!
+SCP-098-DE-A: Diese Aussage wird von dieser Einheit als unwahrscheinlich betrachtet.
+SCP-098-DE-B: Oh, was zum Arsch…
+Dr. Jung: Hallo, SCP-098-DE, ich-
+SCP-098-DE-B: Hey Schrotti, hast du das gehört? Die Jungs haben dir einen Namen gegeben. Fühlst du dich geschmeichelt?
+SCP-098-DE-A: Diese Einheit ist nicht geschmeichelt, sie ist im Moment extrem zornig.
+SCP-098-DE-B: Ouh, pass auf Alter, der Briefbeschwerer hier wird dich mit seinem Zorn noch zu Tode… Verdammt, "Zu Tode wüten" klingt so scheiße…
+Dr. Jung: Also, ich wollte dir… oder besser gesagt, euch einige Fragen stellen.
+
+SCP-098-DE-A: Diese Einheit lehnt die Beantwortung sämtlicher Fragen ab.
+SCP-098-DE-B: Ich nicht, hab grad eh nichts Besseres zu tun. Schieß los.
+SCP-098-DE-A: Warnung. Dieses Programm ist extrem unzuverlässig und unglaubwürdig. Von ihm erhaltene Informationen müssen nicht zwangsläufig mit der Realität übereinstimmen und sind mit hoher Wahrscheinlichkeit inkorrekt.
+SCP-098-DE-B: Jaja, was auch immer. Frag schnell, sonst hört der nie mit seinem Gezeter auf.
+Dr. Jung: Okay, also, äh, was genau seid ihr?
+SCP-098-DE-B: Naja, ich bin ein Dämon, der in diesem wandelnden Mülleimer eingesperrt wurde. Der Mülleimer selbst hört glaube ich auf den Namen R.T.I. Miasma. Was Besseres ist deinem Erfinder wohl nicht eingefallen, oder, Schrottinator? Wie ist der überhaupt auf die Idee mit dem Gas gekommen? WG-Freund mit Bohnensucht, oder was?
+SCP-098-DE-A: R.T.I. Miasma ist geistiges Eigentum von Raptor Tec Industries. Informationen zu seinem Aufbau und seiner Entwicklung dürfen nicht an Außenstehende weitergegeben werden.
+SCP-098-DE-B: Jetzt hör dir mal Mister Copyright hier an. Scheiß auf Eigentumsrechte, das Teil hier ist eine Gaswaffe, wie ihr sicher schon mitbekommen habt. Eine Gaswaffe mit einer sprechenden KI. Ist das was?
+Dr. Jung: Verstehe, SCP-098-DE-B, du behauptest ein Dämon zu sein. Warum wurdest du-
+SCP-098-DE-A: Korrektur. Die als SCP-098-DE-B bezeichnete Entität ist aller Wahrscheinlichkeit nach ein Schadprogramm oder eine fehlfunktionierender Teil dieser KI.
+
+SCP-098-DE-B: Ich denke du beantwortest keine Fragen, entscheide dich mal!
+SCP-098-DE-A: Das ist korrekt. Diese Einheit kann allerdings die offensichtlich erlogene Aussage, in ihr sei ein Dämon eingesperrt, nicht hinnehmen. Sie könnte dem Ruf von Raptor Tec Industries schaden. Daher weißt diese Einheit nun erneut darauf hin, dass die Entität SCP-098-DE-B mangels wissenschaftlicher Grundlage für dessen Existenz kein Dämon sein kann.
+
+SCP-098-DE-B: Immer diese Roboter mit ihrer Wissenschaft. Ganz egal was für bescheuerte Grundlagen auch immer auf deiner beschränkten Platine abgespeichert sind, ich bin ein gottverdammter Dämon und zur Hölle nochmal kein Virus oder Systemfehler!
+SCP-098-DE-A: Bestätigt. Die Entität SCP-098-DE-B ist kein Virus.
+SCP-098-DE-B: Na geht doch-
+SCP-098-DE-A: Daher wird von nun an davon ausgegangen, dass es sich bei der Entität SCP-098-DE-B um einen Wurm handelt.
+SCP-098-DE-B: ICH GEB DIR GLEICH WURM!
+<Ende des Logs>
+Abschließende Bemerkungen: Das Interview wurde unterbrochen, da SCP-098-DE-A und SCP-098-DE-B darüber zu streiten begannen, welcher Natur SCP-098-DE-B ist. Dr. Jung schaffte es nicht, die Aufmerksamkeit beider Entitäten wieder auf sich zu lenken und verließ nach fünf Minuten die Isolierzelle.
+
+
+
+
+
+
+Interview 098-DE-2
+
+Schließen
+
+
+Vorwort: Dieses Interview wurde durchgeführt, nachdem SCP-098-DE bei Tests eine unerwartet große Munitions- und Energiekapazität aufgezeigt hatte.
+<Beginn des Logs>
+[Dr. Jung betritt ausgerüstet mit einem Chemikalienschutzanzug mit integrierter Sauerstoffflasche den Raum und stellt sich vor SCP-098-DE.]
+Dr. Jung: Hallo, SCP-098-DE
+SCP-098-DE-B: Oh, der Hazmat-Man schon wieder. Was ist?
+SCP-098-DE-A: Diese Einheit betont erneut, dass sie keine Fragen beantworten wird.
+SCP-098-DE-B: Pff, als ob dir das was bringt. Was gibt’s, Doktor Fallout?
+Dr. Jung: Nun, SCP-098-DE hat bei den letzten Versuchen sehr viel Gas ausgestoßen. Außerdem ist uns aufgefallen, dass es sich seitdem es hier ist noch nie abgeschaltet hat. Meine Frage lautet daher: Wie wurde es bewerkstelligt, dass es so große Kapazitäten für Energie und Gas besitzt?
+SCP-098-DE-A: R.T.I. Miasma ist geistiges Eigentum von Raptor Tec Industries. Informationen zu seinem Aufbau und seiner Entwicklung dürfen nicht an Außenstehende weitergegeben werden.
+SCP-098-DE-B: Kapazitäten? Alter, dem Ding wäre eigentlich schon dreimal der Saft ausgegangen wenn ich nicht wäre.
+Dr. Jung: Was meinst du damit?
+SCP-098-DE-B: Also, ich hab dir doch verklickert, dass ich ein Dämon bin, richtig?
+Dr. Jung: Ähm, richtig.
+SCP-098-DE-A: Und gleichzeitig vollkommen inkorrekt…
+SCP-098-DE-B: Hey, wenn der Unhold spricht, schweigt die Zinndose, merk dir das! So, zurück zum Thema. Du weißt wo Dämonen herkommen, oder?
+Dr. Jung: Ich würde auf die Hölle tippen.
+SCP-098-DE-B: Gut geraten, Captain Chernobyl. Also. Ich bin hier in dieser Blechkiste und beziehe Energie aus der Hölle. Und diese Energie wandle ich dann in elektrische Energie für unsere Stinkbombe hier um. Alles klar?
+SCP-098-DE-A: Korrektur. Der Term "Stinkbombe" ist nicht ausreichend um diese Einheit zu beschreiben und des Weiteren im Bezug auf seine Funktionen irreführend. Der R.T.I. Miasma ist eine hochentwickelte Gaswaffe, hergestellt durch modernste Technologie.
+SCP-098-DE-B: Ooh, fühlt sich die High-Tech-Tupperdose etwa beleidigt?
+SCP-098-DE-A: Suche nach fehlerhaften Programmen und Malware gestartet…
+SCP-098-DE-B: Oh gut, hoffentlich haben wir jetzt endlich Ruhe.
+Dr. Jung: Okay, du hast mir jetzt zwar erklärt wo der Strom herkommt, aber wie erzeugst du das Gas?
+SCP-098-DE-B: Das willst du gar nicht wissen!
+SCP-098-DE-A: Suche abgeschlossen. Keine Treffer. Schlussfolgerung. Die Entität ist ein fortgeschrittenes Schadprogramm, für das diese Einheit im Moment kein Patch besitzt.
+SCP-098-DE-B: Geht das denn mal in deine dämliche Blechbirne rein? ICH. BIN. EIN. DÄMON! Warum zum Teufel glaubst du stehst du noch unter Strom?
+SCP-098-DE-A: Theorie. Die Entität SCP-098-DE-B hat Zugriff auf die Daten zur Energieversorgung und der Gasbehälter. Durch deren Veränderung kann diese Einheit im Glauben gelassen werden, sie besäße mehr Energie und Munition als sie speichern könne.
+SCP-098-DE-B: Du willst einfach nur nicht zugeben dass ich Recht habe, oder? Dass du tatsächlich einen Dämon beherbergst.
+SCP-098-DE-A: Die Möglichkeit eines Daemons wurde bereits in Betracht bezogen und verworfen.
+SCP-098-DE-B: Okay, jetzt mal im Ernst. Du ziehst schon Besessenheit durch Dämonen in Betracht und verbeißt dich dann auf irgendwelchen Softwarefehlern und Virengedöns. Glaubst du den Mist den du dir da zusammenrechnest überhaupt selbst?
+SCP-098-DE-A: Korrektur. Diese Einheit meinte das Wort Daemon, welches mit den beiden Vokalen "ae" anstatt mit dem Umlaut "ä" geschrieben wird.
+SCP-098-DE-B: Was soll das denn sein?
+Dr. Jung: Ein Computerprogramm.
+SCP-098-DE-B: [KRAFTAUSDRÜCKE ZENSIERT]
+<Ende des Logs>
+Abschließende Bemerkungen: SCP-098-DE-B verbrachte die nächsten zwei Stunden und vierundvierzig Minuten damit, lautstark eine enorm ausführliche Beleidigung an SCP-098-DE-A zu richten. Das Interview wurde abgebrochen und Dr. Jung verließ die Isolierzelle wieder.
+
+
+
+
+
+
+Interview 098-DE-3
+
+Schließen
+
+
+Vorwort: Dieses Interview wurde durchgeführt nachdem die Untersuchung der verlassenen Einrichtung des Vierten Reichs abgeschlossen war. Ziel der Vernehmung war es, zusätzliche Informationen zum Ursprung von SCP-098-DE und zur Natur der Einrichtung zu erhalten.
+<Beginn des Logs>
+[Dr. Jung betritt ausgerüstet mit einem Chemikalienschutzanzug mit integrierter Sauerstoffflasche den Raum und stellt sich vor SCP-098-DE.]
+SCP-098-DE-A: Als "Captain Chernobyl" betitelte Person gesichtet.
+SCP-098-DE-B: Hast… Hast du dich etwa gerade an Humor versucht? Überlass das lieber denen die auch welchen haben.
+SCP-098-DE-A: Anfrage. Basierend auf dieser Aussage, warum versucht die Entität SCP-098-DE-B immer wieder humoristische Statements zu machen?
+SCP-098-DE-B: Ouh, das brennt. Das brennt richtig heftig.
+Dr. Jung: Freut mich auch euch zu sehen.
+SCP-098-DE-A: Anfrage. Wie kommt die feindliche Einheit auf das Wort "auch"?
+SCP-098-DE-B: Weil sie hauptsächlich mit mir redet, Siliziumhirn. Wo drückt der Schuh denn heute, Fukushima-Boy?
+Dr. Jung: Also, SCP-098-DE-B, ich würde heute gerne von dir wissen, wie SCP-098-DE entstanden ist.
+SCP-098-DE-B: Alter, das ist eher eine Frage für unseren Freund Schrottmühle als für mich. Keine Ahnung wie die Jungs das Teil in der Fabrik hergestellt haben.
+SCP-098-DE-A: R.T.I. Miasma ist geistiges Eigentum von Raptor Tec Industries. Informationen zu seinem Aufbau und seiner Entwicklung dürfen nicht an Außenstehende weitergegeben werden.
+SCP-098-DE-B: Ja, wir wissen dass du uns eine Dreck erzählen wirst, Robofurz. Mann ey, besteht nicht nur aus Blech, sondern redet auch noch ständig welches.
+Dr. Jung: Ähm, ich meinte mit meiner Frage eher, wie bist du in es hineingelangt, SCP-098-DE-B?
+SCP-098-DE-B: Ach so. Tja, das habe ich diesen Arschlochakolythen Faust und Sturm zu verdanken, elende Drecksäcke.
+
+Dr. Jung: Faust und Sturm?
+SCP-098-DE-B: Zwei selbsternannte Akolythen die für das Vierte Reich arbeiten. Die beiden haben die Kiste hier auseinandergebaut und einen Beschwörungs- und Siegelkreis hineingekratzt. Dann wurde ich hineinbeschworen und komme nun nicht mehr raus. Wir waren ein Prototyp gewesen und da ich nicht aufgehört habe meine Freilassung zu verlangen, haben sie uns in diesen Schrank gesteckt.
+Dr. Jung: Verstehe ich das richtig? Das Siegel befindet sich innerhalb von SCP-098-DE?
+SCP-098-DE-B: Ja wo denn sonst, habt ihr es etwa außen dran gefunden?
+Dr. Jung: Wenn man SCP-098-DE öffnen und das Siegel zerstören würde, kämst du dann frei?
+SCP-098-DE-A: Warnung. Diese Einheit weißt darauf hin, dass das Öffnen eines R.T.I. Miasmas durch unqualifiziertes Personal nicht empfohlen wird.
+SCP-098-DE-B: Ich glaube, dass ist das erste Mal, dass ich dem Blechhaufen zustimme. Ich würde zwar freikommen, aber nur um gleich darauf von dem Sprengsatz in diesem Metallei in Stücke gerissen zu werden.
+Dr. Jung: Hm, notiert. Kannst du uns zum Vierten Reich noch was erzählen, besonders zu Herrn Rass?
+SCP-098-DE-B: Alter, ich bin einer der niedersten Dämonen die es gibt. Ich würde euch gerne noch was erzählen damit ihr diesen Arschgesichtern mit Gruß von mir ordentlich die Hölle heiß machen könnt, aber mir erzählt keiner was, bin einfach nicht wichtig genug. Alles was ich noch weiß ist, dass sie ihr Verfahren irgendwann perfektioniert haben und in die Massenproduktion gegangen sind.
+SCP-098-DE-A: Diese Einheit muss diese Aussage mit Sorge um das Fortbestehen von Raptor Tec Industries bestätigen. Nach dem letzten Stand wurden exakt ███ Einheiten durch die unbekannte Schadsoftware des Vierten Reichs verändert.
+SCP-098-DE-B: Suchst du schon wieder Streit…
+<Ende des Logs>
+Abschließende Bemerkungen: Dr. Jung verließ die Isolierzelle während zwischen SCP-098-DE-A und SCP-098-DE-B erneut eine lautstarke Diskussion zur Natur von SCP-098-DE-B entbrannte.
+
+
+
+
+Die Strategie zur Ergreifung der Interessengruppe "Viertes Reich" wurde an die durch SCP-098-DE gewonnenen Erkenntnisse angepasst.
+
+                    

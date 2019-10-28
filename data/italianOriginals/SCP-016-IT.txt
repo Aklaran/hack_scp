@@ -1,0 +1,128 @@
+
+                        
+
+voto: +25+–x
+
+
+SCP-016-IT all'interno della sua custodia.
+
+
+Elemento #: SCP-016-IT
+Classe dell'Oggetto: Safe
+Procedure Speciali di Contenimento: Quando non è oggetto di test, SCP-016-IT deve essere conservato in una teca di vetro all'interno dell'Unità di Stoccaggio 42 del Sito Vulcano. Per il rilascio dell'autorizzazione a effettuare ulteriori test rivolgersi al Dott. Montorsi.
+Descrizione: SCP-016-IT ha un aspetto identico ad un DVD vergine utilizzato per la masterizzazione, ed è privo di qualunque tipo di scritta che ne identifichi marca o modello. Esso è stato ritrovato insieme alla sua custodia in plastica rigida trasparente; sul retro della custodia, attaccato con del nastro adesivo, si trova un foglietto di carta recante la scritta "Scrivi e gioca :)".
+Inserendo SCP-016-IT in un qualsiasi dispositivo dotato di lettore DVD (ad esempio un computer), l'oggetto non verrà riconosciuto dal dispositivo, il quale non registrerà la presenza del DVD. Dopo diversi test, i ricercatori hanno scoperto che se si scrive qualcosa sulla superficie di SCP-016-IT prima di inserirlo in un dispositivo, esso verrà riconosciuto ed eseguito come un normale DVD.
+Ora appare chiaro il significato della nota sul retro della custodia. - Dott. Montorsi
+Il programma risultante, denominato SCP-016-IT-01, cambierà a seconda della scritta su SCP-016-IT, ma si tratterà sempre di un videogioco con titolo uguale a ciò che viene scritto sul DVD (per maggiori informazione consultare l'Addendum 02). Rimuovendo SCP-016-IT dal lettore, SCP-016-IT-01 si arresterà e il dispositivo tornerà alla schermata iniziale. Inoltre, la scritta su SCP-016-IT sarà scomparsa.
+I tentativi di creare una copia fisica di SCP-016-IT, sia con che senza scritta, risulteranno sempre nella creazione di un DVD vuoto, senza alcuna proprietà anomala. Lo stesso vale per le copie digitali di SCP-016-IT-01, che risulteranno essere file eseguibili i quali, all'avvio, non produrranno alcun risultato.
+I ricercatori hanno inoltre tentato di capire in che modo scompaia la scritta su SCP-016-IT, utilizzando un lettore DVD esterno trasparente. Ad una prima osservazione la scritta sembra scomparire durante la fase iniziale della rotazione del disco. Osservando la scena al rallentatore si nota come ad ogni giro le lettere sbiadiscano, assumendo il colore di fondo del DVD entro pochi secondi dall'inizio del processo. I tentativi con inchiostro indelebile non hanno prodotto risultati apprezzabili.
+Addendum 01: Appunti sul ritrovamento di SCP-016-IT.
+SCP-016-IT fu recuperato dalla SIR-I "Aureæ Notitiæ" durante l'esplorazione della sede della ████████, una piccola casa videoludica indipendente sparita nel nulla qualche mese dopo la sua nascita.
+La missione fu intrapresa in quanto, poco prima della scomparsa, l'azienda pubblicizzò un videogioco rivoluzionario che sarebbe stato lanciato a breve sul mercato. La sparizione successiva a tali dichiarazioni insospettì gli agenti infiltrati nel settore, che suggerirono di effettuare un controllo.
+Le indagini negli uffici della ████████ rivelarono che tutti i dipendenti erano spariti misteriosamente. Nell'ufficio del presidente si scoprì la presenza di una cassaforte particolarmente sofisticata, del modello solitamente utilizzato nei caveau ad elevata sicurezza. Dopo diverse ore di lavoro gli esperti riuscirono a forzarla, trovando all'interno solo SCP-016-IT, che venne recuperato a scopo di studio.
+In seguito all'ispezione i tecnici della Fondazione, utilizzando i canali di comunicazione dell'azienda, provvedettero a comunicare il fallimento della casa videoludica per motivi economici. Sono in corso ulteriori indagini.
+Addendum 02: Nei test seguenti con "Titolo" si fa riferimento alle parole scritte su SCP-016-IT.
+
++ Log Parziale dei Test
+
+- Log Parziale dei Test
+
+Test 016-01 - ██/██/2016
+
+Titolo: Test
+Dispositivo: Computer1
+Risultati: Gioco basato su una serie di domande di cultura generale a risposta multipla.
+Analisi: SCP-016-IT è in grado di avviare un programma per elaboratore, in particolare un videogioco, riguardante la scritta sul DVD.
+
+Test 016-05 - ██/██/2016
+
+Titolo: Pong
+Dispositivo: Computer
+Risultati: Gioco del tutto simile a "Pong" del 1972.
+Analisi: È probabile che SCP-016-IT contenga un qualche tipo di banca dati con informazioni riguardo i videogiochi esistenti.
+
+Per adesso non siamo ancora riusciti ad accedere a nessun file all'interno di SCP-016-IT, ad eccezione dell'eseguibile che avvia SCP-016-IT-01. - Dott. Montorsi
+Test 016-12 - ██/██/2016
+
+Titolo: Super Mario
+Dispositivo: Computer
+Risultati: Gioco d'azione in terza persona con protagonista un supereroe chiamato "Super Mario".
+Analisi: Non sempre SCP-016-IT-01 è una copia di un videogioco esistente, piuttosto si pensa che il titolo fornito venga interpretato in maniera più letterale.
+
+Test 016-23 - ██/██/2016
+
+Titolo: Boeing 747
+Dispositivo: Computer
+Risultati: Simulatore in cui si pilota un aereo modello Boeing 747.
+Analisi: Verrà effettuato un nuovo test utilizzando lo stesso titolo, per verificare se SCP-016-IT-01 assumerà una forma diversa.
+
+Test 016-24 - ██/██/2016
+
+Titolo: Boeing 747
+Dispositivo: Computer
+Risultati: Gioco identico a quello del test precedente.
+Analisi: Inserendo lo stesso titolo più volte SCP-016-IT-01 non diventa un videogioco diverso.
+
+E se provassimo con qualcosa di diverso da un computer? - Dott. Rivoli
+Test 016-35 - ██/██/2016
+
+Titolo: Guerra
+Dispositivo: Console per videogiochi Xbox
+Risultati: Sparatutto in prima persona ambientato in luogo e tempo immaginari.
+Analisi: SCP-016-IT sembra in grado di funzionare su qualsiasi dispositivo dotato di lettore DVD.
+
+Test 016-36 - ██/██/2016
+
+Titolo: Guerra
+Dispositivo: Console per videogiochi Xbox 360
+Risultati: Gioco identico a quello del test precedente, ma con grafica e gameplay notevolmente migliorati.
+Analisi: A quanto pare SCP-016-IT può adattarsi al dispositivo in cui è inserito, migliorando le proprie prestazioni.
+
+Test 016-43 - ██/██/2017
+
+Titolo: Tsgevrjsocueh
+Dispositivo: Computer
+Risultati: All'avvio compare una schermata nera con la scritta "Errore" in bianco.
+Analisi: Primo messaggio d'errore restituito da SCP-016-IT-01.
+
+È probabile che esista un limite a ciò che l'oggetto può interpretare. Effettueremo ulteriori test simili al precedente per confermare questa teoria. - Dott. Montorsi
+Test 016-64 - ██/██/2017
+
+Titolo: SCP-682
+Dispositivo: Console per videogiochi PlayStation 3
+Risultati: Gioco in cui si vestono i panni di un enorme rettile con l'obiettivo di causare quanti più danni possibile.
+Analisi: Sembra che SCP-016-IT sia a conoscenza, anche se in maniera vaga, di informazioni riservate. Vietato fornire titoli di documenti riservati senza avere l'autorizzazione necessaria.
+
+Test 016-117 - ██/██/2017
+
+Titolo: Fondazione SCP
+Dispositivo: Computer
+Risultati: Gioco gestionale nel quale si assume il controllo della Fondazione SCP, multinazionale inventata priva di collegamenti con la reale Fondazione, con l'obiettivo di guadagnare il più possibile.
+Analisi: Test di controllo per verificare l'estensione delle informazioni all'interno di SCP-016-IT riguardo la Fondazione. Risultato soddisfacente.
+
+
+
+
+Addendum 03:
+
+Inserire credenziali di accesso di Livello 4 o superiore
+
+Login effettuato con successo
+
+Test 016-117 - ██/██/2017 (Originale)
+
+Titolo: Fondazione SCP
+Dispositivo: Computer
+Risultati: Gioco gestionale ambientato in un futuro prossimo nel quale si assume il controllo dei siti della Fondazione SCP sparsi per il mondo, con l'obiettivo di contenere diverse anomalie.
+Analisi: La maggior parte delle anomalie che appaiono in questa versione di SCP-016-IT-01 sono estremamente simili alle anomalie attualmente contenute nei siti della Fondazione. Sono inoltre presenti diverse anomalie sconosciute e una di queste, un SCP umanoide di Classe Keter, rappresenta il principale antagonista nel gioco, per il quale non è ancora stato trovato un metodo di contenimento. La Fondazione all'interno di SCP-016-IT-01 differisce in alcuni punti da quella reale: il Consiglio O5 è stato rimpiazzato da un unico Sovrintendente, e la terminazione degli SCP viene presa in considerazione per tutti gli elementi di Classe diversa da Safe. Inoltre, come il gioco suggerirà più volte nel corso della partita, evitare di eliminare gli SCP porterà inevitabilmente alla sconfitta finale.
+
+La Sovrintendenza della Branca Italiana della Fondazione SCP è stata messa al corrente dei nuovi sviluppi. Questa versione di SCP-016-IT-01 verrà nuovamente studiata per determinare se le anomalie sconosciute sono realmente esistenti o inventate. Inoltre, propongo di utilizzare il gioco ottenuto con questo test come "terreno di prova" per lo studio dei metodi di contenimento, potrebbe fornire spunti interessanti. Per il momento, sarà inserita una voce con informazioni false nel log dei test. - Dott. Montorsi
+
+
+
+
+Note a piè di pagina
+1. Il computer utilizzato è quello della postazione 14 del Laboratorio 3. Per le specifiche tecniche consultare la documentazione del Laboratorio.
+
+
+                    

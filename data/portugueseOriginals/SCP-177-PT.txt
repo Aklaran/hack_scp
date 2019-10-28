@@ -1,0 +1,59 @@
+
+                        
+
+avaliação: +29+–x
+
+
+Fotografia de SCP-177-PT.
+
+
+Item nº: SCP-177-PT
+Classe do Objeto: Seguro
+Procedimentos Especiais de Contenção: SCP-177-PT deve ser contido em um armário padrão de no mínimo 30 x 30 x 30 cm com destravamento por código de 6 dígitos a ser conhecido apenas pelo diretor do Sítio 77-PT. Apenas Agentes Nível 4 ou acima devem ter conhecimento do objeto no Sítio. Testes devem ser pré-aprovados pelo diretor do Sítio-77-PT e ao menos um Agente Nível 4 ou superior, que deve acompanhar todos os procedimentos. Testes descontinuados. Todos os funcionários presentes no Sítio-77-PT que saibam da existência de SCP-177-PT devem evitar a todo custo que SCP-004-PT-1 tenha conhecimento do objeto. Em caso de quebra de contenção ou caso SCP-004-PT-1 venha a saber da existência e contenção de SCP-177-PT, deve-se administrar um amnéstico Classe A com caráter de urgência no objeto.
+Descrição: SCP-177-PT é um relógio da marca █████ ████████ com ponteiros analógicos. O objeto está com o cristal frontal trincado e sua tampa posterior parece ter sido afixada com alguma variação de super-cola, por se apresentar relativamente móvel e de colocação frágil. Em estado dormente, o objeto não possui efeitos anômalos. O efeito foi constatado depois do Agente ███████ encontrar o relógio em repouso sobre uma rocha durante suas férias na praia de ████ ████, São Paulo. Após colocar o objeto em seu pulso, o agente começou a retornar no tempo, sempre para 10 minutos antes do momento em que havia interagido inicialmente com o relógio. A cada vez que o tempo passava novamente, o agente retornava, e após repetir o mesmo período sete (7) vezes e constatar a anomalia, o Agente ███████ retirou o objeto de seu pulso e trouxe-o para a Fundação para análise.
+Testes subsequentes (relatados abaixo no documento Arq. Experimentos T-103789-OC721/177-PT) demonstraram que o objeto aparentemente encontra-se com defeito, não podendo ser usado de forma confiável por trazer resultados inconsistentes e ocasionalmente perigosos. A troca de baterias e recolocação das peças internas não fizeram com que SCP-177-PT voltasse a funcionar, e substituições de peças impediram que a anomalia fosse constatada. Sendo assim, a utilização do objeto para interesses da Fundação foi indefinidamente desconsiderada.
+Por conta de empregados Classe D não serem confiáveis para testes, visto que poderiam voltar a um momento em que o Sítio não esteja no local atual ou em que possam fugir, os testes foram realizados com funcionários Nível 2 até o último experimento realizado em 25/09/200█, cujo resultado ocasionou na suspensão indefinida de testes futuros. O objeto deve portanto permanecer contido e sem uso por qualquer pessoa da Fundação.
+
+Arq. Experimentos T-103789-OC721/177-PT
+
+Ocultar arquivo de experimentos
+
+Testes a seguir realizados com funcionários Nível 2 trocando as posições do ponteiro do relógio e posteriormente pressionando o botão lateral de ajuste. Formato:
+Cobaia: Sexo, idade, peso
+Posição do ponteiro: X horas e X minutos
+Resultado: tempo de regresso ou avanço, sensação da viagem
+Data ao desaparecer:
+Data ao retornar:
+
+Cobaia: Sexo masculino, 28 anos, 76 kg
+Posição do ponteiro: 7 horas e 30 minutos
+Resultado: Funcionário retornou 5 horas no tempo, encontrando o pesquisador ██████ aos beijos com a funcionária Nível 2 ██████████ na sala de monitoramento onde o teste seria conduzido. Após bater na janela, o pesquisador percebeu a presença do rapaz e registrou as devidas anotações, pressupondo que a cobaia havia retornado no tempo. Horários de desaparecimento e reaparecimento registrados. Cobaia não relatou mal estar ou tontura devido à viagem.
+Data ao desaparecer: 12/08/200█ 17:42:17
+Data ao retornar: 12/08/200█ 12:42:17
+Cobaia: Sexo feminino, 21 anos, 48 kg
+Posição do ponteiro: 11 horas e 55 minutos
+Resultado: Funcionária desapareceu e reapareceu na sala de testes após duas semanas, desidratada e desnutrida, e foi encontrada desacordada após observação das câmeras da sala. Em entrevista, relatou que sentia ter permanecido cerca de 10 horas sem conseguir enxergar, mexendo-se sem sair do lugar.
+Data ao desaparecer: 15/08/200█ 13:20:57
+Data ao retornar: 29/08/200█ 13:20:57
+Cobaia: Sexo feminino, 32 anos, 65 kg
+Posição do ponteiro: 6 horas
+Resultado: Funcionária desapareceu por 3 dias, 14 horas e 29 minutos. A mesma retornou exasperada, gritando em posição fetal no chão da sala de testes. Em entrevista, relatou que apareceu em uma selva cerrada, ouviu variadas vocalizações de animais de grande porte - segundo a funcionária, "Certeza que eram dinossauros" - e não havia qualquer sinal de civilização. O uso do objeto no horário inicial definido não produziu resultados positivos, então a funcionária alterou a posição dos ponteiros para 12 horas, ao passo em que retornou para o tempo presente.
+Data ao desaparecer: 12/09/200█ 15:20:58
+Data ao retornar: 16/09/200█ 05:49:15
+Cobaia: Sexo masculino, 27 anos, 85 kg
+Posição do ponteiro: 12 horas
+Resultado: Funcionário não retornou de primeiro momento. Como o objeto desapareceu junto com o mesmo, testes foram descontinuados e SCP-177-PT foi considerado perdido. Após 3 anos, 2 meses e 3 dias, o cadáver do funcionário reapareceu na sala de testes com múltiplas lacerações por todo o corpo, a parte inferior da mandíbula removida e o sistema [DADOS EXPURGADOS] dilacerado. SCP-177-PT se apresentava no mesmo estado de quando constatou-se o desaparecimento da cobaia. Testes suspensos.
+Data ao desaparecer: 25/09/200█ 10:23:47
+Data ao retornar: 28/11/201█ 18:03:01
+
+
+
+
+Nota do diretor do Sítio: temos motivos para acreditar que este objeto esteja relacionado à organização do agente com quem SCP-004-PT-1 se relacionava. Todas as medidas cabíveis para impedir que SCP-004-PT-1 tome conhecimento deste objeto devem ser empregadas.
+
+
+« SCP-176-PT | SCP-177-PT | SCP-178-PT »
+
+
+
+                    

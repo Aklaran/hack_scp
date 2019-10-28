@@ -1,0 +1,46 @@
+
+                        
+
+rating: +2+–x
+Item #: SCP-034-DE
+Object Class: Keter
+Special Containment Procedures: SCP-034-DE is installed in a hazardous substance room for liquids, steam, and aerosols with a size of 3×3×2.5 m (LWH), and outfitted with a air- and watertight safety-door class 3-AF. Located next to the main room is a control room. The main room can only be accessed through an anteroom which is also equipped as a hazardous substance room, and in which the air-conditioning systems, water supply, and a drying oven are installed. Surveillance cameras are installed in all four corners of the main- and anteroom.
+Air-conditioning and water supply are forming a closed system. Condensed water from the air is to be added to the water supply. The humidity is to be held at < 30% outside of tests. Wet spots are to be removed with customary utensils; rags are to be wrung out into the drain of SCP-034-DE and to be dried in the anteroom. All filters of air- and water conditioning, as well as all dismantled wearing parts, are to be dried in the drying oven in the anteroom, before they may be brought out of SCP-034-DE's cell. Maintenance and cleaning works are only be performed by qualified personnel. These are to be excluded from dangerous work, to always have qualified personnel at disposal.
+As of Incident #034-DE-4, the control room is to be occupied by minimum three (3) personnel who are to constantly check the camera feeds for anomalies. The control room itself is under surveillance by another camera. Surveillance personnel is supported by software recognizing even small changes in the feeds. All staff ordered with surveillance must be at least three hours awake and have to report unfit for duty should they feel tired. At no time there may be less than two (2) individuals in the control room. In case of a software failure, additional personnel is to be called in.
+Camera lenses and lighting covers as well as all surfaces in the main- and the anteroom, except the mirror, are heatable and coated with a hydrophobic coating, so they cannot be steamed up. In the control room, mobile phones, eyeglasses, watches and other objects that can be mirroring or steam up are not allowed. All monitors are equipped with a dull case and screen. Outside of tests, there may never be less than two (2) individuals at the same time in the main- and anteroom.
+The main room is furnished like an average German bathroom of a single person. For tests, it is to be equipped with cosmetics and hygiene products according to the gender and haircut of the testing person. All consumer products (shampoo, bath additive, toilet paper etc.) that are used up to 90% are to be replaced and the used products are to be burned as class E hazardous material after extensive drying. The mirror above the sink is demountable, so it can be removed for tests.
+Description: SCP-034-DE-1 is a bathtub with shower faucet and a foldable glass screen from 199█. The effect of SCP-034-DE-1 only occurs when a single person (relationship-wise) above the age of 15 takes a shower in it. Children or individuals in a relationship do not trigger the effect. If the person takes a bath or another person is present, the effect also is not triggered. The effect occurs most often when the testing person has just awoken and still is drowsy. The average chance of occurrence of the effect (based on all tests so far) was at 24%.
+The effect sets in, once the glass screen has fully steamed up from the inside and/or the outside. The showering subject begins feeling anxious and watched, beyond being watched naked by cameras. The effect intensifies once the subject has to close their eyes to wet their hair. When the subject has shampooed their hair starts rinsing them, a faint rustling can be heard from the other side of the screen, which has been localized ca. 5 cm in front of the glass screen. As soon as the subject opens their eyes a humanoid shadow (presumably from SCP-034-DE-2) can be seen through the steamed up screen for 0.5 s. The phenomenon can also be perceived through the cameras but only from the inside of the cabin. Not all subjects get aware of the shadow. In case the subject looks behind the screen, there is nothing to be seen. Subjects who continue to shower do this with open eyes as possible. During continued showering, no further anomalies occur.
+During toweling, shooing shadows can be seen on the steamed up mirror, whether or not the subject is looking directly at the mirror. If the subject becomes aware of such a shadow and looks in the mirror, a shadowy silhouette (SCP-034-DE-2) appears behind them, in size and figure of the subject, which seems to reach out for the subject. If the subject turns around to the position where SCP-034-DE-2 would be and seems to be seeing an entity which is not visible on surveillance feeds. About 30% sustain a cardiac infarction, leading to immediate death. On the other 70% deep wounds appear on the face, arms, front torso and genitalia with a rate of ca. 1.4 wounds/s. The subjects bleed out in a minimum time.
+If another person enters the room at any time during the test, the effects end instantly.
+
+[+] Protocol of Incident #034-DE-4 (Clearance level 3/034-DE required)
+
+[-] Protocol of Incident #034-DE-3 (Access granted)
+
+
+< Begin of protocol >
+Dr. Kuhn: This is Dr. Tobias Kuhn, it is the ██-██-20██. I am now questioning level 2 Agent Jonas Burowitz regarding Incident #034-DE-3.
+Dr. Kuhn: Agent Burowitz, please repeat what you have told me earlier in detail and in chronologic order. You know that the difference between Keter and Safe can be small details. For the protocol, at the time in question, the air conditioning of the facility was malfunctioning, leading to a significant rise of humidity in the whole complex. Please, Agent Burowitz…
+Burowitz: Ok. So Martin and I were…
+Dr. Kuhn: For the protocol, he is referring to Agent Martin Wilms.
+Burowitz: Uh, yes. So Agent Wilms and I were commissioned for surveillance of 34. Then in the anteroom a small spurt of water leaked from one of the valves. I was leaving the room to tell maintenance, who were just a few rooms down the hallway.
+Dr. Kuhn: Why did you not use the phone?
+Burowitz: Well, they were just next door so I thought I could just go there, after all, it was just a minor damage.
+Dr. Kuhn: I see. How long did you leave Wilms alone?
+Burowitz: A few minutes… maybe ten. If we just hadn't been chatting so long…
+Dr. Kuhn: What happened when you came back to the control room?
+Burowitz: Martin was sitting in his chair as if nothing had happened but everything was full of blood. I must have screamed because two guardsmen rushed in. They turned him around, it had cut his throat! It has taken him, oh god if I just had not left…
+Dr. Kuhn: “It”, you mean SCP-034-DE-2? What gives you that idea?
+< Agent Burowitz needs a moment to recover >
+Burowitz: All monitors were steamed up, the air was much more humid than before as if somebody had taken a shower, and it … it was standing in the anteroom, it was full of steam and therein was standing this shadow. And… I could swear it looked like Martin.
+< End of protocol >
+Note: Analysis of the defective valve did not lead to an explanation for the leakage. Following this incident, all screens had been equipped with a water repelling surface, and the two-man-rule has been established.
+According to video analysis the shadow standing in the anteroom after this incident had the size and figure of Agent Wilms.
+
+
+
+
+Addendum #034-DE-A1: Material tests on SCP-034-DE-1 did not show any physical or chemical anomalies, though the effect is transferable when parts of SCP-035-DE-1 are installed into another bathtub or into a shower faucet in combination with another bathtub, which then shows this effect within 72 hours as well. As of yet ██ instances of SCP-034-DE-1 have been discovered and, safe for the instance described above, have been destroyed by melting down. It must be assumed that more yet unknown instances of SCP-034-DE-1 exist.
+
+                    

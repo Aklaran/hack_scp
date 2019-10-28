@@ -1,0 +1,123 @@
+
+                        
+
+rating: +6+–x
+
+
+SCP-060-FR at the place of discovery close to the town of [DATA EXPUNGED], Canada.
+
+
+Item #: SCP-060-FR
+Threat Level: Orange ●
+Object Class: Euclid
+Special Containment Procedures: SCP-060-FR must be contained inside a modified Standard Humanoid Containment Chamber in Containment Unit-04, Sector-E8 of Armed Research and Containment Area-Avanaa. The cell must not possess any windows or ventilation ducts and must be hermetically sealed. In addition, it must remain permanently illuminated and its temperature must be maintained above twenty-five (25) degrees Celsius at all times. The sole entrance point of the cell is to be sealed with a reinforced steel door, the inwardly facing side of which must be covered by an electrum1 plate five (5) centimetres thick.
+A minimum of two (2) guards armed with M2 flamethrowers must be present in the vicinity of SCP-060-FR's containment chamber at all times. Any and all instances of SCP-060-FR-1 and SCP-060-FR-2 must immediately be destroyed with fire and their remains disposed of using the incinerator specially provided for this purpose.
+Under no circumstances may the remains of any living being be allowed to come within a twenty (20) metres radius of SCP-060-FR.2
+Following Incident 060-EV-1, a fifteen (15) metres long airlock is to be fitted to the entrance to SCP-060-FR's containment chamber, with the aim of decreasing the risk of further containment breaches. One (1) Dragon-Class Robotic Combat Unit must always be present inside the airlock. This Robotic Combat Unit is to receive maintenance once per week and be replaced if necessary.
+A microphone connected to Guard Post-E8-04 has been installed inside the chamber.
+
+The chanting that can be heard coming from inside SCP-060-FR's containment chamber is to be considered perfectly normal. Should this stop, it means that the entity has either managed to escape or that an EV-060-α Event is imminent. - Dr. Reid
+
+Description: SCP-060-FR is a humanoid entity, measuring 1.75 metre, covered in a black monk's habit made from an unknown fabric with a "foggy" consistency. As of now, it is impossible to distinguish its face due to the black veil it constantly covers itself with. The entity also wears a pair of gauntlets and a pair of boots, both made from an unknown metal. Initial tests3 performed after its capture have made it possible to determine that SCP-060-FR does indeed possess a physical body, despite not displaying any vital signs.
+SCP-060-FR possesses the ability to alter the temperature of air at will to anywhere from zero (0) to -2██ degrees Celsius within a five (5) metres radius around itself. It has also been observed that SCP-060-FR possesses the ability to worm its way through any type of aperture, no matter the height or width thereof. It's important to note that the entity's control of these two abilities is significantly diminished if the ambient temperature exceeds twenty-five (25) degrees Celsius.
+Gold and silver are proven to have a strong negative effect upon SCP-060-FR, which is unable to approach less that ██ metres away from anything containing between ██ and ██ percent of any of these two metals without [REDACTED].
+The entity's primary anomalous ability manifests whenever the remains of a living entity4 occupies a space less than twenty (20) metres from it. When these conditions are met, SCP-060-FR launches five (5) small chains at the remains, attaching them to the corpse's head and limbs. From this point on, the remains are designated SCP-060-FR-1. The instant the chains have embedded themselves, SCP-060-FR is able to control SCP-060-FR-1 like a puppet up until the instance has been completely destroyed. The maximum number of corpses that SCP-060-FR is able to control simultaneously is currently unknown. Notably, instances of SCP-060-FR-1 display the same weakness to gold and silver as the prime entity.
+The best way to repulse SCP-060-FR and destroy SCP-060-FR-1 instances is by flame. When any other type of damage is inflicted upon them, instances of SCP-060-FR-1 become [REDACTED].
+Note: Ever since it was contained, on [REDACTED], SCP-060-FR has been sitting in a Burmese position, ceaselessly chanting in Latin. Perhaps it has resigned itself to its fate? - Dr. Reid
+Transcript of chant:
+
+Latin lyrics:
+Audite vocem meam
+quia repleta est malis anima mea et vita mea in inferno adpropinquavit
+Aestimatus sum cum descendentibus in lacum
+Furor est infinitum et aeternum
+inter mortuos liber sicut vulnerati dormientes in sepulchris
+Inter in conspectu tuo oratio mea inclina aurem tuam ad precem meam
+Praecipitate inimicis meis in lacum tolle vita et anima eorum
+Sanguis eorum et desperatio eorum me dimittere ex claustra meum
+Quod eorum timore et dolorem augeret mihi potestatem
+Effunde super eos indignationem tuam et ira furoris tui conprehendat eos
+Fiat habitatio eorum deserta et in tabernaculis eorum non sit qui inhabitet
+Vos autem estis tibi audisti
+Venite ad me et devoratum peccatores
+[SCP-060-FR repeats the chant.]
+
+English translation:
+Hear my voice
+for my soul is replete with evil, and my life soon to come upon the Gates of Hell
+Counted am I among those descending into the pit
+Fury is infinite and eternal
+among the dead, like the slain sleeping in their graves
+As I pray to thee, incline thine ear unto my cry
+Cast mine enemies into the pit, take their life and soul
+That their blood and their despair free me from my chains
+And their fear and pain empower me
+Shower them with your anger and make known unto them your furious rage
+Make their dwellings desolate and their tents uninhabited
+Now have you heard my voice
+Come to me and devour the sinful
+[SCP-060-FR repeats the chant]
+
+
++ Level 3 authorization required
+
+- Access authorized
+
+EV-060-α Event: An EV-060-α Event is triggered only when SCP-060-FR stops chanting. The frequency of these events may vary from anywhere between a few minutes up to ██ years. Once the entity has ceased chanting, a number of up to as many as [REDACTED] instances of SCP-060-FR-2 will emerge from the ground5. The instant they have fully emerged from the ground, the instances will proceed to track down any and all human beings they can detect, all according to SCP-060-FR's directions.
+Instances of SCP-060-FR-2 are composed of a more or less random assembly of flesh, limbs and bone sewn together. On each instance, one (1) limb has been replaced with a rusty metal blade of variable size and appearance. Observations have revealed that the more time that has elapsed between two EV-060-α Events, the more instances of SCP-060-FR-2 will spawn.
+SCP-060-FR-2 instances remain unaffected by gold and silver, as opposed to SCP-060-FR and SCP-060-FR-1, but still share their weakness to fire.
+Report of Incident 060-EV-01:
+
+Interviewee: Agent C████
+Interviewer: Dr. Cyr, Sector-E8 Psychologist
+Foreword: Testimony of Agent C████, the sole survivor among the guards stationed in Containment Unit-04, Sector-E8, in the wake of Incident 060-EV-01.
+
+<Recording starts>
+Dr. Cyr: Good-
+Agent C████: Please! Just… shut up about [CENSORED] for a bit, okay? I've no [CENSORED] reason to be [CENSORED]! You know perfectly well what went down [CENSORED]!
+[Agent C████ breaks down and begins to sob.]
+Dr. Cyr: Actually, no, we don't know what happened here. So, please, collect yourself and explain it me so that it doesn't have to happen again.
+[Agent C████ lets out a sigh and appears to calm down.]
+Agent C████: Do you really want to know what went down there?
+[Agent C████ stops and stares blankly.]
+Agent C████: It was about O-fifteenhundred hours (15:00)… Just like any other day, I was at my post, close to SCP-060-FR's chamber, together with Agent F███████, and both of us were carrying flamethrowers.
+Dr. Cyr: Very good, please continue.
+Agent C████: It was at this moment that we noticed the silence. It did what? For all the ██ years it had been locked up in there it had been mumbling the same [CENSORED] text over and over. Shortly, just a few seconds later, the mood suddenly became really oppressive and… it was understood that the ground had cracked in several places inside the chamber. F███████ approached the chamber door… And it just flew open with a bang, and then I saw…
+Dr. Cyr: Yes? What did you see?
+Agent C████: I… I saw a… something that looked like… it was sewed together from dozens of human corpses. The thing easily measured three metres tall and two metres wide. One of its eighteen [CENSORED] hands had been replaced by some sort of rusty metal blade. F███████ tried to incinerate it with his flamethrower but… it didn't work…
+Dr. Cyr: What do you mean? The fire didn't do anything?
+Agent C████: No. He just didn't have any time to pull the trigger. This thing, it… it… it cut him… in… in… in half.
+[Agent C████ begins to weep.]
+Dr. Cyr: Please, calm yourself, and tell me what happen afterwards.
+[Agent C████ calms down and looks Dr. Cyr straight in the eyes.]
+Agent C████: Luckily, I was much quicker on the trigger and managed to reduce that thing to cinders and… that's when I saw… he'd stood up in the middle of his chamber and still hadn't tried to escape. I couldn't see his face, but… I'm sure he was looking at me and that he had a [CENSORED] smile on his face. Doctor… I'm sure he was having fun… that he was feeling some bit of sadistic joy… He… He… He…
+[Agent C████ takes a deep breath and sighs.]
+Agent C███: Suddenly, the atmosphere became even more oppressive and the ground opened up again. Dozens of… no, hundreds of those… those abominations came out of the ground. I bloody well tried to fry them but… then I noticed my flamethrower had been split in half and that one of those things was less than a metre from me. I managed to toss the M2 at him and then I ran toward the guard post and…
+[Agent C████ suddenly begins to shake and loses focus.]
+Dr. Cyr: Mister C████? Are you alright? Do you hear me? Mist-
+[Agent C████ begins speaking in an apathetic voice.]
+Agent C████: I saw… his veil… he… lifted it…
+Dr. Cyr: Oh! Now that is indeed interesting. What did you see? What did its face look like?
+Agent C████: I saw… Blackness… That absolute darkness, stretched all the way out till life's ruin… That stifling murkiness… I saw death and despair… The dark… The obscurity… The death… The despair… The fear… My fears… Your fears… Our fears… Black… Murk… Darkness… The hunger… His hunger… Their hunger… Our end… The end of all life… Blackness… Darkness… Obscurity… Murky… Night… Death… My death… Your death… Our death… Black… Black… Black…
+[Agent C████ loses consciousness and blood begins to pour from his eyes and mouth.]
+<Recording ends>
+
+Closing statement: All instances of SCP-060-FR-1 and SCP-060-FR-2 were destroyed and SCP-060-FR was successfully recontained back inside its chamber. Containment procedures have been revised to avoid any further containment breaches of this magnitude. Shortly after his encounter with Dr. Cyr, the mental health of Agent C████ rapidly deteriorated and he was transferred to [REDACTED] psychiatric hospital. The possibility of SCP-060-FR being capable of inducing insanity in its victims is currently undergoing research.
+
+
+
+
+Addendum 060-FR-01-1: Following the experiences gained from Experiments 060-01-1-B2 and -B3, it is henceforth officially forbidden for SCP-060-FR to come into contact with SCP-008 or any personnel infected with SCP-008.
+Addendum 060-FR-01-2: Is it henceforth forbidden to allow for SCP-060-FR to come into contact with any entity capable of reanimating deceased lifeforms or any lifeform thus reanimated by any such entity.
+Addendum 060-FR-02-1: Requesting reclassification to Keter. - Dr. Reid
+Addendum 060-FR-02-2: Request for reclassification denied with regards to the efficacy of the updated special containment procedures. - O5-█
+
+Footnotes
+1. An alloy of gold and silver.
+2. This also includes anything above or below the entity.
+3. Conducted using X-rays and scanners to minimize the risk of death due to hypothermia or thermal shock.
+4. Even if it is a mere skeleton.
+5. Irrespective of composition, thickness or whatever is underneath.
+
+
+                    

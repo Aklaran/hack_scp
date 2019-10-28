@@ -1,0 +1,69 @@
+
+                        
+
+voto: +16+–x
+
+
+SCP-017-IT
+
+
+Elemento #: SCP-017-IT
+Classe dell'Oggetto: Safe
+Procedure Speciali di Contenimento: SCP-017-IT deve essere costantemente collegato ad un PC dotato di porta USB 3.0 e con sistema operativo in grado di eseguire software per la lettura di file .txt In nessun caso sarà consentito di introdurre nella stanza di contenimento di SCP-017-IT liquidi, oggetti magnetici o qualsiasi oggetto in grado di danneggiare apparecchiature elettroniche.
+Descrizione: SCP-017-IT è una chiavetta USB marca ████████ della capacità di 16 GB.
+Contiene un file denominato log.txt e una serie imprecisata di cartelle e file di vario genere; tutti i file sono accessibili senza particolari problemi, in sola lettura. Tentativi di cancellazione o modifica dei file si rivelano impossibili, dando origine a messaggi di errore di controllo ridondanza del ciclo.
+L'inserimento di nuovi file è invece possibile, ma una volta scritti questi avranno lo stesso comportamento dei file già presenti.
+SCP-017-IT provvederà in modo senziente alla catalogazione dei nuovi file secondo suoi criteri personali (vedi addendum 017-IT-1); altresì ogni nuovo file comporterà la creazione automatica di nuovo testo all'interno del file log.txt, che spiega le motivazioni della catalogazione.
+Alla data 28/01/2016 il file log.txt ha una dimensione di 7 GB, in continuo aumento.
+
+Addendum IT-017-1
+Esperimento 017-A
+Sono stati copiati su SCP-017-IT, nella cartella principale, tre file in formato jpg; la foto di un gatto, la foto di un cane, la foto di una modella.
+I file sono stati automaticamente spostati in tre separate cartelle "gatti", "cani" e "donne".
+Il file log.txt si è aggiornato automaticamente con l'aggiunta di questa riga di testo:
+
+Cani e gatti non vanno molto d'accordo, meglio tenerli separati. Questa modella è molto bella!
+
+Esperimento 017-B:
+Inserito in SCP-017-IT, nella cartella principale, un file jpg con la foto di un gomitolo di lana.
+Il file viene automaticamente spostato nella cartella "gatti".
+Il file log.txt riporta questa aggiunta:
+
+Finalmente Felix ha qualcosa con cui giocare! Si potrebbe avere un osso per Fido? Grazie.
+
+Esperimento 017-C:
+Il file fido.jpg viene spostato dalla cartella "cani" alla cartella "gatti"
+Il file viene automaticamente spostato nuovamente nella cartella "cani"; la cartella "gatti" si presenta ora vuota, ad eccezione del file raffigurante il gomitolo di lana inserito precedentemente.
+Il file log.txt riporta questa aggiunta:
+
+Era necessaria tanta cattiveria? Se volete comunicare sapete già come fare.
+
+Esperimento 017-D:
+Viene inserito nella cartella principale un file txt con una sola riga di testo.
+"Ci dispiace per i gatti."
+Il file log.txt riporta questa aggiunta:
+
+Accetto le vostre scuse. Ma niente più gatti, per favore. Mi ci affeziono e non sopporterei di perderli di nuovo. Gradirei altre donne, piuttosto!
+
+Esperimento 017-E:
+Vengono inserite nella cartella principale due file jpg, uno raffigurante l'attrice Cameron Diaz e uno raffigurante l'attore Leonardo Di Caprio.
+I due file vengono automaticamente inseriti in una cartella nominata "amore"
+Il file log.txt riporta questa aggiunta:
+
+Questi due sembrano fatti l'uno per l'altra!
+
+Nota: 9 mesi dopo l'esperimento 017-E, la cartella "amore" viene automaticamente rinominata in "casa Di Caprio" e contiene, oltre alle due immagini dell'esperimento, una terza immagine jpg raffigurante un neonato; il file log.txt presenta inoltre la seguente aggiunta:
+
+Il miracolo della vita è qualcosa che va oltre la mia comprensione.
+
+Ulteriori esperimenti andranno concordati con il Dr. Robin; nel frattempo il personale assegnato ad SCP-017-IT è autorizzato a consultare il file log.txt e ad acconsentire alle sue richieste.
+Addendum 017-B:
+Dr. ████████: SCP-017-IT sembra presentare una profonda conoscenza del mondo esterno; valutare la possibilità di caricare file riguardanti SCP in fase di studio, al fine di ottenere una "consulenza".
+Addendum 017-C:
+Alla data 28/01/2016 il file log.txt presenta questo aggiornamento:
+
+Inizio a rendermi conto che il mio spazio di archiviazione non durerà all'infinito. Megabyte dopo megabyte, il tempo della formattazione si avvicina.
+
+SCP-017-IT presentava in quel momento 122 MB di spazio libero.
+
+                    

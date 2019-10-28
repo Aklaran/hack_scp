@@ -1,0 +1,146 @@
+
+                        
+
+rating: +5+–x
+
+
+Photo of SCP-1475-JP taken while testing
+
+
+Item #: SCP-1475-JP
+Object Class: Safe
+Special Containment Procedures: SCP-1475-JP is to be stored in a Low Threat Level Items Storage Locker located in Site-81██. Personnel performing experiments with SCP-1475-JP must gain permission from two Level 3 or more personnel, and must perform experiments outdoors. Also, experimenters must request Site-██ in North Carolina, United States to have personnel wait at the specified location. It is restricted to use SCP-1475-JP-13 in experiments.
+Description: SCP-1475-JP is a wooden chair with the phrase “Welcome to America” carved into the backrest. Sample inspection revealed the material of the object as Cryptomeria japonica originated from Japan. 13 instances of SCP-1475-JP are currently contained by the Foundation.
+SCP-1475-JP activates when a human being (Referred to as SCP-1475-JP-A) takes a seat on the object. The SCP-1475-JP-A instance will claim that they are unable to stand up from SCP-1475-JP, and from that time becomes invulnerable to any interference that would cause harm. Objects worn by the instance also share this anomalous durability, to a lesser extent. Experiments to shoot SCP-1475-JP-A down caused the instance's clothing to be scorched, showing durability applied to clothing weaker than that of SCP-1475-JP-A.
+Approximately 3 minutes after the SCP-1475-A instance is created, the SCP-1475-JP instance will begin to vibrate1, before launching the instance of SCP-1475-JP-A at a speed of ████ km after approximately five seconds. Interestingly, no sonic boom has ever been observed in this process, despite the rapid acceleration induced on the subject. Upon collision with any obstacles in the path of the instance, SCP-1475-JP-A will instantly decelerate to a complete standstill, although no damage has been recorded to either the obstacle or the SCP-1475-JP-A instance. Observation with high-speed cameras revealed that SCP-1475-JP-A are launched in an upright position with a large flame appearing in front of the instance upon launch. The flame does not generate heat, does not spread to other objects, and ceases in about 5 seconds.
+SCP-1475-JP-A retains their consciousness midair, and it is possible to communicate via any means of telecommunication. Also, SCP-1745-JP-A begins to pass through objects 20 seconds after injection, and becomes transparent from sight. SCP-1475-JP-A in this state can be recognized only by GPS device signals and/or means of telecommunication. This state of transparency is canceled 20 seconds ahead of impact.
+Approximately 2 hours and 16 minutes after injection, all many of the SCP-1475-JP-As crash in an area of 20 m radius around ██████°N,██████°W, located in North Carolina, United States. After 3 seconds from impact, SCP-1475-JP-A loses its abnormal durability, and its sturdiness returns to that of a normal human. No craters are created at the moment of impact, and investigations are being made about where the vast amount of kinetic energy has gone to. The reason why North Carolina is the major impact site is yet undiscovered.
+SCP-1475-JP was discovered after the Foundation became aware of a strange report to the police describing a vagrant that disappeared with an explosion. As agents approached to the scene to find SCP-1475-JP, detailed anomalies of the subject was identified when Agent Asuka mistakenly took a seat on SCP-1475-JP unaware of its anomalies, resulting in Incident 1475-JP-01. Witnesses were administered with class B amnesiacs. Agent Asuka, who crashed into North Carolina, made an interview to the shocked vagrant, revealing facts that SCP-1475-JP was thrown away as oversized trash, and that SCP-1475-JP-A can pass through objects without being discovered. 12 other instances of SCP-1475-JP were found from garbage dumps all over the country. No incidents by SCP-1475-JP were found to occur except for those associated with its initial containment.
+
++ Experiment Log 1475-JP
+
+– hide block
+
+
+Experiment Log 1475-JP-1
+
+Date: 20██/██/██
+Subject: D-1475-01 (Japanese, Male, 32 years old)
+Object: SCP-1475-JP-01
+Method: Seat D-1475-01 on SCP-1475-JP-01 in a closed test room.
+Result: D-1475-01 became SCP-1475-JP-A, and was launched from SCP-1475-JP-01. After colliding with the test room walls and stopping for 20 seconds, instance passed through the wall and flew away. 2 hours and 24 minutes later in standard time of Japan, Site-██ of North Carolina reported that D-1475-01 was collected unharmed.
+
+Analysis: Obstacles in between seem to be passed through, allowing subject to be launched to North Carolina. Tests from now on would be performed outdoors.
+
+
+Experiment Log 1475-JP-2
+
+Date: 20██/██/██
+Subject: D-1475-02 (Japanese, Female, 25 years old)
+Object: SCP-1475-JP-02
+Method: Equip D-1475-02 with communication equipment and GPS device, and seat her on SCP-1475-JP-02 outdoors.
+Result: D-1475-02 became SCP-1475-JP-A, and was launched from SCP-1475-JP-02. GPS signals showed SCP-1475-JP-A fly across the Pacific Ocean at a speed of ████ km per hour. 2 hours and 18 minutes later in standard time of Japan after test started, Site-██ of North Carolina reported that D-1475-02 was collected unharmed.
+
+Analysis: Communication was successful, but no more information was gathered other than “I’m flying”, “It’s not cold”, and “It’s fast”. Since D-1475-02 was found near the location where D-1475-01 was found, it can be presumed that SCP-1475-JP groups launch subjects to the same area.
+
+
+Experiment Log 1475-JP-5
+
+Date: 20██/██/██
+Subject: D-1475-03 (American, Male, 35 years old)
+Object: SCP-1475-JP-03
+Method: Transport SCP-1475-JP-03 to Okinawa Pref. and seat D-1475-03 on SCP-1475-JP-03 outdoors.
+Result: D-1475-03 became SCP-1475-JP-A, and was launched from SCP-1475-JP-03. 2 hours and 15 minutes later in standard time of Japan, Site-██ of North Carolina reported that D-1475-03 was collected unharmed.
+Analysis: Altering place of injection doesn’t seem to affect period of flight. Race seems irrelevant to injection. Since all subjects were unharmed in the experiments so far, they will not be specifically described in subsequent experiments.
+
+Experiment Log 1475-JP-11
+
+Date: 20██/██/██
+Subject: D-1475-03
+Object: SCP-1475-JP-08
+Method: Transport SCP-1475-JP-08 to the impact area of North Carolina, equip D-1475-03 with communication equipment and GPS device, and seat him on SCP-1475-JP-08.
+Result: D-1475-03 became SCP-1475-JP-A, and was launched straight upwards. Interview via the communication equipment revealed that subject was staying still in midair, and GPS signals did not move much, either. 2 hours and 32 minutes later after test started, D-1475-03 crashed into SCP-1475-JP-08. Neither was harmed in contact, and D-1475-03 again became SCP-1475-JP-A, and was launched straight upwards. D-1475-03 was successfully retrieved 2 hours and 12 minutes later.
+Analysis: It became clear that the place of launch is trivial, that the airborne period is consistent, and that SCP-1475-JP in impact site will cause SCP-1475-JP-A to be injected again.
+
+Experiment Log 1475-JP-12
+
+Date: 20██/██/██
+Subject: D-1475-01 and various animals
+Object: SCP-1475-JP-01 - 10
+Method: Seat D-1475-01 on SCP-1475-JP-01, and place the animals on SCP-1475-JP-02 - 10. Each SCP-1475-JP has injected SCP-1475-JP-A at least once.
+Result: Only D-1475-01 became SCP-1475-JP-A, and was launched from SCP-1475-JP-01. Other animals didn’t show any changes. 2 hours and 34 minutes later in standard time of Japan after test started, Site-██ of North Carolina reported that D-1475-01 was successfully collected.
+Analysis: It became certain that non-human species fail to become SCP-1475-JP-A.
+
+Experiment Log 1475-JP-15
+
+Date: 20██/██/██
+Subject: D-1475-01, D-1475-03
+Object: SCP-1475-JP-06
+Method: Seat D-1475-01 and D-1475-03 on SCP-1475-JP-06 outdoors at once.
+Result: Both D-1475-01 and D-1475-03 became SCP-1475-JP-A, and was launched from SCP-1475-JP-06. High-speed camera analysis showed that 2 instances of SCP-1475-JP-A were flying back to back in an upright position. 1 hours and 56 minutes later in standard time of Japan after test started, Site-██ of North Carolina reported that D-1475-01 and D-1475-03 were successfully collected.
+Analysis: Test with 3 subjects came out in similar results, confirming that multiple subjects sitting in SCP-1475-JP result in all of them becoming SCP-1475-JP-A.
+
+Experiment Log 1475-JP-20
+
+Date: 20██/██/██
+Subject: D-1475-01 - 03
+Object: SCP-1475-JP-01 - 03
+Method: Seat D-1475-01 - 03 on SCP-1475-JP-01 - 03 outdoors simultaneously.
+Result: Each subject became SCP-1475-JP-A, and was launched from the corresponding SCP-1475-JP at almost the same timing. High-speed camera analysis showed that 3 instances of SCP-1475-JP-A were flying in a wedge-shaped formation. 2 hours and 06 minutes later in standard time of Japan after test started, Site-██ of North Carolina reported that all D-class personnel were successfully collected.
+Analysis: It has been found that seating persons in different SCP-1475-JP at once will result in subjects crashing into North Carolina at the same time. Its mechanism are currently on investigation.
+
+Experiment Log 1475-JP-25
+
+Date: 20██/██/██
+Subject: D-1475-04 (Japanese, Male, 33 years old)
+Object: SCP-1475-JP-13
+Method: Equip D-1475-04 with communication equipment and GPS device, and seat him on SCP-1475-JP-13 outdoors.
+Result: Incident 1475-JP-02 occurred. See Incident Log 1475-JP-02 for details.
+Analysis: See Incident Log 1475-JP-02.
+
+
+
+
+Incident Log 1475-JP-02: On ██/██/20██, while performing experiments to confirm the anomaly of the newly contained SCP-1475-JP-13 found in Foundation waste disposal, Incident 1475-JP-02 occurred. The following audio recordings were recorded in Incident 1475-JP-02.
+
+Subject: D-1475-04
+Representative: Researcher Komono
+Notes: Since the first half of the record is of low importance, the record starts after injection of D-1475-04 that became SCP-1475-JP-A. For convenience, D-1475-04 would be referred to by his D-class number.
+<Begin Log>
+D-1475-04: H-hey! What’s this, I’m f-fl-flying! Fast!
+Researcher Komono: D-1475-04, report your surroundings.
+D-1475-04: What do you mean by report!? I can only see the sea! It’s high! It’s fast! I can’t move!
+Researcher Komono: Then keep waiting until……
+D-1475-04: [Collision sound]Wow, something hit me. A bird or something…?
+Researcher Komono: The 20 seconds…… has not passed. Well, did the collision affect you in……. What? The speed of the GPS signal dropped?
+D-1475-04: Oh, I got something off in the clash earlier. Was it the GPS device?
+Researcher Komono: ……Yes. It is a slightly unexpected situation, but continue with the flight. Foundation personnel are waiting at the impact site.
+D-1475-04: Wait, did you say “impact” right now!? Hey, tell me what’s going to happen!
+[Conversation of little importance omitted for two hours]
+D-1475-04: [Crashing sound]Owwch! That killed me…… not? Where is it here?
+Researcher Komono: It’s North Carolina of the United States. Make contact with the Foundation personnel nearby and……
+D-1475-04: There’s nobody around.
+Researcher Komono: Is it true? But it can’t be……
+D-1475-04: No, there’s no one here. Not a sight.
+Researcher Komono: ……D-1475-04, explore the vicinity for a while. Agent Asuka, send an emergency telegram to Site-██ immediately!
+D-1475-04: H-hey, is anything wrong?
+Researcher Komono: No, we will head there to collect you. Is there anything nearby that stands out?
+D-1475-04: Um, there’s nothing… wait, I can see some lights over there! Should I go?
+Researcher Komono: Yes, definitely.
+[Silence for 20 minutes. Emergency telegram sent to Site-██ at this point]
+D-1475-04: Now I can see the light nearby! It was a streetlamp. I can see a big road around.
+Researcher Komono: Is there anything nearby that stands out now?
+D-1475-04: Not much, but there’s a sign! With place names written on it!
+Researcher Komono: Then approach and confirm your location.
+D-1475-04: Okay. [Silence] ……Hey! Are you nuts? You lied to me!
+Researcher Komono: What is the matter?
+D-1475-04: This isn’t North Carolina at all. It’s South Carolina!
+<End Log>
+
+D-1475-04 was then found in ██████, South Carolina, by personnel of Site-██. Additional experiments with SCP-1475-JP-13 affirmed that the object launches persons towards North Carolina 97% of all times, South Carolina 2%, and West Virginia 1%. Since there are possibilities of other impact locations, experiments with SCP-1475-JP-13 are now forbidden.
+
+Footnotes
+1. At this point, the SCP-1475-JP instance turns towards North Carolina, United States. The vibration has the effect to calibrate the course.
+
+
+                    

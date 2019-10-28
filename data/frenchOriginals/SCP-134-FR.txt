@@ -1,0 +1,146 @@
+
+                        
+
+
+
+
+
+
+notation: +50+–x
+
+
+
+
+
+
+notation: +50+–x
+
+
+
+
+
+
+
+
+
+Crédits
+
+
+Titre : SCP-134-FR - Lim(Un)=+∞
+Auteur : Ezcyo
+Date : 7 octobre 2014
+
+
+
+
+
+
+
+
+
+notation: +50+–x
+
+notation: +50+–x
+
+
+
+
+
+
+
+SCP-134-FR (photographié déplié par un drone).
+
+
+Objet # : SCP-134-FR
+Niveau de Menace : Jaune ●
+Classe : Sûr
+Procédures de Confinement Spéciales : SCP-134-FR doit être conservé dans un coffre fort à combinaison situé dans l'aile de stockage des objets mémétiques sûrs du Site-Kybian. Le code est accessible pour étude à tout membre du personnel de niveau 2 en ayant fait la demande au Dr Neko.
+Si l'objet est constaté disparu, il devra s'effectuer un recensement parmi le personnel présent sur le site et, si personnel manquant il y a, une fouille des zones auquel celui-ci a normalement accès. Si l'objet est retrouvé de cette manière, une faible dose d'amnésiques de classe B devra être administré au personnel concerné, qui pourra reprendre ses fonctions après un contrôle psychologique sur deux (2) semaines (si une addiction est encore démontrée, une nouvelle dose d'amnésique sera distribuée). Dans le cas où aucun personnel manquant n'est constaté, il sera demandé au personnel présent sur le site de se déplacer par groupes de deux personnes ou plus, jusqu'à retrouver l'objet. Si l'objet n'est pas retrouvé après deux (2) mois, les recherches pourront s'étendre à l'échelle internationale, en recherchant des cas correspondant aux effets de SCP-134-FR.
+Description : SCP-134-FR semble être un devoir de mathématiques rédigé par un certain Martin F, élève de terminale S, comme il est indiqué sur la copie. La feuille de papier utilisée est une copie double grand carreaux format A4, non anormale, qui peut-être achetée en grande surface. Hormis la question décrite ci-après, le devoir ne semble pas posséder de propriétés anormales.
+Le sujet de ce devoir est apparemment les suites numériques (déduit des exercices sur la feuille, le sujet original n'étant pas présent avec la copie). Il s'agit majoritairement d’exercices où il est demandé d'établir les limites de diverses suites numériques. A la question I)2)b), il est apparemment demandé de tracer un nuage de points correspondant à la suite $U_{n+1}=|-(2)^n*\sqrt{8U_{n}-2n}|$ avec U0=2 sur un intervalle libre et une échelle libre. Un graphique est présenté à la suite de cette question, avec pour échelle 1:1 sur l'axe des abscisses et 500:1 sur l'axe des ordonnées. Après la représentation du terme U6, le graphique est continué par un bout de papier d'imprimerie, fixé avec ce qui semble être de la colle (il est à noter que ce papier n'est pas détachable). Ce bout de papier est replié sur lui-même un nombre infini de fois, la longueur maximale ayant été dépliée étant de 9,4km (soit jusqu'à U940261). Les abscisses sont alors notées au bas de la feuille d'imprimerie. Il est à noter que l'épaisseur du papier plié ne varie pas et reste égale à environ deux (2) centimètres quel que soit le nombre de fois où le papier a été déplié.
+La vision de ce papier supplémentaire déclenche chez les sujets humains une irrépressible envie de déplier le papier, dans un "but mathématique", "afin de découvrir la limite de Un", "pour la science", selon leurs dires. Cet effet ne peut s'enclencher que chez un sujet humain à la fois, deux observateurs étant alors attirés tour à tour par l'objet, à un intervalle d'environ trente secondes. L'effet n'est pas immédiatement dangereux, le sujet pouvant, si il a les matières nécessaires à sa disposition, toujours s'alimenter correctement. Cependant, celui-ci refusera de s'éloigner trop longtemps de l'objet, ce qui pourra l’empêcher par exemple d'aller de nouveau acheter des vivres, ou de mener une vie sociale ou professionnelle.
+Aussi, le papier déroulé peut à un certain stade gêner les déplacements du sujet, voire le bloquer, ou même l'étouffer (ceci n'a été observé que chez le premier sujet, un professeur de mathématiques célibataire retrouvé chez lui en état d’inanition dont l'organisme manquait fortement d'oxygène à sa découverte par les agents de la Fondation. Il est par ailleurs la première personne connue à avoir expérimenté les effets de SCP-134-FR. Aucun Martin F ne fut trouvé parmi ses élèves actuels ou passés).
+Tests de sécurité relatifs à SCP-134-FR :
+
+Test 134-FR-A1 :
+Objectif : Repérer les effets exacts de l'objet sur les sujets humains.
+Résultat : Voir description ci-dessus.
+
+
+Test 134-FR-A2 :
+Objectif : Analyser les effets de l'objet sur plus d'une personne.
+Personnel utilisé : D-2108 et D-2329. Le Dr Neko supervise l'opération, assisté par le Pr Tio.
+Transcription audio du test :
+Indicatifs : D1 pour D-2108, D2 pour D-2329, S pour le Dr Neko, et A pour le Pr Tio.
+Début de la transcription :
+S : C'est bon, ils sont dans la salle. On va pouvoir ouvrir la boite.
+A : Ok. Je mets leur vocal.
+D1 : …fectoire du site, c'est vraiment dégoûtant. Et toi ?
+D2 : Fous-moi la paix, je suis suffisamment stressée comme ça, en rajoute pas …
+D1 : C'est que ça m'inquiète moi aussi.
+A : Ahem. Vous m'entendez ?
+D1 : Oui ?
+D2 : Ouais.
+S : Bonsoir vous deux. On va pouvoir y aller. Je précise une dernière fois que l'objet que vous allez voir n'est pas dangereux. Exécutez les ordres et tout ira bien.
+D2 : Allez.
+A : J'ouvre la boite.
+La boite contenant l'objet est ouverte. D-2108 s'approche pour observer le document. D-2329 le suit.
+D1 : Roooooh ! C'est vieux ces trucs ! Ça date du lycée ? Regarde !
+D2 : Ouais, c'est un truc sur les … les suites, ouais. Tiens, c'est quoi le papier qui dépasse, là ?
+S : Début de l'exposition.
+A : Noté.
+D2 : Hey, une suite $U_{n+1}=|-(2)^n*\sqrt{8U_{n}-2n}|$ avec U0=2 est représentée ici. Je me propose d'étudier sa limite.
+A : Ça y est, ça commence.
+D1 : Heu, ça va ? Tu parles … euh … bien, tout d'un coup …
+D2 : On va donc tracer les images par Un des points n appartenant à N de 0 à +∞. Nous avons U1, U2, U3.
+D1 : Putain, j'savais pas que tu étais aussi forte en maths.
+S : Elle commence à déplier. Oh attends, l'autre commence à bouger.
+D1 : Je me propose de t'assister dans la recherche de cette limite. Nous avons U10, U11 … Nous pouvons déjà conjecturer que la suite est strictement croissante pour tout n appartenant à N.
+D2 : Attends, quoi ?
+S : 2329, dite "Cupcake" si vous me comprenez.
+D2 : Mais vos gueules, il m'est arrivé quoi ?
+A : Elle n'est plus affectée, il me semble.
+S : [à D2 :] Mon avis aussi. Ne vous occupez pas de ça, 2329, continuez de regarder l'objet. [à Tio :] Note, ça a duré trente secondes. Maintenant, on dirait que c'est le tour de 2108.
+D1 : Pour n=56, on a Un=1.0384593717069*1034.
+D2 : Ah, d'accord. Pourquoi vous avez rien dit avant ? J'ai stressé pour rien. Pourquoi
+il déplie ce truc en déblatérant des chiffres, lui ?
+S : Plus tard, s'il-vous-plaît. Regardez l'objet.
+D2 : Hé, mais … Je vous en. La suite est toujours croissante jusqu'à n=100. Continuons de calculer les images de Un.
+D1 : Ouah, j'ai un blanc là …
+S : Vous avez déplié du papier.
+A : [à part :] Putain, les gars du nettoyage vont râler …
+S : Presque trente secondes, on va vérifier … On va se baser sur dix changements pour confirmer que trente est bien le temps d'intervalle.
+A : Ok.
+D2 : Trois-cent qua … qua … ?
+D1 : Pour la science et l'amour de l'arithmétique, nous continuons pour n=346. n=347, n=348, n=349.
+D2 : Aaaaaaaaaaaaaaaah. Aïe. Ma mâchoire me fait mal.
+A : Je crois qu'ils ont dépassé les résultats du test précédent.
+D2 : Par pitié, fermez-là.
+S : Allez, encore trois cycles chacun puis ça sera fini. On a toujours trente d'ailleurs.
+D1 : Tiens, y a plein de papier par terre. C'est nous deux, ça ?
+S : Oui. [à Tio :] Note que ça commence à recouvrir le sol.
+D1 : J'ai failli me prendre les pieds dedans. Au fait, vous comptez quoi ? Le nombre de mètres qu'on déroule chacun ?
+A : L'intervalle entre chaque échange.
+D1 : Bon, pas trop, quand mê. Mêêêê … Méééé …
+S : Ouf, on dirait qu'ils commencent à galérer à dire les nombres.
+[Les sujets semblent accélérer la vitesse de dépliage du papier]
+D2 : J'ai le hoquet.
+S : Encore trente secondes, d'ailleurs.
+D1 : Nous arrivons à U1555. La suite est toujours croissante. C'est beau.
+S : Tout compte fait, on va arrêter là. Toujours trente secondes, et le papier commence à se répandre de partout. Il faut penser qu'on doit réussir à isoler et replier le tout avec les bots, aussi.
+A : Ok. D-2329, refermez la boite, et mettez le sac présent sur le mur à votre droite sur la tête de D-2108.
+D2 : Bien. Pas trop tôt.
+Fin de transcription.
+Résultat : Trente secondes a été admis comme étant l'intervalle de temps entre
+chaque changement.
+
+Addendum #1 : À la dernière page de l'examen est écrit : "Monsieur, je tenais absolument à vous remercier pour cette année passée dans votre classe. Mon niveau n'étais certes pas brillant, mais vos constants encouragements, parfois teintés d'humour grinçant (je me rappelle très bien de votre "Il finira bientôt par tendre vers 0 également" sur le bulletin trimestriel, ainsi que de votre "a touché le fond, mais creuse encore", ou même de votre "se retourne de temps en temps … pour regarder le tableau"), m'ont fait persévérer. Je joins ce devoir à ceux de votre actuelle classe, désirant vous montrer mes progrès et un souvenir de votre pire élève. Je ne serais jamais arrivé là sans vous. Merci. Je vous souhaites donc de bonnes vacances, et vous dit au revoir.
+-Martin"
+Addendum #2 : Il a récemment été découvert que les mots "GET FCKD U CRAPY SCUMBAG" étaient écris à l'encre invisible en dessous de U7 sur le graphique. L'écriture concorde avec celle du message et du devoir.
+
+
+« SCP-133-FR | SCP-134-FR | SCP-135-FR »
+
+
+
+                    

@@ -1,0 +1,55 @@
+
+                        
+
+rating: +2+–x
+
+
+A picture of SCP-177-PT.
+
+
+Item #: SCP-177-PT
+Object Class: Safe
+Special Containment Procedures: SCP-177-PT must be contained inside a standard 30 x 30 x 30 cm cabinet that is passworded protected by a six-digit code known only by the Site Director of Site-77-PT. Only agents with Clearance Level 4 or above must be allowed to retain any knowledge of the item. Testes must be pre-approved by the Site Director, and an agent with Clearance Level 4, or superior must accompany the testing procedures at all times. Testes have been discontinued. All personnel present in Site-77-PT that know of SCP-177-PT's existence must avoid, at all costs, that SCP-004-PT-1 come into contact, or gain any information regarding the object. In lieu of a containment breach, or if 004-PT-1 happens to discover the existence of 004-PT, the anomalous individual must receive treatment with Class A amnestics urgently.
+Description: SCP-177-PT is a █████ ████████ brand wristwatch with analogic arms. The object presents its frontal crystal visor with a small crack, while its posterior lid seems to have been fixed with a variation of super-glue, presenting itself with a relative mobility, and fragile placement. In a "sleeping state" the object does not possess any anomalous effects. Its effect has been verified after the event in which Agent ███████ found the wristwatch resting over a rock during ███ vacation in the ████ ████, a beach located in São Paulo. After strapping the object around ███ wrist, the agent began lapsing in time, always 10 minutes before the moment which ███ had initially interacted with the wristwatch. In every occasion that the time had elapsed, the agent returned to that same point, and after a period of seven (7) repetitions, the agent verified the anomaly, denuding the item from ███ wrist, and bringing to the Foundation for analysis.
+Subsequent testing (reported beneath in the document Archived Experiments T-103789-OC721/177-PT) displayed that the object is apparently defective, as it cannot be used in a reliable manner due to the inconsistent, and occasionally dangerous results. The shifting, renewal, and replacement of batteries, and internal mechanical parts did not make SCP-177-PT work properly, and the replacement of the relevant parts impeded the anomaly from occurring. That way, the use of the object for Foundation-related interests has been indefinitely disregarded.
+Due to D-Class personnel not being trustworthy for conducting tests, as they may use the object to return to a moment in time in which the Site is not in the current location, or a moment in which they may take opportunity to escape, the tests have been performed with personnel with Clearance Level 2 up to the last experiment conducted in 25/09/200█, which its results causing the indefinite suspension of any future testing. The object must be kept contained, and must not be used by any Foundation personnel.
+
+Archived Experiments T-103789-OC721/177-PT
+
+Collapse the Archives.
+
+The following tests were conducted with Clearance Level 2 personnel, changing the positions from the arms of the clock before pressing the object's lateral "adjustment" button.
+Testing format:
+Subject: Gender, age, weight.
+Position of the arms: X hours and X minutes.
+Result: The time of regress, or advance in time; the feeling caused by the journey.
+Disappearance date:
+Reappearance date:
+
+Subject: Masculine, 28 years old, 76 kg
+Position of the arms: 7 hours and 30 minutes
+Result: Individual returned 5 hours in time, finding the Researcher ██████ osculating with Researcher ██████████ inside the monitoring room where the test would be conducted. After knocking against the window, the researcher finally noted the presence of the individual whom registered the relevant information regarding the experience, supposing that he had returned in time. Times of disappearance, and reappearance registered. The subject did not report uneasiness nor dizziness due to the journey.
+Reappearance date: 12/08/200█ 17:42:17
+Disappearance date: 12/08/200█ 12:42:17
+Subject: Female, 21 years old, 48 kg
+Position of the arms: 11 hours and 55 minutes
+Result: Personnel disappeared, and reappeared in the testing chambers after two weeks, dehydrated, and malnourished. She was found unconscious after observing the feed from the chamber's security cameras. During the interview, the subject reported that she remained ~10 hours blind, moving around without being able to go anywhere.
+Disappearance date: 15/08/200█ 13:20:57
+Reappearance date: 29/08/200█ 13:20:57
+Subject: Female, 32 years old, 65 kg
+Position of the arms: 6 hours
+Result: Personnel disappeared for 3 days, 14 hours, and 29 minutes. She returned exasperated, screaming whilst lying in a fetal position over the testing chamber's floor. In an interview, the individual reported that she appeared in a dense forest, hearing several vocalizations by gargantuan animals - according to the individual, "Those things were, without doubt, dinosaurs" - no signs of civilization were found. Using the object in the defined initial time did not produce any positive results, so the individual changed the position of the arms to 12 hours thus returning to the present time.
+Disappearance date: 12/09/200█ 15:20:58
+Reappearance date: 16/09/200█ 05:49:15
+Subject: Masculine, 27 years old, 85 kg
+Position of the arms: 12 hours
+Results: Personnel did not return at first. As the object disappeared with the subject, tests were discontinued, and SCP-177-PT was considered lost. After 3 years, 2 months, and 3 days, the corpse of the individual was found in the testing chambers with multiple lacerations across his whole body, the inferior part of his maxilla removed, and his [DATA EXPUNGED] completely torn apart. SCP-177-PT remained in the state prior to the subject's disappearance. Tests have been suspended.
+Disappearance date: 25/09/200█ 10:23:47
+Reappearance date: 28/11/201█ 18:03:01
+
+
+
+
+A note from the Site Director: We have motives to believe that this object is related to the organization that the agent who maintained contact with SCP-004-PT-1. Able measures to stop 004-PT-1 from gaining knowledge of 177-PT's existence must be employed.
+
+                    
